@@ -1,0 +1,46 @@
+.wrapper {
+    width: 300px;
+    height: 100%;
+    max-height: 100%;
+    overflow: hidden;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    border-right: 1px solid lightslategray;
+}
+
+.courseTitle{
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 15px;
+    border-bottom: 1px solid lightslategrey;
+}
+
+.courseSectionWrapper{
+    height: 100%;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding: 0 15px;
+
+}
+
+.courseSection{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px 0;
+}
+
+.couseSecionTitle{
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.CourseSectionContent{
+    margin-left: 5px;
+    display: flex;
+    flex-direction: column;
+}
+
+.CourseSectionContentNode{
+    padding: 10px 0;
+}

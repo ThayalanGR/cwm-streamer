@@ -1,0 +1,9 @@
+.videoPlayerContainer {
+    width: 50%;
+    height: auto;
+  }
+  
+  video {
+    width: 100%;
+    height: 100%;
+  }

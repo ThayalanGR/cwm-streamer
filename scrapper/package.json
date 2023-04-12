@@ -1,0 +1,21 @@
+{
+  "name": "cwm-streamer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "upload": "ts-node src/upload.ts"
+  },
+  "dependencies": {
+    "@octokit/rest": "^19.0.7",
+    "dotenv": "^16.0.3",
+    "mime-types": "^2.1.35",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "@types/mime-types": "^2.1.1",
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  }
+}
