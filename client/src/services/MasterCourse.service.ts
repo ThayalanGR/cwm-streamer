@@ -23,17 +23,33 @@ export default class MasterCourseService {
   }
 
   public getCourse(name: string): ICourse | undefined {
-    const courseName = this.getCourseURI(name, true);
+    const courseName = this.getEncodedString(name, true);
     return this.courses.find((course) => course.name === courseName);
   }
 
-  public getCourseURI(courseString: string, decode = false) {
+  public getEncodedString(
+    inputString: string | null | undefined,
+    decode = false
+  ) {
     try {
-      return decode ? decodeURI(courseString) : encodeURI(courseString);
+      if (!inputString) return "";
+      return decode ? decodeURI(inputString) : encodeURI(inputString);
     } catch (error) {
-      console.error("Malformed URI", error, courseString);
-      return courseString;
+      console.error("Malformed URI", error, inputString);
+      return inputString;
     }
+  }
+
+  public getContentPath(
+    courseName: string,
+    sectionName: string,
+    contentName: string
+  ) {
+    return `/course/${this.getEncodedString(
+      courseName
+    )}?section=${this.getEncodedString(
+      sectionName
+    )}&content=${this.getEncodedString(contentName)}`;
   }
 
   public getSanitizedString(str: string, reverse = false) {
@@ -52,6 +68,16 @@ export default class MasterCourseService {
     let result = process(str);
     result = process(result, true);
     return process(result);
+  }
+
+  public getDefaultContentPath(courseDetails?: ICourse) {
+    if (!courseDetails) return "/";
+
+    return this.getContentPath(
+      courseDetails.name,
+      courseDetails.sections[0].name,
+      courseDetails.sections[0].assets[0].name
+    );
   }
 
   private fetchCourses() {

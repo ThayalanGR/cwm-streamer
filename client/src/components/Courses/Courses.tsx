@@ -8,7 +8,7 @@ export default function Courses() {
   const courses = useMemo(() => masterCourseService.getAllCourses(), []);
 
   const getPath = (courseName: string) =>
-    `/course/${masterCourseService.getCourseURI(courseName)}`;
+    `/course/${masterCourseService.getEncodedString(courseName)}`;
 
   return (
     <div className={styles.wrapper}>

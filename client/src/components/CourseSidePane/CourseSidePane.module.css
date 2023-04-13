@@ -20,6 +20,7 @@
     overflow-y: scroll;
     overflow-x: hidden;
     padding: 0 15px;
+    scroll-behavior: smooth;
 
 }
 
@@ -36,11 +37,14 @@
 }
 
 .CourseSectionContent{
-    margin-left: 5px;
     display: flex;
     flex-direction: column;
 }
 
 .CourseSectionContentNode{
-    padding: 10px 0;
+    padding: 10px;
+}
+
+.CourseSectionContentNodeActive{
+    outline: 1px solid ;
 }

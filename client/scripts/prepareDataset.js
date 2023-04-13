@@ -1,8 +1,8 @@
 import fs from "fs";
 // read all json from the bucket
 
-const bucketDir = "../bucket";
-const masterDsPath = "./src/masterCourses.json";
+const bucketDir = "../scrapper/bucket";
+const masterDsPath = "./src/assets/masterCourses.json";
 
 function process() {
   const courses = [];
