@@ -80,6 +80,14 @@ export default class MasterCourseService {
     );
   }
 
+  public getAssetDisplayName(assetName: string) {
+    const sectionAssetSplitDelimitter = " -> ";
+    return assetName
+      .split(sectionAssetSplitDelimitter)
+      .at(-1)
+      ?.replace(/\d+- /g, "");
+  }
+
   private fetchCourses() {
     this.courses = masterCourses as ICourse[];
   }

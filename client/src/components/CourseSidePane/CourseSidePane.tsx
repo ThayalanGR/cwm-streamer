@@ -48,13 +48,18 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
 
   return (
     <div className={styles.wrapper}>
-      <div className={styles.courseTitle}>{courseDetails.name}</div>
+      <div className={styles.courseTitle}>
+        {courseDetails.name}&nbsp;(&nbsp;{courseDetails.sections.length}&nbsp;)
+      </div>
       <div className={styles.courseSectionWrapper}>
-        {courseDetails.sections.map((section) => (
+        {courseDetails.sections.map((section, sectionIndex) => (
           <div className={styles.courseSection} key={section.name}>
-            <div className={styles.couseSecionTitle}>{section.name}</div>
+            <div className={styles.couseSecionTitle}>
+              {sectionIndex + 1}.&nbsp;{section.name}&nbsp;(&nbsp;
+              {section.assets.length}&nbsp;)
+            </div>
             <div className={styles.CourseSectionContent}>
-              {section.assets.map((asset) => (
+              {section.assets.map((asset, contentIndex) => (
                 <Link
                   key={asset.name}
                   className={cn(styles.CourseSectionContentNode, {
@@ -67,7 +72,8 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
                     asset.name
                   )}
                 >
-                  {asset.name}
+                  {contentIndex + 1}.&nbsp;
+                  {masterCourseService.getAssetDisplayName(asset.name)}
                 </Link>
               ))}
             </div>

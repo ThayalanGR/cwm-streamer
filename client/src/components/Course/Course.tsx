@@ -34,7 +34,7 @@ export default function Course() {
   return (
     <div className={styles.wrapper}>
       <CourseSidePane courseDetails={courseDetails} />
-      {/* <pre>{JSON.stringify(courseDetails, null, 4)}</pre> */}
+      <pre>{JSON.stringify({ course, section, content }, null, 4)}</pre>
     </div>
   );
 }
