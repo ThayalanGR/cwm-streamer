@@ -80,12 +80,39 @@ export default class MasterCourseService {
     );
   }
 
-  public getAssetDisplayName(assetName: string) {
+  public getAssetDisplayName(assetName?: string) {
+    if (!assetName) return assetName;
     const sectionAssetSplitDelimitter = " -> ";
     return assetName
       .split(sectionAssetSplitDelimitter)
       .at(-1)
-      ?.replace(/\d+- /g, "");
+      ?.replace(/\d+-/g, "")
+      ?.replace(/_/g, " ")
+      ?.replace(".mp4", "")
+      ?.replace(".pdf", "")
+      ?.replace(".zip", "");
+  }
+
+  public getContent(props: {
+    course: string;
+    section: string;
+    content: string;
+  }): ICourse["sections"][0]["assets"][0] | undefined {
+    try {
+      const [course, section, content] = [
+        this.getEncodedString(props.course, true),
+        this.getEncodedString(props.section, true),
+        this.getEncodedString(props.content, true),
+      ];
+      return this.courses
+        .find((key) => key.name === course)
+        ?.sections?.find((key) => key.name === section)
+        ?.assets?.find((key) => key.name === content);
+    } catch (error) {
+      console.error(error);
+    }
+
+    return undefined;
   }
 
   private fetchCourses() {

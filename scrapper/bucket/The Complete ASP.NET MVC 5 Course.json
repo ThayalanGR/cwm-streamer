@@ -78,7 +78,8 @@
             "created_at": "2023-04-10T02:46:39Z",
             "updated_at": "2023-04-10T02:46:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eNRSo4RfQWyKyya3eIiX"
         },
         {
           "name": "Getting Started (25m) -> 2- MVC Architectural Pattern.mp4",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-10T02:46:51Z",
             "updated_at": "2023-04-10T02:46:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.2-.MVC.Architectural.Pattern.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/jVtvyMdQoe3ICQPMM8sg"
         },
         {
           "name": "Getting Started (25m) -> 3- Setting Up the Development Environment.mp4",
@@ -152,7 +154,8 @@
             "created_at": "2023-04-10T02:46:57Z",
             "updated_at": "2023-04-10T02:46:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.3-.Setting.Up.the.Development.Environment.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/CQvaKRkFSYiO2tEEdhNX"
         },
         {
           "name": "Getting Started (25m) -> 4- Your First ASP.NET MVC App.mp4",
@@ -189,7 +192,8 @@
             "created_at": "2023-04-10T02:47:23Z",
             "updated_at": "2023-04-10T02:47:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.4-.Your.First.ASP.NET.MVC.App.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6wVTqbMGSQO6PF6xntPi"
         },
         {
           "name": "Getting Started (25m) -> 5- MVC in Action.mp4",
@@ -226,7 +230,8 @@
             "created_at": "2023-04-10T02:48:01Z",
             "updated_at": "2023-04-10T02:48:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.5-.MVC.in.Action.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DOjZna4Smu6vKbgcmlNA"
         },
         {
           "name": "Getting Started (25m) -> 6- Adding a Theme.mp4",
@@ -263,7 +268,8 @@
             "created_at": "2023-04-10T02:48:09Z",
             "updated_at": "2023-04-10T02:48:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.6-.Adding.a.Theme.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FyhbdzLnTl1sdeWILHTe"
         },
         {
           "name": "Getting Started (25m) -> 7- Course Layout.mp4",
@@ -300,7 +306,8 @@
             "created_at": "2023-04-10T02:48:14Z",
             "updated_at": "2023-04-10T02:48:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.7-.Course.Layout.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/T4uKuKzoQnykGhpNOWVD"
         }
       ]
     },
@@ -342,7 +349,8 @@
             "created_at": "2023-04-10T02:48:24Z",
             "updated_at": "2023-04-10T02:48:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/u41rPV5sTLac8WNA4RDg"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 2- Action Results.mp4",
@@ -379,7 +387,8 @@
             "created_at": "2023-04-10T02:48:37Z",
             "updated_at": "2023-04-10T02:48:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.2-.Action.Results.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/hol5dqgSU2cEVGvujNyA"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 3- Action Parameters.mp4",
@@ -416,7 +425,8 @@
             "created_at": "2023-04-10T02:48:50Z",
             "updated_at": "2023-04-10T02:48:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.3-.Action.Parameters.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XqZcZmTRSjytIYnRSVwb"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 4- Convention Based Routes.mp4",
@@ -453,7 +463,8 @@
             "created_at": "2023-04-10T02:49:07Z",
             "updated_at": "2023-04-10T02:49:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.4-.Convention.Based.Routes.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8qxoTertTcCmmgT4Gfpr"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 5- Attribute Routing.mp4",
@@ -490,7 +501,8 @@
             "created_at": "2023-04-10T02:49:16Z",
             "updated_at": "2023-04-10T02:49:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.5-.Attribute.Routing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gJDPnB8KStiATvvUbE4k"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 6- Passing Data to Views.mp4",
@@ -527,7 +539,8 @@
             "created_at": "2023-04-10T02:49:26Z",
             "updated_at": "2023-04-10T02:49:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.6-.Passing.Data.to.Views.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PzJ3Fxn8TlKZYSHSqK4P"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 7- View Models.mp4",
@@ -564,7 +577,8 @@
             "created_at": "2023-04-10T02:49:38Z",
             "updated_at": "2023-04-10T02:49:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.7-.View.Models.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Yxgs2gMlRhNexmhIKkOw"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 8- Razor Syntax.mp4",
@@ -601,7 +615,8 @@
             "created_at": "2023-04-10T02:49:53Z",
             "updated_at": "2023-04-10T02:49:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.8-.Razor.Syntax.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3GUOGU4VSEytKSbBWCSZ"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 9- Partial Views.mp4",
@@ -638,7 +653,8 @@
             "created_at": "2023-04-10T02:50:10Z",
             "updated_at": "2023-04-10T02:50:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.9-.Partial.Views.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g8eucnQCTlaKgh3iuWPH"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 10- Cheat Sheet- ASP.NET MVC Fundamentals.pdf",
@@ -675,7 +691,8 @@
             "created_at": "2023-04-10T02:50:14Z",
             "updated_at": "2023-04-10T02:50:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.10-.Cheat.Sheet-.ASP.NET.MVC.Fundamentals.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2DQwj25USKGCNpXGG7OI"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 11- Exercise.mp4",
@@ -712,7 +729,8 @@
             "created_at": "2023-04-10T02:50:20Z",
             "updated_at": "2023-04-10T02:50:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.11-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/F5g6TGr4QmuzZCV96QZQ"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 12- Solution.mp4",
@@ -749,7 +767,8 @@
             "created_at": "2023-04-10T02:50:29Z",
             "updated_at": "2023-04-10T02:50:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.12-.Solution.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MAtgOtVTTRWxi5b4C0Vm"
         },
         {
           "name": "ASP.NET MVC Fundamentals (40m) -> 13- Summary.mp4",
@@ -786,7 +805,8 @@
             "created_at": "2023-04-10T02:50:34Z",
             "updated_at": "2023-04-10T02:50:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.13-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lyxebHxYQaSSjLiHn2DZ"
         }
       ]
     },
@@ -828,7 +848,8 @@
             "created_at": "2023-04-10T02:51:00Z",
             "updated_at": "2023-04-10T02:51:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FDcMhXmTYGORgASiGlY7"
         },
         {
           "name": "Working with Data (40m) -> 2- Entity Framework.mp4",
@@ -865,7 +886,8 @@
             "created_at": "2023-04-10T02:51:08Z",
             "updated_at": "2023-04-10T02:51:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.2-.Entity.Framework.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YdJxWsRQ56vXYmfzvkw2"
         },
         {
           "name": "Working with Data (40m) -> 3- Database-first vs Code-first.mp4",
@@ -902,7 +924,8 @@
             "created_at": "2023-04-10T02:51:15Z",
             "updated_at": "2023-04-10T02:51:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.3-.Database-first.vs.Code-first.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AzNm4JgoQKS3lW1cDkpu"
         },
         {
           "name": "Working with Data (40m) -> 4- Code First Migrations.mp4",
@@ -939,7 +962,8 @@
             "created_at": "2023-04-10T02:51:50Z",
             "updated_at": "2023-04-10T02:51:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.4-.Code.First.Migrations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AarDBOkS2GSPVaieMJHZ"
         },
         {
           "name": "Working with Data (40m) -> 5- Changing the Model.mp4",
@@ -976,7 +1000,8 @@
             "created_at": "2023-04-10T02:52:03Z",
             "updated_at": "2023-04-10T02:52:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.5-.Changing.the.Model.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mJij8SOXR4agLAjMBmSu"
         },
         {
           "name": "Working with Data (40m) -> 6- Seeing the Database.mp4",
@@ -1013,7 +1038,8 @@
             "created_at": "2023-04-10T02:52:16Z",
             "updated_at": "2023-04-10T02:52:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.6-.Seeing.the.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/slFAlmxQMS9NKeqF76A0"
         },
         {
           "name": "Working with Data (40m) -> 7- Overriding Conventions.mp4",
@@ -1050,7 +1076,8 @@
             "created_at": "2023-04-10T02:52:25Z",
             "updated_at": "2023-04-10T02:52:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.7-.Overriding.Conventions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8LdDe23xSruiAeftwo5D"
         },
         {
           "name": "Working with Data (40m) -> 8- Querying Objects.mp4",
@@ -1087,7 +1114,8 @@
             "created_at": "2023-04-10T02:52:39Z",
             "updated_at": "2023-04-10T02:52:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.8-.Querying.Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lqODP2cTiEqoamWUgzwD"
         },
         {
           "name": "Working with Data (40m) -> 9- Eager Loading.mp4",
@@ -1124,7 +1152,8 @@
             "created_at": "2023-04-10T02:52:48Z",
             "updated_at": "2023-04-10T02:52:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.9-.Eager.Loading.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/L5JGr5yTQSa5DtIpZJDj"
         },
         {
           "name": "Working with Data (40m) -> 10- Package Manager Console.mp4",
@@ -1161,7 +1190,8 @@
             "created_at": "2023-04-10T02:52:53Z",
             "updated_at": "2023-04-10T02:52:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.10-.Package.Manager.Console.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MfwLcNhtQYOiW2WE2n1b"
         },
         {
           "name": "Working with Data (40m) -> 11- Cheat Sheet- Entity Framework.pdf",
@@ -1198,7 +1228,8 @@
             "created_at": "2023-04-10T02:52:55Z",
             "updated_at": "2023-04-10T02:52:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.11-.Cheat.Sheet-.Entity.Framework.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/BTV8fB54S2KiQLFtCjUG"
         },
         {
           "name": "Working with Data (40m) -> 12- Exercise 1.mp4",
@@ -1235,7 +1266,8 @@
             "created_at": "2023-04-10T02:52:59Z",
             "updated_at": "2023-04-10T02:53:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.12-.Exercise.1.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/tXCmSkFKTR2jORMTssYj"
         },
         {
           "name": "Working with Data (40m) -> 13- Exercise 2.mp4",
@@ -1272,7 +1304,8 @@
             "created_at": "2023-04-10T02:53:04Z",
             "updated_at": "2023-04-10T02:53:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.13-.Exercise.2.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Wfz12cKNTN2CtwSb6Uaq"
         },
         {
           "name": "Working with Data (40m) -> 14- Exercise 3.mp4",
@@ -1309,7 +1342,8 @@
             "created_at": "2023-04-10T02:53:08Z",
             "updated_at": "2023-04-10T02:53:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.14-.Exercise.3.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/omf5XIyNQlKwVLFdC1G2"
         },
         {
           "name": "Working with Data (40m) -> 15- Summary.mp4",
@@ -1346,7 +1380,8 @@
             "created_at": "2023-04-10T02:53:11Z",
             "updated_at": "2023-04-10T02:53:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.15-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/EoOJTAMQvSCSBA78QAKv"
         }
       ]
     },
@@ -1388,7 +1423,8 @@
             "created_at": "2023-04-10T02:53:18Z",
             "updated_at": "2023-04-10T02:53:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/srW54WoXSrCpSUTFk45f"
         },
         {
           "name": "Building Forms (40m) -> 2- The Markup.mp4",
@@ -1425,7 +1461,8 @@
             "created_at": "2023-04-10T02:53:56Z",
             "updated_at": "2023-04-10T02:54:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.2-.The.Markup.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/GyKtVYR8ScqzdHsGFnIe"
         },
         {
           "name": "Building Forms (40m) -> 3- Form Labels.mp4",
@@ -1462,7 +1499,8 @@
             "created_at": "2023-04-10T02:54:14Z",
             "updated_at": "2023-04-10T02:54:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.3-.Form.Labels.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NZ8XCnfORAGE6AR9KU9d"
         },
         {
           "name": "Building Forms (40m) -> 4- Drop-down Lists.mp4",
@@ -1499,7 +1537,8 @@
             "created_at": "2023-04-10T02:54:41Z",
             "updated_at": "2023-04-10T02:54:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.4-.Drop-down.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JI42suftQ2LTlBupaGjg"
         },
         {
           "name": "Building Forms (40m) -> 5- Model Binding.mp4",
@@ -1536,7 +1575,8 @@
             "created_at": "2023-04-10T02:54:55Z",
             "updated_at": "2023-04-10T02:54:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.5-.Model.Binding.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/yPPc3MQ62dDINLD9Ny7Q"
         },
         {
           "name": "Building Forms (40m) -> 6- Saving Data.mp4",
@@ -1573,7 +1613,8 @@
             "created_at": "2023-04-10T02:55:02Z",
             "updated_at": "2023-04-10T02:55:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.6-.Saving.Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/h57lV3A3QAekmK9RlxWL"
         },
         {
           "name": "Building Forms (40m) -> 7- Edit Form.mp4",
@@ -1610,7 +1651,8 @@
             "created_at": "2023-04-10T02:55:19Z",
             "updated_at": "2023-04-10T02:55:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.7-.Edit.Form.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1U5oyo2T22ZMasHSphsD"
         },
         {
           "name": "Building Forms (40m) -> 8- Updating Data.mp4",
@@ -1647,7 +1689,8 @@
             "created_at": "2023-04-10T02:55:51Z",
             "updated_at": "2023-04-10T02:55:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.8-.Updating.Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/h2NfobA3TmeaTh3phQKG"
         },
         {
           "name": "Building Forms (40m) -> 9- Cheat Sheet- Building Forms.pdf",
@@ -1684,7 +1727,8 @@
             "created_at": "2023-04-10T02:55:58Z",
             "updated_at": "2023-04-10T02:55:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.9-.Cheat.Sheet-.Building.Forms.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xfHPeRsTCyvBG437sXdE"
         },
         {
           "name": "Building Forms (40m) -> 10- Exercise.mp4",
@@ -1721,7 +1765,8 @@
             "created_at": "2023-04-10T02:56:02Z",
             "updated_at": "2023-04-10T02:56:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.10-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/as26CwTmSkuFZYUyFBvG"
         },
         {
           "name": "Building Forms (40m) -> 11- Troubleshooting Entity Validation Errors.mp4",
@@ -1758,7 +1803,8 @@
             "created_at": "2023-04-10T02:56:17Z",
             "updated_at": "2023-04-10T02:56:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.11-.Troubleshooting.Entity.Validation.Errors.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/nrn88OuRBflDwn5PDBTw"
         },
         {
           "name": "Building Forms (40m) -> 12- Summary.mp4",
@@ -1795,7 +1841,8 @@
             "created_at": "2023-04-10T02:56:25Z",
             "updated_at": "2023-04-10T02:56:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.12-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AN9Dj4NNRQCDU3SQkUxL"
         }
       ]
     },
@@ -1837,7 +1884,8 @@
             "created_at": "2023-04-10T02:56:36Z",
             "updated_at": "2023-04-10T02:56:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xlvGVaNQSOhE3PLBNvGY"
         },
         {
           "name": "Implementing Validation 35m - 2- Adding Validation mp4",
@@ -1874,7 +1922,8 @@
             "created_at": "2023-04-10T02:56:50Z",
             "updated_at": "2023-04-10T02:56:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.2-.Adding.Validation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/UkYqTMcQyaJpi5vqljmP"
         },
         {
           "name": "Implementing Validation 35m - 3- Styling Validation Forms mp4",
@@ -1911,7 +1960,8 @@
             "created_at": "2023-04-10T02:57:02Z",
             "updated_at": "2023-04-10T02:57:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.3-.Styling.Validation.Forms.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/I0aZzI13RAKkzmU3YrPk"
         },
         {
           "name": "Implementing Validation 35m - 4- Data Annotations mp4",
@@ -1948,7 +1998,8 @@
             "created_at": "2023-04-10T02:57:09Z",
             "updated_at": "2023-04-10T02:57:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.4-.Data.Annotations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MjPurEZXSo6yFRAr0FhH"
         },
         {
           "name": "Implementing Validation 35m - 5- Custom Validation mp4",
@@ -1985,7 +2036,8 @@
             "created_at": "2023-04-10T02:57:27Z",
             "updated_at": "2023-04-10T02:57:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.5-.Custom.Validation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/r4WPbQtXRs2USxniBenJ"
         },
         {
           "name": "Implementing Validation 35m - 6- Refactoring Magic Numbers mp4",
@@ -2022,7 +2074,8 @@
             "created_at": "2023-04-10T02:57:42Z",
             "updated_at": "2023-04-10T02:57:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.6-.Refactoring.Magic.Numbers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/z1403c9ATqc8N2W1uXyA"
         },
         {
           "name": "Implementing Validation 35m - 7- Validation Summary mp4",
@@ -2059,7 +2112,8 @@
             "created_at": "2023-04-10T02:57:58Z",
             "updated_at": "2023-04-10T02:58:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.7-.Validation.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TNgnvY1oRfSHUwgan2fr"
         },
         {
           "name": "Implementing Validation 35m - 8- Client-side Validation mp4",
@@ -2096,7 +2150,8 @@
             "created_at": "2023-04-10T02:58:09Z",
             "updated_at": "2023-04-10T02:58:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.8-.Client-side.Validation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/O7J4tsluSSQmSvC8z87D"
         },
         {
           "name": "Implementing Validation (35m) -> 9- Anti-forgery Tokens.mp4",
@@ -2133,7 +2188,8 @@
             "created_at": "2023-04-10T07:04:13Z",
             "updated_at": "2023-04-10T07:04:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.9-.Anti-forgery.Tokens.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/yIGktnLRUSXAFgRLb4Bw"
         },
         {
           "name": "Implementing Validation (35m) -> 10- Cheat Sheet- Implementing Validation.pdf",
@@ -2170,7 +2226,8 @@
             "created_at": "2023-04-10T07:04:18Z",
             "updated_at": "2023-04-10T07:04:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.10-.Cheat.Sheet-.Implementing.Validation.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HKKD20iWQnSYtqPoxlWs"
         },
         {
           "name": "Implementing Validation (35m) -> 11- Exercise.mp4",
@@ -2207,7 +2264,8 @@
             "created_at": "2023-04-10T07:04:27Z",
             "updated_at": "2023-04-10T07:04:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.11-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qkdiZCmhSHi56zselaPb"
         },
         {
           "name": "Implementing Validation (35m) -> 12- Code Review.mp4",
@@ -2244,7 +2302,8 @@
             "created_at": "2023-04-10T07:05:04Z",
             "updated_at": "2023-04-10T07:05:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.12-.Code.Review.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9eBJ7PLsS5itwcjC7uUq"
         },
         {
           "name": "Implementing Validation (35m) -> 13- Summary.mp4",
@@ -2281,7 +2340,8 @@
             "created_at": "2023-04-10T07:05:11Z",
             "updated_at": "2023-04-10T07:05:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.13-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/j982UGXKRWuRbkZAHRII"
         }
       ]
     },
@@ -2323,7 +2383,8 @@
             "created_at": "2023-04-10T07:05:29Z",
             "updated_at": "2023-04-10T07:05:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/grJoSnY1T7SHntAC32oI"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 2- What is a Web API.mp4",
@@ -2360,7 +2421,8 @@
             "created_at": "2023-04-10T07:05:39Z",
             "updated_at": "2023-04-10T07:05:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.2-.What.is.a.Web.API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/huoY6YgOTaGHxedemtdg"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 3- RESTful Convention.mp4",
@@ -2397,7 +2459,8 @@
             "created_at": "2023-04-10T07:05:45Z",
             "updated_at": "2023-04-10T07:05:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.3-.RESTful.Convention.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Ys8PA0qSMuU2SjJXEkzU"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 4- Building an API.mp4",
@@ -2434,7 +2497,8 @@
             "created_at": "2023-04-10T07:06:52Z",
             "updated_at": "2023-04-10T07:06:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.4-.Building.an.API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/R5gUlGt1Qde4Arwk7CML"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 5- Testing an API.mp4",
@@ -2471,7 +2535,8 @@
             "created_at": "2023-04-10T07:07:18Z",
             "updated_at": "2023-04-10T07:07:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.5-.Testing.an.API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3K9ZNYyRSDOo6yDv6V8s"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 6- Data Transfer Objects.mp4",
@@ -2508,7 +2573,8 @@
             "created_at": "2023-04-10T07:07:45Z",
             "updated_at": "2023-04-10T07:07:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.6-.Data.Transfer.Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/aTr1TSOSJSCn1cfF5OgA"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 7- Auto Mapper.mp4",
@@ -2545,7 +2611,8 @@
             "created_at": "2023-04-10T07:08:46Z",
             "updated_at": "2023-04-10T07:08:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.7-.Auto.Mapper.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NNZiAm4GSxefF4I5oFxP"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 8- Using Camel Notation.mp4",
@@ -2582,7 +2649,8 @@
             "created_at": "2023-04-10T07:09:07Z",
             "updated_at": "2023-04-10T07:09:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.8-.Using.Camel.Notation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mAxqVuz6Sz78pue2cVIA"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 9- IHttpActionResult.mp4",
@@ -2619,7 +2687,8 @@
             "created_at": "2023-04-10T07:09:50Z",
             "updated_at": "2023-04-10T07:09:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.9-.IHttpActionResult.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qzqStJPySm6qHWZ6PZIv"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 10- Cheat Sheet- Building Web APIs.pdf",
@@ -2656,7 +2725,8 @@
             "created_at": "2023-04-10T07:09:56Z",
             "updated_at": "2023-04-10T07:09:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.10-.Cheat.Sheet-.Building.Web.APIs.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fbuDAkIfRsqEThVH9HeC"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 11- Exercise.mp4",
@@ -2693,7 +2763,8 @@
             "created_at": "2023-04-10T07:09:58Z",
             "updated_at": "2023-04-10T07:10:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.11-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sW6PCDjbQmJQYAfiICdB"
         },
         {
           "name": "Building RESTful Services with ASP.NET Web API (40m) -> 12- Summary.mp4",
@@ -2730,7 +2801,8 @@
             "created_at": "2023-04-10T07:10:10Z",
             "updated_at": "2023-04-10T07:10:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.12-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/iQlimi1XTKON2Sk8xbRr"
         }
       ]
     },
@@ -2772,7 +2844,8 @@
             "created_at": "2023-04-10T07:10:50Z",
             "updated_at": "2023-04-10T07:10:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1wyHkkIQ1aM4huKC1l8Q"
         },
         {
           "name": "Client-side Development (45m) -> 2- Calling an API Using jQuery.mp4",
@@ -2809,7 +2882,8 @@
             "created_at": "2023-04-10T07:11:25Z",
             "updated_at": "2023-04-10T07:11:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.2-.Calling.an.API.Using.jQuery.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/t964ufSkSGukOauXeiAx"
         },
         {
           "name": "Client-side Development (45m) -> 3- Bootbox Plug-in.mp4",
@@ -2846,7 +2920,8 @@
             "created_at": "2023-04-10T07:12:21Z",
             "updated_at": "2023-04-10T07:12:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.3-.Bootbox.Plug-in.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/APTDJ2s7QW2LqxjW9XTG"
         },
         {
           "name": "Client-side Development (45m) -> 4- Optimizing jQuery Code.mp4",
@@ -2883,7 +2958,8 @@
             "created_at": "2023-04-10T07:12:43Z",
             "updated_at": "2023-04-10T07:12:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.4-.Optimizing.jQuery.Code.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/c9sE1PLRSYyEV88l0pX7"
         },
         {
           "name": "Client-side Development (45m) -> 5- DataTables Plug-in.mp4",
@@ -2920,7 +2996,8 @@
             "created_at": "2023-04-10T07:14:14Z",
             "updated_at": "2023-04-10T07:14:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.5-.DataTables.Plug-in.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SCsexLVTG2fSXxop3ZTV"
         },
         {
           "name": "Client-side Development (45m) -> 6- DataTables with Ajax Source.mp4",
@@ -2957,7 +3034,8 @@
             "created_at": "2023-04-10T07:15:47Z",
             "updated_at": "2023-04-10T07:15:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.6-.DataTables.with.Ajax.Source.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZG2A45Tl6dZCITzHfimQ"
         },
         {
           "name": "Client-side Development (45m) -> 7- Returning Hierarchical Data.mp4",
@@ -2994,7 +3072,8 @@
             "created_at": "2023-04-10T07:16:32Z",
             "updated_at": "2023-04-10T07:16:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.7-.Returning.Hierarchical.Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/CkEMC5fSYq2ED3iUobWh"
         },
         {
           "name": "Client-side Development (45m) -> 8- DataTables- Removing Records.mp4",
@@ -3031,7 +3110,8 @@
             "created_at": "2023-04-10T07:17:12Z",
             "updated_at": "2023-04-10T07:17:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.8-.DataTables-.Removing.Records.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PhrqwZWMS6aR53bANeWF"
         },
         {
           "name": "Client-side Development (45m) -> 9- DataTables- Discussion Points.mp4",
@@ -3068,7 +3148,8 @@
             "created_at": "2023-04-10T07:18:00Z",
             "updated_at": "2023-04-10T07:18:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.9-.DataTables-.Discussion.Points.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/b8VlTQYfQ8ufXqYCWwQ6"
         },
         {
           "name": "Client-side Development (45m) -> 10- Single Page Applications (SPAs).mp4",
@@ -3105,7 +3186,8 @@
             "created_at": "2023-04-10T07:18:37Z",
             "updated_at": "2023-04-10T07:18:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.10-.Single.Page.Applications.SPAs.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wgyEtJ0SH21CBD7ACwGM"
         },
         {
           "name": "Client-side Development (45m) -> 11- Cheat Sheet- Client-sid Development.pdf",
@@ -3142,7 +3224,8 @@
             "created_at": "2023-04-10T07:18:40Z",
             "updated_at": "2023-04-10T07:18:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.11-.Cheat.Sheet-.Client-sid.Development.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Rne7cwgTPiLVwv21KY1w"
         },
         {
           "name": "Client-side Development (45m) -> 12- Exercise.mp4",
@@ -3179,7 +3262,8 @@
             "created_at": "2023-04-10T07:18:49Z",
             "updated_at": "2023-04-10T07:18:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.12-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PxzPGrkeQ6K8e1VB3Kgd"
         },
         {
           "name": "Client-side Development (45m) -> 13- Summary.mp4",
@@ -3216,7 +3300,8 @@
             "created_at": "2023-04-10T07:19:05Z",
             "updated_at": "2023-04-10T07:19:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.13-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2vuRgC2HTBZXJJ8JgL32"
         }
       ]
     },
@@ -3258,7 +3343,8 @@
             "created_at": "2023-04-10T07:20:22Z",
             "updated_at": "2023-04-10T07:20:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NIduLR0DSjq973mm03YC"
         },
         {
           "name": "Authentication and Authorization (45m) -> 2- The Problem.mp4",
@@ -3295,7 +3381,8 @@
             "created_at": "2023-04-10T07:20:32Z",
             "updated_at": "2023-04-10T07:20:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.2-.The.Problem.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/nfQ46SNrQNCdyoVoph6q"
         },
         {
           "name": "Authentication and Authorization (45m) -> 3- Authentication Options.mp4",
@@ -3332,7 +3419,8 @@
             "created_at": "2023-04-10T07:21:11Z",
             "updated_at": "2023-04-10T07:21:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.3-.Authentication.Options.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/pizpwK7eRdm6gWsnx19o"
         },
         {
           "name": "Authentication and Authorization (45m) -> 4- ASP.NET Identity.mp4",
@@ -3369,7 +3457,8 @@
             "created_at": "2023-04-10T07:22:05Z",
             "updated_at": "2023-04-10T07:22:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.4-.ASP.NET.Identity.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/itGABP2fTDSFcm0aUGe1"
         },
         {
           "name": "Authentication and Authorization (45m) -> 5- Restricting Access.mp4",
@@ -3406,7 +3495,8 @@
             "created_at": "2023-04-10T07:22:17Z",
             "updated_at": "2023-04-10T07:22:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.5-.Restricting.Access.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/davg1iO1SiOVA8z4IbIP"
         },
         {
           "name": "Authentication and Authorization (45m) -> 6- Seeding Users and Roles.mp4",
@@ -3443,7 +3533,8 @@
             "created_at": "2023-04-10T07:24:10Z",
             "updated_at": "2023-04-10T07:24:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.6-.Seeding.Users.and.Roles.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/naFJRQ4TqCIus3DULe9u"
         },
         {
           "name": "Authentication and Authorization (45m) -> 7- Working with Roles.mp4",
@@ -3480,7 +3571,8 @@
             "created_at": "2023-04-10T07:24:28Z",
             "updated_at": "2023-04-10T07:24:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.7-.Working.with.Roles.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/zvZvwNPRRNa1oAhQluEU"
         },
         {
           "name": "Authentication and Authorization (45m) -> 8- Adding Profile Data.mp4",
@@ -3517,7 +3609,8 @@
             "created_at": "2023-04-10T07:25:00Z",
             "updated_at": "2023-04-10T07:25:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.8-.Adding.Profile.Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/76Lhrz1cSFCJPMR1M8tF"
         },
         {
           "name": "Authentication and Authorization (45m) -> 9- OAuth.mp4",
@@ -3554,7 +3647,8 @@
             "created_at": "2023-04-10T07:25:05Z",
             "updated_at": "2023-04-10T07:25:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.9-.OAuth.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RkZVAXPQKWMsL9KaZozE"
         },
         {
           "name": "Authentication and Authorization (45m) -> 10- Social Logins.mp4",
@@ -3591,7 +3685,8 @@
             "created_at": "2023-04-10T07:26:18Z",
             "updated_at": "2023-04-10T07:26:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.10-.Social.Logins.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1i1qHAgpQDy9tEuSaJ4m"
         },
         {
           "name": "Authentication and Authorization (45m) -> 11- Cheat Sheet- Authentication and Authorization.pdf",
@@ -3628,7 +3723,8 @@
             "created_at": "2023-04-10T07:26:34Z",
             "updated_at": "2023-04-10T07:26:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.11-.Cheat.Sheet-.Authentication.and.Authorization.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WalQEKIiRCCJAiPL7Zb6"
         },
         {
           "name": "Authentication and Authorization (45m) -> 12- Exercise.mp4",
@@ -3665,7 +3761,8 @@
             "created_at": "2023-04-10T07:26:43Z",
             "updated_at": "2023-04-10T07:26:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.12-.Exercise.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/nTUS0hdgST2Dd6YToOxs"
         },
         {
           "name": "Authentication and Authorization (45m) -> 13- Summary.mp4",
@@ -3702,7 +3799,8 @@
             "created_at": "2023-04-10T07:26:51Z",
             "updated_at": "2023-04-10T07:26:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.13-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cW2eZCCGR0eo6XgF771A"
         }
       ]
     },
@@ -3744,7 +3842,8 @@
             "created_at": "2023-04-10T07:27:11Z",
             "updated_at": "2023-04-10T07:27:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/k4VMgiqFQ8aFh0CLbCyN"
         },
         {
           "name": "Performance Optimization (50m) -> 2- Overview.mp4",
@@ -3781,7 +3880,8 @@
             "created_at": "2023-04-10T07:27:41Z",
             "updated_at": "2023-04-10T07:27:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.2-.Overview.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DjKo4x8ZS16ZCjQKdp4z"
         },
         {
           "name": "Performance Optimization (50m) -> 3- Data Tier.mp4",
@@ -3818,7 +3918,8 @@
             "created_at": "2023-04-10T07:27:53Z",
             "updated_at": "2023-04-10T07:27:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.3-.Data.Tier.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dzWGaFglTk24iTH3RthA"
         },
         {
           "name": "Performance Optimization (50m) -> 4- Glimpse.mp4",
@@ -3855,7 +3956,8 @@
             "created_at": "2023-04-10T07:28:32Z",
             "updated_at": "2023-04-10T07:28:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.4-.Glimpse.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/7Tlo8ushRDWROOJVUb3B"
         },
         {
           "name": "Performance Optimization (50m) -> 5- Output Cache.mp4",
@@ -3892,7 +3994,8 @@
             "created_at": "2023-04-10T07:30:01Z",
             "updated_at": "2023-04-10T07:30:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.5-.Output.Cache.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ib1mDaErTQaVvtqdVCA4"
         },
         {
           "name": "Performance Optimization (50m) -> 6- Data Cache.mp4",
@@ -3929,7 +4032,8 @@
             "created_at": "2023-04-10T07:31:32Z",
             "updated_at": "2023-04-10T07:31:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.6-.Data.Cache.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xh3rY2asQ8esEMsGW9gF"
         },
         {
           "name": "Performance Optimization (50m) -> 7- Async.mp4",
@@ -3966,7 +4070,8 @@
             "created_at": "2023-04-10T07:31:58Z",
             "updated_at": "2023-04-10T07:32:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.7-.Async.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9cAIeazbS02xn3iy7jfA"
         },
         {
           "name": "Performance Optimization (50m) -> 8- Release Builds.mp4",
@@ -4003,7 +4108,8 @@
             "created_at": "2023-04-10T07:32:05Z",
             "updated_at": "2023-04-10T07:32:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.8-.Release.Builds.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2Un2QH0wS7yvbAoui5kN"
         },
         {
           "name": "Performance Optimization (50m) -> 9- Disabling Session.mp4",
@@ -4040,7 +4146,8 @@
             "created_at": "2023-04-10T07:32:26Z",
             "updated_at": "2023-04-10T07:32:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.9-.Disabling.Session.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YSte1j0QiSTG0SEO7To5"
         },
         {
           "name": "Performance Optimization (50m) -> 10- Client Tier.mp4",
@@ -4077,7 +4184,8 @@
             "created_at": "2023-04-10T07:33:43Z",
             "updated_at": "2023-04-10T07:33:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.10-.Client.Tier.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/e0QOYDeGQiqET1DuzCcO"
         },
         {
           "name": "Performance Optimization (50m) -> 11- Chrome Developer Tools.mp4",
@@ -4114,7 +4222,8 @@
             "created_at": "2023-04-10T07:34:03Z",
             "updated_at": "2023-04-10T07:34:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.11-.Chrome.Developer.Tools.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LcX5LgF1Qw6csqvSVUb4"
         },
         {
           "name": "Performance Optimization (50m) -> 12- Cheat Sheet- Performance Optimization.pdf",
@@ -4151,7 +4260,8 @@
             "created_at": "2023-04-10T07:34:06Z",
             "updated_at": "2023-04-10T07:34:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.12-.Cheat.Sheet-.Performance.Optimization.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dgnekUyeRsSSuwfD6JUC"
         },
         {
           "name": "Performance Optimization (50m) -> 13- Summary.mp4",
@@ -4188,7 +4298,8 @@
             "created_at": "2023-04-10T07:35:35Z",
             "updated_at": "2023-04-10T07:35:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.13-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1SHEq6T4mvMhvOVO7vXw"
         }
       ]
     },
@@ -4230,7 +4341,8 @@
             "created_at": "2023-04-10T07:35:44Z",
             "updated_at": "2023-04-10T07:35:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/pb81aKyrTFKh16mTG5gJ"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 2- Understanding the Problem.mp4",
@@ -4267,7 +4379,8 @@
             "created_at": "2023-04-10T07:36:03Z",
             "updated_at": "2023-04-10T07:36:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.2-.Understanding.the.Problem.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qOoPZgK0SV6XaJ8F9GIu"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 3- Domain Modelling.mp4",
@@ -4304,7 +4417,8 @@
             "created_at": "2023-04-10T07:36:15Z",
             "updated_at": "2023-04-10T07:36:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.3-.Domain.Modelling.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NhYeV5CxTTKt5Hd1mNQp"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 4- Building the Simplest API.mp4",
@@ -4341,7 +4455,8 @@
             "created_at": "2023-04-10T07:36:29Z",
             "updated_at": "2023-04-10T07:36:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.4-.Building.the.Simplest.API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/t1TCyYPTc6RuPgVrZK36"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 5- Adding the Details.mp4",
@@ -4378,7 +4493,8 @@
             "created_at": "2023-04-10T07:36:45Z",
             "updated_at": "2023-04-10T07:36:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.5-.Adding.the.Details.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4ZFm3OaFSe2TCn2RlpbF"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 6- Edge Cases.mp4",
@@ -4415,7 +4531,8 @@
             "created_at": "2023-04-10T07:37:15Z",
             "updated_at": "2023-04-10T07:37:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.6-.Edge.Cases.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rRQZ5NMvTpaQMn7cz3RK"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 7- Building the Front-end.mp4",
@@ -4452,7 +4569,8 @@
             "created_at": "2023-04-10T07:38:42Z",
             "updated_at": "2023-04-10T07:38:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.7-.Building.the.Front-end.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PxLxolEnQHeYeroihqWz"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 8- Adding Auto-completion.mp4",
@@ -4489,7 +4607,8 @@
             "created_at": "2023-04-10T07:41:13Z",
             "updated_at": "2023-04-10T07:41:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.8-.Adding.Auto-completion.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/oi4QdD7T7SroQBOtIIHg"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 9- Updating the DOM.mp4",
@@ -4526,7 +4645,8 @@
             "created_at": "2023-04-10T07:41:33Z",
             "updated_at": "2023-04-10T07:41:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.9-.Updating.the.DOM.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cMoW1AXQBeMz7MBs3Oed"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 10- Improving the Look and Feel.mp4",
@@ -4563,7 +4683,8 @@
             "created_at": "2023-04-10T07:41:58Z",
             "updated_at": "2023-04-10T07:42:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.10-.Improving.the.Look.and.Feel.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SprkEzpPT8N9jCag0eHg"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 11- Filtering the Records.mp4",
@@ -4600,7 +4721,8 @@
             "created_at": "2023-04-10T07:42:14Z",
             "updated_at": "2023-04-10T07:42:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.11-.Filtering.the.Records.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/s7HFIwxZQUyjwgZelJwC"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 12- Submitting the Form.mp4",
@@ -4637,7 +4759,8 @@
             "created_at": "2023-04-10T07:42:30Z",
             "updated_at": "2023-04-10T07:42:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.12-.Submitting.the.Form.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/zYldLGFVSJajghTyK9NP"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 13- Displaying Toast Notifications.mp4",
@@ -4674,7 +4797,8 @@
             "created_at": "2023-04-10T07:42:38Z",
             "updated_at": "2023-04-10T07:42:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.13-.Displaying.Toast.Notifications.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3Nm8UvWOT2iWIcX8Nm3m"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 14- Implementing Client-side Validation.mp4",
@@ -4711,7 +4835,8 @@
             "created_at": "2023-04-10T07:42:56Z",
             "updated_at": "2023-04-10T07:43:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.14-.Implementing.Client-side.Validation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sdIv1L7QtmuwrhoE5nlQ"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 15- Code Review.mp4",
@@ -4748,7 +4873,8 @@
             "created_at": "2023-04-10T07:44:02Z",
             "updated_at": "2023-04-10T07:44:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.15-.Code.Review.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TX8Fcy8ETm2ahWCq2WUR"
         },
         {
           "name": "Building a Feature End-to-End Systematically (45m) -> 16- Summary.mp4",
@@ -4785,7 +4911,8 @@
             "created_at": "2023-04-10T07:44:59Z",
             "updated_at": "2023-04-10T07:45:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.a.Feature.End-to-End.Systematically.45m.-.16-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YwZT0rOAQAGHkNqXV4i3"
         }
       ]
     },
@@ -4827,7 +4954,8 @@
             "created_at": "2023-04-10T07:45:59Z",
             "updated_at": "2023-04-10T07:46:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/r2D691WbRCTTPAMQMM3e"
         },
         {
           "name": "Deployment (50m) -> 2- Deploying the Application.mp4",
@@ -4864,7 +4992,8 @@
             "created_at": "2023-04-10T07:46:52Z",
             "updated_at": "2023-04-10T07:46:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.2-.Deploying.the.Application.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/viilNaNoTdY9nkR4Gk5Q"
         },
         {
           "name": "Deployment (50m) -> 3- Deploying the Database.mp4",
@@ -4901,7 +5030,8 @@
             "created_at": "2023-04-10T07:47:24Z",
             "updated_at": "2023-04-10T07:47:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.3-.Deploying.the.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/tj7yWJIfRqwT6w6WnUsN"
         },
         {
           "name": "Deployment (50m) -> 4- Build Configurations.mp4",
@@ -4938,7 +5068,8 @@
             "created_at": "2023-04-10T07:48:03Z",
             "updated_at": "2023-04-10T07:48:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.4-.Build.Configurations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/u7GdEKWBTRuW1nC1QjDt"
         },
         {
           "name": "Deployment (50m) -> 5- Application Settings.mp4",
@@ -4975,7 +5106,8 @@
             "created_at": "2023-04-10T07:48:32Z",
             "updated_at": "2023-04-10T07:48:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.5-.Application.Settings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/w27HLXQ3ToWQVQKTElEQ"
         },
         {
           "name": "Deployment (50m) -> 6- Securing Configuration Settings.mp4",
@@ -5012,7 +5144,8 @@
             "created_at": "2023-04-10T07:50:33Z",
             "updated_at": "2023-04-10T07:50:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.6-.Securing.Configuration.Settings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6f5HWhwATjiIxvGIaPzp"
         },
         {
           "name": "Deployment (50m) -> 7- Custom Error Pages.mp4",
@@ -5049,7 +5182,8 @@
             "created_at": "2023-04-10T07:53:15Z",
             "updated_at": "2023-04-10T07:53:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.7-.Custom.Error.Pages.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/KanSSJnMR7WF5Kohoe8O"
         },
         {
           "name": "Deployment (50m) -> 8- Logging Unhandled Exceptions.mp4",
@@ -5086,7 +5220,8 @@
             "created_at": "2023-04-10T07:53:49Z",
             "updated_at": "2023-04-10T07:53:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.8-.Logging.Unhandled.Exceptions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QR091sRqmMrGbEo9D3wl"
         },
         {
           "name": "Deployment (50m) -> 9- Final Touch.mp4",
@@ -5123,7 +5258,8 @@
             "created_at": "2023-04-10T07:54:05Z",
             "updated_at": "2023-04-10T07:54:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.9-.Final.Touch.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/08Rh3mHiQEKOi5xE3BUO"
         }
       ]
     }

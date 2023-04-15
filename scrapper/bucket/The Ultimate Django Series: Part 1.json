@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T14:43:48Z",
             "updated_at": "2023-04-09T14:44:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/vdvH2XLKQP6qe9BvUM8E"
         },
         {
           "name": "Getting Started (3m) -> 2-_Prerequisites.mp4",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-09T14:44:47Z",
             "updated_at": "2023-04-09T14:44:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.2-_Prerequisites.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FjIr7DYeSrS6MSTCPcAt"
         },
         {
           "name": "Getting Started (3m) -> 3-_How_to_Take_this_Course.mp4",
@@ -152,7 +154,8 @@
             "created_at": "2023-04-09T14:48:08Z",
             "updated_at": "2023-04-09T14:48:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.3-_How_to_Take_this_Course.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Q2RcFb11SQ2GyuAgjU61"
         },
         {
           "name": "Getting Started (3m) -> Django- Resources.zip",
@@ -189,7 +192,8 @@
             "created_at": "2023-04-09T14:48:18Z",
             "updated_at": "2023-04-09T14:48:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.Django-.Resources.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/uqzd9sHOTBSGUVqfCGvE"
         }
       ]
     },
@@ -231,7 +235,8 @@
             "created_at": "2023-04-09T14:48:37Z",
             "updated_at": "2023-04-09T14:48:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3munKCw5RjG7Tp2x0HHP"
         },
         {
           "name": "Django Fundamentals (45m) -> 2-_What_is_Django.mp4",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-09T14:52:33Z",
             "updated_at": "2023-04-09T14:52:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.2-_What_is_Django.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4Wxsh8B9QriZzSqZiLuM"
         },
         {
           "name": "Django Fundamentals (45m) -> 3-_How_the_Web_Works.mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-09T14:57:19Z",
             "updated_at": "2023-04-09T14:57:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.3-_How_the_Web_Works.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xJRGavHESRq0lMX6Z2xL"
         },
         {
           "name": "Django Fundamentals (45m) -> 4-_Setting_Up_the_Development_Enviornment.mp4",
@@ -342,7 +349,8 @@
             "created_at": "2023-04-09T14:58:41Z",
             "updated_at": "2023-04-09T14:58:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.4-_Setting_Up_the_Development_Enviornment.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/blVVBpaR2SCCLCQhOCNl"
         },
         {
           "name": "Django Fundamentals (45m) -> 5-_Creating_Your_First_Django_Project.mp4",
@@ -379,7 +387,8 @@
             "created_at": "2023-04-09T15:00:17Z",
             "updated_at": "2023-04-09T15:00:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.5-_Creating_Your_First_Django_Project.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4i2rihfyTSCg8557PQib"
         },
         {
           "name": "Django Fundamentals (45m) -> 6-_Using_the_Integrated_Terminal_in_VSCode.mp4",
@@ -416,7 +425,8 @@
             "created_at": "2023-04-09T15:01:21Z",
             "updated_at": "2023-04-09T15:01:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.6-_Using_the_Integrated_Terminal_in_VSCode.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ajteL3IlRXO3lWw5KC7W"
         },
         {
           "name": "Django Fundamentals (45m) -> 7-_Creating_Your_First_App.mp4",
@@ -453,7 +463,8 @@
             "created_at": "2023-04-09T15:03:16Z",
             "updated_at": "2023-04-09T15:03:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.7-_Creating_Your_First_App.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NmxVVjC8RMWlJ4qeQjKL"
         },
         {
           "name": "Django Fundamentals (45m) -> 8-_Writing_Views.mp4",
@@ -490,7 +501,8 @@
             "created_at": "2023-04-09T15:06:39Z",
             "updated_at": "2023-04-09T15:06:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.8-_Writing_Views.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3qMQm8ClTsmxY3zTwxoy"
         },
         {
           "name": "Django Fundamentals (45m) -> 9-_Mapping_URLs_to_Views.mp4",
@@ -527,7 +539,8 @@
             "created_at": "2023-04-09T15:08:25Z",
             "updated_at": "2023-04-09T15:08:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.9-_Mapping_URLs_to_Views.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/zJ1hUVRRo2WuSCndMTjH"
         },
         {
           "name": "Django Fundamentals (45m) -> 10-_Using_Templates.mp4",
@@ -564,7 +577,8 @@
             "created_at": "2023-04-09T15:10:16Z",
             "updated_at": "2023-04-09T15:10:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.10-_Using_Templates.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/OZL63nEmSnukFNjVfN0f"
         },
         {
           "name": "Django Fundamentals (45m) -> 11-_Debugging_Django_Applications_in_VSCode.mp4",
@@ -601,7 +615,8 @@
             "created_at": "2023-04-09T15:13:56Z",
             "updated_at": "2023-04-09T15:14:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.11-_Debugging_Django_Applications_in_VSCode.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VfzELrthRoCAGeSj9IKA"
         },
         {
           "name": "Django Fundamentals (45m) -> 12-_Using_Django_Debug_Toolbar.mp4",
@@ -638,7 +653,8 @@
             "created_at": "2023-04-09T15:16:14Z",
             "updated_at": "2023-04-09T15:16:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.12-_Using_Django_Debug_Toolbar.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/7ZrKGyQxuXZIpxdZprQK"
         }
       ]
     },
@@ -680,7 +696,8 @@
             "created_at": "2023-04-09T15:16:52Z",
             "updated_at": "2023-04-09T15:16:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/P4xBUDaITVeRUiUjhDKp"
         },
         {
           "name": "Building a Data Model (45m) -> 2-_Introduction_to_Data_Modeling.mp4",
@@ -717,7 +734,8 @@
             "created_at": "2023-04-09T15:18:37Z",
             "updated_at": "2023-04-09T15:18:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.2-_Introduction_to_Data_Modeling.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1KMU00STwqf3oTahcA6P"
         },
         {
           "name": "Building a Data Model (45m) -> 3-_Building_an_E-commerce_Data_Model.mp4",
@@ -754,7 +772,8 @@
             "created_at": "2023-04-09T15:20:10Z",
             "updated_at": "2023-04-09T15:20:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.3-_Building_an_E-commerce_Data_Model.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VFMWbOxSR3et6uM2MEM0"
         },
         {
           "name": "Building a Data Model (45m) -> 4-_Organizing_Models_in_Apps.mp4",
@@ -791,7 +810,8 @@
             "created_at": "2023-04-09T15:23:12Z",
             "updated_at": "2023-04-09T15:23:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.4-_Organizing_Models_in_Apps.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VkDGrHUxQH2iNu8gWskM"
         },
         {
           "name": "Building a Data Model (45m) -> 5-_Creating_Models.mp4",
@@ -828,7 +848,8 @@
             "created_at": "2023-04-09T15:26:25Z",
             "updated_at": "2023-04-09T15:26:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.5-_Creating_Models.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2q2cd7iQAqY2bNSy3avR"
         },
         {
           "name": "Building a Data Model (45m) -> 6-_Choice_Fields.mp4",
@@ -865,7 +886,8 @@
             "created_at": "2023-04-09T15:29:58Z",
             "updated_at": "2023-04-09T15:30:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.6-_Choice_Fields.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/r349laGpQbGaruPvnOBF"
         },
         {
           "name": "Building a Data Model (45m) -> 7-_Defining_One-to-one_Relationships.mp4",
@@ -902,7 +924,8 @@
             "created_at": "2023-04-09T15:31:46Z",
             "updated_at": "2023-04-09T15:31:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.7-_Defining_One-to-one_Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YU45tYXREKZ7Wimz5WyQ"
         },
         {
           "name": "Building a Data Model (45m) -> 8-_Defining_a_One-to-many_Relationship.mp4",
@@ -939,7 +962,8 @@
             "created_at": "2023-04-09T15:39:17Z",
             "updated_at": "2023-04-09T15:39:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.8-_Defining_a_One-to-many_Relationship.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bEw6PdPERAOacRnrW6dM"
         },
         {
           "name": "Building a Data Model (45m) -> 9-_Defining_Many-to-many_Relationships.mp4",
@@ -976,7 +1000,8 @@
             "created_at": "2023-04-09T15:42:04Z",
             "updated_at": "2023-04-09T15:42:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.9-_Defining_Many-to-many_Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/yObRI3jGToGZDBr3JBJ4"
         },
         {
           "name": "Building a Data Model (45m) -> 10-_Resolving_Circular_Relationships.mp4",
@@ -1013,7 +1038,8 @@
             "created_at": "2023-04-09T15:45:44Z",
             "updated_at": "2023-04-09T15:45:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.10-_Resolving_Circular_Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gDGJGuLCQdqGxtSEcaMj"
         },
         {
           "name": "Building a Data Model (45m) -> 11-_Generic_Relationships.mp4",
@@ -1050,7 +1076,8 @@
             "created_at": "2023-04-09T15:49:36Z",
             "updated_at": "2023-04-09T15:50:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.11-_Generic_Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ehVgGZSDQEyMfnEM3nZ6"
         }
       ]
     },
@@ -1092,7 +1119,8 @@
             "created_at": "2023-04-09T15:50:14Z",
             "updated_at": "2023-04-09T15:50:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/X6djdggQLqSl1ueCtBAx"
         },
         {
           "name": "Setting Up the Database (40m) -> 2-_Supported_Database_Engines.mp4",
@@ -1129,7 +1157,8 @@
             "created_at": "2023-04-09T15:50:45Z",
             "updated_at": "2023-04-09T15:50:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.2-_Supported_Database_Engines.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SfUtc9eRd2PyfieChXkQ"
         },
         {
           "name": "Setting Up the Database (40m) -> 3-_Creating_Migrations.mp4",
@@ -1166,7 +1195,8 @@
             "created_at": "2023-04-09T15:56:44Z",
             "updated_at": "2023-04-09T15:57:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.3-_Creating_Migrations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eVVmt7zT0OZE5xdJBms2"
         },
         {
           "name": "Setting Up the Database (40m) -> 4-_Running_Migrations.mp4",
@@ -1203,7 +1233,8 @@
             "created_at": "2023-04-09T16:06:59Z",
             "updated_at": "2023-04-09T16:07:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.4-_Running_Migrations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rwOwMLJCRHO0QDUt89dQ"
         },
         {
           "name": "Setting Up the Database (40m) -> 5-_Customizing_Database_Schema.mp4",
@@ -1240,7 +1271,8 @@
             "created_at": "2023-04-09T16:08:53Z",
             "updated_at": "2023-04-09T16:09:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.5-_Customizing_Database_Schema.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AWSG1oJ2TWoguZkLcLyg"
         },
         {
           "name": "Setting Up the Database (40m) -> 6-_Reverting_Migrations.mp4",
@@ -1277,7 +1309,8 @@
             "created_at": "2023-04-09T16:11:22Z",
             "updated_at": "2023-04-09T16:11:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.6-_Reverting_Migrations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PGd3SioaTaT4K2OtkNke"
         },
         {
           "name": "Setting Up the Database (40m) -> 7-_Installing_MySQL.mp4",
@@ -1314,7 +1347,8 @@
             "created_at": "2023-04-09T16:14:39Z",
             "updated_at": "2023-04-09T16:14:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.7-_Installing_MySQL.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/N3uUBo5SAmkLNy5Q95ZQ"
         },
         {
           "name": "Setting Up the Database (40m) -> 8-_Connecting_to_MySQL.mp4",
@@ -1351,7 +1385,8 @@
             "created_at": "2023-04-09T16:17:25Z",
             "updated_at": "2023-04-09T16:17:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.8-_Connecting_to_MySQL.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6fWJcF5aQRm6QNaKNVgm"
         },
         {
           "name": "Setting Up the Database (40m) -> 9-_Using_MySQL_in_Django.mp4",
@@ -1388,7 +1423,8 @@
             "created_at": "2023-04-09T16:26:17Z",
             "updated_at": "2023-04-09T16:26:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.9-_Using_MySQL_in_Django.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9Avlr8tpQOi5dCkHZefg"
         },
         {
           "name": "Setting Up the Database (40m) -> 10- Running Custom SQL.mp4",
@@ -1425,7 +1461,8 @@
             "created_at": "2023-04-09T16:27:37Z",
             "updated_at": "2023-04-09T16:27:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.10-.Running.Custom.SQL.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eS3jWYcQqS6bQcVlAJKQ"
         },
         {
           "name": "Setting Up the Database (40m) -> 11-_Generating_Dummy_Data.mp4",
@@ -1462,7 +1499,8 @@
             "created_at": "2023-04-09T16:30:23Z",
             "updated_at": "2023-04-09T16:30:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.11-_Generating_Dummy_Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rIBpss2AQu6b7E8Ts6Nm"
         }
       ]
     },
@@ -1504,7 +1542,8 @@
             "created_at": "2023-04-09T16:31:17Z",
             "updated_at": "2023-04-09T16:31:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.1_-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g5XjLKc4SJKVwWDYCC0Q"
         },
         {
           "name": "Django ORM (100m) -> 2-_Django_ORM.mp4",
@@ -1541,7 +1580,8 @@
             "created_at": "2023-04-09T16:35:14Z",
             "updated_at": "2023-04-09T16:35:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.2-_Django_ORM.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3FMahDsT8edkwx70T94c"
         },
         {
           "name": "Django ORM (100m) -> 3-_Resetting_the_Database.mp4",
@@ -1578,7 +1618,8 @@
             "created_at": "2023-04-09T16:37:09Z",
             "updated_at": "2023-04-09T16:37:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.3-_Resetting_the_Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZwqdEcR5Tl2GBUS2U5xJ"
         },
         {
           "name": "Django ORM (100m) -> 4-_Managers_and_QuerySets.mp4",
@@ -1615,7 +1656,8 @@
             "created_at": "2023-04-09T16:44:57Z",
             "updated_at": "2023-04-09T16:45:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.4-_Managers_and_QuerySets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/N1qiMwv4QSjbldOkWPog"
         },
         {
           "name": "Django ORM (100m) -> 5-_Retrieving_Objects.mp4",
@@ -1652,7 +1694,8 @@
             "created_at": "2023-04-09T16:47:01Z",
             "updated_at": "2023-04-09T16:47:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.5-_Retrieving_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2RZdxUNIRp2azqkmMbDF"
         },
         {
           "name": "Django ORM (100m) -> 6-_Filtering_Objects.mp4",
@@ -1689,7 +1732,8 @@
             "created_at": "2023-04-09T16:52:19Z",
             "updated_at": "2023-04-09T16:52:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.6-_Filtering_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cvipfW32RJeKr4Mojdde"
         },
         {
           "name": "Django ORM (100m) -> 7-_Complex_Lookups_Using_Q_Objects.mp4",
@@ -1726,7 +1770,8 @@
             "created_at": "2023-04-09T16:53:49Z",
             "updated_at": "2023-04-09T16:53:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.7-_Complex_Lookups_Using_Q_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4ReAVzpsSSSvkrON1Qon"
         },
         {
           "name": "Django ORM (100m) -> 8-_Referencing_Fields_using_F_Objects.mp4",
@@ -1763,7 +1808,8 @@
             "created_at": "2023-04-09T16:55:24Z",
             "updated_at": "2023-04-09T16:55:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.8-_Referencing_Fields_using_F_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YhrwTxhPQhWQOVNLS1Dm"
         },
         {
           "name": "Django ORM (100m) -> 9-_Sorting.mp4",
@@ -1800,7 +1846,8 @@
             "created_at": "2023-04-09T16:57:36Z",
             "updated_at": "2023-04-09T16:57:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.9-_Sorting.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cabHdgVURCHHgeMBSvdo"
         },
         {
           "name": "Django ORM (100m) -> 10-_Limiting_Results.mp4",
@@ -1837,7 +1884,8 @@
             "created_at": "2023-04-09T16:58:16Z",
             "updated_at": "2023-04-09T16:58:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.10-_Limiting_Results.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ehdJj3XZS4KCcPZdLlea"
         },
         {
           "name": "Django ORM (100m) -> 11-_Selecting_Fields_to_Query.mp4",
@@ -1874,7 +1922,8 @@
             "created_at": "2023-04-09T17:06:44Z",
             "updated_at": "2023-04-09T17:07:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.11-_Selecting_Fields_to_Query.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/I7p6QVg1ShWQG28D8F2Y"
         },
         {
           "name": "Django ORM (100m) -> 12-_Deferring_Fields.mp4",
@@ -1911,7 +1960,8 @@
             "created_at": "2023-04-09T17:10:04Z",
             "updated_at": "2023-04-09T17:10:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.12-_Deferring_Fields.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Bfjiz7rSfGrKH47kGoSi"
         },
         {
           "name": "Django ORM (100m) -> 13-_Selecting_Related_Objects.mp4",
@@ -1948,7 +1998,8 @@
             "created_at": "2023-04-09T17:30:27Z",
             "updated_at": "2023-04-09T17:30:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.13-_Selecting_Related_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/CSAnQDJDRwWkBREz1X72"
         },
         {
           "name": "Django ORM (100m) -> 14-_Aggregating_Objects.mp4",
@@ -1985,7 +2036,8 @@
             "created_at": "2023-04-09T17:32:07Z",
             "updated_at": "2023-04-09T17:32:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.14-_Aggregating_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/aIejSvFUQFqdumRY4zjj"
         },
         {
           "name": "Django ORM (100m) -> 15-_Annotating_Objects.mp4",
@@ -2022,7 +2074,8 @@
             "created_at": "2023-04-09T17:33:40Z",
             "updated_at": "2023-04-09T17:33:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.15-_Annotating_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QdqhZ6EgSVa8e9iiVvdo"
         },
         {
           "name": "Django ORM (100m) -> 16-_Calling_Database_Functions.mp4",
@@ -2059,7 +2112,8 @@
             "created_at": "2023-04-09T17:35:19Z",
             "updated_at": "2023-04-09T17:35:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.16-_Calling_Database_Functions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/daAhFcpgQPCyD9mozj9Y"
         },
         {
           "name": "Django ORM (100m) -> 17-_Grouping_Data.mp4",
@@ -2096,7 +2150,8 @@
             "created_at": "2023-04-09T17:36:45Z",
             "updated_at": "2023-04-09T17:36:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.17-_Grouping_Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SQOabXwwQPWqXHehgGCi"
         },
         {
           "name": "Django ORM (100m) -> 18-_Working_with_Expression_Wrappers.mp4",
@@ -2133,7 +2188,8 @@
             "created_at": "2023-04-09T17:38:13Z",
             "updated_at": "2023-04-09T17:38:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.18-_Working_with_Expression_Wrappers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/uksbbjUwS5m8pc4ZHmBu"
         },
         {
           "name": "Django ORM (100m) -> 19-_Querying_Generic_Relationships.mp4",
@@ -2170,7 +2226,8 @@
             "created_at": "2023-04-09T17:44:13Z",
             "updated_at": "2023-04-09T17:44:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.19-_Querying_Generic_Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/KN73OjGTymGpktia47rQ"
         },
         {
           "name": "Django ORM (100m) -> 20-_Custom_Managers.mp4",
@@ -2207,7 +2264,8 @@
             "created_at": "2023-04-09T17:46:17Z",
             "updated_at": "2023-04-09T17:46:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.20-_Custom_Managers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TrXCwJrtS9CcFQGsrQu4"
         },
         {
           "name": "Django ORM (100m) -> 21-_Understanding_QuerySet_Cache.mp4",
@@ -2244,7 +2302,8 @@
             "created_at": "2023-04-09T17:46:57Z",
             "updated_at": "2023-04-09T17:47:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.21-_Understanding_QuerySet_Cache.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dtfPAnyfSnCa8ojRL9fB"
         },
         {
           "name": "Django ORM (100m) -> 22-_Creating_Objects.mp4",
@@ -2281,7 +2340,8 @@
             "created_at": "2023-04-09T17:48:30Z",
             "updated_at": "2023-04-09T17:48:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.22-_Creating_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/0Q7DFybBQnu7OUucayNb"
         },
         {
           "name": "Django ORM (100m) -> 23-_Updating_Objects.mp4",
@@ -2318,7 +2378,8 @@
             "created_at": "2023-04-09T17:50:14Z",
             "updated_at": "2023-04-09T17:50:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.23-_Updating_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ISIGcGH5STiob1F4Csmy"
         },
         {
           "name": "Django ORM (100m) -> 24-_Deleting_Objects.mp4",
@@ -2355,7 +2416,8 @@
             "created_at": "2023-04-09T17:50:45Z",
             "updated_at": "2023-04-09T17:50:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.24-_Deleting_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xhkp1dfQS6h2QTQOoO5A"
         },
         {
           "name": "Django ORM (100m) -> 25-_Transactions.mp4",
@@ -2392,7 +2454,8 @@
             "created_at": "2023-04-09T17:51:52Z",
             "updated_at": "2023-04-09T17:52:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.25-_Transactions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VA9rjSOKQneXYaPLlKnu"
         },
         {
           "name": "Django ORM (100m) -> 26-_Executing_Raw_SQL_Queries.mp4",
@@ -2429,7 +2492,8 @@
             "created_at": "2023-04-09T17:53:48Z",
             "updated_at": "2023-04-09T17:53:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.26-_Executing_Raw_SQL_Queries.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FQinwbvSfmkT47XWjdCp"
         }
       ]
     },
@@ -2471,7 +2535,8 @@
             "created_at": "2023-04-09T17:54:03Z",
             "updated_at": "2023-04-09T17:54:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qi11dSkaSh6vjBAQ7G1v"
         },
         {
           "name": "The Admin Site (1h) -> 2-_Setting_Up_the_Admin_Site.mp4",
@@ -2508,7 +2573,8 @@
             "created_at": "2023-04-09T17:55:21Z",
             "updated_at": "2023-04-09T17:55:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.2-_Setting_Up_the_Admin_Site.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xf3gzmnSyibicahXjsDU"
         },
         {
           "name": "The Admin Site (1h) -> 3-_Registering_Models.mp4",
@@ -2545,7 +2611,8 @@
             "created_at": "2023-04-09T17:56:25Z",
             "updated_at": "2023-04-09T17:56:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.3-_Registering_Models.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/IzMofoUT6afZ0MzwtqFU"
         },
         {
           "name": "The Admin Site (1h) -> 4-_Customizing_the_List_Page.mp4",
@@ -2582,7 +2649,8 @@
             "created_at": "2023-04-09T17:58:20Z",
             "updated_at": "2023-04-09T17:58:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.4-_Customizing_the_List_Page.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XKa5MftwRGDLwq934IwB"
         },
         {
           "name": "The Admin Site (1h) -> 5-_Adding_Computed_Columns.mp4",
@@ -2619,7 +2687,8 @@
             "created_at": "2023-04-09T17:59:11Z",
             "updated_at": "2023-04-09T17:59:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.5-_Adding_Computed_Columns.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g0ewzlR5T12VPsR57nKY"
         },
         {
           "name": "The Admin Site (1h) -> 6-_Selecting_Related_Objects.mp4",
@@ -2656,7 +2725,8 @@
             "created_at": "2023-04-09T18:00:20Z",
             "updated_at": "2023-04-09T18:00:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.6-_Selecting_Related_Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dNEaPfL0QMZZye5fvDDQ"
         },
         {
           "name": "The Admin Site (1h) -> 7-_Overriding_the_Base_QuerySet.mp4",
@@ -2693,7 +2763,8 @@
             "created_at": "2023-04-09T18:01:21Z",
             "updated_at": "2023-04-09T18:01:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.7-_Overriding_the_Base_QuerySet.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AmZ8VWVHTWuONroFL1Yd"
         },
         {
           "name": "The Admin Site (1h) -> 8-_Providing_Links_to_Other_Pages.mp4",
@@ -2730,7 +2801,8 @@
             "created_at": "2023-04-09T18:02:37Z",
             "updated_at": "2023-04-09T18:03:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.8-_Providing_Links_to_Other_Pages.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rBRjqT2XTD2foCBsGSiH"
         },
         {
           "name": "The Admin Site (1h) -> 9-_Adding_Search_to_the_List_Page.mp4",
@@ -2767,7 +2839,8 @@
             "created_at": "2023-04-09T18:03:25Z",
             "updated_at": "2023-04-09T18:03:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.9-_Adding_Search_to_the_List_Page.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dpua9oNyTK6ZnNM4i98S"
         },
         {
           "name": "The Admin Site (1h) -> 10- Adding Filtering to the List Page.mp4",
@@ -2804,7 +2877,8 @@
             "created_at": "2023-04-09T18:04:15Z",
             "updated_at": "2023-04-09T18:04:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.10-.Adding.Filtering.to.the.List.Page.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kaULI913SIOrGsKuG0pW"
         },
         {
           "name": "The Admin Site (1h) -> 11- Creating Custom Actions.mp4",
@@ -2841,7 +2915,8 @@
             "created_at": "2023-04-09T18:05:28Z",
             "updated_at": "2023-04-09T18:05:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.11-.Creating.Custom.Actions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/q0cMWfzeRHI1Yf5nnZvi"
         },
         {
           "name": "The Admin Site (1h) -> 12- Customizing Forms.mp4",
@@ -2878,7 +2953,8 @@
             "created_at": "2023-04-09T18:06:56Z",
             "updated_at": "2023-04-09T18:07:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.12-.Customizing.Forms.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wyf3M04ThuEqzJRcsfOA"
         },
         {
           "name": "The Admin Site (1h) -> 13- Adding Data Validation.mp4",
@@ -2915,7 +2991,8 @@
             "created_at": "2023-04-09T18:08:19Z",
             "updated_at": "2023-04-09T18:08:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.13-.Adding.Data.Validation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/BHLIO5deS4nzlQ3Qt18j"
         },
         {
           "name": "The Admin Site (1h) -> 14- Editing Children Using Inlines.mp4",
@@ -2952,7 +3029,8 @@
             "created_at": "2023-04-09T18:08:46Z",
             "updated_at": "2023-04-09T18:09:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.14-.Editing.Children.Using.Inlines.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/szW25PeITpODuFexxFvC"
         },
         {
           "name": "The Admin Site (1h) -> 15- Using Generic Relations.mp4",
@@ -2989,7 +3067,8 @@
             "created_at": "2023-04-09T18:09:48Z",
             "updated_at": "2023-04-09T18:10:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.15-.Using.Generic.Relations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/UGRdfCS9RpuKHvPX80Zg"
         },
         {
           "name": "The Admin Site (1h) -> 16- Extending Pluggable Apps.mp4",
@@ -3026,7 +3105,8 @@
             "created_at": "2023-04-09T18:16:42Z",
             "updated_at": "2023-04-09T18:16:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.16-.Extending.Pluggable.Apps.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ljtbVW0uSkGZlXtfyYwj"
         },
         {
           "name": "The Admin Site (1h) -> 17- What's Next.mp4",
@@ -3063,7 +3143,8 @@
             "created_at": "2023-04-09T18:17:11Z",
             "updated_at": "2023-04-09T18:17:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.17-.What.s.Next.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RsKDwVtFRRiH1wOQWC63"
         }
       ]
     }

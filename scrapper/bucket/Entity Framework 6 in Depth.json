@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T11:48:13Z",
             "updated_at": "2023-04-09T11:49:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Introduction.1m.-.1-.About.this.Course.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/h0JlMeiZRK7DvbRgCmA8"
         }
       ]
     },
@@ -120,7 +121,8 @@
             "created_at": "2023-04-09T11:49:49Z",
             "updated_at": "2023-04-09T11:50:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3Ei1NHmxSBqgfz7hAsre"
         },
         {
           "name": "Getting Started (35m) -> What is Entity Framework.mp4",
@@ -157,7 +159,8 @@
             "created_at": "2023-04-09T11:50:04Z",
             "updated_at": "2023-04-09T11:50:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.What.is.Entity.Framework.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cCy5XJeoQwyjWcpN1mwI"
         },
         {
           "name": "Getting Started (35m) -> Workflows.mp4",
@@ -194,7 +197,8 @@
             "created_at": "2023-04-09T11:50:08Z",
             "updated_at": "2023-04-09T11:50:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Workflows.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SmKpBUEhTquYxOGsfwX3"
         },
         {
           "name": "Getting Started (35m) -> Demo- Database-first Workflow.mp4",
@@ -231,7 +235,8 @@
             "created_at": "2023-04-09T11:51:41Z",
             "updated_at": "2023-04-09T11:52:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Demo-.Database-first.Workflow.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/V3FV5nixTcOF1vtygq40"
         },
         {
           "name": "Getting Started (35m) -> Demo- Code-first Workflow.mp4",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-09T11:56:41Z",
             "updated_at": "2023-04-09T11:57:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Demo-.Code-first.Workflow.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2EOD7RE7RrWUe1nGL3BH"
         },
         {
           "name": "Getting Started (35m) -> Database-first or Code-first.mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-09T12:02:29Z",
             "updated_at": "2023-04-09T12:02:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Database-first.or.Code-first.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fUFhd0EXTS29rh2mma1o"
         },
         {
           "name": "Getting Started (35m) -> Summary.mp4",
@@ -342,7 +349,8 @@
             "created_at": "2023-04-09T12:03:26Z",
             "updated_at": "2023-04-09T12:03:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fh24ROudSo6ApLeqIGdZ"
         }
       ]
     },
@@ -384,7 +392,8 @@
             "created_at": "2023-04-09T12:06:13Z",
             "updated_at": "2023-04-09T12:06:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9rD5IjQbQUWnphF74UIu"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Setting Up the Database.mp4",
@@ -421,7 +430,8 @@
             "created_at": "2023-04-09T12:06:57Z",
             "updated_at": "2023-04-09T12:07:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Setting.Up.the.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2jDs9c9vQPK9M2vBFxTd"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> A Quick Tour of EDMX Designer.mp4",
@@ -458,7 +468,8 @@
             "created_at": "2023-04-09T12:12:31Z",
             "updated_at": "2023-04-09T12:12:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.A.Quick.Tour.of.EDMX.Designer.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xSNofLGSAS9oTravRyAH"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Uncovering the EDMX.mp4",
@@ -495,7 +506,8 @@
             "created_at": "2023-04-09T12:15:31Z",
             "updated_at": "2023-04-09T12:15:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Uncovering.the.EDMX.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FndCtx5iQ0CIYvwnVMn7"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Connection Strings.mp4",
@@ -532,7 +544,8 @@
             "created_at": "2023-04-09T12:18:12Z",
             "updated_at": "2023-04-09T12:18:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Connection.Strings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/q4GHGDMcS0SkjytRktci"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Dealing with Database Changes.mp4",
@@ -569,7 +582,8 @@
             "created_at": "2023-04-09T12:26:02Z",
             "updated_at": "2023-04-09T12:26:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Dealing.with.Database.Changes.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8lftukJuQAWx9f7lq2yC"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Importing Stored Procedures.mp4",
@@ -606,7 +620,8 @@
             "created_at": "2023-04-09T12:28:59Z",
             "updated_at": "2023-04-09T12:29:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Importing.Stored.Procedures.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/i8NHM6cSYq0MLubzxnay"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Function Imports.mp4",
@@ -643,7 +658,8 @@
             "created_at": "2023-04-09T12:31:02Z",
             "updated_at": "2023-04-09T12:31:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Function.Imports.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/etUjBKivTKOjGyI6EuZ7"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Working with Enums.mp4",
@@ -680,7 +696,8 @@
             "created_at": "2023-04-09T12:32:52Z",
             "updated_at": "2023-04-09T12:33:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Working.with.Enums.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QveGQCZRtG8mU0F23YSX"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Db First - Exercises.pdf",
@@ -717,7 +734,8 @@
             "created_at": "2023-04-09T12:33:15Z",
             "updated_at": "2023-04-09T12:33:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Db.First.-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/PIf36tIISO6gysqBn1SO"
         },
         {
           "name": "Building a Model Using Data-base First Workflow (40m) -> Summary.mp4",
@@ -754,7 +772,8 @@
             "created_at": "2023-04-09T12:34:49Z",
             "updated_at": "2023-04-09T12:34:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Amfa6o8RIC3eELOSrJXB"
         }
       ]
     },
@@ -796,7 +815,8 @@
             "created_at": "2023-04-09T12:36:18Z",
             "updated_at": "2023-04-09T12:36:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/UxcBF4XJRrS1hXndk0nK"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Code First with a New Database.mp4",
@@ -833,7 +853,8 @@
             "created_at": "2023-04-09T12:39:13Z",
             "updated_at": "2023-04-09T12:39:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Code.First.with.a.New.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Cn9XHza7SrGRn0iKl3No"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Code First with Existing Database.mp4",
@@ -870,7 +891,8 @@
             "created_at": "2023-04-09T12:41:04Z",
             "updated_at": "2023-04-09T12:41:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Code.First.with.Existing.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wX1rLlxUR7a35GSoTglQ"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Enabling Migrations.mp4",
@@ -907,7 +929,8 @@
             "created_at": "2023-04-09T12:45:49Z",
             "updated_at": "2023-04-09T12:45:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Enabling.Migrations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gHQNgZUTZCXWCc4F2LtH"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Adding a New Class.mp4",
@@ -944,7 +967,8 @@
             "created_at": "2023-04-09T14:14:59Z",
             "updated_at": "2023-04-09T14:15:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Adding.a.New.Class.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/GHYBTfr4SwanGXnntViF"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Modifying an Existing Class.mp4",
@@ -981,7 +1005,8 @@
             "created_at": "2023-04-09T14:16:46Z",
             "updated_at": "2023-04-09T14:17:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Modifying.an.Existing.Class.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/OzDg8zEpSpayp7Xt740j"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Deleting an Existing Class.mp4",
@@ -1018,7 +1043,8 @@
             "created_at": "2023-04-09T14:17:47Z",
             "updated_at": "2023-04-09T14:17:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Deleting.an.Existing.Class.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/0nMHVNjT6OGMcfvIKMru"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Recovering from Mistakes.mp4",
@@ -1055,7 +1081,8 @@
             "created_at": "2023-04-09T14:22:23Z",
             "updated_at": "2023-04-09T14:22:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Recovering.from.Mistakes.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sMNNAcARIyktRw73A8jx"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Downgrading a Database.mp4",
@@ -1092,7 +1119,8 @@
             "created_at": "2023-04-09T14:43:30Z",
             "updated_at": "2023-04-09T14:43:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Downgrading.a.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Vpw2yvxBTV6m8ypys7RK"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Seeding Database.mp4",
@@ -1129,7 +1157,8 @@
             "created_at": "2023-04-09T14:50:46Z",
             "updated_at": "2023-04-09T14:51:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Seeding.Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wyawfAnyRYGPqeaXyJcu"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Section4 - Exercise Description.pdf",
@@ -1166,7 +1195,8 @@
             "created_at": "2023-04-09T14:51:02Z",
             "updated_at": "2023-04-09T14:51:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Section4.-.Exercise.Description.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/vKPhXgcR66QXiix9YMYc"
         },
         {
           "name": "Building a Model Using Code-first Workflow (40m) -> Summary.mp4",
@@ -1203,7 +1233,8 @@
             "created_at": "2023-04-09T14:55:20Z",
             "updated_at": "2023-04-09T14:55:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Lz3fm7YsSw27UjuQ4YkO"
         }
       ]
     },
@@ -1245,7 +1276,8 @@
             "created_at": "2023-04-09T14:56:32Z",
             "updated_at": "2023-04-09T14:56:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/l9yRJJh8RVSVsMa8nyII"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Overriding Conventions.mp4",
@@ -1282,7 +1314,8 @@
             "created_at": "2023-04-09T14:58:28Z",
             "updated_at": "2023-04-09T14:58:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Overriding.Conventions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/j6BzlUhYRo63bH1akmXi"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Data Annotations.mp4",
@@ -1319,7 +1352,8 @@
             "created_at": "2023-04-09T14:59:16Z",
             "updated_at": "2023-04-09T14:59:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Data.Annotations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kSI5lO7qSSSqT6epF2EA"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Demo- Data Annotations.mp4",
@@ -1356,7 +1390,8 @@
             "created_at": "2023-04-09T15:01:34Z",
             "updated_at": "2023-04-09T15:01:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Demo-.Data.Annotations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XOLNSRyjSsKCk8tLI4k6"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Fluent API- Basics.mp4",
@@ -1393,7 +1428,8 @@
             "created_at": "2023-04-09T15:03:28Z",
             "updated_at": "2023-04-09T15:03:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Basics.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ngcmm4OuQ7y1ABxDSTPh"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Fluent API- Relationships.mp4",
@@ -1430,7 +1466,8 @@
             "created_at": "2023-04-09T15:04:28Z",
             "updated_at": "2023-04-09T15:04:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Relationships.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9Sdiez2CQfeRADrE7Kx3"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Demo- Fluent API.mp4",
@@ -1467,7 +1504,8 @@
             "created_at": "2023-04-09T15:10:06Z",
             "updated_at": "2023-04-09T15:10:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Demo-.Fluent.API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Q8rRVVuyQpmtlRP9GMfF"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Fluent API- Demo Advanced.mp4",
@@ -1504,7 +1542,8 @@
             "created_at": "2023-04-09T15:17:58Z",
             "updated_at": "2023-04-09T15:18:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Demo.Advanced.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HForUgU5SieyO2iBzqjw"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Organizing Fluent API Configurations.mp4",
@@ -1541,7 +1580,8 @@
             "created_at": "2023-04-09T15:21:52Z",
             "updated_at": "2023-04-09T15:22:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Organizing.Fluent.API.Configurations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XQnkJktUSRadJ74v31ax"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Section5 - Exercise Description.pdf",
@@ -1578,7 +1618,8 @@
             "created_at": "2023-04-09T15:22:11Z",
             "updated_at": "2023-04-09T15:22:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Section5.-.Exercise.Description.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gfyl6ZuQAqoahg8v4ux6"
         },
         {
           "name": "Overriding Code-First Conventions (1h10m) -> Summary.mp4",
@@ -1615,7 +1656,8 @@
             "created_at": "2023-04-09T15:31:47Z",
             "updated_at": "2023-04-09T15:32:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/50G0gwokRP2Lf10ZHQGW"
         }
       ]
     },
@@ -1657,7 +1699,8 @@
             "created_at": "2023-04-09T15:33:45Z",
             "updated_at": "2023-04-09T15:33:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wv0BPQqNRmuIJOHXy1FZ"
         },
         {
           "name": "Querying Data (35m) -> What is LINQ.mp4",
@@ -1694,7 +1737,8 @@
             "created_at": "2023-04-09T15:35:48Z",
             "updated_at": "2023-04-09T15:35:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.What.is.LINQ.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1a281xpuRmuEmtjh5NNm"
         },
         {
           "name": "Querying Data (35m) -> LINQ in Action.mp4",
@@ -1731,7 +1775,8 @@
             "created_at": "2023-04-09T15:49:36Z",
             "updated_at": "2023-04-09T15:49:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.LINQ.in.Action.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/keuXBjBmSOi7L6xsemN4"
         },
         {
           "name": "Querying Data (35m) -> LINQ Syntax.mp4",
@@ -1768,7 +1813,8 @@
             "created_at": "2023-04-09T15:54:39Z",
             "updated_at": "2023-04-09T15:55:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.LINQ.Syntax.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/N8XV5a5TsWiqOqUgIhBm"
         },
         {
           "name": "Querying Data (35m) -> LINQ Extension Methods.mp4",
@@ -1805,7 +1851,8 @@
             "created_at": "2023-04-09T16:00:57Z",
             "updated_at": "2023-04-09T16:01:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.LINQ.Extension.Methods.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TWF8L40yRTiuPCbXICHh"
         },
         {
           "name": "Querying Data (35m) -> 6- LINQ Extension Methods- Additional Methods.mp4",
@@ -1842,7 +1889,8 @@
             "created_at": "2023-04-09T16:02:46Z",
             "updated_at": "2023-04-09T16:02:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.6-.LINQ.Extension.Methods-.Additional.Methods.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gRG2L1StKLBdQVRK15wQ"
         },
         {
           "name": "Querying Data (35m) -> Deferred Execution.mp4",
@@ -1879,7 +1927,8 @@
             "created_at": "2023-04-09T16:05:18Z",
             "updated_at": "2023-04-09T16:05:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Deferred.Execution.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cQvfFXbuTEqk14O3sJls"
         },
         {
           "name": "Querying Data (35m) -> IQueryable.mp4",
@@ -1916,7 +1965,8 @@
             "created_at": "2023-04-09T16:07:16Z",
             "updated_at": "2023-04-09T16:07:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.IQueryable.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/5Swnb0CuR5mm5W9ngVb2"
         },
         {
           "name": "Querying Data (35m) -> Section6 - Exercise Description.pdf",
@@ -1953,7 +2003,8 @@
             "created_at": "2023-04-09T16:07:29Z",
             "updated_at": "2023-04-09T16:07:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Section6.-.Exercise.Description.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QQCXZMFbQmm5fGayFMWo"
         },
         {
           "name": "Querying Data (35m) -> Summary.mp4",
@@ -1990,7 +2041,8 @@
             "created_at": "2023-04-09T16:09:11Z",
             "updated_at": "2023-04-09T16:09:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sVndnAyMTlmoaujzA4vv"
         }
       ]
     },
@@ -2032,7 +2084,8 @@
             "created_at": "2023-04-09T16:09:48Z",
             "updated_at": "2023-04-09T16:09:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/OZD6uPApS0WBoHArE2gI"
         },
         {
           "name": "Loading Related Objects (20m) -> Lazy Loading.mp4",
@@ -2069,7 +2122,8 @@
             "created_at": "2023-04-09T16:12:34Z",
             "updated_at": "2023-04-09T16:12:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Lazy.Loading.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dU896NVKT827vBfdXjca"
         },
         {
           "name": "Loading Related Objects (20m) -> N+1 Problem.mp4",
@@ -2106,7 +2160,8 @@
             "created_at": "2023-04-09T16:16:33Z",
             "updated_at": "2023-04-09T16:16:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.N%2B1.Problem.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/C6oHSMDlQ1GgsMJ2XM6e"
         },
         {
           "name": "Loading Related Objects (20m) -> Eager Loading.mp4",
@@ -2143,7 +2198,8 @@
             "created_at": "2023-04-09T16:18:02Z",
             "updated_at": "2023-04-09T16:18:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Eager.Loading.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WDajiaoNRjOeFgzF0TIN"
         },
         {
           "name": "Loading Related Objects (20m) -> Explicit Loading.mp4",
@@ -2180,7 +2236,8 @@
             "created_at": "2023-04-09T16:25:15Z",
             "updated_at": "2023-04-09T16:25:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Explicit.Loading.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9AJ2LyK2RtG6G4KMSYYd"
         },
         {
           "name": "Loading Related Objects (20m) -> Section7 - Exercise Description.pdf",
@@ -2217,7 +2274,8 @@
             "created_at": "2023-04-09T16:25:29Z",
             "updated_at": "2023-04-09T16:25:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Section7.-.Exercise.Description.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/hxNgkMksSQCciq2b4Yud"
         },
         {
           "name": "Loading Related Objects (20m) -> Summary.mp4",
@@ -2254,7 +2312,8 @@
             "created_at": "2023-04-09T16:28:28Z",
             "updated_at": "2023-04-09T16:28:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/i1IPKH9kQ3a1U6ph28BX"
         }
       ]
     },
@@ -2296,7 +2355,8 @@
             "created_at": "2023-04-09T16:30:20Z",
             "updated_at": "2023-04-09T16:30:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Yu1jfrcTxudhKWa6jJ53"
         },
         {
           "name": "Changing Data (30m) -> Overview of Changing Data.mp4",
@@ -2333,7 +2393,8 @@
             "created_at": "2023-04-09T16:30:48Z",
             "updated_at": "2023-04-09T16:30:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Overview.of.Changing.Data.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MmKDMxQTFeHJxX8dFvbk"
         },
         {
           "name": "Changing Data (30m) -> Adding Objects.mp4",
@@ -2370,7 +2431,8 @@
             "created_at": "2023-04-09T16:33:20Z",
             "updated_at": "2023-04-09T16:33:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Adding.Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/hNdSJEdyTUeMxIpEBQH2"
         },
         {
           "name": "Changing Data (30m) -> Updating Objects.mp4",
@@ -2407,7 +2469,8 @@
             "created_at": "2023-04-09T16:34:28Z",
             "updated_at": "2023-04-09T16:34:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Updating.Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8gANuxDVRLCiUfIreVwU"
         },
         {
           "name": "Changing Data (30m) -> Removing Objects.mp4",
@@ -2444,7 +2507,8 @@
             "created_at": "2023-04-09T16:44:49Z",
             "updated_at": "2023-04-09T16:45:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Removing.Objects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lxdgYvpqSFusitd0u8X0"
         },
         {
           "name": "Changing Data (30m) -> Working with Change Tracker.mp4",
@@ -2481,7 +2545,8 @@
             "created_at": "2023-04-09T16:46:29Z",
             "updated_at": "2023-04-09T16:46:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Working.with.Change.Tracker.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gSsdNJvSZmxpyuruoH29"
         },
         {
           "name": "Changing Data (30m) -> LINQPad.mp4",
@@ -2518,7 +2583,8 @@
             "created_at": "2023-04-09T16:57:44Z",
             "updated_at": "2023-04-09T16:57:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.LINQPad.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fsnzayrlSaWxQZ9jphSh"
         },
         {
           "name": "Changing Data (30m) -> Section8 - Exercise Description.pdf",
@@ -2555,7 +2621,8 @@
             "created_at": "2023-04-09T16:57:57Z",
             "updated_at": "2023-04-09T16:57:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Section8.-.Exercise.Description.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1BlPPbfRUONuNaSef84L"
         },
         {
           "name": "Changing Data (30m) -> Summary.mp4",
@@ -2592,7 +2659,8 @@
             "created_at": "2023-04-09T16:58:38Z",
             "updated_at": "2023-04-09T16:58:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YIqZAsqlTfuCNwyIehtj"
         }
       ]
     },
@@ -2634,7 +2702,8 @@
             "created_at": "2023-04-09T17:00:28Z",
             "updated_at": "2023-04-09T17:00:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QnuNsIy5TGWCQxeWlr4Q"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> Repository Pattern.mp4",
@@ -2671,7 +2740,8 @@
             "created_at": "2023-04-09T17:06:32Z",
             "updated_at": "2023-04-09T17:06:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Repository.Pattern.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/W6Xt64MrRxG8p88sKWlI"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> Implementing Repository.mp4",
@@ -2708,7 +2778,8 @@
             "created_at": "2023-04-09T17:10:22Z",
             "updated_at": "2023-04-09T17:10:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Implementing.Repository.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Iu7GVhQpSGqy4jITn8gQ"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> Structuring Your Application.mp4",
@@ -2745,7 +2816,8 @@
             "created_at": "2023-04-09T17:11:35Z",
             "updated_at": "2023-04-09T17:11:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Structuring.Your.Application.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NTZqkyvCQQK9GeAV0Jbo"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> ASP.NET MVC Example.mp4",
@@ -2782,7 +2854,8 @@
             "created_at": "2023-04-09T17:14:44Z",
             "updated_at": "2023-04-09T17:15:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.ASP.NET.MVC.Example.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/tq56S6yDRSmFY3cBWaGn"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> Wpf Example.mp4",
@@ -2819,7 +2892,8 @@
             "created_at": "2023-04-09T17:17:05Z",
             "updated_at": "2023-04-09T17:17:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Wpf.Example.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mGv9DEunQXaZgVnrimQY"
         },
         {
           "name": "Using Entity Framework in Your Applications (35m) -> Summary.mp4",
@@ -2856,7 +2930,8 @@
             "created_at": "2023-04-09T17:31:25Z",
             "updated_at": "2023-04-09T17:31:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/aVMBSbbQR6QG4T8gA2Ha"
         }
       ]
     },

@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T20:10:24Z",
             "updated_at": "2023-04-09T20:10:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Introduction.3m.-.About.this.Course.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/i84scqSrQ52dSZWZvdQJ"
         },
         {
           "name": "Introduction (3m) -> CSharpIntermediate.zip",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-09T20:10:29Z",
             "updated_at": "2023-04-09T20:10:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Introduction.3m.-.CSharpIntermediate.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2QHEQ7f1TqV0jAhPH1u7"
         }
       ]
     },
@@ -157,7 +159,8 @@
             "created_at": "2023-04-09T20:17:16Z",
             "updated_at": "2023-04-09T20:17:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8zw6IHkQom13x8t3ToaE"
         },
         {
           "name": "Classes (1h50m) -> Constructors.mp4",
@@ -194,7 +197,8 @@
             "created_at": "2023-04-09T20:19:12Z",
             "updated_at": "2023-04-09T20:19:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Constructors.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1Sqz3MtNS1MSUAsODIUQ"
         },
         {
           "name": "Classes (1h50m) -> Object Initializers.mp4",
@@ -231,7 +235,8 @@
             "created_at": "2023-04-09T20:20:25Z",
             "updated_at": "2023-04-09T20:20:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Object.Initializers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/IAFrBJXJTNnSbRDr1iKJ"
         },
         {
           "name": "Classes (1h50m) -> Methods.mp4",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-09T20:22:10Z",
             "updated_at": "2023-04-09T20:23:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Methods.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2FVPE6AoTbe0X55HOdPw"
         },
         {
           "name": "Classes (1h50m) -> Fields.mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-09T20:23:20Z",
             "updated_at": "2023-04-09T20:23:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Fields.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DFj71bO3TfWJhzWKl3MF"
         },
         {
           "name": "Classes (1h50m) -> Access Modifiers.mp4",
@@ -342,7 +349,8 @@
             "created_at": "2023-04-09T20:24:18Z",
             "updated_at": "2023-04-09T20:24:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Access.Modifiers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HYmEtxbzQFuvQ6xigDeG"
         },
         {
           "name": "Classes (1h50m) -> Properties.mp4",
@@ -379,7 +387,8 @@
             "created_at": "2023-04-09T20:25:28Z",
             "updated_at": "2023-04-09T20:26:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Properties.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Sq44rf5wRxIggb0DrXzg"
         },
         {
           "name": "Classes (1h50m) -> Indexers.mp4",
@@ -416,7 +425,8 @@
             "created_at": "2023-04-09T20:31:20Z",
             "updated_at": "2023-04-09T20:31:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Indexers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4X5iDhIQomxZd8uAeH7E"
         },
         {
           "name": "Classes (1h50m) -> Summary - Classes.pdf",
@@ -453,7 +463,8 @@
             "created_at": "2023-04-09T20:31:32Z",
             "updated_at": "2023-04-09T20:31:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Summary.-.Classes.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cRtcpN9SHGs8QrFZnkdu"
         },
         {
           "name": "Classes (1h50m) -> Exercises - Classes.pdf",
@@ -490,7 +501,8 @@
             "created_at": "2023-04-09T20:31:33Z",
             "updated_at": "2023-04-09T20:31:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Exercises.-.Classes.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Iiw2BdfqRf6bULCmmVTW"
         }
       ]
     },
@@ -532,7 +544,8 @@
             "created_at": "2023-04-09T20:31:37Z",
             "updated_at": "2023-04-09T20:31:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Class.Coupling.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JDQiNp1OQYqothPOT8Gg"
         },
         {
           "name": "Association Between Classes (25m) -> Inheritance.mp4",
@@ -569,7 +582,8 @@
             "created_at": "2023-04-09T20:31:50Z",
             "updated_at": "2023-04-09T20:32:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Inheritance.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/AYkVFV7QT9mVYCogBXEN"
         },
         {
           "name": "Association Between Classes (25m) -> Composition.mp4",
@@ -606,7 +620,8 @@
             "created_at": "2023-04-09T20:32:09Z",
             "updated_at": "2023-04-09T20:32:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Composition.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cBdvfnmTTqlYR7UPeTz5"
         },
         {
           "name": "Association Between Classes (25m) -> Composition over Inheritance.mp4",
@@ -643,7 +658,8 @@
             "created_at": "2023-04-09T20:32:36Z",
             "updated_at": "2023-04-09T20:32:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Composition.over.Inheritance.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WX7yldF3SBisVURjEzg5"
         },
         {
           "name": "Association Between Classes (25m) -> Summary - Association between Classes.pdf",
@@ -680,7 +696,8 @@
             "created_at": "2023-04-09T20:32:49Z",
             "updated_at": "2023-04-09T20:32:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Summary.-.Association.between.Classes.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZTrBRFoSOyzuxyabBS2L"
         }
       ]
     },
@@ -722,7 +739,8 @@
             "created_at": "2023-04-09T20:34:30Z",
             "updated_at": "2023-04-09T20:35:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Access.Modifiers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/f5JA2iOjRuWkM6AHNP4p"
         },
         {
           "name": "Inheritance: Second Pillar of OOP (50m) -> Constructors.mp4",
@@ -759,7 +777,8 @@
             "created_at": "2023-04-09T20:35:34Z",
             "updated_at": "2023-04-09T20:35:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Constructors.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fywsjRuqRn648jAamGkx"
         },
         {
           "name": "Inheritance: Second Pillar of OOP (50m) -> Upcasting and Downcasting.mp4",
@@ -796,7 +815,8 @@
             "created_at": "2023-04-09T20:37:31Z",
             "updated_at": "2023-04-09T20:37:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Upcasting.and.Downcasting.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/oBMrRWBRbWXYTR1gyRCb"
         },
         {
           "name": "Inheritance: Second Pillar of OOP (50m) -> Boxing and Unboxing.mp4",
@@ -833,7 +853,8 @@
             "created_at": "2023-04-09T20:38:21Z",
             "updated_at": "2023-04-09T20:38:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Boxing.and.Unboxing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xmt08e7R7uRpOj330kiN"
         },
         {
           "name": "Inheritance: Second Pillar of OOP (50m) -> Summary - Inheritance.pdf",
@@ -870,7 +891,8 @@
             "created_at": "2023-04-09T20:38:30Z",
             "updated_at": "2023-04-09T20:38:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Summary.-.Inheritance.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JAjyNPUTiZm3y0K8ojxw"
         },
         {
           "name": "Inheritance: Second Pillar of OOP (50m) -> Exercises - Inheritance.pdf",
@@ -907,7 +929,8 @@
             "created_at": "2023-04-09T20:38:32Z",
             "updated_at": "2023-04-09T20:38:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Exercises.-.Inheritance.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/7m01Ls0RKe6G1hT7Ccfs"
         }
       ]
     },
@@ -949,7 +972,8 @@
             "created_at": "2023-04-09T20:40:00Z",
             "updated_at": "2023-04-09T20:40:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Method.Overriding.Voice.Enhanced.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VMLFty8PSzOiAEl4pYgY"
         },
         {
           "name": "Polymorphism: Third Pillar of OOP (35m) -> Abstract Classes and Members.mp4",
@@ -986,7 +1010,8 @@
             "created_at": "2023-04-09T20:41:48Z",
             "updated_at": "2023-04-09T20:42:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Abstract.Classes.and.Members.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Rmq5jQGmQNin3CuQZoxu"
         },
         {
           "name": "Polymorphism: Third Pillar of OOP (35m) -> Sealed Classes and Members.mp4",
@@ -1023,7 +1048,8 @@
             "created_at": "2023-04-09T20:42:10Z",
             "updated_at": "2023-04-09T20:42:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Sealed.Classes.and.Members.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/n2Q0hsDSNahjQcXJWy8c"
         },
         {
           "name": "Polymorphism: Third Pillar of OOP (35m) -> Summary - Polymorphism.pdf",
@@ -1060,7 +1086,8 @@
             "created_at": "2023-04-09T20:42:13Z",
             "updated_at": "2023-04-09T20:42:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Summary.-.Polymorphism.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/pOPi0MtWTtqRcP6vgJom"
         },
         {
           "name": "Polymorphism: Third Pillar of OOP (35m) -> Exercises - Polymorphism.pdf",
@@ -1097,7 +1124,8 @@
             "created_at": "2023-04-09T20:42:14Z",
             "updated_at": "2023-04-09T20:42:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Exercises.-.Polymorphism.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Qga12arpRCu93GJwGf5p"
         }
       ]
     },
@@ -1139,7 +1167,8 @@
             "created_at": "2023-04-09T20:42:20Z",
             "updated_at": "2023-04-09T20:42:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RcszZXnHSVu1nfKUCCk5"
         },
         {
           "name": "Interfaces (1h5m) -> Testability.mp4",
@@ -1176,7 +1205,8 @@
             "created_at": "2023-04-09T20:44:01Z",
             "updated_at": "2023-04-09T20:45:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Testability.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/vDOEyCRSaC8lZjTmdS8Q"
         },
         {
           "name": "Interfaces (1h5m) -> Extensibility.mp4",
@@ -1213,7 +1243,8 @@
             "created_at": "2023-04-09T20:46:32Z",
             "updated_at": "2023-04-09T20:47:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Extensibility.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DI0TD2wQTcigMTJQnykx"
         },
         {
           "name": "Interfaces (1h5m) -> Multiple Inheritance.mp4",
@@ -1250,7 +1281,8 @@
             "created_at": "2023-04-09T20:47:20Z",
             "updated_at": "2023-04-09T20:47:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Multiple.Inheritance.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/E435MdcRG6nqXA4WD2zJ"
         },
         {
           "name": "Interfaces (1h5m) -> Polymorphism.mp4",
@@ -1287,7 +1319,8 @@
             "created_at": "2023-04-09T20:48:56Z",
             "updated_at": "2023-04-09T20:49:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Polymorphism.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2GkKqoVGToWaPTmnfqVD"
         },
         {
           "name": "Interfaces (1h5m) -> Summary - Interfaces.pdf",
@@ -1324,7 +1357,8 @@
             "created_at": "2023-04-09T20:49:19Z",
             "updated_at": "2023-04-09T20:49:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Summary.-.Interfaces.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eaBkkDF0TbmWqObdAiPk"
         },
         {
           "name": "Interfaces (1h5m) -> Exercises - Interfaces.pdf",
@@ -1361,7 +1395,8 @@
             "created_at": "2023-04-09T20:49:20Z",
             "updated_at": "2023-04-09T20:49:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Exercises.-.Interfaces.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/i8a9XxSSKWZHVMkbtTdA"
         }
       ]
     },
@@ -1403,7 +1438,8 @@
             "created_at": "2023-04-09T20:49:36Z",
             "updated_at": "2023-04-09T20:49:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Students.Code.Reviews.35m.-.StopWatch.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/T0wMHPVNQcSa04nIJdjd"
         },
         {
           "name": "Students' Code Reviews (35m) -> Stack.mp4",
@@ -1440,7 +1476,8 @@
             "created_at": "2023-04-09T20:50:16Z",
             "updated_at": "2023-04-09T20:50:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Students.Code.Reviews.35m.-.Stack.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JLC1ujJQ8qHaEA4mQhCe"
         },
         {
           "name": "Students' Code Reviews (35m) -> WorkflowEngine.mp4",
@@ -1477,7 +1514,8 @@
             "created_at": "2023-04-09T20:51:00Z",
             "updated_at": "2023-04-09T20:51:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Students.Code.Reviews.35m.-.WorkflowEngine.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/opfuFwbZQCuHTpJQaIfs"
         }
       ]
     }

@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T20:03:06Z",
             "updated_at": "2023-04-09T20:03:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Getting.Started.6m.-.1-.Welcome.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/36XI4ThSAG6TZFSJaG3l"
         },
         {
           "name": "Getting Started (6m) -> 2- Setting Up the Project.mp4",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-09T20:05:02Z",
             "updated_at": "2023-04-09T20:05:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Getting.Started.6m.-.2-.Setting.Up.the.Project.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZO2lJDmbSeKPaex46acC"
         }
       ]
     },
@@ -157,7 +159,8 @@
             "created_at": "2023-04-09T20:05:58Z",
             "updated_at": "2023-04-09T20:06:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gloSt9j7SRgKzjdDzhgP"
         },
         {
           "name": "Uploading Files (37m) -> 2-_Managing_Media_Files.mp4",
@@ -194,7 +197,8 @@
             "created_at": "2023-04-09T20:06:41Z",
             "updated_at": "2023-04-09T20:07:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.2-_Managing_Media_Files.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/y5ozt2dDRjmnSFSyvnWv"
         },
         {
           "name": "Uploading Files (37m) -> 3-_Adding_Images_to_Products.mp4",
@@ -231,7 +235,8 @@
             "created_at": "2023-04-09T20:07:50Z",
             "updated_at": "2023-04-09T20:08:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.3-_Adding_Images_to_Products.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mDVYaY9T4KpSN9fbM0pG"
         },
         {
           "name": "Uploading Files (37m) -> 4-_Building_an_API_to_Upload_Images.mp4",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-09T20:09:03Z",
             "updated_at": "2023-04-09T20:09:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.4-_Building_an_API_to_Upload_Images.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lTcDdmVQYCsc13gB0blw"
         },
         {
           "name": "Uploading Files (37m) -> 5-_Returning_Images_from_the_API.mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-09T20:10:22Z",
             "updated_at": "2023-04-09T20:10:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.5-_Returning_Images_from_the_API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8SdFQuhiRdmBU5zpt2Un"
         },
         {
           "name": "Uploading Files (37m) -> 6-_Validating_Uploaded_Files.mp4",
@@ -342,7 +349,8 @@
             "created_at": "2023-04-09T20:11:14Z",
             "updated_at": "2023-04-09T20:11:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.6-_Validating_Uploaded_Files.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZZi74cQOSS6RsqFbfoIi"
         },
         {
           "name": "Uploading Files (37m) -> 7-_Setting_Up_the_Client_App.mp4",
@@ -379,7 +387,8 @@
             "created_at": "2023-04-09T20:11:47Z",
             "updated_at": "2023-04-09T20:11:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.7-_Setting_Up_the_Client_App.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/GYpkS81pT9iuwW80xo1L"
         },
         {
           "name": "Uploading Files (37m) -> 8-_Enabling_CORS.mp4",
@@ -416,7 +425,8 @@
             "created_at": "2023-04-09T20:13:23Z",
             "updated_at": "2023-04-09T20:13:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.8-_Enabling_CORS.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XhVcVYEVROaWRujwwjc3"
         },
         {
           "name": "Uploading Files (37m) -> 9-_Managing_Images_in_the_Admin.mp4",
@@ -453,7 +463,8 @@
             "created_at": "2023-04-09T20:14:39Z",
             "updated_at": "2023-04-09T20:15:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.9-_Managing_Images_in_the_Admin.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YLQHCdEeSUeSItMBBkn7"
         }
       ]
     },
@@ -495,7 +506,8 @@
             "created_at": "2023-04-09T20:15:27Z",
             "updated_at": "2023-04-09T20:15:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dk4HNcPkRCm4RaFAqnss"
         },
         {
           "name": "Sending Emails (17m) -> 2-_Setting_up_a_Fake_SMTP_Server.mp4",
@@ -532,7 +544,8 @@
             "created_at": "2023-04-09T20:15:50Z",
             "updated_at": "2023-04-09T20:16:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.2-_Setting_up_a_Fake_SMTP_Server.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lIxQRvcSiSlobTGZxHes"
         },
         {
           "name": "Sending Emails (17m) -> 3-_Configuring_the_Email_Backend.mp4",
@@ -569,7 +582,8 @@
             "created_at": "2023-04-09T20:16:27Z",
             "updated_at": "2023-04-09T20:16:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.3-_Configuring_the_Email_Backend.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/hnr7nmdKS2ScDy9RFzKa"
         },
         {
           "name": "Sending Emails (17m) -> 4-_Sending_Emails.mp4",
@@ -606,7 +620,8 @@
             "created_at": "2023-04-09T20:16:57Z",
             "updated_at": "2023-04-09T20:17:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.4-_Sending_Emails.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NWgZ4Qg8RyWo743sn2nx"
         },
         {
           "name": "Sending Emails (17m) -> 5-_Attaching_Files.mp4",
@@ -643,7 +658,8 @@
             "created_at": "2023-04-09T20:17:39Z",
             "updated_at": "2023-04-09T20:17:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.5-_Attaching_Files.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eENWzscORbWLjXlL46SU"
         },
         {
           "name": "Sending Emails (17m) -> 6-_Sending_Templated_Emails.mp4",
@@ -680,7 +696,8 @@
             "created_at": "2023-04-09T20:18:33Z",
             "updated_at": "2023-04-09T20:18:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Sending.Emails.17m.-.6-_Sending_Templated_Emails.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Mg22G5WWRIeGbSCmE0gT"
         }
       ]
     },
@@ -722,7 +739,8 @@
             "created_at": "2023-04-09T20:18:58Z",
             "updated_at": "2023-04-09T20:19:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/d3jrF3NFTOyDxA1KVY75"
         },
         {
           "name": "Running Background Tasks (25m) -> 2-_Introduction_to_Celery.mp4",
@@ -759,7 +777,8 @@
             "created_at": "2023-04-09T20:20:01Z",
             "updated_at": "2023-04-09T20:20:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.2-_Introduction_to_Celery.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/uKp7GWT3S1PFUeTWUFqi"
         },
         {
           "name": "Running Background Tasks (25m) -> 3-_Message_Brokers.mp4",
@@ -796,7 +815,8 @@
             "created_at": "2023-04-09T20:20:50Z",
             "updated_at": "2023-04-09T20:21:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.3-_Message_Brokers.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NYXuclWYSA6WXMDP2B2R"
         },
         {
           "name": "Running Background Tasks (25m) -> 4-_Installing_Redis.mp4",
@@ -833,7 +853,8 @@
             "created_at": "2023-04-09T20:21:23Z",
             "updated_at": "2023-04-09T20:21:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.4-_Installing_Redis.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HmS2qUiSSx6pkza5dpIl"
         },
         {
           "name": "Running Background Tasks (25m) -> 5-_Celery_and_Windows.mp4",
@@ -870,7 +891,8 @@
             "created_at": "2023-04-09T20:21:56Z",
             "updated_at": "2023-04-09T20:22:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.5-_Celery_and_Windows.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/CKxNpHsBRHQYbMEMmHDK"
         },
         {
           "name": "Running Background Tasks (25m) -> 6-_Setting_Up_Celery.mp4",
@@ -907,7 +929,8 @@
             "created_at": "2023-04-09T20:22:30Z",
             "updated_at": "2023-04-09T20:23:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.6-_Setting_Up_Celery.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lnM9Jk7ST96XeWkrufN5"
         },
         {
           "name": "Running Background Tasks (25m) -> 7-_Creating_and_Executing_Tasks.mp4",
@@ -944,7 +967,8 @@
             "created_at": "2023-04-09T20:23:52Z",
             "updated_at": "2023-04-09T20:24:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.7-_Creating_and_Executing_Tasks.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Hza6enhuS9WiStGibBh1"
         },
         {
           "name": "Running Background Tasks (25m) -> 8-_Scheduling_Periodic_Tasks.mp4",
@@ -981,7 +1005,8 @@
             "created_at": "2023-04-09T20:24:34Z",
             "updated_at": "2023-04-09T20:24:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.8-_Scheduling_Periodic_Tasks.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mbBtBo7qTzy0mjn5Z9Cg"
         },
         {
           "name": "Running Background Tasks (25m) -> 9-_Monitoring_Celery_Tasks.mp4",
@@ -1018,7 +1043,8 @@
             "created_at": "2023-04-09T20:25:12Z",
             "updated_at": "2023-04-09T20:25:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.9-_Monitoring_Celery_Tasks.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/oC0KWgn9Tn6crh36NKh2"
         }
       ]
     },
@@ -1060,7 +1086,8 @@
             "created_at": "2023-04-09T20:25:35Z",
             "updated_at": "2023-04-09T20:25:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HB4ykUY2TyiIQlZCXtOR"
         },
         {
           "name": "Automated Testing (45m) -> 2-_What_is_Automated_Testing.mp4",
@@ -1097,7 +1124,8 @@
             "created_at": "2023-04-09T20:26:11Z",
             "updated_at": "2023-04-09T20:26:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.2-_What_is_Automated_Testing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TScpR24dQMSPRIm06uQJ"
         },
         {
           "name": "Automated Testing (45m) -> 3-_Test_Behaviours_Not_Implementations.mp4",
@@ -1134,7 +1162,8 @@
             "created_at": "2023-04-09T20:27:28Z",
             "updated_at": "2023-04-09T20:27:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.3-_Test_Behaviours_Not_Implementations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VMEa83ISY2TsaZ2nrKNa"
         },
         {
           "name": "Automated Testing (45m) -> 4-_Tooling.mp4",
@@ -1171,7 +1200,8 @@
             "created_at": "2023-04-09T20:33:51Z",
             "updated_at": "2023-04-09T20:34:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.4-_Tooling.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qRcsRGRRQMKuMoADN25B"
         },
         {
           "name": "Automated Testing (45m) -> 5-_Your_First_Test.mp4",
@@ -1208,7 +1238,8 @@
             "created_at": "2023-04-09T20:34:29Z",
             "updated_at": "2023-04-09T20:34:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.5-_Your_First_Test.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VvtsaQ8rT6qiCKVX4Eb5"
         },
         {
           "name": "Automated Testing (45m) -> 6-_Running_Tests.mp4",
@@ -1245,7 +1276,8 @@
             "created_at": "2023-04-09T20:36:00Z",
             "updated_at": "2023-04-09T20:36:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.6-_Running_Tests.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/feMeB1wHS9abQk3dIBIc"
         },
         {
           "name": "Automated Testing (45m) -> 7-_Skipping_Tests.mp4",
@@ -1282,7 +1314,8 @@
             "created_at": "2023-04-09T20:36:36Z",
             "updated_at": "2023-04-09T20:36:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.7-_Skipping_Tests.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6odTYZT7Tpa8exyKAsj3"
         },
         {
           "name": "Automated Testing (45m) -> 8-_Continuous_Testing.mp4",
@@ -1319,7 +1352,8 @@
             "created_at": "2023-04-09T20:36:53Z",
             "updated_at": "2023-04-09T20:37:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.8-_Continuous_Testing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MRri5T7zSMuam0V3U7RN"
         },
         {
           "name": "Automated Testing (45m) -> 9-_Running_and_Debugging_Tests_in_VSCode.mp4",
@@ -1356,7 +1390,8 @@
             "created_at": "2023-04-09T20:37:42Z",
             "updated_at": "2023-04-09T20:38:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.9-_Running_and_Debugging_Tests_in_VSCode.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WmAyVcjKT3Ofes6wBCJJ"
         },
         {
           "name": "Automated Testing (45m) -> 10-_Authenticating_the_User.mp4",
@@ -1393,7 +1428,8 @@
             "created_at": "2023-04-09T20:38:11Z",
             "updated_at": "2023-04-09T20:38:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.10-_Authenticating_the_User.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ixLeuP4SX2OUCdta7Paw"
         },
         {
           "name": "Automated Testing (45m) -> 11-_Single_or_Multiple_Assertions.mp4",
@@ -1430,7 +1466,8 @@
             "created_at": "2023-04-09T20:39:12Z",
             "updated_at": "2023-04-09T20:39:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.11-_Single_or_Multiple_Assertions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1nZmsw3USBG70Fpd6f4p"
         },
         {
           "name": "Automated Testing (45m) -> 12-_Fixtures.mp4",
@@ -1467,7 +1504,8 @@
             "created_at": "2023-04-09T20:40:29Z",
             "updated_at": "2023-04-09T20:41:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.12-_Fixtures.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9NP9r7DwTTubeo50RA4l"
         },
         {
           "name": "Automated Testing (45m) -> 13-_Creating_Model_Instances.mp4",
@@ -1504,7 +1542,8 @@
             "created_at": "2023-04-09T20:42:53Z",
             "updated_at": "2023-04-09T20:43:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.13-_Creating_Model_Instances.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mP49Fg35R4yQpFX6FgP1"
         }
       ]
     },
@@ -1546,7 +1585,8 @@
             "created_at": "2023-04-09T20:44:14Z",
             "updated_at": "2023-04-09T20:44:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ps45Pv7RHy2yQ9bQwPQz"
         },
         {
           "name": "Performance Testing (35m) -> 2-_Why_Performance_Testing.mp4",
@@ -1583,7 +1623,8 @@
             "created_at": "2023-04-09T20:45:51Z",
             "updated_at": "2023-04-09T20:46:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.2-_Why_Performance_Testing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ru7ZmEHLTeWRG2JbdyAn"
         },
         {
           "name": "Performance Testing (35m) -> 3-_Installing_Locust.mp4",
@@ -1620,7 +1661,8 @@
             "created_at": "2023-04-09T20:46:18Z",
             "updated_at": "2023-04-09T20:46:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.3-_Installing_Locust.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dJ7Zq7kQG27dhHCeXfpE"
         },
         {
           "name": "Performance Testing (35m) -> 4-_Creating_a_Test_Script.mp4",
@@ -1657,7 +1699,8 @@
             "created_at": "2023-04-09T20:46:49Z",
             "updated_at": "2023-04-09T20:47:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.4-_Creating_a_Test_Script.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/B7LloUOqSuWfJqgEvuui"
         },
         {
           "name": "Performance Testing (35m) -> 5-_Running_a_Test_Script.mp4",
@@ -1694,7 +1737,8 @@
             "created_at": "2023-04-09T20:48:19Z",
             "updated_at": "2023-04-09T20:48:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.5-_Running_a_Test_Script.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FpgYyf7NRquOfxXpsjOQ"
         },
         {
           "name": "Performance Testing (35m) -> 6-_Running_a_Performance_Test.mp4",
@@ -1731,7 +1775,8 @@
             "created_at": "2023-04-09T20:49:28Z",
             "updated_at": "2023-04-09T20:49:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.6-_Running_a_Performance_Test.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZzpmOsHT4qwof68FQLJA"
         },
         {
           "name": "Performance Testing (35m) -> 7-_Performance_Optimization_Techniques.mp4",
@@ -1768,7 +1813,8 @@
             "created_at": "2023-04-09T21:01:47Z",
             "updated_at": "2023-04-09T21:02:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.7-_Performance_Optimization_Techniques.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/EHDvuPe2Tmisny4p309f"
         },
         {
           "name": "Performance Testing (35m) -> 8-_Profiling_with_Silk.mp4",
@@ -1805,7 +1851,8 @@
             "created_at": "2023-04-09T21:03:11Z",
             "updated_at": "2023-04-09T21:03:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.8-_Profiling_with_Silk.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/7nucMtL4S2m377m5046H"
         },
         {
           "name": "Performance Testing (35m) -> 9-_Verifying_Optimizations.mp4",
@@ -1842,7 +1889,8 @@
             "created_at": "2023-04-09T21:04:02Z",
             "updated_at": "2023-04-09T21:04:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.9-_Verifying_Optimizations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dlo4daQgSqONxtneZ3d4"
         },
         {
           "name": "Performance Testing (35m) -> 10-_Stress_Testing.mp4",
@@ -1879,7 +1927,8 @@
             "created_at": "2023-04-09T21:05:48Z",
             "updated_at": "2023-04-09T21:06:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Performance.Testing.35m.-.10-_Stress_Testing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Cr7jzzKdTMQLRjP5avgu"
         }
       ]
     },
@@ -1921,7 +1970,8 @@
             "created_at": "2023-04-09T21:06:29Z",
             "updated_at": "2023-04-09T21:06:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3XvUI7q6Tz2dhY9Zyx6g"
         },
         {
           "name": "Caching (22m) -> 2-_What_is_Caching.mp4",
@@ -1958,7 +2008,8 @@
             "created_at": "2023-04-09T21:07:05Z",
             "updated_at": "2023-04-09T21:07:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.2-_What_is_Caching.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6lpUOD3SSKqbTJC6kVMA"
         },
         {
           "name": "Caching (22m) -> 3-_Cache_Backends.mp4",
@@ -1995,7 +2046,8 @@
             "created_at": "2023-04-09T21:08:02Z",
             "updated_at": "2023-04-09T21:08:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.3-_Cache_Backends.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/twhauxr5Tf6nOCLgQxoY"
         },
         {
           "name": "Caching (22m) -> 4-_Simulating_a_Slow_API.mp4",
@@ -2032,7 +2084,8 @@
             "created_at": "2023-04-09T21:09:43Z",
             "updated_at": "2023-04-09T21:09:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.4-_Simulating_a_Slow_API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/0uvbF5W7SwGopXXRtEGA"
         },
         {
           "name": "Caching (22m) -> 5-_Getting_a_Baseline_Performance_Benchmark.mp4",
@@ -2069,7 +2122,8 @@
             "created_at": "2023-04-09T21:10:10Z",
             "updated_at": "2023-04-09T21:10:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.5-_Getting_a_Baseline_Performance_Benchmark.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bQkJttSTRyJEJ1wuN28g"
         },
         {
           "name": "Caching (22m) -> 6-_Installing_Redis.mp4",
@@ -2106,7 +2160,8 @@
             "created_at": "2023-04-09T21:10:35Z",
             "updated_at": "2023-04-09T21:10:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.6-_Installing_Redis.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/BASFdNTRIOngwmydDoaV"
         },
         {
           "name": "Caching (22m) -> 7-_Configuring_Caching.mp4",
@@ -2143,7 +2198,8 @@
             "created_at": "2023-04-09T21:11:09Z",
             "updated_at": "2023-04-09T21:11:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.7-_Configuring_Caching.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LnVpEfJRp2GchbKNCPk9"
         },
         {
           "name": "Caching (22m) -> 8-_Using_the_Low-level_Cache_API.mp4",
@@ -2180,7 +2236,8 @@
             "created_at": "2023-04-09T21:11:59Z",
             "updated_at": "2023-04-09T21:12:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.8-_Using_the_Low-level_Cache_API.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LEdbLKqcQkSdMxiD2AL1"
         },
         {
           "name": "Caching (22m) -> 9-_Caching_Views.mp4",
@@ -2217,7 +2274,8 @@
             "created_at": "2023-04-09T21:19:11Z",
             "updated_at": "2023-04-09T21:19:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.9-_Caching_Views.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wKKaSAgcSF53nJNUosza"
         },
         {
           "name": "Caching (22m) -> 10-_Verifying_Optimizations.mp4",
@@ -2254,7 +2312,8 @@
             "created_at": "2023-04-09T21:19:54Z",
             "updated_at": "2023-04-09T21:20:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.10-_Verifying_Optimizations.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/7zEgT8RUScCInrhbyqmr"
         },
         {
           "name": "Caching (22m) -> 11-_Managing_Redis_Cache_Content.mp4",
@@ -2291,7 +2350,8 @@
             "created_at": "2023-04-09T21:20:14Z",
             "updated_at": "2023-04-09T21:20:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Caching.22m.-.11-_Managing_Redis_Cache_Content.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/iKNsudwNQM6LCgZMY9ab"
         }
       ]
     },
@@ -2333,7 +2393,8 @@
             "created_at": "2023-04-09T21:20:34Z",
             "updated_at": "2023-04-09T21:20:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/a8fC3D6fQA2M5iacDlnZ"
         },
         {
           "name": "Preparing for Production (30m) -> 2-_Adding_the_Home_Page.mp4",
@@ -2370,7 +2431,8 @@
             "created_at": "2023-04-09T21:20:45Z",
             "updated_at": "2023-04-09T21:20:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.2-_Adding_the_Home_Page.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZO9Q45gHS1OzR9wjmDq7"
         },
         {
           "name": "Preparing for Production (30m) -> 3-_Adding_Static_Assets.mp4",
@@ -2407,7 +2469,8 @@
             "created_at": "2023-04-09T21:24:11Z",
             "updated_at": "2023-04-09T21:24:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.3-_Adding_Static_Assets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/50KPRBgrQk6SkUwbHsAL"
         },
         {
           "name": "Preparing for Production (30m) -> 4-_Collecting_Static_Assets.mp4",
@@ -2444,7 +2507,8 @@
             "created_at": "2023-04-09T21:24:42Z",
             "updated_at": "2023-04-09T21:24:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.4-_Collecting_Static_Assets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ae0TAwUkQ6yWaaKGIceU"
         },
         {
           "name": "Preparing for Production (30m) -> 5-_Serving_Static_Assets.mp4",
@@ -2481,7 +2545,8 @@
             "created_at": "2023-04-09T21:26:56Z",
             "updated_at": "2023-04-09T21:27:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.5-_Serving_Static_Assets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/nAs6Rwo1RyynNj3LJbwR"
         },
         {
           "name": "Preparing for Production (30m) -> 6-_Configuring_Logging.mp4",
@@ -2518,7 +2583,8 @@
             "created_at": "2023-04-09T21:32:36Z",
             "updated_at": "2023-04-09T21:32:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.6-_Configuring_Logging.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RIc6GsPlSZ6UiVMZkp8R"
         },
         {
           "name": "Preparing for Production (30m) -> 7-_Logging.mp4",
@@ -2555,7 +2621,8 @@
             "created_at": "2023-04-09T21:33:40Z",
             "updated_at": "2023-04-09T21:34:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.7-_Logging.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/o6OiPUgGS8GyesQCOQq0"
         },
         {
           "name": "Preparing for Production (30m) -> 8-_Managing_Development_and_Production_Settings.mp4",
@@ -2592,7 +2659,8 @@
             "created_at": "2023-04-09T21:35:06Z",
             "updated_at": "2023-04-09T21:35:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.8-_Managing_Development_and_Production_Settings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/V4MicIRSTxCCuiNVArWz"
         },
         {
           "name": "Preparing for Production (30m) -> 9-_Serving_the_Application_with_Gunicorn.mp4",
@@ -2629,7 +2697,8 @@
             "created_at": "2023-04-09T21:35:45Z",
             "updated_at": "2023-04-09T21:35:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Preparing.for.Production.30m.-.9-_Serving_the_Application_with_Gunicorn.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sS5NQcXzTpaaogfRNusL"
         }
       ]
     },
@@ -2671,7 +2740,8 @@
             "created_at": "2023-04-09T21:35:56Z",
             "updated_at": "2023-04-09T21:35:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.1-_Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/KF7YK6cZQYTWBdodx97A"
         },
         {
           "name": "Deployment (37m) -> 2-_Hosting_Options.mp4",
@@ -2708,7 +2778,8 @@
             "created_at": "2023-04-09T21:36:01Z",
             "updated_at": "2023-04-09T21:36:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.2-_Hosting_Options.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9vEOJBd1R1q3u58stQyn"
         },
         {
           "name": "Deployment (37m) -> 3-_Adding_Project_to_Git.mp4",
@@ -2745,7 +2816,8 @@
             "created_at": "2023-04-09T21:36:15Z",
             "updated_at": "2023-04-09T21:36:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.3-_Adding_Project_to_Git.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xjA6ubZRKWw6gp2jYA3z"
         },
         {
           "name": "Deployment (37m) -> 4-_Getting_Started_with_Heroku.mp4",
@@ -2782,7 +2854,8 @@
             "created_at": "2023-04-09T21:36:38Z",
             "updated_at": "2023-04-09T21:36:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.4-_Getting_Started_with_Heroku.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3blvxPrMTNSwFzZVW65G"
         },
         {
           "name": "Deployment (37m) -> 5-_Creating_a_Heroku_App.mp4",
@@ -2819,7 +2892,8 @@
             "created_at": "2023-04-09T21:36:55Z",
             "updated_at": "2023-04-09T21:36:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.5-_Creating_a_Heroku_App.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8qzBX8ZQwSaIweaVTO0y"
         },
         {
           "name": "Deployment (37m) -> 6-_Setting_Environment_Variables.mp4",
@@ -2856,7 +2930,8 @@
             "created_at": "2023-04-09T21:37:05Z",
             "updated_at": "2023-04-09T21:37:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.6-_Setting_Environment_Variables.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/tbMjbnjvTV2ZJYQhzmgH"
         },
         {
           "name": "Deployment (37m) -> 7-_Creating_a_Procfile.mp4",
@@ -2893,7 +2968,8 @@
             "created_at": "2023-04-09T21:37:14Z",
             "updated_at": "2023-04-09T21:37:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.7-_Creating_a_Procfile.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LNhRleKGQQiR0qSsUnpU"
         },
         {
           "name": "Deployment (37m) -> 8-_Provisioning_a_MySQL_Database.mp4",
@@ -2930,7 +3006,8 @@
             "created_at": "2023-04-09T21:37:40Z",
             "updated_at": "2023-04-09T21:37:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.8-_Provisioning_a_MySQL_Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YvPWZ5UyTeyzmnW0flTc"
         },
         {
           "name": "Deployment (37m) -> 9-_Provisioning_a_Redis_Instance.mp4",
@@ -2967,7 +3044,8 @@
             "created_at": "2023-04-09T21:41:52Z",
             "updated_at": "2023-04-09T21:42:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.9-_Provisioning_a_Redis_Instance.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/EAI1R2oeQrOFy0Jah96q"
         },
         {
           "name": "Deployment (37m) -> 10-_Provisioning_an_SMTP_Server.mp4",
@@ -3004,7 +3082,8 @@
             "created_at": "2023-04-09T21:44:27Z",
             "updated_at": "2023-04-09T21:44:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.10-_Provisioning_an_SMTP_Server.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/71uRlV6RAae9XH4k87yP"
         },
         {
           "name": "Deployment (37m) -> 11-_Deploying_the_Application.mp4",
@@ -3041,7 +3120,8 @@
             "created_at": "2023-04-09T21:45:15Z",
             "updated_at": "2023-04-09T21:45:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.11-_Deploying_the_Application.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/F1RuMmdgQJqsmm3eVmu5"
         },
         {
           "name": "Deployment (37m) -> 12_-_Populating_the_Database.mp4",
@@ -3078,7 +3158,8 @@
             "created_at": "2023-04-09T21:45:54Z",
             "updated_at": "2023-04-09T21:46:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.12_-_Populating_the_Database.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6jYqnVgGQmOXJBqdBL9u"
         },
         {
           "name": "Deployment (37m) -> 13-_Dockerizing_the_App.mp4",
@@ -3115,7 +3196,8 @@
             "created_at": "2023-04-09T21:46:45Z",
             "updated_at": "2023-04-09T21:47:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.13-_Dockerizing_the_App.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bPkeWOZQci2QESA8L2Sw"
         },
         {
           "name": "Deployment (37m) -> 14-_Course_Wrap_Up.mp4",
@@ -3152,7 +3234,8 @@
             "created_at": "2023-04-09T21:47:33Z",
             "updated_at": "2023-04-09T21:47:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.14-_Course_Wrap_Up.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/EIBe32cIRjuTz2Goab9F"
         }
       ]
     }

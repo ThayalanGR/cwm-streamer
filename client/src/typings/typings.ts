@@ -11,6 +11,7 @@ export interface ICourseSection {
 
 export interface ICourseAsset {
   name: string;
+  originUrl: string;
   assetData: {
     url: string;
     id: number;

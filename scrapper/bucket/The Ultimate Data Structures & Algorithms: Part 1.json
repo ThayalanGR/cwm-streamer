@@ -78,7 +78,8 @@
             "created_at": "2023-04-10T20:47:28Z",
             "updated_at": "2023-04-10T20:47:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Getting.Started.-.1-.Course.Outline.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/70YKMGJ5QT2YfN8mCeE2"
         },
         {
           "name": "Getting Started -> Data Structures - Part 1.zip",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-10T20:47:50Z",
             "updated_at": "2023-04-10T20:47:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Getting.Started.-.Data.Structures.-.Part.1.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RHR8uEj0TIUoB07XpQvB"
         }
       ]
     },
@@ -157,7 +159,8 @@
             "created_at": "2023-04-10T20:47:53Z",
             "updated_at": "2023-04-10T20:47:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/jLfZB3gQamNJPq8ofDhN"
         },
         {
           "name": "The Big O Notation (16 m) -> 2- What is Big O.mp4",
@@ -194,7 +197,8 @@
             "created_at": "2023-04-10T20:48:29Z",
             "updated_at": "2023-04-10T20:48:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.2-.What.is.Big.O.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xg9GxOKaS2CgP1miKpmX"
         },
         {
           "name": "The Big O Notation (16 m) -> 3- O(1).mp4",
@@ -231,7 +235,8 @@
             "created_at": "2023-04-10T20:48:43Z",
             "updated_at": "2023-04-10T20:48:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.3-.O.1.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fWO9ymnlQ7uDT4K9s5Ia"
         },
         {
           "name": "The Big O Notation (16 m) -> 4- O(n).mp4",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-10T20:48:56Z",
             "updated_at": "2023-04-10T20:49:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.4-.O.n.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RF7hTREHQTuj0rF9wQeg"
         },
         {
           "name": "The Big O Notation (16 m) -> 5- O(n^2).mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-10T20:49:11Z",
             "updated_at": "2023-04-10T20:49:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.5-.O.n.2.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/VgZ6YKzSQ3aSigduN78q"
         },
         {
           "name": "The Big O Notation (16 m) -> 6- O(log n).mp4",
@@ -342,7 +349,8 @@
             "created_at": "2023-04-10T20:49:19Z",
             "updated_at": "2023-04-10T20:49:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.6-.O.log.n.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LIOshrFR7OOUYfMXI5D3"
         },
         {
           "name": "The Big O Notation (16 m) -> 7- O(2^n).mp4",
@@ -379,7 +387,8 @@
             "created_at": "2023-04-10T20:49:25Z",
             "updated_at": "2023-04-10T20:49:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.7-.O.2.n.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/R9tUqYo0TSa1MVYzNf12"
         },
         {
           "name": "The Big O Notation (16 m) -> 8- Space Complexity.mp4",
@@ -416,7 +425,8 @@
             "created_at": "2023-04-10T20:49:54Z",
             "updated_at": "2023-04-10T20:50:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.8-.Space.Complexity.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DC6vhfyWSr625KQPNTsr"
         },
         {
           "name": "The Big O Notation (16 m) -> 9- Cheat Sheet.pdf",
@@ -453,7 +463,8 @@
             "created_at": "2023-04-10T20:50:16Z",
             "updated_at": "2023-04-10T20:50:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.9-.Cheat.Sheet.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Z6uNbEgpQyaKrb0XxrJN"
         }
       ]
     },
@@ -495,7 +506,8 @@
             "created_at": "2023-04-10T20:50:27Z",
             "updated_at": "2023-04-10T20:50:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/S6ufYgOQ3aC9guw5mv3b"
         },
         {
           "name": "Arrays (30 m) -> 2- Understanding Arrays.mp4",
@@ -532,7 +544,8 @@
             "created_at": "2023-04-10T20:51:08Z",
             "updated_at": "2023-04-10T20:51:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.2-.Understanding.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TjBslJYSimP5XI6rlGaS"
         },
         {
           "name": "Arrays (30 m) -> 3- Working with Arrays in Java.mp4",
@@ -569,7 +582,8 @@
             "created_at": "2023-04-10T20:53:50Z",
             "updated_at": "2023-04-10T20:53:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.3-.Working.with.Arrays.in.Java.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/IztFh1elTu6dKB9i9OjA"
         },
         {
           "name": "Arrays (30 m) -> 4- Exercise- Array Class.mp4",
@@ -606,7 +620,8 @@
             "created_at": "2023-04-10T20:54:30Z",
             "updated_at": "2023-04-10T20:54:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.4-.Exercise-.Array.Class.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/CqG0voaSQFSbV9dNKzdk"
         },
         {
           "name": "Arrays (30 m) -> 5- Solution- Creating the Class.mp4",
@@ -643,7 +658,8 @@
             "created_at": "2023-04-10T20:55:01Z",
             "updated_at": "2023-04-10T20:55:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.5-.Solution-.Creating.the.Class.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dGfqkDeYRPa3uueglloQ"
         },
         {
           "name": "Arrays (30 m) -> 6- Solution- insert().mp4",
@@ -680,7 +696,8 @@
             "created_at": "2023-04-10T20:55:38Z",
             "updated_at": "2023-04-10T20:55:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.6-.Solution-.insert.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/GdB8mQcdQY6IejlyQpIK"
         },
         {
           "name": "Arrays (30 m) -> 7- Solution- removeAt().mp4",
@@ -717,7 +734,8 @@
             "created_at": "2023-04-10T21:00:44Z",
             "updated_at": "2023-04-10T21:00:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.7-.Solution-.removeAt.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wTrvEjkxQkWGxp2Z3rbZ"
         },
         {
           "name": "Arrays (30 m) -> 8- Solution- indexOf().mp4",
@@ -754,7 +772,8 @@
             "created_at": "2023-04-10T21:01:13Z",
             "updated_at": "2023-04-10T21:01:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.8-.Solution-.indexOf.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/j1P3UDSQW6s5TtzjcZLQ"
         },
         {
           "name": "Arrays (30 m) -> 9- Dynamic Arrays.mp4",
@@ -791,7 +810,8 @@
             "created_at": "2023-04-10T21:01:40Z",
             "updated_at": "2023-04-10T21:01:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.9-.Dynamic.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/EyStyAJSQ82SIR20ScGd"
         },
         {
           "name": "Arrays (30 m) -> 10- Arrays- Exercises.pdf",
@@ -828,7 +848,8 @@
             "created_at": "2023-04-10T21:01:50Z",
             "updated_at": "2023-04-10T21:01:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.10-.Arrays-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QqIYQBDRdqiB7O0AmyTs"
         },
         {
           "name": "Arrays (30 m) -> 11- Summary.mp4",
@@ -865,7 +886,8 @@
             "created_at": "2023-04-10T21:01:59Z",
             "updated_at": "2023-04-10T21:02:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.11-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/niRGDIemR7vOWWoT3JKf"
         }
       ]
     },
@@ -907,7 +929,8 @@
             "created_at": "2023-04-10T21:02:05Z",
             "updated_at": "2023-04-10T21:02:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WJrLWIh5TS2Jb2PtzMMZ"
         },
         {
           "name": "Linked Lists (54 m) -> 2- What are Linked Lists.mp4",
@@ -944,7 +967,8 @@
             "created_at": "2023-04-10T21:02:22Z",
             "updated_at": "2023-04-10T21:02:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.2-.What.are.Linked.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YekxiRODRkWIxkVTivTF"
         },
         {
           "name": "Linked Lists (54 m) -> 3- Working with Linked Lists.mp4",
@@ -981,7 +1005,8 @@
             "created_at": "2023-04-10T21:02:56Z",
             "updated_at": "2023-04-10T21:03:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.3-.Working.with.Linked.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bZhhKsn6QmKeQqXQHz9b"
         },
         {
           "name": "Linked Lists (54 m) -> 4- Exercise- Building a Linked List.mp4",
@@ -1018,7 +1043,8 @@
             "created_at": "2023-04-10T21:03:16Z",
             "updated_at": "2023-04-10T21:03:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.4-.Exercise-.Building.a.Linked.List.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3q0Oqrf3QJeTR00lp1Gx"
         },
         {
           "name": "Linked Lists (54 m) -> 5- Solution- addLast.mp4",
@@ -1055,7 +1081,8 @@
             "created_at": "2023-04-10T21:04:17Z",
             "updated_at": "2023-04-10T21:04:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.5-.Solution-.addLast.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xXUZupSQiRcVYXLvc4xg"
         },
         {
           "name": "Linked Lists (54 m) -> 6- Solution- addFirst.mp4",
@@ -1092,7 +1119,8 @@
             "created_at": "2023-04-10T21:04:54Z",
             "updated_at": "2023-04-10T21:05:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.6-.Solution-.addFirst.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cjIvN1LoQAWSdSsZWcSd"
         },
         {
           "name": "Linked Lists (54 m) -> 7- Solution- indexOf.mp4",
@@ -1129,7 +1157,8 @@
             "created_at": "2023-04-10T21:05:18Z",
             "updated_at": "2023-04-10T21:05:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.7-.Solution-.indexOf.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/lEBHmobPREmnnkOXQGlH"
         },
         {
           "name": "Linked Lists (54 m) -> 8- Solution- contains.mp4",
@@ -1166,7 +1195,8 @@
             "created_at": "2023-04-10T21:05:45Z",
             "updated_at": "2023-04-10T21:05:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.8-.Solution-.contains.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/WaQASRESSW5fiMKy2gVV"
         },
         {
           "name": "Linked Lists (54 m) -> 9- Solution- removeFirst.mp4",
@@ -1203,7 +1233,8 @@
             "created_at": "2023-04-10T21:06:49Z",
             "updated_at": "2023-04-10T21:07:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.9-.Solution-.removeFirst.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MaCaiVOGSBauDifggtny"
         },
         {
           "name": "Linked Lists (54 m) -> 10- Solution- removeLast().mp4",
@@ -1240,7 +1271,8 @@
             "created_at": "2023-04-10T21:08:02Z",
             "updated_at": "2023-04-10T21:08:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.10-.Solution-.removeLast.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/iCB1dhmgTQyzbUprNR3p"
         },
         {
           "name": "Linked Lists (54 m) -> 11- Implementing size().mp4",
@@ -1277,7 +1309,8 @@
             "created_at": "2023-04-10T21:08:55Z",
             "updated_at": "2023-04-10T21:09:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.11-.Implementing.size.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fwck8BHbTlW7nP90SJu0"
         },
         {
           "name": "Linked Lists (54 m) -> 12- Converting Linked Lists to Arrays.mp4",
@@ -1314,7 +1347,8 @@
             "created_at": "2023-04-10T21:10:54Z",
             "updated_at": "2023-04-10T21:11:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.12-.Converting.Linked.Lists.to.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8904CKPjSSGtRZZbje5z"
         },
         {
           "name": "Linked Lists (54 m) -> 13- Cheat Sheets.mp4",
@@ -1351,7 +1385,8 @@
             "created_at": "2023-04-10T21:11:21Z",
             "updated_at": "2023-04-10T21:11:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.13-.Cheat.Sheets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/NEXxfO4USOWGff7m51vD"
         },
         {
           "name": "Linked Lists (54 m) -> 14- Arrays vs Linked Lists.mp4",
@@ -1388,7 +1423,8 @@
             "created_at": "2023-04-10T21:12:04Z",
             "updated_at": "2023-04-10T21:12:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.14-.Arrays.vs.Linked.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/t4BcQLfhQymbgdvkzH1S"
         },
         {
           "name": "Linked Lists (54 m) -> 15- Types of Linked Lists.mp4",
@@ -1425,7 +1461,8 @@
             "created_at": "2023-04-10T21:12:35Z",
             "updated_at": "2023-04-10T21:12:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.15-.Types.of.Linked.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/jHnQIsPTS3ubQQzrha8y"
         },
         {
           "name": "Linked Lists (54 m) -> 16- Exercise- Reversing a Linked List.mp4",
@@ -1462,7 +1499,8 @@
             "created_at": "2023-04-10T21:12:54Z",
             "updated_at": "2023-04-10T21:12:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.16-.Exercise-.Reversing.a.Linked.List.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fBkbAWZTTsqxy5fMhIsk"
         },
         {
           "name": "Linked Lists (54 m) -> 17- Solution- Reversing a Linked List.mp4",
@@ -1499,7 +1537,8 @@
             "created_at": "2023-04-10T21:13:43Z",
             "updated_at": "2023-04-10T21:14:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.17-.Solution-.Reversing.a.Linked.List.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YFnFmFLTTXa4UBGqPivx"
         },
         {
           "name": "Linked Lists (54 m) -> 18- Exercise- Kth Node from the End.mp4",
@@ -1536,7 +1575,8 @@
             "created_at": "2023-04-10T21:14:25Z",
             "updated_at": "2023-04-10T21:14:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.18-.Exercise-.Kth.Node.from.the.End.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/T9UOhjidSlOGBBQse98L"
         },
         {
           "name": "Linked Lists (54 m) -> 19- Solution- Kth Node from the End.mp4",
@@ -1573,7 +1613,8 @@
             "created_at": "2023-04-10T21:20:01Z",
             "updated_at": "2023-04-10T21:20:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.19-.Solution-.Kth.Node.from.the.End.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9v6qdTgmTdydjpqNOP6M"
         },
         {
           "name": "Linked Lists (54 m) -> 20- Linked Lists- Exercises.pdf",
@@ -1610,7 +1651,8 @@
             "created_at": "2023-04-10T21:20:16Z",
             "updated_at": "2023-04-10T21:20:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.20-.Linked.Lists-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cifZS6cSL2rJvvOecnBc"
         },
         {
           "name": "Linked Lists (54 m) -> 21- Summary.mp4",
@@ -1647,7 +1689,8 @@
             "created_at": "2023-04-10T21:20:20Z",
             "updated_at": "2023-04-10T21:20:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.21-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/0UBgmytrRd2Ik2ogs3cs"
         }
       ]
     },
@@ -1689,7 +1732,8 @@
             "created_at": "2023-04-10T21:20:27Z",
             "updated_at": "2023-04-10T21:20:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fz4BsciMRe2j0HxJRaiF"
         },
         {
           "name": "Stacks (42 m) -> 2- What are Stacks.mp4",
@@ -1726,7 +1770,8 @@
             "created_at": "2023-04-10T21:20:53Z",
             "updated_at": "2023-04-10T21:21:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.2-.What.are.Stacks.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/OxbLsmWnQiCwprfG9QYM"
         },
         {
           "name": "Stacks (42 m) -> 3- Working with Stacks.mp4",
@@ -1763,7 +1808,8 @@
             "created_at": "2023-04-10T21:21:35Z",
             "updated_at": "2023-04-10T21:21:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.3-.Working.with.Stacks.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ERVtyV7Sy6SUNKMFi4Yy"
         },
         {
           "name": "Stacks (42 m) -> 4- Exercise- Reversing a String.mp4",
@@ -1800,7 +1846,8 @@
             "created_at": "2023-04-10T21:22:02Z",
             "updated_at": "2023-04-10T21:22:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.4-.Exercise-.Reversing.a.String.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1DvZ7UUSkKZHZpa7fGAI"
         },
         {
           "name": "Stacks (42 m) -> 5- Solution - Reversing a String.mp4",
@@ -1837,7 +1884,8 @@
             "created_at": "2023-04-10T21:27:41Z",
             "updated_at": "2023-04-10T21:27:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.5-.Solution.-.Reversing.a.String.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/w9zzNK4eSA2lMXKbGj7n"
         },
         {
           "name": "Stacks (42 m) -> 6- Exercise- Balanced Expressions.mp4",
@@ -1874,7 +1922,8 @@
             "created_at": "2023-04-10T21:28:17Z",
             "updated_at": "2023-04-10T21:28:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.6-.Exercise-.Balanced.Expressions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kbWPoMjQOvJD8iJdPsQu"
         },
         {
           "name": "Stacks (42 m) -> 7- Solution- A Basic Implementation.mp4",
@@ -1911,7 +1960,8 @@
             "created_at": "2023-04-10T21:33:09Z",
             "updated_at": "2023-04-10T21:33:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.7-.Solution-.A.Basic.Implementation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/UWT9buN0SB2wDUeyRiGc"
         },
         {
           "name": "Stacks (42 m) -> 8- Solution- Supporting Other Brackets.mp4",
@@ -1948,7 +1998,8 @@
             "created_at": "2023-04-10T21:34:12Z",
             "updated_at": "2023-04-10T21:34:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.8-.Solution-.Supporting.Other.Brackets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/qlZsLVGxTSKJTCy7jNsE"
         },
         {
           "name": "Stacks (42 m) -> 9- Solution- First Refactoring.mp4",
@@ -1985,7 +2036,8 @@
             "created_at": "2023-04-10T21:36:03Z",
             "updated_at": "2023-04-10T21:36:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.9-.Solution-.First.Refactoring.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cOZJOBZS9OhFMj12kroe"
         },
         {
           "name": "Stacks (42 m) -> 10- Solution- Second Refactoring.mp4",
@@ -2022,7 +2074,8 @@
             "created_at": "2023-04-10T21:38:41Z",
             "updated_at": "2023-04-10T21:39:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.10-.Solution-.Second.Refactoring.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dda072lQS167MAiKoiUO"
         },
         {
           "name": "Stacks (42 m) -> 11- Exercise- Building a Stack Using an Array.mp4",
@@ -2059,7 +2112,8 @@
             "created_at": "2023-04-10T21:39:41Z",
             "updated_at": "2023-04-10T21:39:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.11-.Exercise-.Building.a.Stack.Using.an.Array.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/l1MVe8sCTAK4cRGT24OF"
         },
         {
           "name": "Stacks (42 m) -> 12- Solution- Implementing a Stack Using an Array.mp4",
@@ -2096,7 +2150,8 @@
             "created_at": "2023-04-10T21:47:45Z",
             "updated_at": "2023-04-10T21:48:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.12-.Solution-.Implementing.a.Stack.Using.an.Array.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rvsxNNXRA6YRdCdfwjFR"
         },
         {
           "name": "Stacks (42 m) -> 13- Stacks- Exercises.pdf",
@@ -2133,7 +2188,8 @@
             "created_at": "2023-04-10T21:48:11Z",
             "updated_at": "2023-04-10T21:48:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.13-.Stacks-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mvy4zyuDRcazczJz5lVm"
         },
         {
           "name": "Stacks (42 m) -> 14- Summary.mp4",
@@ -2170,7 +2226,8 @@
             "created_at": "2023-04-10T21:48:16Z",
             "updated_at": "2023-04-10T21:48:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.14-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/J07JrC0jQLalyTY9unph"
         }
       ]
     },
@@ -2212,7 +2269,8 @@
             "created_at": "2023-04-10T21:48:21Z",
             "updated_at": "2023-04-10T21:48:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/owuc6BgIQmWf0nwDro9C"
         },
         {
           "name": "Queues (53 m) -> 2- What are Queues.mp4",
@@ -2249,7 +2307,8 @@
             "created_at": "2023-04-10T21:49:04Z",
             "updated_at": "2023-04-10T21:49:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.2-.What.are.Queues.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g7kZlMPSXumf3PjyOPsb"
         },
         {
           "name": "Queues (53 m) -> 3- Queues in Java.mp4",
@@ -2286,7 +2345,8 @@
             "created_at": "2023-04-10T21:50:51Z",
             "updated_at": "2023-04-10T21:51:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.3-.Queues.in.Java.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9rzR1NMaRVqYZvR4Mv0E"
         },
         {
           "name": "Queues (53 m) -> 4- Exercise- Reversing a Queue.mp4",
@@ -2323,7 +2383,8 @@
             "created_at": "2023-04-10T21:51:21Z",
             "updated_at": "2023-04-10T21:51:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.4-.Exercise-.Reversing.a.Queue.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/W9fglN8RASUNFQkxcpXq"
         },
         {
           "name": "Queues (53 m) -> 5- Solution- Reversing a Queue.mp4",
@@ -2360,7 +2421,8 @@
             "created_at": "2023-04-10T21:51:50Z",
             "updated_at": "2023-04-10T21:52:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.5-.Solution-.Reversing.a.Queue.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6EtKN9t3SC2N39giQdkJ"
         },
         {
           "name": "Queues (53 m) -> 6- Exercise- Building a Queue Using an Array.mp4",
@@ -2397,7 +2459,8 @@
             "created_at": "2023-04-10T21:52:19Z",
             "updated_at": "2023-04-10T21:52:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.6-.Exercise-.Building.a.Queue.Using.an.Array.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/c42yBxZaQrS8FulWMH24"
         },
         {
           "name": "Queues (53 m) -> 7- Solution- A Basic Implementation.mp4",
@@ -2434,7 +2497,8 @@
             "created_at": "2023-04-10T21:53:52Z",
             "updated_at": "2023-04-10T21:54:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.7-.Solution-.A.Basic.Implementation.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/p3ciwcgUQtW4vKNaikE8"
         },
         {
           "name": "Queues (53 m) -> 8- Solution- Circular Arrays.mp4",
@@ -2471,7 +2535,8 @@
             "created_at": "2023-04-10T21:54:55Z",
             "updated_at": "2023-04-10T21:55:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.8-.Solution-.Circular.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/w1OoxgOaQlyBnjiliK2D"
         },
         {
           "name": "Queues (53 m) -> 9- Exercise- Implementing a Queue Using a Stack.mp4",
@@ -2508,7 +2573,8 @@
             "created_at": "2023-04-10T21:55:15Z",
             "updated_at": "2023-04-10T21:55:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.9-.Exercise-.Implementing.a.Queue.Using.a.Stack.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/IpAC94tFR9efv7eRwZ92"
         },
         {
           "name": "Queues (53 m) -> 10- Solution- Building a Queue Using a Stack.mp4",
@@ -2545,7 +2611,8 @@
             "created_at": "2023-04-10T21:56:42Z",
             "updated_at": "2023-04-10T21:57:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.10-.Solution-.Building.a.Queue.Using.a.Stack.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/J9EzGMXITFyJMSk206kf"
         },
         {
           "name": "Queues (53 m) -> 11- Priority Queues.mp4",
@@ -2582,7 +2649,8 @@
             "created_at": "2023-04-10T21:59:44Z",
             "updated_at": "2023-04-10T21:59:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.11-.Priority.Queues.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/y88lC0pcRnuXy3lCNXAt"
         },
         {
           "name": "Queues (53 m) -> 12- Exercise- Building a Priority Queue.mp4",
@@ -2619,7 +2687,8 @@
             "created_at": "2023-04-10T22:00:21Z",
             "updated_at": "2023-04-10T22:00:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.12-.Exercise-.Building.a.Priority.Queue.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6r4W4xWhQkSnGmrwTm2Z"
         },
         {
           "name": "Queues (53 m) -> 13- Solution- Building a Priority Queue.mp4",
@@ -2656,7 +2725,8 @@
             "created_at": "2023-04-10T22:01:47Z",
             "updated_at": "2023-04-10T22:02:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.13-.Solution-.Building.a.Priority.Queue.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kWg4jkgSQjiqV7lhvfHJ"
         },
         {
           "name": "Queues (53 m) -> 14- Solution- Refactoring.mp4",
@@ -2693,7 +2763,8 @@
             "created_at": "2023-04-10T22:05:16Z",
             "updated_at": "2023-04-10T22:05:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.14-.Solution-.Refactoring.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/4PlLsGWXSOqk1625SAzY"
         },
         {
           "name": "Queues (53 m) -> 15- Queues- Exercises.pdf",
@@ -2730,7 +2801,8 @@
             "created_at": "2023-04-10T22:05:27Z",
             "updated_at": "2023-04-10T22:05:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.15-.Queues-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XqQJyaH0Tjuw7Nb2odsh"
         },
         {
           "name": "Queues (53 m) -> 16- Summary.mp4",
@@ -2767,7 +2839,8 @@
             "created_at": "2023-04-10T22:05:33Z",
             "updated_at": "2023-04-10T22:05:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.16-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JucL3RTXSPKl1bKEBV7B"
         }
       ]
     },
@@ -2809,7 +2882,8 @@
             "created_at": "2023-04-10T22:05:39Z",
             "updated_at": "2023-04-10T22:05:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.1-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YlZgWHF6Qs25iyKoXsvZ"
         },
         {
           "name": "Hash Tables (68 m) -> 2- What are Hash Tables.mp4",
@@ -2846,7 +2920,8 @@
             "created_at": "2023-04-10T22:05:53Z",
             "updated_at": "2023-04-10T22:05:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.2-.What.are.Hash.Tables.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/OFqGScEORAydl3wgXTO9"
         },
         {
           "name": "Hash Tables (68 m) -> 3- Working with Hash Tables.mp4",
@@ -2883,7 +2958,8 @@
             "created_at": "2023-04-10T22:07:43Z",
             "updated_at": "2023-04-10T22:08:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.3-.Working.with.Hash.Tables.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bPg19RacSI2mT0cPJ7nn"
         },
         {
           "name": "Hash Tables (68 m) -> 4- Exercise- Find the First Non-repeated Character.mp4",
@@ -2920,7 +2996,8 @@
             "created_at": "2023-04-10T22:08:25Z",
             "updated_at": "2023-04-10T22:08:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.4-.Exercise-.Find.the.First.Non-repeated.Character.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dH47B47yQ1SKGK79yW6e"
         },
         {
           "name": "Hash Tables (68 m) -> 5- Solution- First Non-repeating Character.mp4",
@@ -2957,7 +3034,8 @@
             "created_at": "2023-04-10T22:15:36Z",
             "updated_at": "2023-04-10T22:15:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.5-.Solution-.First.Non-repeating.Character.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/MhIcOZSQR1aeSLTIZYLV"
         },
         {
           "name": "Hash Tables (68 m) -> 6- Sets.mp4",
@@ -2994,7 +3072,8 @@
             "created_at": "2023-04-10T22:16:26Z",
             "updated_at": "2023-04-10T22:16:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.6-.Sets.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/V1EzcJxfTOq9la4k089c"
         },
         {
           "name": "Hash Tables (68 m) -> 7- Exercise- First Repeated Character.mp4",
@@ -3031,7 +3110,8 @@
             "created_at": "2023-04-10T22:16:40Z",
             "updated_at": "2023-04-10T22:16:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.7-.Exercise-.First.Repeated.Character.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YEN5Gl2QgKhh3rpSan1U"
         },
         {
           "name": "Hash Tables (68 m) -> 8- Solution- First Repeated Character.mp4",
@@ -3068,7 +3148,8 @@
             "created_at": "2023-04-10T22:16:59Z",
             "updated_at": "2023-04-10T22:17:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.8-.Solution-.First.Repeated.Character.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/9awYNt41RJOCLXBXlYeu"
         },
         {
           "name": "Hash Tables (68 m) -> 9- Hash Functions.mp4",
@@ -3105,7 +3186,8 @@
             "created_at": "2023-04-10T22:18:20Z",
             "updated_at": "2023-04-10T22:18:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.9-.Hash.Functions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8v1NhutXSB2wS12RU9hC"
         },
         {
           "name": "Hash Tables (68 m) -> 10- Collisions.mp4",
@@ -3142,7 +3224,8 @@
             "created_at": "2023-04-10T22:18:43Z",
             "updated_at": "2023-04-10T22:18:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.10-.Collisions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/O173bYITToWVvhOLr8ZO"
         },
         {
           "name": "Hash Tables (68 m) -> 11- Chaining.mp4",
@@ -3179,7 +3262,8 @@
             "created_at": "2023-04-10T22:18:50Z",
             "updated_at": "2023-04-10T22:18:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.11-.Chaining.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kx6agQTSHyv724Svpix6"
         },
         {
           "name": "Hash Tables (68 m) -> 12- Open Addressing- Linear Probing.mp4",
@@ -3216,7 +3300,8 @@
             "created_at": "2023-04-10T22:19:01Z",
             "updated_at": "2023-04-10T22:19:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.12-.Open.Addressing-.Linear.Probing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bkyJuZBpS6afSLxRzzth"
         },
         {
           "name": "Hash Tables (68 m) -> 13- Open Addressing- Quadratic Probing.mp4",
@@ -3253,7 +3338,8 @@
             "created_at": "2023-04-10T22:19:10Z",
             "updated_at": "2023-04-10T22:19:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.13-.Open.Addressing-.Quadratic.Probing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/1rNsN4kBRBCBAVIEo1Em"
         },
         {
           "name": "Hash Tables (68 m) -> 14- Open Addressing- Double Hashing.mp4",
@@ -3290,7 +3376,8 @@
             "created_at": "2023-04-10T22:19:27Z",
             "updated_at": "2023-04-10T22:19:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.14-.Open.Addressing-.Double.Hashing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/j22ZteLqSOKpXhlTigMH"
         },
         {
           "name": "Hash Tables (68 m) -> 15- Exercise- Build a HashTable.mp4",
@@ -3327,7 +3414,8 @@
             "created_at": "2023-04-10T22:19:55Z",
             "updated_at": "2023-04-10T22:20:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.15-.Exercise-.Build.a.HashTable.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/jSy06uq4RnCRoMP6Fxlk"
         },
         {
           "name": "Hash Tables (68 m) -> 16- Solution- put().mp4",
@@ -3364,7 +3452,8 @@
             "created_at": "2023-04-10T22:21:25Z",
             "updated_at": "2023-04-10T22:21:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.16-.Solution-.put.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/u765RQkfSYiGMUiWpBrw"
         },
         {
           "name": "Hash Tables (68 m) -> 17- Solution- get().mp4",
@@ -3401,7 +3490,8 @@
             "created_at": "2023-04-10T22:22:32Z",
             "updated_at": "2023-04-10T22:22:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.17-.Solution-.get.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/cFEBG7GRRitXkG55YcCU"
         },
         {
           "name": "Hash Tables (68 m) -> 18- Solution- remove().mp4",
@@ -3438,7 +3528,8 @@
             "created_at": "2023-04-10T22:23:12Z",
             "updated_at": "2023-04-10T22:23:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.18-.Solution-.remove.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/z2yqsFZQEjcQ7cYMKa7g"
         },
         {
           "name": "Hash Tables (68 m) -> 19- Solution- Refactoring.mp4",
@@ -3475,7 +3566,8 @@
             "created_at": "2023-04-10T22:24:37Z",
             "updated_at": "2023-04-10T22:25:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.19-.Solution-.Refactoring.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QAdy9HLSrORaFBEohJtw"
         },
         {
           "name": "Hash Tables (68 m) -> 20- Hash Tables- Exercises.pdf",
@@ -3512,7 +3604,8 @@
             "created_at": "2023-04-10T22:25:14Z",
             "updated_at": "2023-04-10T22:25:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.20-.Hash.Tables-.Exercises.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FtlIqnMlRSuMtthRGNQx"
         },
         {
           "name": "Hash Tables (68 m) -> 21- Summary.mp4",
@@ -3549,7 +3642,8 @@
             "created_at": "2023-04-10T22:25:25Z",
             "updated_at": "2023-04-10T22:25:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.21-.Summary.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/T6pLvDOHSiJSCzTXzCtV"
         },
         {
           "name": "Hash Tables (68 m) -> 22- Course Wrap Up.mp4",
@@ -3586,7 +3680,8 @@
             "created_at": "2023-04-10T22:25:58Z",
             "updated_at": "2023-04-10T22:26:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.22-.Course.Wrap.Up.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QSuzVqL5QgGa8Vo4Bl0I"
         }
       ]
     }

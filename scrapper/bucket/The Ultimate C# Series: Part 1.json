@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T19:07:41Z",
             "updated_at": "2023-04-09T19:07:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Welcome.2m.-.About.Course.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Jdp5Y5ZT2arhvBEFTf45"
         }
       ]
     },
@@ -120,7 +121,8 @@
             "created_at": "2023-04-09T19:07:55Z",
             "updated_at": "2023-04-09T19:07:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.Introduction.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/O8xMSriwQ0ejF1DL0VKe"
         },
         {
           "name": "Getting Started (20m) -> C# vs .NET.mp4",
@@ -157,7 +159,8 @@
             "created_at": "2023-04-09T19:07:59Z",
             "updated_at": "2023-04-09T19:08:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.C.vs.NET.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/j67FtXwRky3EhchRGDaT"
         },
         {
           "name": "Getting Started (20m) -> What is CLR.mp4",
@@ -194,7 +197,8 @@
             "created_at": "2023-04-09T19:08:05Z",
             "updated_at": "2023-04-09T19:08:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.What.is.CLR.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2OUUBXzCSny7y97jeK9r"
         },
         {
           "name": "Getting Started (20m) -> Architecture.mp4",
@@ -231,7 +235,8 @@
             "created_at": "2023-04-09T19:08:13Z",
             "updated_at": "2023-04-09T19:08:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.Architecture.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/tKkDryVQTEyRShMY2l49"
         },
         {
           "name": "Getting Started (20m) -> Get Visual Studio.pdf",
@@ -268,7 +273,8 @@
             "created_at": "2023-04-09T19:08:16Z",
             "updated_at": "2023-04-09T19:08:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.Get.Visual.Studio.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/U6rlyptPSC9VqkiXgPWQ"
         },
         {
           "name": "Getting Started (20m) -> First Application.mp4",
@@ -305,7 +311,8 @@
             "created_at": "2023-04-09T19:09:16Z",
             "updated_at": "2023-04-09T19:09:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Getting.Started.20m.-.First.Application.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DgYlGavETq6rvzBW3lwF"
         },
         {
           "name": "Getting Started 20m - C vs NET mp4",
@@ -384,7 +391,8 @@
             "created_at": "2023-04-09T19:09:53Z",
             "updated_at": "2023-04-09T19:09:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Primitive.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JISJ5QoIQi9iOssLa2Hv"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Variables and Constants.mp4",
@@ -421,7 +429,8 @@
             "created_at": "2023-04-09T19:10:11Z",
             "updated_at": "2023-04-09T19:10:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Variables.and.Constants.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bu8cgoprShKzO1AKQYty"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Overflowing.mp4",
@@ -458,7 +467,8 @@
             "created_at": "2023-04-09T19:10:20Z",
             "updated_at": "2023-04-09T19:10:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Overflowing.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FKJ6PGAvTF8Fcg17fXdm"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Scope.mp4",
@@ -495,7 +505,8 @@
             "created_at": "2023-04-09T19:10:25Z",
             "updated_at": "2023-04-09T19:10:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Scope.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/S57oiwubQlmZgqza22TO"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Demo Variables and Constants.mp4",
@@ -532,7 +543,8 @@
             "created_at": "2023-04-09T19:11:11Z",
             "updated_at": "2023-04-09T19:11:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Demo.Variables.and.Constants.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XfzWg1fGQsKmmT3wtGeh"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Type Conversion.mp4",
@@ -569,7 +581,8 @@
             "created_at": "2023-04-09T19:11:47Z",
             "updated_at": "2023-04-09T19:11:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Type.Conversion.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FxShuoZeQ1e55LeqCdfi"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Demo Type Conversion 2.mp4",
@@ -606,7 +619,8 @@
             "created_at": "2023-04-09T19:12:54Z",
             "updated_at": "2023-04-09T19:13:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Demo.Type.Conversion.2.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/xRU0FefRiS39VhW1dz0g"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Operators.mp4",
@@ -643,7 +657,8 @@
             "created_at": "2023-04-09T19:13:20Z",
             "updated_at": "2023-04-09T19:13:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Operators.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6VAYgBoTTsi75WP0ox5b"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Logical-Operations.pdf",
@@ -680,7 +695,8 @@
             "created_at": "2023-04-09T19:13:24Z",
             "updated_at": "2023-04-09T19:13:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Logical-Operations.pdf"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/uuNw5ItoQ6Shz2otezR2"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Demo- Operators.mp4",
@@ -717,7 +733,8 @@
             "created_at": "2023-04-09T19:13:49Z",
             "updated_at": "2023-04-09T19:14:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Demo-.Operators.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Ujmbd1XQd27eHSU5dypA"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Comments.mp4",
@@ -754,7 +771,8 @@
             "created_at": "2023-04-09T19:14:03Z",
             "updated_at": "2023-04-09T19:14:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Comments.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/sWbBlb1Q4Cy4KsSRITqC"
         },
         {
           "name": "Primitive Types and Expressions (35m) -> Primitive - Ending.m4v",
@@ -791,7 +809,8 @@
             "created_at": "2023-04-09T19:14:18Z",
             "updated_at": "2023-04-09T19:14:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Primitive.Types.and.Expressions.35m.-.Primitive.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/itlakTYhSLy3fRFxoweh"
         }
       ]
     },
@@ -833,7 +852,8 @@
             "created_at": "2023-04-09T19:14:38Z",
             "updated_at": "2023-04-09T19:14:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Introduction.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/0f02M4z8RKm3IrWqAmhU"
         },
         {
           "name": "Non-Primitive Types (1h) -> Classes.mp4",
@@ -870,7 +890,8 @@
             "created_at": "2023-04-09T19:14:58Z",
             "updated_at": "2023-04-09T19:15:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Classes.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/R1BHeJ9uQbqCRGQUiYW5"
         },
         {
           "name": "Non-Primitive Types (1h) -> Demo- Classes.mp4",
@@ -907,7 +928,8 @@
             "created_at": "2023-04-09T19:15:41Z",
             "updated_at": "2023-04-09T19:15:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Demo-.Classes.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HbyqRL6cQWurTVur04fO"
         },
         {
           "name": "Non-Primitive Types (1h) -> Structs.mp4",
@@ -944,7 +966,8 @@
             "created_at": "2023-04-09T19:16:00Z",
             "updated_at": "2023-04-09T19:16:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Structs.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/YWxvehT9yjMop9o6tHGQ"
         },
         {
           "name": "Non-Primitive Types (1h) -> Arrays.mp4",
@@ -981,7 +1004,8 @@
             "created_at": "2023-04-09T19:16:04Z",
             "updated_at": "2023-04-09T19:16:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RK1q36PEStqaiI7kTi0s"
         },
         {
           "name": "Non-Primitive Types (1h) -> Demo- Arrays.mp4",
@@ -1018,7 +1042,8 @@
             "created_at": "2023-04-09T19:16:19Z",
             "updated_at": "2023-04-09T19:16:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Demo-.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TBTAYL5T3dNhQsaxZA6w"
         },
         {
           "name": "Non-Primitive Types (1h) -> Strings.mp4",
@@ -1055,7 +1080,8 @@
             "created_at": "2023-04-09T19:16:33Z",
             "updated_at": "2023-04-09T19:16:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Strings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RqcExXRBT1ufSI0S9V21"
         },
         {
           "name": "Non-Primitive Types (1h) -> Demo Strings.mp4",
@@ -1092,7 +1118,8 @@
             "created_at": "2023-04-09T19:17:02Z",
             "updated_at": "2023-04-09T19:17:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Demo.Strings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/476xjE6RnG5bNHhxWuuH"
         },
         {
           "name": "Non-Primitive Types (1h) -> Enums.mp4",
@@ -1129,7 +1156,8 @@
             "created_at": "2023-04-09T19:17:16Z",
             "updated_at": "2023-04-09T19:17:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Enums.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/5GJntf8uTzycC3SrQejK"
         },
         {
           "name": "Non-Primitive Types (1h) -> Demo- Enums.mp4",
@@ -1166,7 +1194,8 @@
             "created_at": "2023-04-09T19:17:59Z",
             "updated_at": "2023-04-09T19:18:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Demo-.Enums.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/a1XB8KspR0y8JAqdLRRW"
         },
         {
           "name": "Non-Primitive Types (1h) -> Reference Types and Value Types.mp4",
@@ -1203,7 +1232,8 @@
             "created_at": "2023-04-09T19:18:31Z",
             "updated_at": "2023-04-09T19:18:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Reference.Types.and.Value.Types.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3U9F96yORxm0tjmRLTI6"
         },
         {
           "name": "Non-Primitive Types (1h) -> Demo- Reference Types and Value Types.mp4",
@@ -1240,7 +1270,8 @@
             "created_at": "2023-04-09T19:18:57Z",
             "updated_at": "2023-04-09T19:19:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Demo-.Reference.Types.and.Value.Types.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/32Erj4sTIWVg9V7mhwjO"
         },
         {
           "name": "Non-Primitive Types (1h) -> Reference Types 2.mp4",
@@ -1277,7 +1308,8 @@
             "created_at": "2023-04-09T19:19:34Z",
             "updated_at": "2023-04-09T19:19:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.Reference.Types.2.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g5oGyG1fS3WilkZ5y8tV"
         },
         {
           "name": "Non-Primitive Types (1h) -> NonPrimitive - Ending.m4v",
@@ -1314,7 +1346,8 @@
             "created_at": "2023-04-09T19:20:10Z",
             "updated_at": "2023-04-09T19:20:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Non-Primitive.Types.1h.-.NonPrimitive.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/zFcpUeERXKR2YrxdTeUj"
         }
       ]
     },
@@ -1356,7 +1389,8 @@
             "created_at": "2023-04-09T19:20:50Z",
             "updated_at": "2023-04-09T19:21:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Control.Flow.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/UFBtR89RM6Qz3iCauDjV"
         },
         {
           "name": "Control Flow (40m) -> Conditional Statements.mp4",
@@ -1393,7 +1427,8 @@
             "created_at": "2023-04-09T19:21:19Z",
             "updated_at": "2023-04-09T19:21:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Conditional.Statements.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Xm9bdOROTbOCAwIkuZNg"
         },
         {
           "name": "Control Flow (40m) -> Demo- Conditional Statements.mp4",
@@ -1430,7 +1465,8 @@
             "created_at": "2023-04-09T19:22:08Z",
             "updated_at": "2023-04-09T19:22:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Demo-.Conditional.Statements.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/95hN5u7vR76IFJEbzAJw"
         },
         {
           "name": "Control Flow (40m) -> Conditionals-Solutions.zip",
@@ -1467,7 +1503,8 @@
             "created_at": "2023-04-09T19:22:31Z",
             "updated_at": "2023-04-09T19:22:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Conditionals-Solutions.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/vR0QU7ldTMCuLqoWGugl"
         },
         {
           "name": "Control Flow (40m) -> Iteration Statements.mp4",
@@ -1504,7 +1541,8 @@
             "created_at": "2023-04-09T19:22:35Z",
             "updated_at": "2023-04-09T19:22:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Iteration.Statements.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/5zMBcnqIQwmb48BoPfX3"
         },
         {
           "name": "Control Flow (40m) -> Demo- For loop.mp4",
@@ -1541,7 +1579,8 @@
             "created_at": "2023-04-09T19:22:44Z",
             "updated_at": "2023-04-09T19:22:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Demo-.For.loop.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FYpCZlOPSjS3kBiFUv3b"
         },
         {
           "name": "Control Flow (40m) -> Foreach loop.mp4",
@@ -1578,7 +1617,8 @@
             "created_at": "2023-04-09T19:23:15Z",
             "updated_at": "2023-04-09T19:23:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Foreach.loop.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/QEL1wlPYSH2bTeIyvjAQ"
         },
         {
           "name": "Control Flow (40m) -> While loop.mp4",
@@ -1615,7 +1655,8 @@
             "created_at": "2023-04-09T19:28:44Z",
             "updated_at": "2023-04-09T19:29:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.While.loop.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LLivtEf4S2CoXfQDNlj2"
         },
         {
           "name": "Control Flow (40m) -> Random.mp4",
@@ -1652,7 +1693,8 @@
             "created_at": "2023-04-09T19:30:15Z",
             "updated_at": "2023-04-09T19:31:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Random.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TQPzmDTmuyYEIZ6T9jxA"
         },
         {
           "name": "Control Flow (40m) -> Loops-Solutions.zip",
@@ -1689,7 +1731,8 @@
             "created_at": "2023-04-09T19:31:01Z",
             "updated_at": "2023-04-09T19:31:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Loops-Solutions.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/uGgKcWBxQZibCGhSgN4a"
         },
         {
           "name": "Control Flow (40m) -> Control Flow - Ending.m4v",
@@ -1726,7 +1769,8 @@
             "created_at": "2023-04-09T19:31:10Z",
             "updated_at": "2023-04-09T19:31:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Control.Flow.40m.-.Control.Flow.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/FC8W2zK9R2uK8VLGbv7U"
         }
       ]
     },
@@ -1768,7 +1812,8 @@
             "created_at": "2023-04-09T19:31:30Z",
             "updated_at": "2023-04-09T19:31:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Arrays.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/JO8D9urtTxCGah2CMCg6"
         },
         {
           "name": "Arrays and Lists (30m) -> Arrays.mp4",
@@ -1805,7 +1850,8 @@
             "created_at": "2023-04-09T19:31:51Z",
             "updated_at": "2023-04-09T19:32:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mmWj5FgeR6KYctXwQa0U"
         },
         {
           "name": "Arrays and Lists (30m) -> Demo Arrays.mp4",
@@ -1842,7 +1888,8 @@
             "created_at": "2023-04-09T19:33:35Z",
             "updated_at": "2023-04-09T19:34:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Demo.Arrays.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Zmf3Uzj2RUhO85zqhXWy"
         },
         {
           "name": "Arrays and Lists (30m) -> Lists.mp4",
@@ -1879,7 +1926,8 @@
             "created_at": "2023-04-09T19:34:45Z",
             "updated_at": "2023-04-09T19:34:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/XsoZNMURvKbpzHAcrJge"
         },
         {
           "name": "Arrays and Lists (30m) -> Demo- Lists.mp4",
@@ -1916,7 +1964,8 @@
             "created_at": "2023-04-09T19:36:45Z",
             "updated_at": "2023-04-09T19:37:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Demo-.Lists.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/R6EMJo8dRXeoD4ecF8EL"
         },
         {
           "name": "Arrays and Lists (30m) -> Arrays-And-Lists-Solutions.zip",
@@ -1953,7 +2002,8 @@
             "created_at": "2023-04-09T19:37:16Z",
             "updated_at": "2023-04-09T19:37:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Arrays-And-Lists-Solutions.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/RQ8AMLpAS82Mvid1uHW5"
         },
         {
           "name": "Arrays and Lists (30m) -> Arrays - Ending.m4v",
@@ -1990,7 +2040,8 @@
             "created_at": "2023-04-09T19:37:26Z",
             "updated_at": "2023-04-09T19:37:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Arrays.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/iivZ5qSmQ9SggyKX9gVr"
         }
       ]
     },
@@ -2032,7 +2083,8 @@
             "created_at": "2023-04-09T19:37:49Z",
             "updated_at": "2023-04-09T19:37:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Dates.10m.-.Date.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/LMKTUWX8RgqsOVzbTL1w"
         },
         {
           "name": "Working with Dates (10m) -> DateTime.mp4",
@@ -2069,7 +2121,8 @@
             "created_at": "2023-04-09T19:39:40Z",
             "updated_at": "2023-04-09T19:40:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Dates.10m.-.DateTime.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/HQL5g4kwS9CjtV7Q22zb"
         },
         {
           "name": "Working with Dates (10m) -> TimeSpan.mp4",
@@ -2106,7 +2159,8 @@
             "created_at": "2023-04-09T19:40:44Z",
             "updated_at": "2023-04-09T19:41:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Dates.10m.-.TimeSpan.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Ofkc0V5bRPuxK7saX0RQ"
         },
         {
           "name": "Working with Dates (10m) -> Date - Ending.m4v",
@@ -2143,7 +2197,8 @@
             "created_at": "2023-04-09T19:41:33Z",
             "updated_at": "2023-04-09T19:41:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Dates.10m.-.Date.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/bVuQQKuROndMEei0Uc7w"
         }
       ]
     },
@@ -2185,7 +2240,8 @@
             "created_at": "2023-04-09T19:41:43Z",
             "updated_at": "2023-04-09T19:41:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Introduction.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/w1OTjeoATFGwiz9odRD7"
         },
         {
           "name": "Working with Text (50m) -> String.mp4",
@@ -2222,7 +2278,8 @@
             "created_at": "2023-04-09T19:41:52Z",
             "updated_at": "2023-04-09T19:41:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.String.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/6yhPzffAS3KRt0LH5GIC"
         },
         {
           "name": "Working with Text (50m) -> Demo Strings.mp4",
@@ -2259,7 +2316,8 @@
             "created_at": "2023-04-09T19:43:08Z",
             "updated_at": "2023-04-09T19:43:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Demo.Strings.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/fCmP6QfIRaRMF0oNabCu"
         },
         {
           "name": "Working with Text (50m) -> Summarizing Text 2.mp4",
@@ -2296,7 +2354,8 @@
             "created_at": "2023-04-09T19:44:37Z",
             "updated_at": "2023-04-09T19:45:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Summarizing.Text.2.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/dbowpbeKRX2U1X8R4v0H"
         },
         {
           "name": "Working with Text (50m) -> StringBuilder.mp4",
@@ -2333,7 +2392,8 @@
             "created_at": "2023-04-09T19:45:44Z",
             "updated_at": "2023-04-09T19:45:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.StringBuilder.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/iUzvGjNZR5uaakKU6Et4"
         },
         {
           "name": "Working with Text (50m) -> Demo- StringBuilder.mp4",
@@ -2370,7 +2430,8 @@
             "created_at": "2023-04-09T19:46:56Z",
             "updated_at": "2023-04-09T19:47:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Demo-.StringBuilder.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/oDVqJQPsSqSgmB9wPcfx"
         },
         {
           "name": "Working with Text (50m) -> Working-With-Text-Solutions.zip",
@@ -2407,7 +2468,8 @@
             "created_at": "2023-04-09T19:47:33Z",
             "updated_at": "2023-04-09T19:47:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Working-With-Text-Solutions.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/elF8S2WoTyagTpfgeQcQ"
         },
         {
           "name": "Working with Text (50m) -> Procedural Programming.mp4",
@@ -2444,7 +2506,8 @@
             "created_at": "2023-04-09T19:49:27Z",
             "updated_at": "2023-04-09T19:50:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Procedural.Programming.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/jbhQwlUQBmoamlnJm7ns"
         },
         {
           "name": "Working with Text (50m) -> Strings - Ending.m4v",
@@ -2481,7 +2544,8 @@
             "created_at": "2023-04-09T19:50:25Z",
             "updated_at": "2023-04-09T19:50:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Text.50m.-.Strings.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TVMsBrY2ReijDTeXh8eT"
         }
       ]
     },
@@ -2523,7 +2587,8 @@
             "created_at": "2023-04-09T19:50:43Z",
             "updated_at": "2023-04-09T19:50:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.Files.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/Y3oXr7zUR2mcxT8OY2gG"
         },
         {
           "name": "Working with Files (25m) -> Introduction to System.IO.mp4",
@@ -2560,7 +2625,8 @@
             "created_at": "2023-04-09T19:51:55Z",
             "updated_at": "2023-04-09T19:52:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.Introduction.to.System.IO.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/8qubiIAQUGnaZbNebEcR"
         },
         {
           "name": "Working with Files (25m) -> File and FileInfo.mp4",
@@ -2597,7 +2663,8 @@
             "created_at": "2023-04-09T19:52:43Z",
             "updated_at": "2023-04-09T19:52:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.File.and.FileInfo.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/DhUGdhxQQfqf1cHG4IML"
         },
         {
           "name": "Working with Files (25m) -> Directory and DirectoryInfo.mp4",
@@ -2634,7 +2701,8 @@
             "created_at": "2023-04-09T20:02:16Z",
             "updated_at": "2023-04-09T20:02:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.Directory.and.DirectoryInfo.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/06sC6M4yT06z8RP0xDgw"
         },
         {
           "name": "Working with Files (25m) -> Path.mp4",
@@ -2671,7 +2739,8 @@
             "created_at": "2023-04-09T20:04:14Z",
             "updated_at": "2023-04-09T20:04:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.Path.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SENOt7nUQ7iTzJGEhx3D"
         },
         {
           "name": "Working with Files (25m) -> Files - Ending.m4v",
@@ -2708,7 +2777,8 @@
             "created_at": "2023-04-09T20:04:37Z",
             "updated_at": "2023-04-09T20:04:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Working.with.Files.25m.-.Files.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/oMXADph3QcOAGBhAq7v4"
         }
       ]
     },
@@ -2750,7 +2820,8 @@
             "created_at": "2023-04-09T20:05:25Z",
             "updated_at": "2023-04-09T20:05:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Debug.-.Intro.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3ZKR6pAmRuWXoUa4Keoi"
         },
         {
           "name": "Debugging Applications (40m) -> Intro to Debugging.mp4",
@@ -2787,7 +2858,8 @@
             "created_at": "2023-04-09T20:05:54Z",
             "updated_at": "2023-04-09T20:06:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Intro.to.Debugging.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/2h0QNyvkSIq0IdRrEnFj"
         },
         {
           "name": "Debugging Applications (40m) -> Removing Side Effects.mp4",
@@ -2824,7 +2896,8 @@
             "created_at": "2023-04-09T20:06:53Z",
             "updated_at": "2023-04-09T20:07:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Removing.Side.Effects.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ULGbYvHzQOjg2lbqbNq0"
         },
         {
           "name": "Debugging Applications (40m) -> Defensive Programming.mp4",
@@ -2861,7 +2934,8 @@
             "created_at": "2023-04-09T20:08:14Z",
             "updated_at": "2023-04-09T20:08:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Defensive.Programming.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/gh6ltnXSquvJo1m96PjI"
         },
         {
           "name": "Debugging Applications (40m) -> Call Stack.mp4",
@@ -2898,7 +2972,8 @@
             "created_at": "2023-04-09T20:08:39Z",
             "updated_at": "2023-04-09T20:08:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Call.Stack.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/rr25WQMkQ3nH9oI22vsi"
         },
         {
           "name": "Debugging Applications (40m) -> Locals and Autos.mp4",
@@ -2935,7 +3010,8 @@
             "created_at": "2023-04-09T20:08:49Z",
             "updated_at": "2023-04-09T20:08:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Locals.and.Autos.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/eN5wxF3hTTLusGFaxgZG"
         },
         {
           "name": "Debugging Applications (40m) -> Debug - Ending.m4v",
@@ -2972,7 +3048,8 @@
             "created_at": "2023-04-09T20:09:15Z",
             "updated_at": "2023-04-09T20:09:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Debug.-.Ending.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/wHICZGwCSiSXRP2fo4Nv"
         },
         {
           "name": "Debugging Applications (40m) -> Whats Next.m4v",
@@ -3009,7 +3086,8 @@
             "created_at": "2023-04-09T20:09:39Z",
             "updated_at": "2023-04-09T20:09:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Debugging.Applications.40m.-.Whats.Next.m4v"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ANq6oDZSKuu9TlslWiF5"
         }
       ]
     }

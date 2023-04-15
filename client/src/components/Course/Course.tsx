@@ -3,6 +3,7 @@ import { useParams, useSearchParams, Navigate } from "react-router-dom";
 import styles from "./Course.module.css";
 import MasterCourseService from "../../services/MasterCourse.service";
 import CourseSidePane from "../CourseSidePane/CourseSidePane";
+import CourseContentOrchestrator from "../CourseContentOrchestrator/CourseContentOrchestrator";
 
 type CourseParams = {
   courseName: string;
@@ -17,12 +18,19 @@ export default function Course() {
     () => masterCourseService.getCourse(params.courseName as string),
     [params]
   );
+  const currentActiveContent = useMemo<{
+    section: string;
+    content: string;
+  }>(() => {
+    const section = searchParams.get("section") ?? "";
+    const content = searchParams.get("content") ?? "";
+    return { section, content };
+  }, [searchParams]);
 
   // compute
   const course = courseDetails?.name;
-  const section = searchParams.get("section");
-  const content = searchParams.get("content");
-  const hasContent = course && section && content;
+  const hasContent =
+    course && currentActiveContent.section && currentActiveContent.content;
   const defaultContentPath =
     masterCourseService.getDefaultContentPath(courseDetails);
 
@@ -33,8 +41,15 @@ export default function Course() {
 
   return (
     <div className={styles.wrapper}>
-      <CourseSidePane courseDetails={courseDetails} />
-      <pre>{JSON.stringify({ course, section, content }, null, 4)}</pre>
+      <CourseSidePane
+        courseDetails={courseDetails}
+        currentActiveContent={currentActiveContent}
+      />
+      <CourseContentOrchestrator
+        course={course}
+        section={currentActiveContent.section}
+        content={currentActiveContent.content}
+      />
     </div>
   );
 }

@@ -9,15 +9,18 @@
     "dev": "npm-run-all  --parallel dev:tsc dev:vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "prepare-ds": "node scripts/prepareDataset.js"
+    "prepare-ds": "node scripts/prepareDataset.js",
+    "size-info": "node scripts/sizeInfo.js"
   },
   "dependencies": {
     "classnames": "^2.3.2",
+    "mime-types": "^2.1.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.10.0"
   },
   "devDependencies": {
+    "@types/mime-types": "^2.1.1",
     "@types/react": "^18.0.28",
     "@types/react-dom": "^18.0.11",
     "@vitejs/plugin-react-swc": "^3.0.0",

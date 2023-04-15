@@ -78,7 +78,8 @@
             "created_at": "2023-04-09T20:51:29Z",
             "updated_at": "2023-04-09T20:51:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Introduction.1m.-.About.this.course.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/kxveCBXQbKHsS6XJp9Ck"
         },
         {
           "name": "Introduction (1m) -> C# Advanced Source Files.zip",
@@ -115,7 +116,8 @@
             "created_at": "2023-04-09T20:51:32Z",
             "updated_at": "2023-04-09T20:51:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Introduction.1m.-.C.Advanced.Source.Files.zip"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/GM8zcnZKTfaNYsN5ATHt"
         },
         {
           "name": "Introduction 1m - C Advanced Source Files zip",
@@ -194,7 +196,8 @@
             "created_at": "2023-04-09T20:52:09Z",
             "updated_at": "2023-04-09T20:52:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Generics.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/mPdvxbzRsSlveM1knxNB"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Delegates.mp4",
@@ -231,7 +234,8 @@
             "created_at": "2023-04-09T21:04:19Z",
             "updated_at": "2023-04-09T21:04:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Delegates.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SV0JcW3JSWe69Zj5HjMy"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Lambda Expressions.mp4",
@@ -268,7 +272,8 @@
             "created_at": "2023-04-09T21:05:36Z",
             "updated_at": "2023-04-09T21:06:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Lambda.Expressions.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/3H74u8djSoagD468uMSf"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> EventsAndDelegates.mp4",
@@ -305,7 +310,8 @@
             "created_at": "2023-04-09T21:09:12Z",
             "updated_at": "2023-04-09T21:12:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.EventsAndDelegates.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/i5NRSzxEQ9i7OY14MJvE"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Extension Methods.mp4",
@@ -342,7 +348,8 @@
             "created_at": "2023-04-09T21:12:50Z",
             "updated_at": "2023-04-09T21:13:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Extension.Methods.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/g0u7WLesS3qJ0vp5ZkmR"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> LINQ.mp4",
@@ -379,7 +386,8 @@
             "created_at": "2023-04-09T21:14:15Z",
             "updated_at": "2023-04-09T21:14:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.LINQ.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/SutadoXQMa1yuLOKDXeL"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Nullable Types.mp4",
@@ -416,7 +424,8 @@
             "created_at": "2023-04-09T21:15:18Z",
             "updated_at": "2023-04-09T21:15:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Nullable.Types.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/m0JN4KnmR9pmCp92OeRp"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Dynamic.mp4",
@@ -453,7 +462,8 @@
             "created_at": "2023-04-09T21:16:15Z",
             "updated_at": "2023-04-09T21:16:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Dynamic.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/BUVQ0JHzQBmSGRKdp5up"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Exception Handling.mp4",
@@ -490,7 +500,8 @@
             "created_at": "2023-04-09T21:17:01Z",
             "updated_at": "2023-04-09T21:17:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Exception.Handling.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/ghgLdMDlQoWzYt4cOrzl"
         },
         {
           "name": "Advanced C# Topics (2h25m) -> Async.mp4",
@@ -527,7 +538,8 @@
             "created_at": "2023-04-09T21:18:12Z",
             "updated_at": "2023-04-09T21:18:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Async.mp4"
-          }
+          },
+          "originUrl": "https://cdn.fs.teachablecdn.com/TvF1UUE2SlWXWtvCQiru"
         }
       ]
     },
