@@ -1,4 +1,4 @@
-import { ICourse } from "../typings/typings";
+import { ICourse, ICourseAsset } from "../typings/typings";
 import masterCourses from "../assets/masterCourses.json";
 
 export default class MasterCourseService {
@@ -13,8 +13,11 @@ export default class MasterCourseService {
 
   private courses: ICourse[];
 
+  private blobBufferUrlMapping: Map<string, string>;
+
   constructor() {
     this.courses = [];
+    this.blobBufferUrlMapping = new Map();
     this.fetchCourses();
   }
 
@@ -104,15 +107,75 @@ export default class MasterCourseService {
         this.getEncodedString(props.section, true),
         this.getEncodedString(props.content, true),
       ];
-      return this.courses
-        .find((key) => key.name === course)
-        ?.sections?.find((key) => key.name === section)
-        ?.assets?.find((key) => key.name === content);
+      const courseIndex = this.courses.findIndex((key) => key.name === course);
+      const sectionIndex = this.courses[courseIndex]?.sections?.findIndex(
+        (key) => key.name === section
+      );
+      const assetIndex = this.courses[courseIndex]?.sections[
+        sectionIndex
+      ]?.assets.findIndex((key) => key.name === content);
+
+      const currentAsset =
+        this.courses[courseIndex].sections[sectionIndex].assets[assetIndex];
+
+      try {
+        const nextAsset =
+          this.courses[courseIndex].sections[sectionIndex].assets[
+            assetIndex + 1
+          ];
+        this.preFetchAssetInBackground(nextAsset);
+      } catch (error) {}
+
+      return currentAsset;
     } catch (error) {
       console.error(error);
     }
 
     return undefined;
+  }
+
+  public getCachedContentBlobUrl(
+    bufferUrl: string | undefined,
+    strict = false
+  ) {
+    const requiredUrl = this.getRequiredUrl(bufferUrl ?? "");
+    return (
+      this.blobBufferUrlMapping.get(requiredUrl) ??
+      (strict ? undefined : bufferUrl)
+    );
+  }
+
+  public getRequiredUrl(sourceUrl: string) {
+    const nextUrl = "https://api.yoyoironing.com/freecors?url=" + sourceUrl;
+
+    return nextUrl;
+  }
+
+  private preFetchAssetInBackground(asset?: ICourseAsset) {
+    if (!asset) return;
+
+    if (
+      this.getCachedContentBlobUrl(asset.assetData.browser_download_url, true)
+    )
+      return;
+
+    setTimeout(() => {
+      const currentUrl = asset.assetData.browser_download_url;
+      console.log("pre fetching started", currentUrl);
+      const nextUrl = this.getRequiredUrl(currentUrl);
+
+      fetch(nextUrl)
+        .then((data) => {
+          return data.blob();
+        })
+        .then((blob) => {
+          console.log("Data downloaded successfully!", blob);
+          console.log("Generating blob url...");
+          const blobUrl = URL.createObjectURL(blob);
+          console.log("Adding blob to buffer mapping.", blobUrl);
+          this.blobBufferUrlMapping.set(nextUrl, blobUrl);
+        });
+    }, 1000);
   }
 
   private fetchCourses() {

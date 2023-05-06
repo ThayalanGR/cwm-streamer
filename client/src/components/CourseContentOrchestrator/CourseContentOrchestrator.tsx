@@ -1,4 +1,4 @@
-import { useLayoutEffect, useMemo } from "react";
+import { useCallback, useLayoutEffect, useMemo } from "react";
 import { Link } from "react-router-dom";
 import styles from "./CourseContentOrchestrator.module.css";
 import MasterCourseService from "../../services/MasterCourse.service";
@@ -28,23 +28,20 @@ export default function CourseContentOrchestrator(
     [course, section, content]
   );
 
-  // effects
-  useLayoutEffect(() => {
-    videoRef?.current?.load();
-    videoRef?.current?.play();
-  }, [courseContent]);
-
   // paint
-  const getContentRenderer = () => {
+  const getContentRenderer = useCallback(() => {
     if (!courseContent) return null;
 
     const { assetData, originUrl: originUrl } = courseContent;
     const { browser_download_url: assetUrl, content_type: contentType } =
       assetData;
     const type = mime.extension(contentType);
+
     switch (type) {
       case "mp4":
-        return <VideoPlayer videoId={TEST_VIDEO_ID} />;
+        const requiredUrl =
+          masterCourseService.getCachedContentBlobUrl(assetUrl);
+        return <video autoPlay controls src={requiredUrl} />;
       case "pdf":
       case "zip":
       default:
@@ -55,7 +52,13 @@ export default function CourseContentOrchestrator(
           </div>
         );
     }
-  };
+  }, [courseContent]);
+
+  // effects
+  useLayoutEffect(() => {
+    videoRef?.current?.load();
+    videoRef?.current?.play();
+  }, [courseContent]);
 
   if (!courseContent) return <div>Loading Content...</div>;
 
