@@ -1,14 +1,26 @@
-import fs from "fs";
+import fs, { unlinkSync } from "fs";
 import dotenv from "dotenv";
 dotenv.config();
 
 import { Octokit } from "@octokit/rest";
-import crypto from "crypto";
+import crypto, { randomUUID } from "crypto";
 import https from "https";
 import mime from "mime-types";
 import path from "path";
-import { google, youtube_v3 } from "googleapis";
-import { OAuth2Client } from "google-auth-library";
+import { Readable } from "stream";
+import {
+    IAssetData,
+    ICourseAsset,
+    ICourse as IUploadAssetTracker,
+} from "../../client/src/typings/typings";
+
+import ffmpeg from "fluent-ffmpeg";
+import ffmpegBinary from "@ffmpeg-installer/ffmpeg";
+
+const ffprobePath = require("@ffprobe-installer/ffprobe").path;
+
+ffmpeg.setFfprobePath(ffprobePath);
+ffmpeg.setFfmpegPath(ffmpegBinary.path);
 
 // courses
 import bucket0 from "./coursesToScrap/bucket0";
@@ -25,33 +37,27 @@ import bucket10 from "./coursesToScrap/bucket10";
 import bucket11 from "./coursesToScrap/bucket11";
 import bucket12 from "./coursesToScrap/bucket12";
 
+type TCourse = (typeof courses)[0]["sections"][0];
+
 // GLOBAL VARIABLES
 const gitUserName = "thayalangr-engineer";
 const gitRepo = "cwm";
 
-const courses = [
-    ...bucket0,
-    ...bucket1,
-    ...bucket2,
-    ...bucket3,
-    ...bucket4,
-    ...bucket5,
-    ...bucket6,
-    ...bucket7,
-    ...bucket8,
-    ...bucket9,
-    ...bucket10,
-    ...bucket11,
-    ...bucket12,
-];
+const cb1 = [...bucket0, ...bucket1, ...bucket2, ...bucket3];
+
+const cb2 = [...bucket4, ...bucket5, ...bucket6, ...bucket7];
+
+const cb3 = [...bucket8, ...bucket9, ...bucket10, ...bucket11, ...bucket12];
+
+const courses = cb3;
+
+const COMPRESSED_VIDEO_FLAG = "_COMPRESSED_";
 
 const octokit = new Octokit({
     auth: process.env.GIT_TOKEN,
 });
 
-const SAMPLE_VIDEO_PATH = "./src/sample.mp4";
-const OAUTH2_TOKENS_PATH = "./src/oauth2-tokens.json";
-const YOUTUBE_CLIENT_SECRET_PATH = "./src/client-secret.json";
+const SAMPLE_VIDEO_PATH = "./src/samples/sample.mp4";
 
 const bucketPath = "./bucket"; // acts as the persistent storage
 const uploadCompletedCourses: string[] = [];
@@ -59,15 +65,6 @@ const bufferMapping = new Map<string, Buffer>(); // url vs buffer - used to fall
 let coursesToUpload: string[] = [];
 
 type TMainType = "local" | "remote";
-
-interface IUploadAssetTracker {
-    name: string;
-    releaseDetails: Record<string, string | number>;
-    sections: {
-        name: string;
-        assets: Record<string, string>[];
-    }[];
-}
 
 /**
  * layer - 1
@@ -278,7 +275,11 @@ async function uploadLocalAssets(
             const contentType = mime.lookup(filePath);
             const fileDetailedName = [sectionName, fileName].join(" -> ");
 
-            if (checkIsAssetAlreadyUploaded(assets, fileDetailedName)) {
+            const { skip, previousAsset } = checkIsAssetAlreadyUploaded(
+                assets,
+                fileDetailedName
+            );
+            if (previousAsset) {
                 console.log(
                     `skipping uploading ${j + 1} out of ${
                         sectionContents.length
@@ -296,16 +297,20 @@ async function uploadLocalAssets(
                 } files - ${fileDetailedName} (${fileSizeInMegabytes} MB)`
             );
 
+            const isVideoFile = contentType.toString().includes("video");
+
             // Read the video file into a buffer
             const fileData = fs.readFileSync(filePath);
-            await uploadAsset(
+            await uploadAsset({
                 uploadedAssetsTracker,
                 fileDetailedName,
                 fileData,
-                <string>contentType,
+                contentType: <string>contentType,
                 assets,
-                ""
-            );
+                originUrl: "",
+                previousAsset,
+                isVideoFile,
+            });
         }
 
         persistUploadedAssetsData(uploadedAssetsTracker);
@@ -314,7 +319,7 @@ async function uploadLocalAssets(
 
 async function uploadRemoteAssets(
     uploadedAssetsTracker: IUploadAssetTracker,
-    sections: IUploadAssetTracker["sections"]
+    sections: TCourse[]
 ) {
     for (let i = 0; i < sections.length; i++) {
         const { name: sectionName, assets: sectionContents } = sections[i];
@@ -336,7 +341,9 @@ async function uploadRemoteAssets(
             const contentType = mime.lookup(type);
             const fileDetailedName = [sectionName, fileName].join(" -> ");
 
-            if (checkIsAssetAlreadyUploaded(assets, fileDetailedName, url)) {
+            const { previousAsset, previousAssetIndex, skip } =
+                checkIsAssetAlreadyUploaded(assets, fileDetailedName, url);
+            if (skip) {
                 console.log(
                     `skipping uploading ${j + 1} out of ${
                         sectionContents.length
@@ -351,17 +358,34 @@ async function uploadRemoteAssets(
                 } files - ${fileDetailedName}`
             );
 
-            // Read the video file into a buffer
+            const isVideoFile = contentType.toString().includes("video");
 
-            const fileData = bufferMapping.has(url)
-                ? bufferMapping.get(url)
-                : await downloadFileAsBuffer(url);
+            let fileData: Buffer = Buffer.from([]);
 
-            if (!fileData)
-                throw new Error(
-                    "Something went wrong, downloading file as buffer"
-                );
-            bufferMapping.set(url, fileData);
+            if (bufferMapping.has(url)) {
+                fileData = bufferMapping.get(url) as Buffer;
+            } else {
+                // Read the video file into a buffer
+                const inputFilePath = await downloadFile(url, type);
+
+                if (!inputFilePath)
+                    throw new Error(
+                        "Something went wrong, downloading file as buffer"
+                    );
+
+                // compress the file
+                if (isVideoFile) {
+                    console.log(`Compressing Video file - ${fileDetailedName}`);
+                    fileData = await compressVideo(inputFilePath);
+                } else {
+                    fileData = fs.readFileSync(inputFilePath);
+                }
+
+                bufferMapping.set(url, fileData);
+
+                // delete the staged input file
+                fs.unlinkSync(inputFilePath);
+            }
 
             const fileSizeInMegabytes = getFileSizeInMB(fileData.byteLength); // Convert bytes to megabytes
             console.log(
@@ -369,18 +393,22 @@ async function uploadRemoteAssets(
                     sectionContents.length
                 } files - ${fileDetailedName} (${fileSizeInMegabytes} MB)`
             );
-            await uploadAsset(
+
+            await uploadAsset({
                 uploadedAssetsTracker,
                 fileDetailedName,
                 fileData,
-                <string>contentType,
+                contentType: <string>contentType,
                 assets,
-                url
-            );
+                originUrl: url,
+                isVideoFile,
+                previousAsset,
+                previousAssetIndex,
+            });
 
             bufferMapping.delete(url);
+            persistUploadedAssetsData(uploadedAssetsTracker);
         }
-
         persistUploadedAssetsData(uploadedAssetsTracker);
     }
 }
@@ -394,33 +422,72 @@ function checkIsAssetAlreadyUploaded(
     fileDetailedName: string,
     url = ""
 ) {
-    const foundAsset = assets.find((asset) => {
+    const foundAssetIndex = assets.findIndex((asset) => {
         const strA = getSanitizedString(asset.name);
         const strB = getSanitizedString(fileDetailedName);
         // console.log("###########>>>>>>", { a: strA, b: strB, c: strA === strB });
         return strA === strB;
     });
 
+    let foundAsset = assets[foundAssetIndex];
+
     if (foundAsset) {
         foundAsset["originUrl"] = url;
+
+        if (!foundAsset["compressedAssetData"]) {
+            const isVideoFile =
+                foundAsset["assetData"]?.["content_type"]?.includes("video");
+
+            if (isVideoFile) {
+                return {
+                    previousAsset: foundAsset,
+                    previousAssetIndex: foundAssetIndex,
+                    skip: false,
+                };
+            } else {
+                foundAsset["compressedAssetData"] = foundAsset.assetData;
+            }
+        }
     }
 
-    return foundAsset;
+    return {
+        previousAsset: foundAsset,
+        previousAssetIndex: foundAssetIndex,
+        skip: foundAsset !== undefined,
+    };
 }
 
-async function uploadAsset(
-    uploadedAssetsTracker: IUploadAssetTracker,
-    fileDetailedName: string,
-    fileData: Buffer,
-    contentType: string,
-    assets: IUploadAssetTracker["sections"][0]["assets"],
-    originUrl = ""
-) {
+async function uploadAsset(props: {
+    uploadedAssetsTracker: IUploadAssetTracker;
+    fileDetailedName: string;
+    fileData: Buffer;
+    contentType: string;
+    assets: IUploadAssetTracker["sections"][0]["assets"];
+    isVideoFile: boolean;
+    originUrl?: string;
+    previousAsset?: ICourseAsset;
+    previousAssetIndex?: number;
+}) {
+    const {
+        assets,
+        contentType,
+        fileData,
+        fileDetailedName,
+        uploadedAssetsTracker,
+        previousAsset,
+        isVideoFile,
+        previousAssetIndex = -1,
+        originUrl = "",
+    } = props;
+
+    let fileName = isVideoFile
+        ? [COMPRESSED_VIDEO_FLAG, fileDetailedName].join()
+        : fileDetailedName;
     const asset = await octokit.repos.uploadReleaseAsset({
         owner: gitUserName,
         repo: gitRepo,
         release_id: <number>(<unknown>uploadedAssetsTracker.releaseDetails.id),
-        name: fileDetailedName,
+        name: fileName,
         data: <string>(<unknown>fileData),
         headers: {
             "content-type": contentType,
@@ -429,11 +496,21 @@ async function uploadAsset(
     });
     console.log(`Uploaded ${fileDetailedName}`);
 
-    assets.push({
-        name: fileDetailedName,
-        originUrl,
-        assetData: <string>(<unknown>asset.data),
-    });
+    if (previousAssetIndex > -1) {
+        assets[previousAssetIndex] = {
+            name: fileDetailedName,
+            originUrl,
+            assetData: (previousAsset ?? asset.data) as unknown as IAssetData,
+            compressedAssetData: asset.data as unknown as IAssetData,
+        };
+    } else {
+        assets.push({
+            name: fileDetailedName,
+            originUrl,
+            assetData: (previousAsset ?? asset.data) as unknown as IAssetData,
+            compressedAssetData: asset.data as unknown as IAssetData,
+        });
+    }
 }
 
 function getSanitizedString(str: string, reverse = false) {
@@ -500,11 +577,28 @@ async function createRelease(
                     return validFileName === asset.name;
                 });
 
+                const isCompressedAsset = asset.name.includes(
+                    COMPRESSED_VIDEO_FLAG
+                );
                 if (!foundAsset) {
                     foundSection.assets.push({
                         name: getSanitizedString(assetName, true),
-                        assetData: <string>(<unknown>asset),
+                        originUrl: "",
+                        assetData: (isCompressedAsset
+                            ? null
+                            : asset) as unknown as ICourseAsset["assetData"],
+                        compressedAssetData: (isCompressedAsset
+                            ? asset
+                            : null) as unknown as ICourseAsset["assetData"],
                     });
+                } else {
+                    if (isCompressedAsset) {
+                        foundAsset.compressedAssetData =
+                            asset as unknown as ICourseAsset["assetData"];
+                    } else {
+                        foundAsset.assetData =
+                            asset as unknown as ICourseAsset["assetData"];
+                    }
                 }
             }
         });
@@ -523,7 +617,7 @@ async function createRelease(
         prerelease: false,
     });
 
-    return <Record<string, string>>(<unknown>release.data);
+    return release.data as unknown as IUploadAssetTracker["releaseDetails"];
 }
 
 function persistUploadedAssetsData(uploadedAssetsTracker: IUploadAssetTracker) {
@@ -558,122 +652,85 @@ async function downloadFileAsBuffer(url: string): Promise<Buffer> {
     });
 }
 
-async function downloadFile(
-    url: string,
-    folder: string,
-    title: string,
-    extension: string
-) {
+async function downloadFile(url: string, type: string, path?: string) {
+    const inputBufferFilePath =
+        path ??
+        "./src/"
+            .concat(new Date().getTime().toString())
+            .concat("_input.")
+            .concat(type ?? "");
     const buffer = await downloadFileAsBuffer(url);
 
-    const filePath = path.join(folder, `${title}.${extension}`);
-    fs.writeFile(filePath, buffer, (err) => {
-        if (err) throw err;
-        console.log(`File saved as ${filePath}`);
+    fs.writeFileSync(inputBufferFilePath, buffer);
+
+    return inputBufferFilePath;
+}
+
+function bufferToStream(input: string | Buffer) {
+    const stream = new Readable();
+    stream.push(Buffer.isBuffer(input) ? input : fs.readFileSync(input));
+    stream.push(null);
+    return stream;
+}
+
+function getByteLength(input: string | Buffer) {
+    const buffer = Buffer.isBuffer(input) ? input : fs.readFileSync(input);
+    return buffer.byteLength;
+}
+
+async function compressVideo(
+    input: Buffer | string,
+    shouldUnlink = true,
+    compressionRatio = 0.5
+): Promise<Buffer> {
+    return new Promise((resolve, reject) => {
+        try {
+            console.log(
+                "Size before compression:",
+                getFileSizeInMB(getByteLength(input)),
+                "MB"
+            );
+
+            const currentOutputPath = "./src/"
+                .concat(new Date().getTime().toString())
+                .concat("_output.mp4");
+
+            ffmpeg()
+                .input(input as string)
+                .inputFormat("mp4")
+                .outputOptions("-c:v", "libx264")
+                .outputOptions("-crf", "23")
+                .outputOptions("-preset", "medium")
+                .outputOptions("-vf", `scale=iw*${compressionRatio}:-1`)
+                .outputFormat("mp4")
+                .output(currentOutputPath)
+                .on("error", function (err) {
+                    console.error(`Error compressing video: ${err.message}`);
+                    throw err;
+                })
+                .on("end", function () {
+                    const fileBuffer = fs.readFileSync(currentOutputPath);
+
+                    console.log(
+                        "Size after compression:",
+                        getFileSizeInMB(getByteLength(fileBuffer)),
+                        "MB"
+                    );
+
+                    resolve(fileBuffer);
+
+                    if (shouldUnlink) {
+                        // deleting the staging file
+                        unlinkSync(currentOutputPath);
+                    }
+                })
+                .run();
+        } catch (error) {
+            reject(error);
+        }
     });
 }
 
-async function createPlaylist() {
-    // Load client secrets from a local file
-    const clientSecret = JSON.parse(
-        fs.readFileSync(YOUTUBE_CLIENT_SECRET_PATH, "utf-8")
-    );
+// compressVideo("./src/sample_err_2.mov", false);
 
-    // Authorize the client with the YouTube Data API
-    const oAuth2Client = new OAuth2Client(
-        clientSecret.installed.client_id,
-        clientSecret.installed.client_secret,
-        clientSecret.installed.redirect_uris[0]
-    );
-
-    // Check if we have previously stored a token.
-    if (fs.existsSync(OAUTH2_TOKENS_PATH)) {
-        const token = JSON.parse(fs.readFileSync(OAUTH2_TOKENS_PATH, "utf-8"));
-        oAuth2Client.setCredentials(token);
-        console.log("Access token:", oAuth2Client.credentials.access_token);
-        console.log("Refresh token:", oAuth2Client.credentials.refresh_token);
-    } else {
-        // If we don't have a token, get one by opening an authorization URL in the browser.
-        const authorizeUrl = oAuth2Client.generateAuthUrl({
-            access_type: "offline",
-            scope: ["https://www.googleapis.com/auth/youtube"],
-        });
-        console.log("Authorize this app by visiting this url:", authorizeUrl);
-        const code =
-            "4/0AVHEtk5KkjkYzltQ9FSlIbU4uiEU1_qLkCmAYVytzWkmktNxkzhqejlfPBLTHK0NqvSTuw";
-        const { tokens } = await oAuth2Client.getToken(code);
-        oAuth2Client.setCredentials(tokens);
-        fs.writeFileSync(OAUTH2_TOKENS_PATH, JSON.stringify(tokens));
-        console.log("Access token:", tokens.access_token);
-        console.log("Refresh token:", tokens.refresh_token);
-    }
-
-    // Set the playlist metadata
-    const playlistMetadata = {
-        snippet: {
-            title: "My Playlist Title",
-            description: "This is my playlist description",
-        },
-        status: {
-            privacyStatus: "private", // set the privacy status (e.g. private, public)
-        },
-    };
-
-    // Create the playlist on YouTube
-    const youtube = google.youtube({ version: "v3", auth: oAuth2Client });
-    const res = await youtube.playlists.insert({
-        part: ["snippet", "status"],
-        requestBody: playlistMetadata,
-    });
-
-    console.log(`Playlist created successfully: ${res.data.id}`, res);
-
-    // Upload a video to the playlist
-    const videoMetadata: youtube_v3.Schema$Video = {
-        snippet: {
-            title: "My Video Title",
-            description: "This is my video description",
-            tags: ["tag1", "tag2"], // set some tags for the video (optional)
-        },
-        status: {
-            privacyStatus: "unlisted", // set the privacy status (e.g. private, public)
-            madeForKids: false,
-            embeddable: true,
-        },
-    };
-    const videoStream = fs.createReadStream(SAMPLE_VIDEO_PATH);
-    const videoInsertResponse = await youtube.videos.insert({
-        part: ["snippet", "status"],
-        requestBody: videoMetadata,
-        media: {
-            body: videoStream,
-        },
-        notifySubscribers: false,
-        uploadType: "resumable",
-    });
-    const videoId = videoInsertResponse.data.id;
-
-    console.log(`Video uploaded successfully: ${videoId}`, videoInsertResponse);
-
-    // Add the video to the playlist
-    const playlistItemId = await youtube.playlistItems.insert({
-        part: ["snippet"],
-        requestBody: {
-            snippet: {
-                playlistId: res.data.id,
-                resourceId: {
-                    kind: "youtube#video",
-                    videoId,
-                },
-            },
-        },
-    });
-
-    console.log(
-        `Video added to playlist successfully: ${playlistItemId.data.id}`
-    );
-}
-
-createPlaylist().catch(console.error);
-
-// main("remote");
+main("remote");

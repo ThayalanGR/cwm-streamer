@@ -1,23 +1,27 @@
 {
-  "name": "cwm-streamer",
-  "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT",
-  "scripts": {
-    "upload": "ts-node src/upload.ts"
-  },
-  "dependencies": {
-    "@octokit/rest": "^19.0.7",
-    "dotenv": "^16.0.3",
-    "google-auth-library": "^8.7.0",
-    "googleapis": "^117.0.0",
-    "mime-types": "^2.1.35",
-    "request": "^2.88.2"
-  },
-  "devDependencies": {
-    "@types/mime-types": "^2.1.1",
-    "@types/node": "^18.15.11",
-    "ts-node": "^10.9.1",
-    "typescript": "^5.0.4"
-  }
+    "name": "cwm-streamer",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+        "start": "ts-node src"
+    },
+    "dependencies": {
+        "@ffmpeg-installer/ffmpeg": "^1.1.0",
+        "@ffprobe-installer/ffprobe": "^2.0.0",
+        "@octokit/rest": "^19.0.7",
+        "dotenv": "^16.0.3",
+        "fluent-ffmpeg": "^2.1.2",
+        "google-auth-library": "^8.7.0",
+        "googleapis": "^117.0.0",
+        "mime-types": "^2.1.35",
+        "request": "^2.88.2"
+    },
+    "devDependencies": {
+        "@types/fluent-ffmpeg": "^2.1.21",
+        "@types/mime-types": "^2.1.1",
+        "@types/node": "^18.15.11",
+        "ts-node": "^10.9.1",
+        "typescript": "^5.0.4"
+    }
 }
