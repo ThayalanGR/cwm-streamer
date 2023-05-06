@@ -3,10 +3,9 @@ import dotenv from "dotenv";
 dotenv.config();
 
 import { Octokit } from "@octokit/rest";
-import crypto, { randomUUID } from "crypto";
+import crypto from "crypto";
 import https from "https";
 import mime from "mime-types";
-import path from "path";
 import { Readable } from "stream";
 import {
     IAssetData,
@@ -514,6 +513,8 @@ async function uploadAsset(props: {
 }
 
 function getSanitizedString(str: string, reverse = false) {
+    str = str.replace(COMPRESSED_VIDEO_FLAG.concat("."), "");
+    str = str.replace(COMPRESSED_VIDEO_FLAG, "");
     const process = (inputStr: string, innerReverse = false) => {
         if (innerReverse) {
             return inputStr.replace(/\./g, " ").trim();
@@ -550,7 +551,9 @@ async function createRelease(
             repo: gitRepo,
         });
         release.data.assets.forEach((asset) => {
-            const assetName = asset.name.replace("Project.-.", "Project-.");
+            const assetName = asset.name
+                .replace(COMPRESSED_VIDEO_FLAG.concat("."), "")
+                .replace("Project.-.", "Project-.");
             const splitDelimitter = ".-.";
             const splitedNames = assetName.split(splitDelimitter);
             const sectionName = splitedNames[0];
@@ -574,7 +577,8 @@ async function createRelease(
             if (foundSection) {
                 const foundAsset = foundSection.assets.find((currentAsset) => {
                     const validFileName = getSanitizedString(currentAsset.name);
-                    return validFileName === asset.name;
+                    const validAssetName = getSanitizedString(asset.name);
+                    return validFileName === validAssetName;
                 });
 
                 const isCompressedAsset = asset.name.includes(
