@@ -1,4 +1,9 @@
-import { ICourse, ICourseAsset } from "../typings/typings";
+import {
+  IAssetData,
+  ICourse,
+  ICourseAsset,
+  ICourseSection,
+} from "../typings/typings";
 import masterCourses from "../assets/masterCourses.json";
 
 export default class MasterCourseService {
@@ -100,7 +105,12 @@ export default class MasterCourseService {
     course: string;
     section: string;
     content: string;
-  }): ICourse["sections"][0]["assets"][0] | undefined {
+  }): {
+    courseIndex: number;
+    sectionIndex: number;
+    assetIndex: number;
+    asset: ICourseAsset | undefined;
+  } {
     try {
       const [course, section, content] = [
         this.getEncodedString(props.course, true),
@@ -118,20 +128,23 @@ export default class MasterCourseService {
       const currentAsset =
         this.courses[courseIndex].sections[sectionIndex].assets[assetIndex];
 
-      try {
-        const nextAsset =
-          this.courses[courseIndex].sections[sectionIndex].assets[
-            assetIndex + 1
-          ];
-        this.preFetchAssetInBackground(nextAsset);
-      } catch (error) {}
+      const nextAsset = this.getAsset({
+        courseIndex,
+        sectionIndex,
+        assetIndex,
+        direction: "forward",
+        options: {
+          allowOnlyVideos: true,
+        },
+      });
+      this.preFetchAssetInBackground(nextAsset?.asset);
 
-      return currentAsset;
+      return { courseIndex, sectionIndex, assetIndex, asset: currentAsset };
     } catch (error) {
       console.error(error);
     }
 
-    return undefined;
+    return { asset: undefined, assetIndex: 0, courseIndex: 0, sectionIndex: 0 };
   }
 
   public getCachedContentBlobUrl(
@@ -151,18 +164,128 @@ export default class MasterCourseService {
     return nextUrl;
   }
 
-  private preFetchAssetInBackground(asset?: ICourseAsset) {
-    if (!asset) return;
+  public getRequiredAssetData(asset?: ICourseAsset) {
+    return asset?.compressedAssetData ?? asset?.assetData;
+  }
+
+  public getAssetNavigationLinks(
+    courseIndex: number,
+    sectionIndex: number,
+    assetIndex: number
+  ): { next: string | undefined; previous: string | undefined } {
+    let next: string | undefined;
+    let previous: string | undefined;
+
+    const nextAsset = this.getAsset({
+      courseIndex,
+      sectionIndex,
+      assetIndex,
+      direction: "forward",
+    });
+    if (nextAsset) {
+      next = this.getContentPath(
+        nextAsset.course.name,
+        nextAsset.section.name,
+        nextAsset.asset.name
+      );
+    }
+
+    const previousAsset = this.getAsset({
+      courseIndex,
+      sectionIndex,
+      assetIndex,
+      direction: "backward",
+    });
+    if (previousAsset) {
+      previous = this.getContentPath(
+        previousAsset.course.name,
+        previousAsset.section.name,
+        previousAsset.asset.name
+      );
+    }
+
+    return { next, previous };
+  }
+
+  private getAsset(props: {
+    direction: "forward" | "backward";
+    courseIndex: number;
+    sectionIndex: number;
+    assetIndex: number;
+    options?: {
+      allowOnlyVideos?: boolean;
+    };
+  }):
+    | { course: ICourse; section: ICourseSection; asset: ICourseAsset }
+    | undefined {
+    const { assetIndex, courseIndex, direction, sectionIndex, options } = props;
+
+    const course = this.courses[courseIndex];
+
+    if (!course) {
+      return;
+    }
+
+    const section = course.sections[sectionIndex];
+    if (!section) {
+      return;
+    }
+
+    let nextAssetIndex =
+      direction === "forward" ? assetIndex + 1 : assetIndex - 1;
+    const asset = section.assets[nextAssetIndex];
+
+    if (!asset) {
+      // skip section
+
+      return direction === "forward"
+        ? this.getAsset({
+            ...props,
+            courseIndex,
+            sectionIndex: sectionIndex + 1,
+            assetIndex: -1,
+          })
+        : this.getAsset({
+            ...props,
+            courseIndex,
+            sectionIndex: sectionIndex - 1,
+            assetIndex: 1,
+          });
+    }
 
     if (
-      this.getCachedContentBlobUrl(asset.assetData.browser_download_url, true)
-    )
-      return;
+      options?.allowOnlyVideos &&
+      !asset?.assetData?.content_type?.includes("video")
+    ) {
+      return this.getAsset({
+        ...props,
+        assetIndex: nextAssetIndex,
+      });
+    }
+
+    return { course, section, asset };
+  }
+
+  private preFetchAssetInBackground(asset?: ICourseAsset) {
+    // maintain only n number of cache content
+    const cacheThreshold = 5;
+
+    if (this.blobBufferUrlMapping.size + 1 > cacheThreshold) {
+      const itemsToRemove = this.blobBufferUrlMapping.size + 1 - cacheThreshold;
+      this.blobBufferUrlMapping = new Map(
+        [...this.blobBufferUrlMapping.entries()].slice(itemsToRemove)
+      );
+    }
+
+    if (!asset) return;
+
+    const requiredAssetData = asset.compressedAssetData ?? asset.assetData;
+    const requiredUrl = requiredAssetData.browser_download_url;
+    if (this.getCachedContentBlobUrl(requiredUrl, true)) return;
 
     setTimeout(() => {
-      const currentUrl = asset.assetData.browser_download_url;
-      console.log("pre fetching started", currentUrl);
-      const nextUrl = this.getRequiredUrl(currentUrl);
+      console.log("pre fetching started", requiredUrl);
+      const nextUrl = this.getRequiredUrl(requiredUrl);
 
       fetch(nextUrl)
         .then((data) => {

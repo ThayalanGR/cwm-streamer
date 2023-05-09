@@ -2,7 +2,7 @@
  * 1. entity framework 6 in depth
  * 2. unit testing
  * 3. clean coding and refactoring
- * 4, complete asp.net mvc course
+ * 4. complete asp.net mvc course
  */
 export default [
   {

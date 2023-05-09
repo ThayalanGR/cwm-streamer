@@ -45,6 +45,7 @@
       "assets": [
         {
           "name": "Getting Started (5m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/U3XyjB72SPKzVANNA5bW",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112937",
             "id": 103112937,
@@ -79,10 +80,44 @@
             "updated_at": "2023-04-11T02:42:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/U3XyjB72SPKzVANNA5bW"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107082740",
+            "id": 107082740,
+            "node_id": "RA_kwDOJTIOEc4GYfP0",
+            "name": "_COMPRESSED_.Getting.Started.5m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2560432,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:58:51Z",
+            "updated_at": "2023-05-07T10:58:52Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Getting.Started.5m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "Getting Started (5m) -> 2- What are Design Patterns.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ooJkHTKbQJKtXC0V4ZRk",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113521",
             "id": 103113521,
@@ -117,10 +152,44 @@
             "updated_at": "2023-04-11T02:49:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.2-.What.are.Design.Patterns.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ooJkHTKbQJKtXC0V4ZRk"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107083554",
+            "id": 107083554,
+            "node_id": "RA_kwDOJTIOEc4GYfci",
+            "name": "_COMPRESSED_.Getting.Started.5m.-.2-.What.are.Design.Patterns.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 10071556,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:15:16Z",
+            "updated_at": "2023-05-07T11:15:18Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Getting.Started.5m.-.2-.What.are.Design.Patterns.mp4"
+          }
         },
         {
           "name": "Getting Started (5m) -> 3- How to Take This Course.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/o1pZvH4jTKipgOw7VQQg",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113703",
             "id": 103113703,
@@ -155,7 +224,40 @@
             "updated_at": "2023-04-11T02:51:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.3-.How.to.Take.This.Course.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/o1pZvH4jTKipgOw7VQQg"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107083705",
+            "id": 107083705,
+            "node_id": "RA_kwDOJTIOEc4GYfe5",
+            "name": "_COMPRESSED_.Getting.Started.5m.-.3-.How.to.Take.This.Course.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5248486,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:17:59Z",
+            "updated_at": "2023-05-07T11:18:01Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Getting.Started.5m.-.3-.How.to.Take.This.Course.mp4"
+          }
         },
         {
           "name": "Getting Started (5m) -> Design Patterns - Part 1.zip",
@@ -193,7 +295,41 @@
             "updated_at": "2023-04-11T02:51:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.Design.Patterns.-.Part.1.zip"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/r0da6HXgRc2nLDloOSO7"
+          "originUrl": "https://cdn.fs.teachablecdn.com/r0da6HXgRc2nLDloOSO7",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113729",
+            "id": 103113729,
+            "node_id": "RA_kwDOJTIOEc4GJWQB",
+            "name": "Getting.Started.5m.-.Design.Patterns.-.Part.1.zip",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/zip",
+            "state": "uploaded",
+            "size": 492924,
+            "download_count": 0,
+            "created_at": "2023-04-11T02:51:42Z",
+            "updated_at": "2023-04-11T02:51:44Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.Design.Patterns.-.Part.1.zip"
+          }
         }
       ]
     },
@@ -202,6 +338,7 @@
       "assets": [
         {
           "name": "The Essentials (33m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/sPScYxvRQvt05RXucIuH",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113733",
             "id": 103113733,
@@ -236,10 +373,44 @@
             "updated_at": "2023-04-11T02:51:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/sPScYxvRQvt05RXucIuH"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107083743",
+            "id": 107083743,
+            "node_id": "RA_kwDOJTIOEc4GYfff",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 1304029,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:18:51Z",
+            "updated_at": "2023-05-07T11:18:53Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 2- Getting Started with Java.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/u59enVqSRD2kuoWThkQW",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113762",
             "id": 103113762,
@@ -274,10 +445,44 @@
             "updated_at": "2023-04-11T02:52:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.2-.Getting.Started.with.Java.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/u59enVqSRD2kuoWThkQW"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107083803",
+            "id": 107083803,
+            "node_id": "RA_kwDOJTIOEc4GYfgb",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.2-.Getting.Started.with.Java.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3081061,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:19:58Z",
+            "updated_at": "2023-05-07T11:20:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.2-.Getting.Started.with.Java.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 3- Classes.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/bTrc1irWSAO0kyUwvB62",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113860",
             "id": 103113860,
@@ -312,10 +517,44 @@
             "updated_at": "2023-04-11T02:52:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.3-.Classes.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/bTrc1irWSAO0kyUwvB62"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107083994",
+            "id": 107083994,
+            "node_id": "RA_kwDOJTIOEc4GYfja",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.3-.Classes.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5926753,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:22:02Z",
+            "updated_at": "2023-05-07T11:22:04Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.3-.Classes.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 4- Coupling.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/mMoLM3hdT9SKE5iRI7Ah",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103113922",
             "id": 103113922,
@@ -350,10 +589,44 @@
             "updated_at": "2023-04-11T02:53:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.4-.Coupling.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/mMoLM3hdT9SKE5iRI7Ah"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107084066",
+            "id": 107084066,
+            "node_id": "RA_kwDOJTIOEc4GYfki",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.4-.Coupling.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4434120,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:23:29Z",
+            "updated_at": "2023-05-07T11:23:31Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.4-.Coupling.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 5- Interfaces.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZJ6A7EMYR4WW8yKlgVum",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114047",
             "id": 103114047,
@@ -388,10 +661,44 @@
             "updated_at": "2023-04-11T02:54:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.5-.Interfaces.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ZJ6A7EMYR4WW8yKlgVum"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107084304",
+            "id": 107084304,
+            "node_id": "RA_kwDOJTIOEc4GYfoQ",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.5-.Interfaces.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9723769,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:27:40Z",
+            "updated_at": "2023-05-07T11:27:42Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.5-.Interfaces.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 6- Encapsulation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/11ZS3JGgTIURUiI5Lujz",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114115",
             "id": 103114115,
@@ -426,10 +733,44 @@
             "updated_at": "2023-04-11T02:55:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.6-.Encapsulation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/11ZS3JGgTIURUiI5Lujz"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107084482",
+            "id": 107084482,
+            "node_id": "RA_kwDOJTIOEc4GYfrC",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.6-.Encapsulation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7638265,
+            "download_count": 0,
+            "created_at": "2023-05-07T11:31:13Z",
+            "updated_at": "2023-05-07T11:31:15Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.6-.Encapsulation.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 7- Abstraction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/8mFCk5RZSyCT7o4hqAJw",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114206",
             "id": 103114206,
@@ -459,15 +800,49 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 152734403,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:56:47Z",
             "updated_at": "2023-04-11T02:57:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.7-.Abstraction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/8mFCk5RZSyCT7o4hqAJw"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107146064",
+            "id": 107146064,
+            "node_id": "RA_kwDOJTIOEc4GYutQ",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.7-.Abstraction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8924960,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:31:00Z",
+            "updated_at": "2023-05-08T00:31:02Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.7-.Abstraction.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 8- Inheritance.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/mnJAcivbTGGkM6fvuKRF",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114283",
             "id": 103114283,
@@ -502,10 +877,44 @@
             "updated_at": "2023-04-11T02:58:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.8-.Inheritance.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/mnJAcivbTGGkM6fvuKRF"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107146237",
+            "id": 107146237,
+            "node_id": "RA_kwDOJTIOEc4GYuv9",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.8-.Inheritance.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3328763,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:32:41Z",
+            "updated_at": "2023-05-08T00:32:43Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.8-.Inheritance.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 9- Polymorphism.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/EGKxlxgYSZKoZTodwJlf",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114304",
             "id": 103114304,
@@ -540,7 +949,40 @@
             "updated_at": "2023-04-11T02:59:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.9-.Polymorphism.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/EGKxlxgYSZKoZTodwJlf"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107146695",
+            "id": 107146695,
+            "node_id": "RA_kwDOJTIOEc4GYu3H",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.9-.Polymorphism.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5391526,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:35:24Z",
+            "updated_at": "2023-05-08T00:35:26Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.9-.Polymorphism.mp4"
+          }
         },
         {
           "name": "The Essentials (33m) -> 10- UML.mp4",
@@ -578,7 +1020,41 @@
             "updated_at": "2023-04-11T02:59:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.10-.UML.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/L3h0Y3jWS7uGtD5ntmdx"
+          "originUrl": "https://cdn.fs.teachablecdn.com/L3h0Y3jWS7uGtD5ntmdx",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107147014",
+            "id": 107147014,
+            "node_id": "RA_kwDOJTIOEc4GYu8G",
+            "name": "_COMPRESSED_.The.Essentials.33m.-.10-.UML.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4424396,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:38:15Z",
+            "updated_at": "2023-05-08T00:38:17Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.The.Essentials.33m.-.10-.UML.mp4"
+          }
         }
       ]
     },
@@ -621,10 +1097,45 @@
             "updated_at": "2023-04-11T02:59:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/TBsViC70TLOknBnHssMF"
+          "originUrl": "https://cdn.fs.teachablecdn.com/TBsViC70TLOknBnHssMF",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107147129",
+            "id": 107147129,
+            "node_id": "RA_kwDOJTIOEc4GYu95",
+            "name": "_COMPRESSED_.Memento.Pattern.13m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2708021,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:39:29Z",
+            "updated_at": "2023-05-08T00:39:31Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Memento.Pattern.13m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Memento Pattern (13m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ep3c14lDRFyHh6YtXoPp",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114406",
             "id": 103114406,
@@ -659,10 +1170,44 @@
             "updated_at": "2023-04-11T03:00:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ep3c14lDRFyHh6YtXoPp"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107148110",
+            "id": 107148110,
+            "node_id": "RA_kwDOJTIOEc4GYvNO",
+            "name": "_COMPRESSED_.Memento.Pattern.13m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8352003,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:48:26Z",
+            "updated_at": "2023-05-08T00:48:29Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Memento.Pattern.13m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Memento Pattern (13m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/BxopCFLZQ9ekWfyk0UZi",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114561",
             "id": 103114561,
@@ -697,7 +1242,40 @@
             "updated_at": "2023-04-11T03:01:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/BxopCFLZQ9ekWfyk0UZi"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107149082",
+            "id": 107149082,
+            "node_id": "RA_kwDOJTIOEc4GYvca",
+            "name": "_COMPRESSED_.Memento.Pattern.13m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9154860,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:53:23Z",
+            "updated_at": "2023-05-08T00:53:26Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Memento.Pattern.13m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Memento Pattern (13m) -> 4- Exercise.pdf",
@@ -735,7 +1313,41 @@
             "updated_at": "2023-04-11T03:01:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.4-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/KlZsh7veTYG9UlPotYyO"
+          "originUrl": "https://cdn.fs.teachablecdn.com/KlZsh7veTYG9UlPotYyO",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114572",
+            "id": 103114572,
+            "node_id": "RA_kwDOJTIOEc4GJWdM",
+            "name": "Memento.Pattern.13m.-.4-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 56200,
+            "download_count": 0,
+            "created_at": "2023-04-11T03:01:40Z",
+            "updated_at": "2023-04-11T03:01:41Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.4-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -744,6 +1356,7 @@
       "assets": [
         {
           "name": "State Pattern (25m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/D4t4TAdxTR2B1SuYEeVq",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114659",
             "id": 103114659,
@@ -778,10 +1391,44 @@
             "updated_at": "2023-04-11T03:03:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/D4t4TAdxTR2B1SuYEeVq"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107149464",
+            "id": 107149464,
+            "node_id": "RA_kwDOJTIOEc4GYviY",
+            "name": "_COMPRESSED_.State.Pattern.25m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8169847,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:57:08Z",
+            "updated_at": "2023-05-08T00:57:11Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.State.Pattern.25m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "State Pattern (25m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/TdOV5PaxSVuNj5QTLUnz",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114717",
             "id": 103114717,
@@ -816,10 +1463,44 @@
             "updated_at": "2023-04-11T03:04:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/TdOV5PaxSVuNj5QTLUnz"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107149648",
+            "id": 107149648,
+            "node_id": "RA_kwDOJTIOEc4GYvlQ",
+            "name": "_COMPRESSED_.State.Pattern.25m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4543656,
+            "download_count": 0,
+            "created_at": "2023-05-08T00:58:58Z",
+            "updated_at": "2023-05-08T00:59:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.State.Pattern.25m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "State Pattern (25m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/qudn68EKTMm7BbD9dmTY",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103114961",
             "id": 103114961,
@@ -854,10 +1535,44 @@
             "updated_at": "2023-04-11T03:05:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/qudn68EKTMm7BbD9dmTY"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107150156",
+            "id": 107150156,
+            "node_id": "RA_kwDOJTIOEc4GYvtM",
+            "name": "_COMPRESSED_.State.Pattern.25m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 11716476,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:03:13Z",
+            "updated_at": "2023-05-08T01:03:16Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.State.Pattern.25m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "State Pattern (25m) -> 4- Abusing Patterns.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/K0RIWoS5SrmeAEqOF0ES",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103115422",
             "id": 103115422,
@@ -892,10 +1607,44 @@
             "updated_at": "2023-04-11T03:10:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.4-.Abusing.Patterns.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/K0RIWoS5SrmeAEqOF0ES"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107150363",
+            "id": 107150363,
+            "node_id": "RA_kwDOJTIOEc4GYvwb",
+            "name": "_COMPRESSED_.State.Pattern.25m.-.4-.Abusing.Patterns.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 18779726,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:05:04Z",
+            "updated_at": "2023-05-08T01:05:09Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.State.Pattern.25m.-.4-.Abusing.Patterns.mp4"
+          }
         },
         {
           "name": "State Pattern (25m) -> 5- Abusing the State Pattern.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/djV9ErvLQyaaD8UawlhC",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103115701",
             "id": 103115701,
@@ -930,7 +1679,40 @@
             "updated_at": "2023-04-11T03:13:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.5-.Abusing.the.State.Pattern.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/djV9ErvLQyaaD8UawlhC"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107151807",
+            "id": 107151807,
+            "node_id": "RA_kwDOJTIOEc4GYwG_",
+            "name": "_COMPRESSED_.State.Pattern.25m.-.5-.Abusing.the.State.Pattern.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 13388742,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:21:16Z",
+            "updated_at": "2023-05-08T01:21:19Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.State.Pattern.25m.-.5-.Abusing.the.State.Pattern.mp4"
+          }
         },
         {
           "name": "State Pattern (25m) -> 6- Exercise.pdf",
@@ -968,7 +1750,41 @@
             "updated_at": "2023-04-11T03:13:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.6-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/vfagKOK0Sz2Ame33XhHb"
+          "originUrl": "https://cdn.fs.teachablecdn.com/vfagKOK0Sz2Ame33XhHb",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103115737",
+            "id": 103115737,
+            "node_id": "RA_kwDOJTIOEc4GJWvZ",
+            "name": "State.Pattern.25m.-.6-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 56070,
+            "download_count": 0,
+            "created_at": "2023-04-11T03:13:17Z",
+            "updated_at": "2023-04-11T03:13:17Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.6-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -977,6 +1793,7 @@
       "assets": [
         {
           "name": "Iterator Pattern (21m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/VjD6t8YwSReJqo2XYpFQ",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103115893",
             "id": 103115893,
@@ -1011,10 +1828,44 @@
             "updated_at": "2023-04-11T03:16:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/VjD6t8YwSReJqo2XYpFQ"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107152292",
+            "id": 107152292,
+            "node_id": "RA_kwDOJTIOEc4GYwOk",
+            "name": "_COMPRESSED_.Iterator.Pattern.21m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 10628099,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:25:08Z",
+            "updated_at": "2023-05-08T01:25:11Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Iterator.Pattern.21m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Iterator Pattern (21m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/8nvunRDxR6akfiiRW38j",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116077",
             "id": 103116077,
@@ -1049,10 +1900,44 @@
             "updated_at": "2023-04-11T03:18:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/8nvunRDxR6akfiiRW38j"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107152477",
+            "id": 107152477,
+            "node_id": "RA_kwDOJTIOEc4GYwRd",
+            "name": "_COMPRESSED_.Iterator.Pattern.21m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5290902,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:27:33Z",
+            "updated_at": "2023-05-08T01:27:35Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Iterator.Pattern.21m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Iterator Pattern (21m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/qA9SdXZET3SzeI2NGrXv",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116200",
             "id": 103116200,
@@ -1087,10 +1972,44 @@
             "updated_at": "2023-04-11T03:20:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/qA9SdXZET3SzeI2NGrXv"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107153080",
+            "id": 107153080,
+            "node_id": "RA_kwDOJTIOEc4GYwa4",
+            "name": "_COMPRESSED_.Iterator.Pattern.21m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 11956744,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:32:17Z",
+            "updated_at": "2023-05-08T01:32:20Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Iterator.Pattern.21m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Iterator Pattern (21m) -> 4- Benefits.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/yAZ74BJQ621BZV1Nye9w",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116340",
             "id": 103116340,
@@ -1125,7 +2044,40 @@
             "updated_at": "2023-04-11T03:21:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.4-.Benefits.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/yAZ74BJQ621BZV1Nye9w"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107153463",
+            "id": 107153463,
+            "node_id": "RA_kwDOJTIOEc4GYwg3",
+            "name": "_COMPRESSED_.Iterator.Pattern.21m.-.4-.Benefits.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6505568,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:34:42Z",
+            "updated_at": "2023-05-08T01:34:44Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Iterator.Pattern.21m.-.4-.Benefits.mp4"
+          }
         }
       ]
     },
@@ -1134,6 +2086,7 @@
       "assets": [
         {
           "name": "Strategy Pattern (13m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/3chE92CQSrm33PblZFCH",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116469",
             "id": 103116469,
@@ -1168,10 +2121,44 @@
             "updated_at": "2023-04-11T03:23:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Strategy.Pattern.13m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/3chE92CQSrm33PblZFCH"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107153850",
+            "id": 107153850,
+            "node_id": "RA_kwDOJTIOEc4GYwm6",
+            "name": "_COMPRESSED_.Strategy.Pattern.13m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7047920,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:37:44Z",
+            "updated_at": "2023-05-08T01:37:46Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Strategy.Pattern.13m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Strategy Pattern (13m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/qlYhr27hQPNxn1ilcu22",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116490",
             "id": 103116490,
@@ -1206,10 +2193,44 @@
             "updated_at": "2023-04-11T03:23:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Strategy.Pattern.13m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/qlYhr27hQPNxn1ilcu22"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107153995",
+            "id": 107153995,
+            "node_id": "RA_kwDOJTIOEc4GYwpL",
+            "name": "_COMPRESSED_.Strategy.Pattern.13m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4634876,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:39:20Z",
+            "updated_at": "2023-05-08T01:39:22Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Strategy.Pattern.13m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Strategy Pattern (13m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/Ze0llxPSOG9yJ0lzCftg",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116659",
             "id": 103116659,
@@ -1244,7 +2265,40 @@
             "updated_at": "2023-04-11T03:25:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Strategy.Pattern.13m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/Ze0llxPSOG9yJ0lzCftg"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107154486",
+            "id": 107154486,
+            "node_id": "RA_kwDOJTIOEc4GYww2",
+            "name": "_COMPRESSED_.Strategy.Pattern.13m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 10155894,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:43:02Z",
+            "updated_at": "2023-05-08T01:43:05Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Strategy.Pattern.13m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Strategy Pattern (13m) -> 4- Exercise.pdf",
@@ -1282,7 +2336,41 @@
             "updated_at": "2023-04-11T03:25:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Strategy.Pattern.13m.-.4-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/2MzioxuvRly93EioDLXQ"
+          "originUrl": "https://cdn.fs.teachablecdn.com/2MzioxuvRly93EioDLXQ",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116684",
+            "id": 103116684,
+            "node_id": "RA_kwDOJTIOEc4GJW-M",
+            "name": "Strategy.Pattern.13m.-.4-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 55855,
+            "download_count": 0,
+            "created_at": "2023-04-11T03:25:03Z",
+            "updated_at": "2023-04-11T03:25:03Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Strategy.Pattern.13m.-.4-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -1291,6 +2379,7 @@
       "assets": [
         {
           "name": "Template Method Pattern (13m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ghy0dqo4RVuXFJWuUpog",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116743",
             "id": 103116743,
@@ -1325,10 +2414,44 @@
             "updated_at": "2023-04-11T03:25:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ghy0dqo4RVuXFJWuUpog"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107154957",
+            "id": 107154957,
+            "node_id": "RA_kwDOJTIOEc4GYw4N",
+            "name": "_COMPRESSED_.Template.Method.Pattern.13m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5533400,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:47:49Z",
+            "updated_at": "2023-05-08T01:47:51Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Template.Method.Pattern.13m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Template Method Pattern (13m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/dDHt1NTEmsevzzQy6YhQ",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116777",
             "id": 103116777,
@@ -1363,10 +2486,44 @@
             "updated_at": "2023-04-11T03:26:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/dDHt1NTEmsevzzQy6YhQ"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155067",
+            "id": 107155067,
+            "node_id": "RA_kwDOJTIOEc4GYw57",
+            "name": "_COMPRESSED_.Template.Method.Pattern.13m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4303027,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:49:10Z",
+            "updated_at": "2023-05-08T01:49:12Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Template.Method.Pattern.13m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Template Method Pattern (13m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/8rmP7HE4QN6dKXDlSOOO",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116902",
             "id": 103116902,
@@ -1401,7 +2558,40 @@
             "updated_at": "2023-04-11T03:27:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/8rmP7HE4QN6dKXDlSOOO"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155315",
+            "id": 107155315,
+            "node_id": "RA_kwDOJTIOEc4GYw9z",
+            "name": "_COMPRESSED_.Template.Method.Pattern.13m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9563662,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:52:19Z",
+            "updated_at": "2023-05-08T01:52:22Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Template.Method.Pattern.13m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Template Method Pattern (13m) -> 4- Exercise.pdf",
@@ -1439,7 +2629,41 @@
             "updated_at": "2023-04-11T03:27:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.4-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/5nV8iV1TWyzcHxQSQag9"
+          "originUrl": "https://cdn.fs.teachablecdn.com/5nV8iV1TWyzcHxQSQag9",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116929",
+            "id": 103116929,
+            "node_id": "RA_kwDOJTIOEc4GJXCB",
+            "name": "Template.Method.Pattern.13m.-.4-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 56173,
+            "download_count": 0,
+            "created_at": "2023-04-11T03:27:31Z",
+            "updated_at": "2023-04-11T03:27:32Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.4-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -1448,6 +2672,7 @@
       "assets": [
         {
           "name": "Command Pattern (28m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/3RhZoEkSiaUE88gaB9Nn",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103116955",
             "id": 103116955,
@@ -1482,10 +2707,44 @@
             "updated_at": "2023-04-11T03:27:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/3RhZoEkSiaUE88gaB9Nn"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155370",
+            "id": 107155370,
+            "node_id": "RA_kwDOJTIOEc4GYw-q",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2676571,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:53:07Z",
+            "updated_at": "2023-05-08T01:53:08Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/nvJsmKhZScKL19QL8XHB",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117146",
             "id": 103117146,
@@ -1520,10 +2779,44 @@
             "updated_at": "2023-04-11T03:29:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/nvJsmKhZScKL19QL8XHB"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155433",
+            "id": 107155433,
+            "node_id": "RA_kwDOJTIOEc4GYw_p",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3774157,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:54:21Z",
+            "updated_at": "2023-05-08T01:54:23Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/G3asPWKQeSkuofwOgOFN",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117299",
             "id": 103117299,
@@ -1558,10 +2851,44 @@
             "updated_at": "2023-04-11T03:30:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/G3asPWKQeSkuofwOgOFN"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155617",
+            "id": 107155617,
+            "node_id": "RA_kwDOJTIOEc4GYxCh",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7380001,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:57:12Z",
+            "updated_at": "2023-05-08T01:57:14Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 4- Composite Commands.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/i6mwnqvhT9WYUoIBvR2M",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117400",
             "id": 103117400,
@@ -1596,10 +2923,44 @@
             "updated_at": "2023-04-11T03:31:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.4-.Composite.Commands.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/i6mwnqvhT9WYUoIBvR2M"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107155968",
+            "id": 107155968,
+            "node_id": "RA_kwDOJTIOEc4GYxIA",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.4-.Composite.Commands.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6638387,
+            "download_count": 0,
+            "created_at": "2023-05-08T01:59:50Z",
+            "updated_at": "2023-05-08T01:59:53Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.4-.Composite.Commands.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 5- Undoable Commands.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/oeoLtl6eRP28hnGj8Sxc",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117449",
             "id": 103117449,
@@ -1634,10 +2995,44 @@
             "updated_at": "2023-04-11T03:31:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.5-.Undoable.Commands.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/oeoLtl6eRP28hnGj8Sxc"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107156113",
+            "id": 107156113,
+            "node_id": "RA_kwDOJTIOEc4GYxKR",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.5-.Undoable.Commands.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5247609,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:01:43Z",
+            "updated_at": "2023-05-08T02:01:45Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.5-.Undoable.Commands.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 6- Implementing Undo Mechanism.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/a0zYWS5ORQOvfNMQXxIM",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117744",
             "id": 103117744,
@@ -1672,7 +3067,40 @@
             "updated_at": "2023-04-11T03:36:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.6-.Implementing.Undo.Mechanism.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/a0zYWS5ORQOvfNMQXxIM"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107156657",
+            "id": 107156657,
+            "node_id": "RA_kwDOJTIOEc4GYxSx",
+            "name": "_COMPRESSED_.Command.Pattern.28m.-.6-.Implementing.Undo.Mechanism.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 18232524,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:07:51Z",
+            "updated_at": "2023-05-08T02:07:54Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Command.Pattern.28m.-.6-.Implementing.Undo.Mechanism.mp4"
+          }
         },
         {
           "name": "Command Pattern (28m) -> 7- Exercise.pdf",
@@ -1710,7 +3138,41 @@
             "updated_at": "2023-04-11T03:36:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.7-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/4ohSxbg2Quq1mlzcOws2"
+          "originUrl": "https://cdn.fs.teachablecdn.com/4ohSxbg2Quq1mlzcOws2",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117812",
+            "id": 103117812,
+            "node_id": "RA_kwDOJTIOEc4GJXP0",
+            "name": "Command.Pattern.28m.-.7-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 61808,
+            "download_count": 0,
+            "created_at": "2023-04-11T03:36:23Z",
+            "updated_at": "2023-04-11T03:36:23Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.7-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -1718,7 +3180,8 @@
       "name": "Observer Pattern 18m",
       "assets": [
         {
-          "name": "Observer Pattern 18m - 1- The Problem mp4",
+          "name": "Observer Pattern (18m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/oKlj3NTjQ2iytlU1sTDD",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117894",
             "id": 103117894,
@@ -1753,10 +3216,44 @@
             "updated_at": "2023-04-11T03:38:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/oKlj3NTjQ2iytlU1sTDD"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107156761",
+            "id": 107156761,
+            "node_id": "RA_kwDOJTIOEc4GYxUZ",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4059492,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:10:21Z",
+            "updated_at": "2023-05-08T02:10:23Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.1-.The.Problem.mp4"
+          }
         },
         {
-          "name": "Observer Pattern 18m - 2- Solution mp4",
+          "name": "Observer Pattern (18m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/vkxnfFBMS0OjwQDLVZ4t",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103117926",
             "id": 103117926,
@@ -1791,10 +3288,44 @@
             "updated_at": "2023-04-11T03:38:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/vkxnfFBMS0OjwQDLVZ4t"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107156833",
+            "id": 107156833,
+            "node_id": "RA_kwDOJTIOEc4GYxVh",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5343197,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:11:32Z",
+            "updated_at": "2023-05-08T02:11:34Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Observer Pattern (18m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/o2yXcteITsWITWeryRek",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137301",
             "id": 103137301,
@@ -1829,10 +3360,44 @@
             "updated_at": "2023-04-11T07:01:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/o2yXcteITsWITWeryRek"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107157032",
+            "id": 107157032,
+            "node_id": "RA_kwDOJTIOEc4GYxYo",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6870069,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:13:58Z",
+            "updated_at": "2023-05-08T02:14:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Observer Pattern (18m) -> 4- Communication Styles.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/bzcTCImTbybErxr6q1OX",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137367",
             "id": 103137367,
@@ -1867,10 +3432,44 @@
             "updated_at": "2023-04-11T07:01:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.4-.Communication.Styles.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/bzcTCImTbybErxr6q1OX"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107157103",
+            "id": 107157103,
+            "node_id": "RA_kwDOJTIOEc4GYxZv",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.4-.Communication.Styles.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3573226,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:15:17Z",
+            "updated_at": "2023-05-08T02:15:18Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.4-.Communication.Styles.mp4"
+          }
         },
         {
           "name": "Observer Pattern (18m) -> 5- The Push Style.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/AR8WTdARESht4YAdP4Jw",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137402",
             "id": 103137402,
@@ -1905,10 +3504,44 @@
             "updated_at": "2023-04-11T07:02:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.5-.The.Push.Style.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/AR8WTdARESht4YAdP4Jw"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107157206",
+            "id": 107157206,
+            "node_id": "RA_kwDOJTIOEc4GYxbW",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.5-.The.Push.Style.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2758327,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:17:01Z",
+            "updated_at": "2023-05-08T02:17:02Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.5-.The.Push.Style.mp4"
+          }
         },
         {
           "name": "Observer Pattern (18m) -> 6- The Pull Style.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/QXSFHaXsR9CLRdLfIMcw",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137480",
             "id": 103137480,
@@ -1943,7 +3576,40 @@
             "updated_at": "2023-04-11T07:03:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.6-.The.Pull.Style.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/QXSFHaXsR9CLRdLfIMcw"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107157274",
+            "id": 107157274,
+            "node_id": "RA_kwDOJTIOEc4GYxca",
+            "name": "_COMPRESSED_.Observer.Pattern.18m.-.6-.The.Pull.Style.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3499412,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:17:43Z",
+            "updated_at": "2023-05-08T02:17:45Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Observer.Pattern.18m.-.6-.The.Pull.Style.mp4"
+          }
         },
         {
           "name": "Observer Pattern (18m) -> 7- Exercise.pdf",
@@ -1981,7 +3647,41 @@
             "updated_at": "2023-04-11T07:04:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.7-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/1v1DGRVBTT6gS8CwjhT1"
+          "originUrl": "https://cdn.fs.teachablecdn.com/1v1DGRVBTT6gS8CwjhT1",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137503",
+            "id": 103137503,
+            "node_id": "RA_kwDOJTIOEc4GJcDf",
+            "name": "Observer.Pattern.18m.-.7-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 40722,
+            "download_count": 0,
+            "created_at": "2023-04-11T07:04:02Z",
+            "updated_at": "2023-04-11T07:04:02Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.7-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -1990,6 +3690,7 @@
       "assets": [
         {
           "name": "Mediator Pattern (30m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/sToL1CYSxecJe3kiTlrl",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103137853",
             "id": 103137853,
@@ -2024,10 +3725,44 @@
             "updated_at": "2023-04-11T07:07:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/sToL1CYSxecJe3kiTlrl"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107157450",
+            "id": 107157450,
+            "node_id": "RA_kwDOJTIOEc4GYxfK",
+            "name": "_COMPRESSED_.Mediator.Pattern.30m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5849006,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:19:48Z",
+            "updated_at": "2023-05-08T02:19:50Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Mediator.Pattern.30m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Mediator Pattern (30m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ZONtKB80TdCruIZe3ByZ",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103138042",
             "id": 103138042,
@@ -2062,10 +3797,44 @@
             "updated_at": "2023-04-11T07:09:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ZONtKB80TdCruIZe3ByZ"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107158120",
+            "id": 107158120,
+            "node_id": "RA_kwDOJTIOEc4GYxpo",
+            "name": "_COMPRESSED_.Mediator.Pattern.30m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6608477,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:22:06Z",
+            "updated_at": "2023-05-08T02:22:08Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Mediator.Pattern.30m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Mediator Pattern (30m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/JPAHPEpjSFKjyMIY2oKG",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103138803",
             "id": 103138803,
@@ -2100,10 +3869,44 @@
             "updated_at": "2023-04-11T07:16:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/JPAHPEpjSFKjyMIY2oKG"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107158587",
+            "id": 107158587,
+            "node_id": "RA_kwDOJTIOEc4GYxw7",
+            "name": "_COMPRESSED_.Mediator.Pattern.30m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 15105662,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:28:47Z",
+            "updated_at": "2023-05-08T02:28:50Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Mediator.Pattern.30m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Mediator Pattern (30m) -> 4- Using the Observer Pattern.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/BtweaY6nQ7qDL2w7IuC9",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103138959",
             "id": 103138959,
@@ -2138,10 +3941,44 @@
             "updated_at": "2023-04-11T07:17:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.4-.Using.the.Observer.Pattern.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/BtweaY6nQ7qDL2w7IuC9"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107158693",
+            "id": 107158693,
+            "node_id": "RA_kwDOJTIOEc4GYxyl",
+            "name": "_COMPRESSED_.Mediator.Pattern.30m.-.4-.Using.the.Observer.Pattern.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2399642,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:29:41Z",
+            "updated_at": "2023-05-08T02:29:42Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Mediator.Pattern.30m.-.4-.Using.the.Observer.Pattern.mp4"
+          }
         },
         {
           "name": "Mediator Pattern (30m) -> 5- Implementation Using the Observer Pattern.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/ugHn6Be9Sdah5uBMnlGn",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103139884",
             "id": 103139884,
@@ -2176,7 +4013,40 @@
             "updated_at": "2023-04-11T07:27:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.5-.Implementation.Using.the.Observer.Pattern.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/ugHn6Be9Sdah5uBMnlGn"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107159378",
+            "id": 107159378,
+            "node_id": "RA_kwDOJTIOEc4GYx9S",
+            "name": "_COMPRESSED_.Mediator.Pattern.30m.-.5-.Implementation.Using.the.Observer.Pattern.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 17640833,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:38:25Z",
+            "updated_at": "2023-05-08T02:38:28Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Mediator.Pattern.30m.-.5-.Implementation.Using.the.Observer.Pattern.mp4"
+          }
         },
         {
           "name": "Mediator Pattern (30m) -> 6- Exercise.pdf",
@@ -2214,7 +4084,41 @@
             "updated_at": "2023-04-11T07:28:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.6-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/4ZShC2LGQGWh5qYjo6Wv"
+          "originUrl": "https://cdn.fs.teachablecdn.com/4ZShC2LGQGWh5qYjo6Wv",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103140000",
+            "id": 103140000,
+            "node_id": "RA_kwDOJTIOEc4GJcqg",
+            "name": "Mediator.Pattern.30m.-.6-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 40664,
+            "download_count": 0,
+            "created_at": "2023-04-11T07:27:59Z",
+            "updated_at": "2023-04-11T07:28:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.6-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -2223,6 +4127,7 @@
       "assets": [
         {
           "name": "Chain of Responsibility (20m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/SMEN1psMTCThnUMlyPz9",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103140926",
             "id": 103140926,
@@ -2257,10 +4162,44 @@
             "updated_at": "2023-04-11T07:38:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/SMEN1psMTCThnUMlyPz9"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107159661",
+            "id": 107159661,
+            "node_id": "RA_kwDOJTIOEc4GYyBt",
+            "name": "_COMPRESSED_.Chain.of.Responsibility.20m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9323219,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:42:42Z",
+            "updated_at": "2023-05-08T02:42:45Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Chain.of.Responsibility.20m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Chain of Responsibility (20m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/8p0Bqv12RcSEXmy1RSEP",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103141356",
             "id": 103141356,
@@ -2295,10 +4234,44 @@
             "updated_at": "2023-04-11T07:41:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/8p0Bqv12RcSEXmy1RSEP"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107159794",
+            "id": 107159794,
+            "node_id": "RA_kwDOJTIOEc4GYyDy",
+            "name": "_COMPRESSED_.Chain.of.Responsibility.20m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4561655,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:44:32Z",
+            "updated_at": "2023-05-08T02:44:34Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Chain.of.Responsibility.20m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Chain of Responsibility (20m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/d75MXmNQXWiuAvkpCp0k",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103143323",
             "id": 103143323,
@@ -2333,7 +4306,40 @@
             "updated_at": "2023-04-11T07:48:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/d75MXmNQXWiuAvkpCp0k"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107160382",
+            "id": 107160382,
+            "node_id": "RA_kwDOJTIOEc4GYyM-",
+            "name": "_COMPRESSED_.Chain.of.Responsibility.20m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 18059113,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:52:58Z",
+            "updated_at": "2023-05-08T02:53:03Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Chain.of.Responsibility.20m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Chain of Responsibility (20m) -> 4- Exercise.pdf",
@@ -2371,7 +4377,41 @@
             "updated_at": "2023-04-11T07:49:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.4-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/TaDYroeQKaHgyxVooKph"
+          "originUrl": "https://cdn.fs.teachablecdn.com/TaDYroeQKaHgyxVooKph",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103143456",
+            "id": 103143456,
+            "node_id": "RA_kwDOJTIOEc4GJdgg",
+            "name": "Chain.of.Responsibility.20m.-.4-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 66783,
+            "download_count": 0,
+            "created_at": "2023-04-11T07:48:59Z",
+            "updated_at": "2023-04-11T07:49:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.4-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -2380,6 +4420,7 @@
       "assets": [
         {
           "name": "Visitor Pattern (16m) -> 1- The Problem.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/smzEv8ajTUSMPcWkrQtY",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103144353",
             "id": 103144353,
@@ -2414,10 +4455,44 @@
             "updated_at": "2023-04-11T07:57:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Visitor.Pattern.16m.-.1-.The.Problem.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/smzEv8ajTUSMPcWkrQtY"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107160627",
+            "id": 107160627,
+            "node_id": "RA_kwDOJTIOEc4GYyQz",
+            "name": "_COMPRESSED_.Visitor.Pattern.16m.-.1-.The.Problem.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7910108,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:56:09Z",
+            "updated_at": "2023-05-08T02:56:11Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Visitor.Pattern.16m.-.1-.The.Problem.mp4"
+          }
         },
         {
           "name": "Visitor Pattern (16m) -> 2- Solution.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/2crUwT0dSC2rp2C443n7",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103145380",
             "id": 103145380,
@@ -2452,10 +4527,44 @@
             "updated_at": "2023-04-11T08:03:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Visitor.Pattern.16m.-.2-.Solution.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/2crUwT0dSC2rp2C443n7"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107160875",
+            "id": 107160875,
+            "node_id": "RA_kwDOJTIOEc4GYyUr",
+            "name": "_COMPRESSED_.Visitor.Pattern.16m.-.2-.Solution.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7790498,
+            "download_count": 0,
+            "created_at": "2023-05-08T02:59:30Z",
+            "updated_at": "2023-05-08T02:59:33Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Visitor.Pattern.16m.-.2-.Solution.mp4"
+          }
         },
         {
           "name": "Visitor Pattern (16m) -> 3- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/9MFsLhukRg2bDedLVlVl",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103145729",
             "id": 103145729,
@@ -2490,7 +4599,40 @@
             "updated_at": "2023-04-11T08:07:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Visitor.Pattern.16m.-.3-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/9MFsLhukRg2bDedLVlVl"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107161100",
+            "id": 107161100,
+            "node_id": "RA_kwDOJTIOEc4GYyYM",
+            "name": "_COMPRESSED_.Visitor.Pattern.16m.-.3-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8895538,
+            "download_count": 0,
+            "created_at": "2023-05-08T03:02:39Z",
+            "updated_at": "2023-05-08T03:02:41Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Visitor.Pattern.16m.-.3-.Implementation.mp4"
+          }
         },
         {
           "name": "Visitor Pattern (16m) -> 4- Exercise.pdf",
@@ -2528,7 +4670,41 @@
             "updated_at": "2023-04-11T08:07:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Visitor.Pattern.16m.-.4-.Exercise.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/2nuqLxpeSaKRknnSyyp8"
+          "originUrl": "https://cdn.fs.teachablecdn.com/2nuqLxpeSaKRknnSyyp8",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103145780",
+            "id": 103145780,
+            "node_id": "RA_kwDOJTIOEc4GJeE0",
+            "name": "Visitor.Pattern.16m.-.4-.Exercise.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 66034,
+            "download_count": 0,
+            "created_at": "2023-04-11T08:07:14Z",
+            "updated_at": "2023-04-11T08:07:14Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Visitor.Pattern.16m.-.4-.Exercise.pdf"
+          }
         }
       ]
     },
@@ -2571,10 +4747,45 @@
             "updated_at": "2023-04-11T08:07:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Course.Wrap.Up.-.1-.Behavioral.Patterns.Summary.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/DyH44LeyQqXLiB5jObHt"
+          "originUrl": "https://cdn.fs.teachablecdn.com/DyH44LeyQqXLiB5jObHt",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103145782",
+            "id": 103145782,
+            "node_id": "RA_kwDOJTIOEc4GJeE2",
+            "name": "Course.Wrap.Up.-.1-.Behavioral.Patterns.Summary.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 2130778,
+            "download_count": 0,
+            "created_at": "2023-04-11T08:07:15Z",
+            "updated_at": "2023-04-11T08:07:16Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Course.Wrap.Up.-.1-.Behavioral.Patterns.Summary.pdf"
+          }
         },
         {
           "name": "Course Wrap Up -> 2- What's Next.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/9wjOukkAQna9jvFVtZ6y",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103145818",
             "id": 103145818,
@@ -2609,7 +4820,40 @@
             "updated_at": "2023-04-11T08:07:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Course.Wrap.Up.-.2-.What.s.Next.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/9wjOukkAQna9jvFVtZ6y"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107161122",
+            "id": 107161122,
+            "node_id": "RA_kwDOJTIOEc4GYyYi",
+            "name": "_COMPRESSED_.Course.Wrap.Up.-.2-.What.s.Next.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 824207,
+            "download_count": 0,
+            "created_at": "2023-05-08T03:02:55Z",
+            "updated_at": "2023-05-08T03:02:56Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/_COMPRESSED_.Course.Wrap.Up.-.2-.What.s.Next.mp4"
+          }
         }
       ]
     }

@@ -42,13 +42,24 @@ type TCourse = (typeof courses)[0]["sections"][0];
 const gitUserName = "thayalangr-engineer";
 const gitRepo = "cwm";
 
-const cb1 = [...bucket0, ...bucket1, ...bucket2, ...bucket3];
+const currentBucket = Number(process.argv[2] ?? 0);
+console.log("Current Bucket", currentBucket);
 
-const cb2 = [...bucket4, ...bucket5, ...bucket6, ...bucket7];
+const buckets = {
+    1: [...bucket0, ...bucket1, ...bucket10],
 
-const cb3 = [...bucket8, ...bucket9, ...bucket10, ...bucket11, ...bucket12];
+    2: [...bucket2, ...bucket3],
 
-const courses = cb3;
+    3: [...bucket4, ...bucket5],
+
+    4: [...bucket6, ...bucket7],
+
+    5: [...bucket8, ...bucket9],
+
+    6: [...bucket11, ...bucket12],
+};
+
+const courses = buckets[currentBucket as keyof typeof buckets];
 
 const COMPRESSED_VIDEO_FLAG = "_COMPRESSED_";
 

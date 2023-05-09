@@ -48,3 +48,11 @@
 .CourseSectionContentNodeActive{
     outline: 1px solid ;
 }
+
+a:hover {
+    transform: scale(1.01);
+}
+
+a:active {
+    transform: scale(0.9);
+}

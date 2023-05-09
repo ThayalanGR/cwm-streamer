@@ -54,7 +54,10 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
       </div>
       <div className={styles.courseSectionWrapper}>
         {courseDetails.sections.map((section, sectionIndex) => (
-          <div className={styles.courseSection} key={section.name}>
+          <div
+            className={styles.courseSection}
+            key={section.assets.length + section.name + sectionIndex}
+          >
             <div className={styles.couseSecionTitle}>
               {sectionIndex + 1}.&nbsp;{section.name}&nbsp;(&nbsp;
               {section.assets.length}&nbsp;)
@@ -62,7 +65,7 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
             <div className={styles.CourseSectionContent}>
               {section.assets.map((asset, contentIndex) => (
                 <Link
-                  key={asset.name}
+                  key={asset.name + asset?.assetData?.id + contentIndex}
                   className={cn(styles.CourseSectionContentNode, {
                     [styles.CourseSectionContentNodeActive]:
                       checkIsContentActive(section.name, asset.name),

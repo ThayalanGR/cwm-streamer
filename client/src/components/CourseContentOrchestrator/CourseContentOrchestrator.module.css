@@ -29,6 +29,12 @@ pre{
     justify-content: space-between;
 }
 
+.contenTitleWrapper{
+    display: flex;
+    gap: 10px;
+    flex-direction: row;
+}
+
 .contenTitle{
     font-size: 20px;
     font-weight: bold;
@@ -44,4 +50,25 @@ video {
     height: 100%;
     overflow: auto;
     border: none;
+}
+
+.navigationButtonGroup {
+    display: flex;
+    flex-direction: row;
+}
+
+.navigationButton {
+    height: 100%;
+    display: grid;
+    place-items: center;
+    padding: 0 10px;
+    border: 1px solid var(--tertiary-color);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.navigationButtonDisabled {
+    pointer-events: none;
+    user-select: none;
+    opacity: 0.5;
 }

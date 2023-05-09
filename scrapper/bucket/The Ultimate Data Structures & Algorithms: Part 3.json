@@ -45,6 +45,7 @@
       "assets": [
         {
           "name": "Getting Started (1m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/iZTR3c4ASOqJRZNO0moe",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103107736",
             "id": 103107736,
@@ -79,7 +80,40 @@
             "updated_at": "2023-04-11T01:48:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Getting.Started.1m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/iZTR3c4ASOqJRZNO0moe"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107072755",
+            "id": 107072755,
+            "node_id": "RA_kwDOJTIOEc4GYczz",
+            "name": "_COMPRESSED_.Getting.Started.1m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 1123008,
+            "download_count": 1,
+            "created_at": "2023-05-07T08:21:57Z",
+            "updated_at": "2023-05-07T08:21:58Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Getting.Started.1m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "Getting Started (1m) -> Data Structures - Part 3.zip",
@@ -117,7 +151,41 @@
             "updated_at": "2023-04-11T01:48:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Getting.Started.1m.-.Data.Structures.-.Part.3.zip"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/tQaJ2mAfSAqSVV6mObSi"
+          "originUrl": "https://cdn.fs.teachablecdn.com/tQaJ2mAfSAqSVV6mObSi",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103107739",
+            "id": 103107739,
+            "node_id": "RA_kwDOJTIOEc4GJUyb",
+            "name": "Getting.Started.1m.-.Data.Structures.-.Part.3.zip",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/zip",
+            "state": "uploaded",
+            "size": 188557,
+            "download_count": 0,
+            "created_at": "2023-04-11T01:48:14Z",
+            "updated_at": "2023-04-11T01:48:15Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Getting.Started.1m.-.Data.Structures.-.Part.3.zip"
+          }
         }
       ]
     },
@@ -126,6 +194,7 @@
       "assets": [
         {
           "name": "Sorting Algorithms (75m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/4PUntWtSQGCfhSzEvI33",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103107759",
             "id": 103107759,
@@ -160,10 +229,44 @@
             "updated_at": "2023-04-11T01:48:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/4PUntWtSQGCfhSzEvI33"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107072914",
+            "id": 107072914,
+            "node_id": "RA_kwDOJTIOEc4GYc2S",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2147155,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:24:40Z",
+            "updated_at": "2023-05-07T08:24:42Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 2- Bubble Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/AK6OFScnRgWiAMHeKim2",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103107914",
             "id": 103107914,
@@ -198,10 +301,44 @@
             "updated_at": "2023-04-11T01:49:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.2-.Bubble.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/AK6OFScnRgWiAMHeKim2"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073076",
+            "id": 107073076,
+            "node_id": "RA_kwDOJTIOEc4GYc40",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.2-.Bubble.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3708527,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:25:56Z",
+            "updated_at": "2023-05-07T08:25:58Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.2-.Bubble.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 3- Bubble Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/tPNW9kpDQ1erZPzhM0Ju",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108197",
             "id": 103108197,
@@ -236,10 +373,44 @@
             "updated_at": "2023-04-11T01:51:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.3-.Bubble.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/tPNW9kpDQ1erZPzhM0Ju"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073244",
+            "id": 107073244,
+            "node_id": "RA_kwDOJTIOEc4GYc7c",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.3-.Bubble.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9792080,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:30:31Z",
+            "updated_at": "2023-05-07T08:30:34Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.3-.Bubble.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 4- Selection Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/P8k0QQCWTey1VQTNhHLH",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108243",
             "id": 103108243,
@@ -274,10 +445,44 @@
             "updated_at": "2023-04-11T01:52:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.4-.Selection.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/P8k0QQCWTey1VQTNhHLH"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073290",
+            "id": 107073290,
+            "node_id": "RA_kwDOJTIOEc4GYc8K",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.4-.Selection.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3002659,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:31:22Z",
+            "updated_at": "2023-05-07T08:31:23Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.4-.Selection.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 5- Selection Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/KDuZpJQBmCQAOTMhmwl1",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108374",
             "id": 103108374,
@@ -312,10 +517,44 @@
             "updated_at": "2023-04-11T01:53:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.5-.Selection.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/KDuZpJQBmCQAOTMhmwl1"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073398",
+            "id": 107073398,
+            "node_id": "RA_kwDOJTIOEc4GYc92",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.5-.Selection.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5096263,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:34:01Z",
+            "updated_at": "2023-05-07T08:34:02Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.5-.Selection.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 6- Insertion Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/OvtqVmBSsOQmmXZupY6Y",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108484",
             "id": 103108484,
@@ -350,10 +589,44 @@
             "updated_at": "2023-04-11T01:54:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.6-.Insertion.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/OvtqVmBSsOQmmXZupY6Y"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073476",
+            "id": 107073476,
+            "node_id": "RA_kwDOJTIOEc4GYc_E",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.6-.Insertion.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4419903,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:35:22Z",
+            "updated_at": "2023-05-07T08:35:24Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.6-.Insertion.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 7- Insertion Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/wNqZ6HcSHmxWEPecQJnS",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108754",
             "id": 103108754,
@@ -388,10 +661,44 @@
             "updated_at": "2023-04-11T01:56:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.7-.Insertion.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/wNqZ6HcSHmxWEPecQJnS"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073583",
+            "id": 107073583,
+            "node_id": "RA_kwDOJTIOEc4GYdAv",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.7-.Insertion.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3492554,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:37:03Z",
+            "updated_at": "2023-05-07T08:37:05Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.7-.Insertion.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 8- Merge Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/kmxWVpNYSemDH7ttFrks",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108785",
             "id": 103108785,
@@ -426,10 +733,44 @@
             "updated_at": "2023-04-11T01:56:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.8-.Merge.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/kmxWVpNYSemDH7ttFrks"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107073643",
+            "id": 107073643,
+            "node_id": "RA_kwDOJTIOEc4GYdBr",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.8-.Merge.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6117310,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:38:32Z",
+            "updated_at": "2023-05-07T08:38:33Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.8-.Merge.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 9- Merge Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/c17WGkTuicMlgGPQwc2w",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108871",
             "id": 103108871,
@@ -464,10 +805,44 @@
             "updated_at": "2023-04-11T01:58:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.9-.Merge.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/c17WGkTuicMlgGPQwc2w"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107074833",
+            "id": 107074833,
+            "node_id": "RA_kwDOJTIOEc4GYdUR",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.9-.Merge.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 11909082,
+            "download_count": 0,
+            "created_at": "2023-05-07T08:58:29Z",
+            "updated_at": "2023-05-07T08:58:32Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.9-.Merge.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 10- Quick Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/6kuyLCsITR6qLZg8IV4P",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108908",
             "id": 103108908,
@@ -502,10 +877,44 @@
             "updated_at": "2023-04-11T01:58:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.10-.Quick.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/6kuyLCsITR6qLZg8IV4P"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107074925",
+            "id": 107074925,
+            "node_id": "RA_kwDOJTIOEc4GYdVt",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.10-.Quick.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3577711,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:00:05Z",
+            "updated_at": "2023-05-07T09:00:08Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.10-.Quick.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 11- Partitioning.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/rVb9nPS1ir8hJNENDYNA",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103108981",
             "id": 103108981,
@@ -540,10 +949,44 @@
             "updated_at": "2023-04-11T01:59:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.11-.Partitioning.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/rVb9nPS1ir8hJNENDYNA"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107075028",
+            "id": 107075028,
+            "node_id": "RA_kwDOJTIOEc4GYdXU",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.11-.Partitioning.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6755753,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:01:41Z",
+            "updated_at": "2023-05-07T09:01:44Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.11-.Partitioning.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 12- Quick Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/M9KNWq67TSCCX0PJmpZU",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109456",
             "id": 103109456,
@@ -578,10 +1021,44 @@
             "updated_at": "2023-04-11T02:07:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.12-.Quick.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/M9KNWq67TSCCX0PJmpZU"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107076320",
+            "id": 107076320,
+            "node_id": "RA_kwDOJTIOEc4GYdrg",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.12-.Quick.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 14083644,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:17:44Z",
+            "updated_at": "2023-05-07T09:17:49Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.12-.Quick.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 13- Counting Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/r9ueR3ySza2hs8ZCNBpN",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109506",
             "id": 103109506,
@@ -616,10 +1093,44 @@
             "updated_at": "2023-04-11T02:07:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.13-.Counting.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/r9ueR3ySza2hs8ZCNBpN"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107076488",
+            "id": 107076488,
+            "node_id": "RA_kwDOJTIOEc4GYduI",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.13-.Counting.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4964334,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:20:19Z",
+            "updated_at": "2023-05-07T09:20:21Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.13-.Counting.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 14- Counting Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/CxIRctvaToKD5vDDfW61",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109531",
             "id": 103109531,
@@ -654,10 +1165,44 @@
             "updated_at": "2023-04-11T02:08:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.14-.Counting.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/CxIRctvaToKD5vDDfW61"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107076627",
+            "id": 107076627,
+            "node_id": "RA_kwDOJTIOEc4GYdwT",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.14-.Counting.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4060042,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:22:49Z",
+            "updated_at": "2023-05-07T09:22:51Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.14-.Counting.Sort-.Implementation.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 15- Bucket Sort.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/Yg03JdvAQPmSMmOzXvrR",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109562",
             "id": 103109562,
@@ -692,10 +1237,44 @@
             "updated_at": "2023-04-11T02:08:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.15-.Bucket.Sort.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/Yg03JdvAQPmSMmOzXvrR"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107076757",
+            "id": 107076757,
+            "node_id": "RA_kwDOJTIOEc4GYdyV",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.15-.Bucket.Sort.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4827430,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:24:45Z",
+            "updated_at": "2023-05-07T09:24:47Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.15-.Bucket.Sort.mp4"
+          }
         },
         {
           "name": "Sorting Algorithms (75m) -> 16- Bucket Sort- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/H1vfIWVKS6Gm2fBGKRHH",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109763",
             "id": 103109763,
@@ -730,7 +1309,40 @@
             "updated_at": "2023-04-11T02:11:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.16-.Bucket.Sort-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/H1vfIWVKS6Gm2fBGKRHH"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077299",
+            "id": 107077299,
+            "node_id": "RA_kwDOJTIOEc4GYd6z",
+            "name": "_COMPRESSED_.Sorting.Algorithms.75m.-.16-.Bucket.Sort-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 11718774,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:32:48Z",
+            "updated_at": "2023-05-07T09:32:51Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Sorting.Algorithms.75m.-.16-.Bucket.Sort-.Implementation.mp4"
+          }
         }
       ]
     },
@@ -739,6 +1351,7 @@
       "assets": [
         {
           "name": "Searching Algorithms (35m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/9xevObazQmGuk0hU2NNw",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109789",
             "id": 103109789,
@@ -773,10 +1386,44 @@
             "updated_at": "2023-04-11T02:11:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/9xevObazQmGuk0hU2NNw"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077326",
+            "id": 107077326,
+            "node_id": "RA_kwDOJTIOEc4GYd7O",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 958455,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:33:18Z",
+            "updated_at": "2023-05-07T09:33:19Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 2- Linear Search.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/gGpe5E38RLuRbEqodb1g",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109795",
             "id": 103109795,
@@ -811,10 +1458,44 @@
             "updated_at": "2023-04-11T02:11:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.2-.Linear.Search.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/gGpe5E38RLuRbEqodb1g"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077371",
+            "id": 107077371,
+            "node_id": "RA_kwDOJTIOEc4GYd77",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.2-.Linear.Search.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 1167955,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:33:54Z",
+            "updated_at": "2023-05-07T09:33:55Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.2-.Linear.Search.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 3- Linear Search- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/DKOn9djCRW63NepybCPK",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109807",
             "id": 103109807,
@@ -849,10 +1530,44 @@
             "updated_at": "2023-04-11T02:11:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.3-.Linear.Search-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/DKOn9djCRW63NepybCPK"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077427",
+            "id": 107077427,
+            "node_id": "RA_kwDOJTIOEc4GYd8z",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.3-.Linear.Search-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 2399556,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:35:05Z",
+            "updated_at": "2023-05-07T09:35:07Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.3-.Linear.Search-.Implementation.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 4- Binary Search.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/xW5CRdzQM67b4EYg6pMQ",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109833",
             "id": 103109833,
@@ -887,10 +1602,44 @@
             "updated_at": "2023-04-11T02:11:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.4-.Binary.Search.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/xW5CRdzQM67b4EYg6pMQ"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077455",
+            "id": 107077455,
+            "node_id": "RA_kwDOJTIOEc4GYd9P",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.4-.Binary.Search.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4330805,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:36:20Z",
+            "updated_at": "2023-05-07T09:36:26Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.4-.Binary.Search.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 5- Binary Search- Recursive Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/5J3qX3LwSRi1JfmSOH5u",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103109944",
             "id": 103109944,
@@ -925,10 +1674,44 @@
             "updated_at": "2023-04-11T02:12:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.5-.Binary.Search-.Recursive.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/5J3qX3LwSRi1JfmSOH5u"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077581",
+            "id": 107077581,
+            "node_id": "RA_kwDOJTIOEc4GYd_N",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.5-.Binary.Search-.Recursive.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7486515,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:38:57Z",
+            "updated_at": "2023-05-07T09:38:59Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.5-.Binary.Search-.Recursive.Implementation.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 6- Binary Search- Iterative Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/arebLaauRK6Argv0X5aw",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110007",
             "id": 103110007,
@@ -963,10 +1746,44 @@
             "updated_at": "2023-04-11T02:13:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.6-.Binary.Search-.Iterative.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/arebLaauRK6Argv0X5aw"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077723",
+            "id": 107077723,
+            "node_id": "RA_kwDOJTIOEc4GYeBb",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.6-.Binary.Search-.Iterative.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3348684,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:40:42Z",
+            "updated_at": "2023-05-07T09:40:44Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.6-.Binary.Search-.Iterative.Implementation.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 7- Ternary Search.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/vLes9zlTNqYtNRHLDZcg",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110027",
             "id": 103110027,
@@ -1001,10 +1818,44 @@
             "updated_at": "2023-04-11T02:13:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.7-.Ternary.Search.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/vLes9zlTNqYtNRHLDZcg"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077834",
+            "id": 107077834,
+            "node_id": "RA_kwDOJTIOEc4GYeDK",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.7-.Ternary.Search.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4022248,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:42:33Z",
+            "updated_at": "2023-05-07T09:42:35Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.7-.Ternary.Search.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 8- Ternary Search- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/Ly4i2DJ6SFyUmgnpp6UU",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110116",
             "id": 103110116,
@@ -1039,10 +1890,44 @@
             "updated_at": "2023-04-11T02:15:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.8-.Ternary.Search-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/Ly4i2DJ6SFyUmgnpp6UU"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107078561",
+            "id": 107078561,
+            "node_id": "RA_kwDOJTIOEc4GYeOh",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.8-.Ternary.Search-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7157989,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:53:19Z",
+            "updated_at": "2023-05-07T09:53:22Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.8-.Ternary.Search-.Implementation.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 9- Jump Search.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/xkBuDan9RxV5KV4uQUZ7",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110136",
             "id": 103110136,
@@ -1077,10 +1962,44 @@
             "updated_at": "2023-04-11T02:15:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.9-.Jump.Search.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/xkBuDan9RxV5KV4uQUZ7"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107078774",
+            "id": 107078774,
+            "node_id": "RA_kwDOJTIOEc4GYeR2",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.9-.Jump.Search.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3698703,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:55:57Z",
+            "updated_at": "2023-05-07T09:55:59Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.9-.Jump.Search.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 10- Jump Search- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/YT96B4H5TKu8FLgAK1fH",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110196",
             "id": 103110196,
@@ -1115,10 +2034,44 @@
             "updated_at": "2023-04-11T02:16:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.10-.Jump.Search-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/YT96B4H5TKu8FLgAK1fH"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107079167",
+            "id": 107079167,
+            "node_id": "RA_kwDOJTIOEc4GYeX_",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.10-.Jump.Search-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6016200,
+            "download_count": 0,
+            "created_at": "2023-05-07T09:59:24Z",
+            "updated_at": "2023-05-07T09:59:26Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.10-.Jump.Search-.Implementation.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 11- Exponential Search.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/rYI76RmaTZ69E6LZplQc",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110233",
             "id": 103110233,
@@ -1153,10 +2106,44 @@
             "updated_at": "2023-04-11T02:16:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.11-.Exponential.Search.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/rYI76RmaTZ69E6LZplQc"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107079216",
+            "id": 107079216,
+            "node_id": "RA_kwDOJTIOEc4GYeYw",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.11-.Exponential.Search.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3187699,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:00:24Z",
+            "updated_at": "2023-05-07T10:00:26Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.11-.Exponential.Search.mp4"
+          }
         },
         {
           "name": "Searching Algorithms (35m) -> 12- Exponential Search- Implementation.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/YCB3UYXSHCM7l61EzrjA",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110306",
             "id": 103110306,
@@ -1191,7 +2178,40 @@
             "updated_at": "2023-04-11T02:17:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.12-.Exponential.Search-.Implementation.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/YCB3UYXSHCM7l61EzrjA"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107079360",
+            "id": 107079360,
+            "node_id": "RA_kwDOJTIOEc4GYebA",
+            "name": "_COMPRESSED_.Searching.Algorithms.35m.-.12-.Exponential.Search-.Implementation.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 4479045,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:02:40Z",
+            "updated_at": "2023-05-07T10:02:43Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.Searching.Algorithms.35m.-.12-.Exponential.Search-.Implementation.mp4"
+          }
         }
       ]
     },
@@ -1200,6 +2220,7 @@
       "assets": [
         {
           "name": "String Manipulation Algorithms (60m) -> 1- Introduction.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/q9p6r71bS8Oq6x0wATsV",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110322",
             "id": 103110322,
@@ -1234,7 +2255,40 @@
             "updated_at": "2023-04-11T02:17:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.1-.Introduction.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/q9p6r71bS8Oq6x0wATsV"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107079371",
+            "id": 107079371,
+            "node_id": "RA_kwDOJTIOEc4GYebL",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.1-.Introduction.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 773090,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:02:59Z",
+            "updated_at": "2023-05-07T10:03:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.1-.Introduction.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 2- Exercises.pdf",
@@ -1272,7 +2326,41 @@
             "updated_at": "2023-04-11T02:17:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.2-.Exercises.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/2LjNFY2SeaNyhBlTCL3F"
+          "originUrl": "https://cdn.fs.teachablecdn.com/2LjNFY2SeaNyhBlTCL3F",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110328",
+            "id": 103110328,
+            "node_id": "RA_kwDOJTIOEc4GJVa4",
+            "name": "String.Manipulation.Algorithms.60m.-.2-.Exercises.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 40466,
+            "download_count": 0,
+            "created_at": "2023-04-11T02:17:50Z",
+            "updated_at": "2023-04-11T02:17:50Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.2-.Exercises.pdf"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 3- Useful Java Methods.pdf",
@@ -1310,10 +2398,45 @@
             "updated_at": "2023-04-11T02:17:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.3-.Useful.Java.Methods.pdf"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/2NM8sG1jR8ecWWdCHwtV"
+          "originUrl": "https://cdn.fs.teachablecdn.com/2NM8sG1jR8ecWWdCHwtV",
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110336",
+            "id": 103110336,
+            "node_id": "RA_kwDOJTIOEc4GJVbA",
+            "name": "String.Manipulation.Algorithms.60m.-.3-.Useful.Java.Methods.pdf",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "application/pdf",
+            "state": "uploaded",
+            "size": 32245,
+            "download_count": 0,
+            "created_at": "2023-04-11T02:17:51Z",
+            "updated_at": "2023-04-11T02:17:52Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.3-.Useful.Java.Methods.pdf"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 4- Count Vowels.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/Zo2Xr08vT8yoyL5ilKEu",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103110422",
             "id": 103110422,
@@ -1348,10 +2471,44 @@
             "updated_at": "2023-04-11T02:19:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.4-.Count.Vowels.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/Zo2Xr08vT8yoyL5ilKEu"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107080039",
+            "id": 107080039,
+            "node_id": "RA_kwDOJTIOEc4GYeln",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.4-.Count.Vowels.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 7460610,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:14:20Z",
+            "updated_at": "2023-05-07T10:14:23Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.4-.Count.Vowels.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 5- Reverse a String.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/TMu2qLRyQ4aLaOSbqVgI",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103111586",
             "id": 103111586,
@@ -1386,10 +2543,44 @@
             "updated_at": "2023-04-11T02:27:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.5-.Reverse.a.String.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/TMu2qLRyQ4aLaOSbqVgI"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107080451",
+            "id": 107080451,
+            "node_id": "RA_kwDOJTIOEc4GYesD",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.5-.Reverse.a.String.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8738287,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:21:31Z",
+            "updated_at": "2023-05-07T10:21:34Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.5-.Reverse.a.String.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 6- Reverse Words.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/VSWhty6BSCW7KAobjM7M",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103111706",
             "id": 103111706,
@@ -1424,10 +2615,44 @@
             "updated_at": "2023-04-11T02:29:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.6-.Reverse.Words.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/VSWhty6BSCW7KAobjM7M"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107080599",
+            "id": 107080599,
+            "node_id": "RA_kwDOJTIOEc4GYeuX",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.6-.Reverse.Words.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 10031739,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:23:47Z",
+            "updated_at": "2023-05-07T10:23:51Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.6-.Reverse.Words.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 7- Rotations.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/OFqA9ynVSAmq3TH7D5GM",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103111832",
             "id": 103111832,
@@ -1462,10 +2687,44 @@
             "updated_at": "2023-04-11T02:30:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.7-.Rotations.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/OFqA9ynVSAmq3TH7D5GM"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107080761",
+            "id": 107080761,
+            "node_id": "RA_kwDOJTIOEc4GYew5",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.7-.Rotations.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 8481651,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:25:58Z",
+            "updated_at": "2023-05-07T10:26:02Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.7-.Rotations.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 8- Remove Duplicates.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/hjYq2QejQzWRvcgogV0Q",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103111926",
             "id": 103111926,
@@ -1500,10 +2759,44 @@
             "updated_at": "2023-04-11T02:31:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.8-.Remove.Duplicates.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/hjYq2QejQzWRvcgogV0Q"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107080884",
+            "id": 107080884,
+            "node_id": "RA_kwDOJTIOEc4GYey0",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.8-.Remove.Duplicates.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 5216656,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:27:43Z",
+            "updated_at": "2023-05-07T10:27:45Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.8-.Remove.Duplicates.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 9- Most Repeated Char.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/6bvu2teGTqS4vboIVuQ0",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112118",
             "id": 103112118,
@@ -1538,10 +2831,44 @@
             "updated_at": "2023-04-11T02:33:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.9-.Most.Repeated.Char.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/6bvu2teGTqS4vboIVuQ0"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107081123",
+            "id": 107081123,
+            "node_id": "RA_kwDOJTIOEc4GYe2j",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.9-.Most.Repeated.Char.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 12057821,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:31:39Z",
+            "updated_at": "2023-05-07T10:31:43Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.9-.Most.Repeated.Char.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 10- Sentence Capitalization.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/KoLOcP9dQQOPdsKdGlIA",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112372",
             "id": 103112372,
@@ -1571,15 +2898,49 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 180926617,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:35:59Z",
             "updated_at": "2023-04-11T02:36:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.10-.Sentence.Capitalization.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/KoLOcP9dQQOPdsKdGlIA"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107081300",
+            "id": 107081300,
+            "node_id": "RA_kwDOJTIOEc4GYe5U",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.10-.Sentence.Capitalization.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 11008097,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:33:57Z",
+            "updated_at": "2023-05-07T10:34:00Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.10-.Sentence.Capitalization.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 11- Anagrams- Using Sorting.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/mla0xEYKSWGrauuqrNgK",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112484",
             "id": 103112484,
@@ -1609,15 +2970,49 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 152054465,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:37:35Z",
             "updated_at": "2023-04-11T02:37:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.11-.Anagrams-.Using.Sorting.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/mla0xEYKSWGrauuqrNgK"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107081474",
+            "id": 107081474,
+            "node_id": "RA_kwDOJTIOEc4GYe8C",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.11-.Anagrams-.Using.Sorting.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 9566112,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:37:11Z",
+            "updated_at": "2023-05-07T10:37:14Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.11-.Anagrams-.Using.Sorting.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 12- Anagrams- Using Histogramming.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/odwnLjX9SgWKR7l17Psc",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112642",
             "id": 103112642,
@@ -1652,10 +3047,44 @@
             "updated_at": "2023-04-11T02:39:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.12-.Anagrams-.Using.Histogramming.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/odwnLjX9SgWKR7l17Psc"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107082110",
+            "id": 107082110,
+            "node_id": "RA_kwDOJTIOEc4GYfF-",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.12-.Anagrams-.Using.Histogramming.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 10201861,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:48:35Z",
+            "updated_at": "2023-05-07T10:48:38Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.12-.Anagrams-.Using.Histogramming.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 13- Palindrome.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/sHNmYQvRVKLjwgLEeOZL",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112744",
             "id": 103112744,
@@ -1690,10 +3119,44 @@
             "updated_at": "2023-04-11T02:40:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.13-.Palindrome.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/sHNmYQvRVKLjwgLEeOZL"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107082291",
+            "id": 107082291,
+            "node_id": "RA_kwDOJTIOEc4GYfIz",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.13-.Palindrome.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 6649055,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:52:01Z",
+            "updated_at": "2023-05-07T10:52:04Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.13-.Palindrome.mp4"
+          }
         },
         {
           "name": "String Manipulation Algorithms (60m) -> 14- Course Wrap Up.mp4",
+          "originUrl": "https://cdn.fs.teachablecdn.com/40jBkVZES264pweaKRCW",
           "assetData": {
             "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103112880",
             "id": 103112880,
@@ -1728,7 +3191,40 @@
             "updated_at": "2023-04-11T02:42:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.14-.Course.Wrap.Up.mp4"
           },
-          "originUrl": "https://cdn.fs.teachablecdn.com/40jBkVZES264pweaKRCW"
+          "compressedAssetData": {
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107082669",
+            "id": 107082669,
+            "node_id": "RA_kwDOJTIOEc4GYfOt",
+            "name": "_COMPRESSED_.String.Manipulation.Algorithms.60m.-.14-.Course.Wrap.Up.mp4",
+            "label": "",
+            "uploader": {
+              "login": "thayalangr-engineer",
+              "id": 129984264,
+              "node_id": "U_kgDOB79nCA",
+              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+              "gravatar_id": "",
+              "url": "https://api.github.com/users/thayalangr-engineer",
+              "html_url": "https://github.com/thayalangr-engineer",
+              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+              "type": "User",
+              "site_admin": false
+            },
+            "content_type": "video/mp4",
+            "state": "uploaded",
+            "size": 3206954,
+            "download_count": 0,
+            "created_at": "2023-05-07T10:57:33Z",
+            "updated_at": "2023-05-07T10:57:35Z",
+            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/_COMPRESSED_.String.Manipulation.Algorithms.60m.-.14-.Course.Wrap.Up.mp4"
+          }
         }
       ]
     }
