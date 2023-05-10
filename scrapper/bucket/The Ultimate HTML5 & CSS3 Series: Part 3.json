@@ -291,7 +291,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 146250197,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:42:06Z",
             "updated_at": "2023-04-10T08:42:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.5-_Tools_You_Need.mp4"
@@ -651,7 +651,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 279762036,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:09:34Z",
             "updated_at": "2023-04-10T09:10:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.10-_Typography.mp4"
@@ -1083,7 +1083,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 96435219,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:46:07Z",
             "updated_at": "2023-04-10T09:46:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.16-_Inputs.mp4"
@@ -1299,7 +1299,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 293272499,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:59:34Z",
             "updated_at": "2023-04-10T10:00:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.19-.Plans.mp4"
@@ -1443,7 +1443,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 115307071,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:18:00Z",
             "updated_at": "2023-04-10T10:18:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.21-_Media_Objects.mp4"
@@ -1659,7 +1659,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 381020323,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:30:07Z",
             "updated_at": "2023-04-10T10:30:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.24-_Testimonials.mp4"
@@ -2091,7 +2091,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 399851293,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T11:06:33Z",
             "updated_at": "2023-04-10T11:07:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.30-_Optimizing_Images.mp4"
@@ -2739,7 +2739,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 180023534,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T12:42:52Z",
             "updated_at": "2023-04-10T12:43:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.39-_Animations.mp4"
@@ -3099,7 +3099,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 168082624,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T13:18:15Z",
             "updated_at": "2023-04-10T13:18:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.44-.Deployment.mp4"

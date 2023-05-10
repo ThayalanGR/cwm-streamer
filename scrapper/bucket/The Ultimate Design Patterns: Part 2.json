@@ -439,7 +439,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 42081,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T15:42:24Z",
             "updated_at": "2023-04-07T15:42:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Adapter.Pattern.10m.-.4-.Exercise.pdf"
@@ -517,7 +517,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 166241093,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T15:18:59Z",
             "updated_at": "2023-04-07T15:19:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Composite.Pattern.15m.-.1-.The.Problem.mp4"
@@ -589,7 +589,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 76505266,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T15:22:50Z",
             "updated_at": "2023-04-07T15:23:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Composite.Pattern.15m.-.2-.Solution.mp4"
@@ -1025,7 +1025,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 55179,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T17:35:12Z",
             "updated_at": "2023-04-07T17:35:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Decorator.Pattern.16m.-.4-.Exercise.pdf"
@@ -1175,7 +1175,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26855698,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T17:40:09Z",
             "updated_at": "2023-04-07T17:40:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Facade.Pattern.10m.-.2-.Solution.mp4"
@@ -1689,7 +1689,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 122411242,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T17:55:41Z",
             "updated_at": "2023-04-07T17:56:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Bridge.Pattern.18m.-.1-.The.Problem.mp4"
@@ -1761,7 +1761,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60477859,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:00:42Z",
             "updated_at": "2023-04-07T18:00:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v843fdaaa2074398c/Bridge.Pattern.18m.-.2-.Solution.mp4"

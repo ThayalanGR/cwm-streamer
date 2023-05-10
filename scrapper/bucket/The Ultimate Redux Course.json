@@ -1519,7 +1519,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 41617,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:57:22Z",
             "updated_at": "2023-04-07T22:57:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Functional.Programming.in.JavaScript.42m.-.16-.Coding.Challenges.pdf"
@@ -1669,7 +1669,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 117820812,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:58:18Z",
             "updated_at": "2023-04-07T22:58:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Redux.Fundamentals.37m.-.2-.Redux.Architecture.mp4"
@@ -1957,7 +1957,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 146224872,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:01:52Z",
             "updated_at": "2023-04-07T23:02:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Redux.Fundamentals.37m.-.6-.Creating.a.Reducer.mp4"
@@ -2317,7 +2317,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 66499607,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:04:01Z",
             "updated_at": "2023-04-07T23:04:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Redux.Fundamentals.37m.-.11-.Action.Creators.mp4"
@@ -2389,7 +2389,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2477643,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:04:18Z",
             "updated_at": "2023-04-07T23:04:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Redux.Fundamentals.37m.-.12-.Exercise.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 24257103,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:06:09Z",
             "updated_at": "2023-04-07T23:06:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Building.Redux.from.Scratch.12m.-.2-.Redux.Store.mp4"
@@ -3047,7 +3047,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 31749902,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:09:01Z",
             "updated_at": "2023-04-07T23:09:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Debugging.Redux.Applications.15m.-.3-.The.Basics.mp4"
@@ -3119,7 +3119,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 80867262,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:09:22Z",
             "updated_at": "2023-04-07T23:09:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Debugging.Redux.Applications.15m.-.4-.Inspector.Monitor.mp4"
@@ -3412,7 +3412,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32921703,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:10:54Z",
             "updated_at": "2023-04-07T23:11:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Writing.Clean.Redux.Code.34m.-.2-.Structuring.Files.and.Folders.mp4"
@@ -3772,7 +3772,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 255525643,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:21:55Z",
             "updated_at": "2023-04-07T23:22:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Writing.Clean.Redux.Code.34m.-.7-.Creating.Reducers.mp4"
@@ -3844,7 +3844,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 204149266,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:29:55Z",
             "updated_at": "2023-04-07T23:30:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Writing.Clean.Redux.Code.34m.-.8-.Creating.Slices.mp4"
@@ -4497,7 +4497,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 120251765,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:38:23Z",
             "updated_at": "2023-04-07T23:38:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Designing.the.Store.30m.-.7-.Memoizing.Selectors.with.Reselect.mp4"
@@ -4718,7 +4718,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 1709144,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:50:53Z",
             "updated_at": "2023-04-07T23:50:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Middleware.20m.-.1-.Introduction.mp4"
@@ -5078,7 +5078,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 10680797,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:54:40Z",
             "updated_at": "2023-04-07T23:54:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Middleware.20m.-.6-.Exercise.mp4"

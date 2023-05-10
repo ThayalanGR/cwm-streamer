@@ -810,7 +810,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 121905270,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:29:27Z",
             "updated_at": "2023-04-07T18:29:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Factory.Method.Pattern.-.1-_The_Problem.mp4"
@@ -1468,7 +1468,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 59797267,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:39:25Z",
             "updated_at": "2023-04-07T18:39:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Builder.Pattern.-.2-_Solution.mp4"
@@ -1611,7 +1611,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 41209,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:44:57Z",
             "updated_at": "2023-04-07T18:44:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Builder.Pattern.-.Exercise-_Builder_Pattern.pdf"

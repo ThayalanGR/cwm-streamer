@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50210064,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:24:12Z",
             "updated_at": "2023-04-10T01:24:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Getting.Started.3m.-.1-_Introduction.mp4"
@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 37097637,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:24:51Z",
             "updated_at": "2023-04-10T01:25:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Getting.Started.3m.-.3-_What_You_Need.mp4"
@@ -943,7 +943,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 58858,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:36:22Z",
             "updated_at": "2023-04-10T01:36:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Web.Development.Fundamentals.36m.-.10-_Summary.pdf"
@@ -1237,7 +1237,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 85547933,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:39:44Z",
             "updated_at": "2023-04-10T01:39:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.4-_Entities.mp4"
@@ -1381,7 +1381,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 214896371,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:45:41Z",
             "updated_at": "2023-04-10T01:46:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.6-_Images.mp4"
@@ -1453,7 +1453,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 200030187,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:49:31Z",
             "updated_at": "2023-04-10T01:49:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.7-_Video_and_Audio.mp4"
@@ -1525,7 +1525,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124369019,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:50:29Z",
             "updated_at": "2023-04-10T01:50:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.8-_Lists.mp4"
@@ -2034,7 +2034,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 193944280,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:00:36Z",
             "updated_at": "2023-04-10T02:01:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.2-_Providing_CSS.mp4"
@@ -2106,7 +2106,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 71069670,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:01:56Z",
             "updated_at": "2023-04-10T02:02:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.3-_Normalizing_CSS.mp4"

@@ -14,10 +14,13 @@
   },
   "dependencies": {
     "classnames": "^2.3.2",
+    "local-storage": "^2.0.0",
     "mime-types": "^2.1.35",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.10.0"
+    "react-router-dom": "^6.10.0",
+    "react-toggle-button": "^2.2.0",
+    "zustand": "^4.3.8"
   },
   "devDependencies": {
     "@types/mime-types": "^2.1.1",

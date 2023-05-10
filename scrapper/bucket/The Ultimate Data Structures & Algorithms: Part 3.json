@@ -146,7 +146,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 188557,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:48:14Z",
             "updated_at": "2023-04-11T01:48:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Getting.Started.1m.-.Data.Structures.-.Part.3.zip"
@@ -368,7 +368,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 159880216,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:51:39Z",
             "updated_at": "2023-04-11T01:51:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.3-.Bubble.Sort-.Implementation.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38390373,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:56:33Z",
             "updated_at": "2023-04-11T01:56:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.8-.Merge.Sort.mp4"
@@ -800,7 +800,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 188995046,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:58:16Z",
             "updated_at": "2023-04-11T01:58:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.9-.Merge.Sort-.Implementation.mp4"
@@ -872,7 +872,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 16709900,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:58:49Z",
             "updated_at": "2023-04-11T01:58:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.10-.Quick.Sort.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 216040393,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:10:39Z",
             "updated_at": "2023-04-11T02:11:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.16-.Bucket.Sort-.Implementation.mp4"
@@ -2321,7 +2321,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 40466,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:17:50Z",
             "updated_at": "2023-04-11T02:17:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.2-.Exercises.pdf"

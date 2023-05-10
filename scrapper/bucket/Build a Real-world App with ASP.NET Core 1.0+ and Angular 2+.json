@@ -219,7 +219,7 @@
             "content_type": "video/x-m4v",
             "state": "uploaded",
             "size": 3956847,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:50:54Z",
             "updated_at": "2023-04-10T08:50:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Getting.Started.1h.-.Prerequisites.m4v"
@@ -363,7 +363,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32928640,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:51:34Z",
             "updated_at": "2023-04-10T08:51:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Getting.Started.1h.-.Setting.Up.the.Development.Environment-edit.mp4"
@@ -1232,7 +1232,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28187567,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:56:01Z",
             "updated_at": "2023-04-10T08:56:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.API.s.with.ASP.Net.Core.1h.-.Building.the.Domain.Model-edit.mp4"
@@ -1376,7 +1376,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 30817624,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:57:08Z",
             "updated_at": "2023-04-10T08:57:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.API.s.with.ASP.Net.Core.1h.-.Creating.a.DbContext-edit.mp4"
@@ -1448,7 +1448,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38494834,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:57:33Z",
             "updated_at": "2023-04-10T08:57:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.API.s.with.ASP.Net.Core.1h.-.Using.Configuration-edit.mp4"
@@ -1880,7 +1880,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 20100051,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:00:44Z",
             "updated_at": "2023-04-10T09:00:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.API.s.with.ASP.Net.Core.1h.-.API.Resources-edit.mp4"
@@ -2101,7 +2101,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3708845,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:01:34Z",
             "updated_at": "2023-04-10T09:01:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.Angular.Forms.50m.-.Introduction.mp4"
@@ -2677,7 +2677,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47664820,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:16:31Z",
             "updated_at": "2023-04-10T09:16:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.Angular.Forms.50m.-.Refactoring-.Merging.Services-edit.mp4"
@@ -2749,7 +2749,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38025665,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:17:20Z",
             "updated_at": "2023-04-10T09:17:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Building.Angular.Forms.50m.-.Discussion-.Merging.Controllers-edit.mp4"
@@ -4259,7 +4259,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5393738,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:35:24Z",
             "updated_at": "2023-04-10T09:35:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Refactoring.Towards.the.Clean.Architecture.1h15m.-.Introduction.mp4"
@@ -4403,7 +4403,7 @@
             "content_type": "video/x-m4v",
             "state": "uploaded",
             "size": 66626208,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:36:48Z",
             "updated_at": "2023-04-10T09:36:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Refactoring.Towards.the.Clean.Architecture.1h15m.-.Refactoring-.Separating.API.Resources-edited.m4v"
@@ -5195,7 +5195,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47950393,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:47:08Z",
             "updated_at": "2023-04-10T09:47:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Refactoring.Towards.the.Clean.Architecture.1h15m.-.False.Argument.4-.Repository.coupled.to.EF.mp4"
@@ -6352,7 +6352,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 64089949,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:06:55Z",
             "updated_at": "2023-04-10T10:07:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Populating.and.Submitting.Forms.1h25m.-.Implementing.Editing-final.mp4"
@@ -6783,7 +6783,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 57562,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:12:39Z",
             "updated_at": "2023-04-10T10:12:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Populating.and.Submitting.Forms.1h25m.-.Challenge.6-.Filtering.Sorting.and.Pagination.pdf"
@@ -8267,7 +8267,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3128910,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:29:13Z",
             "updated_at": "2023-04-10T10:29:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Introduction.mp4"
@@ -8411,7 +8411,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50406803,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:30:19Z",
             "updated_at": "2023-04-10T10:30:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Code.Review-final.mp4"
@@ -8555,7 +8555,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 105566830,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:33:00Z",
             "updated_at": "2023-04-10T10:33:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Building.an.API-final.mp4"
@@ -9131,7 +9131,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 91605987,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:41:51Z",
             "updated_at": "2023-04-10T10:42:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Fixing.the.Memory.Leaks-final.mp4"
@@ -9203,7 +9203,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 30244548,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:42:18Z",
             "updated_at": "2023-04-10T10:42:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Handling.the.Errors-final.mp4"
@@ -9274,7 +9274,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 51401,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:42:24Z",
             "updated_at": "2023-04-10T10:42:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Uploading.Photos.1h15m.-.Challenge.8-.Authentication.and.Authorization.pdf"
@@ -9424,7 +9424,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2507745,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:42:29Z",
             "updated_at": "2023-04-10T10:42:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Authentication.and.Authorization.1h45m.-.Authentication.Requirements.mp4"
@@ -9856,7 +9856,7 @@
             "content_type": "video/quicktime",
             "state": "uploaded",
             "size": 111286868,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:50:26Z",
             "updated_at": "2023-04-10T10:50:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Authentication.and.Authorization.1h45m.-.Login.and.Logout-final.mov"
@@ -10216,7 +10216,7 @@
             "content_type": "video/quicktime",
             "state": "uploaded",
             "size": 62520925,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:56:22Z",
             "updated_at": "2023-04-10T10:56:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Authentication.and.Authorization.1h45m.-.Adding.Additional.Signup.Fields-final.mov"
@@ -10935,7 +10935,7 @@
             "content_type": "application/vnd.apple.pages",
             "state": "uploaded",
             "size": 312447,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T11:16:07Z",
             "updated_at": "2023-04-10T11:16:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Authentication.and.Authorization.1h45m.-.What.about.CSRF.attacks.pages"
@@ -11414,7 +11414,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36051675,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:18:29Z",
             "updated_at": "2023-04-10T10:18:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Filtering.Sorting.and.Paging.1h20m.-.Adding.the.Filters-final.mp4"
@@ -11914,7 +11914,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 46671694,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T10:20:08Z",
             "updated_at": "2023-04-10T10:20:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Filtering.Sorting.and.Paging.1h20m.-.Filtering.on.the.Server-final.mp4"
@@ -12984,7 +12984,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40302566,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:32:46Z",
             "updated_at": "2023-04-10T09:32:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Implementing.CRUD.Operations.-.API.s.1h10m.-.Building.an.API.to.Update.Objects-edit.mp4"
@@ -13731,7 +13731,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28818274,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T09:25:13Z",
             "updated_at": "2023-04-10T09:25:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v260bf0b9dc276569/Implementing.CRUD.Operations.-.API.s.1h10m.-.Why.API.Resources.Should.be.Different.from.Domain.Classes-edit.mp4"

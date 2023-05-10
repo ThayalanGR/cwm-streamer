@@ -2469,7 +2469,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 14994958,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T04:44:01Z",
             "updated_at": "2023-04-09T04:44:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Layout.47m.-.10-.Exercises.mp4"
@@ -2541,7 +2541,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 358283770,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T05:05:41Z",
             "updated_at": "2023-04-09T05:06:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Layout.47m.-.11-.Building.the.Welcome.Screen.mp4"
@@ -2976,7 +2976,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40032999,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T05:57:19Z",
             "updated_at": "2023-04-09T05:57:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Styling.63m.-.2-.Borders.mp4"
@@ -3696,7 +3696,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 312808873,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T06:30:42Z",
             "updated_at": "2023-04-09T06:31:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Styling.63m.-.12-.Improving.the.Welcome.Screen.mp4"
@@ -4565,7 +4565,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 121240397,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:52:52Z",
             "updated_at": "2023-04-09T10:53:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Lists.65m.-.8-.Implementing.Pull.to.Refresh.mp4"
@@ -4709,7 +4709,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18751231,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:54:21Z",
             "updated_at": "2023-04-09T10:54:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Lists.65m.-.10-.Planning.the.Account.Screen.mp4"
@@ -4853,7 +4853,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 163237194,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:04:48Z",
             "updated_at": "2023-04-09T11:05:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Lists.65m.-.12-.Extending.the.ListItem.Component.mp4"
@@ -4997,7 +4997,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 184011369,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:41:48Z",
             "updated_at": "2023-04-09T11:42:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Lists.65m.-.14-.Building.the.Listings.Screen.mp4"
@@ -6303,7 +6303,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 73739657,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:10:34Z",
             "updated_at": "2023-04-09T15:10:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Forms.52m.-.8-.Building.the.SubmitButton.Component.mp4"
@@ -6956,7 +6956,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 66075672,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:41:19Z",
             "updated_at": "2023-04-09T15:41:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Additional.Improvements.30m.-.4-.Improving.the.Messages.Screen.mp4"
@@ -7172,7 +7172,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 120915339,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:52:00Z",
             "updated_at": "2023-04-09T15:52:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va54fa27f7a17d228/Additional.Improvements.30m.-.7-.Flexible.Architecture.mp4"

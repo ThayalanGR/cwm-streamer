@@ -584,7 +584,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 70444747,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:46:36Z",
             "updated_at": "2023-04-07T19:47:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Getting.Started.with.TypeScript.20m.-.5-_Configuring_the_TypeScript_Compiler.mp4"
@@ -1452,7 +1452,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 105039,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:55:02Z",
             "updated_at": "2023-04-07T19:55:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Fundamentals.25m.-.3-.Fundamentals.pdf"
@@ -2034,7 +2034,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 83843092,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:59:01Z",
             "updated_at": "2023-04-07T19:59:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Advanced.Types.26m.-.7-_Optional_Chaining.mp4"
@@ -2250,7 +2250,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 35759850,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:00:58Z",
             "updated_at": "2023-04-07T20:01:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Advanced.Types.26m.-.10-_The_unknown_Type.mp4"
@@ -4556,7 +4556,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 85244814,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:42:52Z",
             "updated_at": "2023-04-07T20:43:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Generics.29m.-.9-_Type_Mapping.mp4"
@@ -4777,7 +4777,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18637883,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:43:26Z",
             "updated_at": "2023-04-07T20:43:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Decorators.29m.-.1-_Introduction.mp4"
@@ -6443,7 +6443,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 45160606,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:58:07Z",
             "updated_at": "2023-04-07T20:58:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Integration.with.JavaScript.12m.-.6-_Using_Definitely_Typed_Declaration_Files.mp4"
@@ -7096,7 +7096,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 94312862,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:06:50Z",
             "updated_at": "2023-04-07T21:07:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/React.with.TypeScript.30m.-.8-_Handling_Events.mp4"
@@ -7461,7 +7461,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38795348,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:09:42Z",
             "updated_at": "2023-04-07T21:09:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Node.and.Express.with.TypeScript.20m.-.2-.Executing.TypeScript.Code.with.Node.mp4"
@@ -7533,7 +7533,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47225784,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:12:02Z",
             "updated_at": "2023-04-07T21:12:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Node.and.Express.with.TypeScript.20m.-.3-.Setting.up.an.Express.Project.mp4"
@@ -7897,7 +7897,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 745941,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:14:35Z",
             "updated_at": "2023-04-07T21:14:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Course.Wrap.Up.-.TypeScript.Course.Summary.pdf"
@@ -8188,7 +8188,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 78133352,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:18:15Z",
             "updated_at": "2023-04-07T20:18:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.11-_Inheritance.mp4"
@@ -8330,7 +8330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 93583447,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:21:29Z",
             "updated_at": "2023-04-07T20:22:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.13-_Polymorphism.mp4"
@@ -8543,7 +8543,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97770704,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:27:55Z",
             "updated_at": "2023-04-07T20:28:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.16-_Interfaces.mp4"
@@ -8864,7 +8864,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 70138,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:28:23Z",
             "updated_at": "2023-04-07T20:28:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.5-.Classes.and.Interfaces.Exercises.pdf"

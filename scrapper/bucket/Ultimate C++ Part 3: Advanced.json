@@ -296,7 +296,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 141446577,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:47:16Z",
             "updated_at": "2023-04-09T17:47:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Classes.70m.-.2-_An_Introduction_to_Object-oriented_Programming.mp4"
@@ -1232,7 +1232,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 113834582,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:05:51Z",
             "updated_at": "2023-04-09T18:06:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Classes.70m.-.15-_Constant_Objects_and_Functions.mp4"
@@ -2101,7 +2101,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58993390,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:24:54Z",
             "updated_at": "2023-04-09T18:25:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Operator.Overloading.56m.-.9-_Overloading_Compound_Assignment_Operators.mp4"
@@ -2173,7 +2173,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 129013400,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:26:08Z",
             "updated_at": "2023-04-09T18:26:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Operator.Overloading.56m.-.10-_Overloading_the_Assignment_Operator.mp4"
@@ -3546,7 +3546,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 145878263,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:42:14Z",
             "updated_at": "2023-04-09T18:42:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Inheritance.and.Polymorphism.50m.-.13-_Deep_Inheritance_Hierarchies.mp4"
@@ -3767,7 +3767,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 25802443,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:44:58Z",
             "updated_at": "2023-04-09T18:45:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Exceptions.23m.-.1-_Introduction.mp4"
@@ -4492,7 +4492,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 84460067,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:54:28Z",
             "updated_at": "2023-04-09T18:54:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.2-_Defining_a_Function_Template.mp4"
@@ -4564,7 +4564,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40019342,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:54:57Z",
             "updated_at": "2023-04-09T18:55:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.3-_Explicit_Type_Arguments.mp4"

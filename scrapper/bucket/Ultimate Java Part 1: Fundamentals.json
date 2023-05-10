@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4793294,
-            "download_count": 0,
+            "download_count": 4,
             "created_at": "2023-05-07T03:12:28Z",
             "updated_at": "2023-05-07T03:12:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.2-.Setting.Up.the.Development.Environment.mp4"
@@ -181,7 +181,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7237038,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-07T03:14:53Z",
             "updated_at": "2023-05-07T03:14:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.3-.Anatomy.of.a.Java.Program.mp4"
@@ -253,7 +253,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 10470979,
-            "download_count": 0,
+            "download_count": 3,
             "created_at": "2023-05-07T03:20:16Z",
             "updated_at": "2023-05-07T03:20:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.4-.Your.First.Java.Program.mp4"
@@ -325,7 +325,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6693378,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-07T03:27:08Z",
             "updated_at": "2023-05-07T03:27:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.5-.How.Java.Code.Gets.Executed.mp4"
@@ -363,7 +363,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 80794668,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:22:13Z",
             "updated_at": "2023-04-07T18:22:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Getting.Started.-.6-.5.Interesting.Facts.about.Java.mp4"
@@ -397,7 +397,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 8664734,
-            "download_count": 0,
+            "download_count": 4,
             "created_at": "2023-05-07T03:29:21Z",
             "updated_at": "2023-05-07T03:29:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.6-.5.Interesting.Facts.about.Java.mp4"
@@ -469,7 +469,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3593582,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-07T03:31:01Z",
             "updated_at": "2023-05-07T03:31:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.7-.Course.Structure.mp4"
@@ -2029,7 +2029,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 35069234,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:09:55Z",
             "updated_at": "2023-04-07T19:10:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.2-.Comparison.Operators.mp4"
@@ -2533,7 +2533,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 68283456,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:22:10Z",
             "updated_at": "2023-04-07T19:22:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.9-.For.Loops.mp4"
@@ -3546,7 +3546,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 49981216,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:54:53Z",
             "updated_at": "2023-04-07T19:55:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.7-.Project-.Payment.Schedule.mp4"

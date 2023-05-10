@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9232070,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:54:49Z",
             "updated_at": "2023-04-10T07:54:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Getting.Started.40m.-.Setting.Up.the.Development.Environment.mp4"
@@ -656,7 +656,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 20561517,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:59:40Z",
             "updated_at": "2023-04-10T07:59:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/XAML.Essentials.35m.-.Xaml.vs.Code.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17603270,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:01:02Z",
             "updated_at": "2023-04-10T08:01:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/XAML.Essentials.35m.-.Content.Property.mp4"
@@ -1231,7 +1231,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 95619,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:08:18Z",
             "updated_at": "2023-04-10T08:08:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/XAML.Essentials.35m.-.XAML.Essentials.Cheat.Sheet.pdf"
@@ -1453,7 +1453,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 29886476,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:08:48Z",
             "updated_at": "2023-04-10T08:08:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.StackLayout.mp4"
@@ -1669,7 +1669,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 51902830,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:11:12Z",
             "updated_at": "2023-04-10T08:11:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.Grid.mp4"
@@ -1957,7 +1957,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 14327354,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:12:29Z",
             "updated_at": "2023-04-10T08:12:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.Absolute.in.Code.mp4"
@@ -2394,7 +2394,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2104355,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:14:42Z",
             "updated_at": "2023-04-10T08:14:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Images.40m.-.Image.Sources.mp4"
@@ -2682,7 +2682,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11092003,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:17:15Z",
             "updated_at": "2023-04-10T08:17:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Images.40m.-.Embedded.Images.mp4"
@@ -3407,7 +3407,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 19622336,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:21:53Z",
             "updated_at": "2023-04-10T08:21:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Lists.35m.-.Cell.Appearance.mp4"
@@ -3623,7 +3623,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 16975364,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:23:14Z",
             "updated_at": "2023-04-10T08:23:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Lists.35m.-.Handling.Selections.mp4"
@@ -3983,7 +3983,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3041864,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:24:48Z",
             "updated_at": "2023-04-10T08:24:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Lists.35m.-.Exercise.mp4"
@@ -4276,7 +4276,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27487241,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:25:41Z",
             "updated_at": "2023-04-10T08:25:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Navigation.35m.-.A.Simple.Master.Detail.mp4"
@@ -5576,7 +5576,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 1779,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:31:24Z",
             "updated_at": "2023-04-10T08:31:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.Picker.with.Navigation.Resources.zip"
@@ -6811,7 +6811,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 16351775,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:35:13Z",
             "updated_at": "2023-04-10T08:35:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/MVVM.Architectural.Pattern.1h5m.-.MVVM.mp4"
@@ -7243,7 +7243,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26639771,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:41:37Z",
             "updated_at": "2023-04-10T08:41:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/MVVM.Architectural.Pattern.1h5m.-.ICommand.Interface.mp4"
@@ -7458,7 +7458,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 11268,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:42:45Z",
             "updated_at": "2023-04-10T08:42:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/MVVM.Architectural.Pattern.1h5m.-.MVVM.Exercise.-.After.zip"
@@ -7680,7 +7680,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40561124,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:45:51Z",
             "updated_at": "2023-04-10T08:45:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Beyond.the.Basics.25m.-.Resource.Dictionary.mp4"
@@ -8184,7 +8184,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 15738315,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T08:49:32Z",
             "updated_at": "2023-04-10T08:49:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Beyond.the.Basics.25m.-.Accessing.Common.Device.Functionality.mp4"

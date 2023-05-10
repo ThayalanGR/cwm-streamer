@@ -512,7 +512,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 22731654,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:01:52Z",
             "updated_at": "2023-04-09T12:01:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Getting.Started.with.C%2B%2B.17m.-.5-_Changing_the_Theme.mp4"
@@ -805,7 +805,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26300328,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:05:04Z",
             "updated_at": "2023-04-09T12:05:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/The.Basics.40m.-.3-_Constants.mp4"
@@ -1309,7 +1309,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26347780,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:31:54Z",
             "updated_at": "2023-04-09T12:32:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/The.Basics.40m.-.10-_Comments.mp4"
@@ -1674,7 +1674,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38026932,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:42:55Z",
             "updated_at": "2023-04-09T12:43:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Fundamental.Data.Types.54m.-.4-_Working_with_Numbers.mp4"
@@ -2250,7 +2250,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60715925,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:21:54Z",
             "updated_at": "2023-04-09T14:22:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Fundamental.Data.Types.54m.-.12-_Type_Conversion.mp4"
@@ -2471,7 +2471,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 54459120,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:23:06Z",
             "updated_at": "2023-04-09T14:23:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Decision.Making.39m.-.2-_Comparison_Operators.mp4"
@@ -2543,7 +2543,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 53608587,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:24:03Z",
             "updated_at": "2023-04-09T14:24:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Decision.Making.39m.-.3-_Logical_Operators.mp4"
@@ -3268,7 +3268,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 73251787,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:50:21Z",
             "updated_at": "2023-04-09T14:50:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Loops.35m.-.4-_While_Loops.mp4"
@@ -3633,7 +3633,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 33316896,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:54:33Z",
             "updated_at": "2023-04-09T14:54:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Functions.45m.-.1-_Introduction.mp4"
@@ -4209,7 +4209,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 66221442,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:25:08Z",
             "updated_at": "2023-04-09T15:25:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Functions.45m.-.9-_Using_Namespaces.mp4"
@@ -4281,7 +4281,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 76415534,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:34:08Z",
             "updated_at": "2023-04-09T15:34:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Functions.45m.-.10-_Debugging_C_Programs.mp4"

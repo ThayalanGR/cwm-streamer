@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 168665516,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T06:16:23Z",
             "updated_at": "2023-04-09T06:17:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Getting.Started.17m.-.2-.Four.Pillars.of.OOP.mp4"
@@ -512,7 +512,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 49861223,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T06:26:57Z",
             "updated_at": "2023-04-09T06:27:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.3-.Factories.mp4"
@@ -872,7 +872,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 83644640,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T06:51:19Z",
             "updated_at": "2023-04-09T06:51:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.8-.Adding.or.Removing.Properties.mp4"
@@ -1741,7 +1741,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72885232,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T09:01:42Z",
             "updated_at": "2023-04-09T09:01:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.5-.Constructor.Prototypes.mp4"
@@ -1885,7 +1885,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 53473417,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T09:39:59Z",
             "updated_at": "2023-04-09T09:40:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.7-.Iterating.Instance.and.Prototype.Members.mp4"
@@ -2394,7 +2394,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 106992570,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:46:38Z",
             "updated_at": "2023-04-09T10:47:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.3-.Calling.the.Super.Constructor.mp4"
@@ -2538,7 +2538,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 89060384,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:53:40Z",
             "updated_at": "2023-04-09T10:53:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.5-.Method.Overriding.mp4"
@@ -2898,7 +2898,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 59072702,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:11:57Z",
             "updated_at": "2023-04-09T11:12:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.9-.Exercise-.Prototypical.Inheritance.mp4"
@@ -3767,7 +3767,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 45968904,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:13:17Z",
             "updated_at": "2023-04-09T12:13:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Classes.55m.-.9-.Method.Overriding.mp4"
@@ -4132,7 +4132,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 99721745,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:13:07Z",
             "updated_at": "2023-04-09T14:13:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Tooling.30m.-.2-.CommonJS.Modules.mp4"

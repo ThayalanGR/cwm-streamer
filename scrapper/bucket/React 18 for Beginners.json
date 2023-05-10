@@ -592,7 +592,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32718681,
-            "download_count": 7,
+            "download_count": 8,
             "created_at": "2023-04-08T19:51:46Z",
             "updated_at": "2023-04-08T19:51:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Getting.Started.with.React.18m.-.2-_Setting_Up_the_Development_Environment.mp4"
@@ -1317,7 +1317,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92021882,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:00:52Z",
             "updated_at": "2023-04-08T20:01:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Components.1h.-.4-_Rendering_Lists.mp4"
@@ -2037,7 +2037,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 122574025,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:17:30Z",
             "updated_at": "2023-04-08T20:17:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Components.1h.-.14-_Exercise-_Showing_an_Alert.mp4"
@@ -2258,7 +2258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 88970324,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:23:51Z",
             "updated_at": "2023-04-08T20:25:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Styling.Components.32m.-.2-_Vanilla_CSS.mp4"
@@ -2474,7 +2474,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 90627261,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:30:28Z",
             "updated_at": "2023-04-08T20:31:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Styling.Components.32m.-.5-_Separation_of_Concerns.mp4"
@@ -2690,7 +2690,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38876241,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:34:04Z",
             "updated_at": "2023-04-08T20:34:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Styling.Components.32m.-.8-_Adding_Icons.mp4"
@@ -2762,7 +2762,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 63143977,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:35:05Z",
             "updated_at": "2023-04-08T20:35:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Styling.Components.32m.-.9-_Exercise-_Using_CSS_Modules.mp4"
@@ -2834,7 +2834,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 131146363,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:36:01Z",
             "updated_at": "2023-04-08T20:37:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Styling.Components.32m.-.10-_Building_a_Like_Component.mp4"
@@ -4140,7 +4140,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60356889,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:55:36Z",
             "updated_at": "2023-04-08T20:55:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Forms.71m.-.3-_Handling_Form_Submission.mp4"
@@ -4356,7 +4356,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 127163432,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:58:33Z",
             "updated_at": "2023-04-08T20:59:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Forms.71m.-.6-_Managing_Forms_with_React_Hook_Form.mp4"
@@ -4716,7 +4716,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 243982415,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:02:30Z",
             "updated_at": "2023-04-08T21:03:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Forms.71m.-.11-_Building_ExpenseList.mp4"
@@ -5075,7 +5075,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 1493316,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:08:05Z",
             "updated_at": "2023-04-08T21:08:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Building.Forms.71m.-.5-.Building.Forms.pdf"
@@ -5513,7 +5513,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 88082535,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:11:29Z",
             "updated_at": "2023-04-08T21:11:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Connecting.to.the.Backend.69m.-.6-_Understanding_HTTP_Requests.mp4"
@@ -5801,7 +5801,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 90176161,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:16:51Z",
             "updated_at": "2023-04-08T21:17:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Connecting.to.the.Backend.69m.-.10-_Showing_a_Loading_Indicator.mp4"
@@ -6233,7 +6233,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 228189647,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:23:25Z",
             "updated_at": "2023-04-08T21:24:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Connecting.to.the.Backend.69m.-.16-_Creating_a_Generic_HTTP_Service.mp4"
@@ -6454,7 +6454,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 77648902,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:25:15Z",
             "updated_at": "2023-04-08T21:25:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.1-_What_Well_Build.mp4"
@@ -7102,7 +7102,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 213439359,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:30:20Z",
             "updated_at": "2023-04-08T21:31:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.9-_Fetching_the_Games.mp4"
@@ -7318,7 +7318,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 414152679,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:36:00Z",
             "updated_at": "2023-04-08T21:37:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.12-_Displaying_Platform_Icons.mp4"
@@ -7894,7 +7894,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56374887,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:55:10Z",
             "updated_at": "2023-04-08T21:55:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.20-_Showing_a_Spinner.mp4"
@@ -8326,7 +8326,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 111042506,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:06:14Z",
             "updated_at": "2023-04-08T22:06:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.26-_Building_Sort_Selector.mp4"
@@ -9118,7 +9118,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 78183905,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:30:17Z",
             "updated_at": "2023-04-08T22:30:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.37-_Customizing_the_Chakra_Theme.mp4"
@@ -9406,7 +9406,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 20198564,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:33:37Z",
             "updated_at": "2023-04-08T22:33:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.41-_Whats_Next.mp4"
@@ -9697,7 +9697,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17376684,
-            "download_count": 5,
+            "download_count": 6,
             "created_at": "2023-04-08T19:47:19Z",
             "updated_at": "2023-04-08T19:47:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/1.-.Getting.Started.2m.-.2-_Prerequisites.mp4"
@@ -9768,7 +9768,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 13418,
-            "download_count": 1,
+            "download_count": 2,
             "created_at": "2023-04-08T19:47:24Z",
             "updated_at": "2023-04-08T19:47:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/1.-.Getting.Started.2m.-.3-_Source_Code_.pdf"
@@ -9805,7 +9805,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 16912,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T19:47:25Z",
             "updated_at": "2023-04-08T19:47:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/1.-.Getting.Started.2m.-.4-_Questions_and_Support.pdf"

@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2300385,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-07T05:26:28Z",
             "updated_at": "2023-05-07T05:26:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/_COMPRESSED_.Getting.Started.00.20.-.1-.Welcome.mp4"
@@ -181,7 +181,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5289228,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-07T05:28:35Z",
             "updated_at": "2023-05-07T05:28:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/_COMPRESSED_.Getting.Started.00.20.-.2-.What.is.Node.mp4"
@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97646952,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T12:07:51Z",
             "updated_at": "2023-04-08T12:08:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Getting.Started.00.20.-.3-.Node.Architecture.mp4"
@@ -800,7 +800,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41174111,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T12:38:20Z",
             "updated_at": "2023-04-08T12:38:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Node.Module.System.00.58.-.3-.Modules.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 99316988,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T13:02:17Z",
             "updated_at": "2023-04-08T13:02:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Node.Module.System.00.58.-.10-.Events.Module.mp4"
@@ -1591,7 +1591,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 44765,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T13:23:22Z",
             "updated_at": "2023-04-08T13:23:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Node.Module.System.00.58.-.Node.Core.Recap.pdf"
@@ -2677,7 +2677,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 59330428,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:27:34Z",
             "updated_at": "2023-04-08T14:27:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Node.Package.Manager.NPM.00.48.-.15-.Publishing.a.Package.mp4"
@@ -2970,7 +2970,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 75225465,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T15:33:04Z",
             "updated_at": "2023-04-08T15:33:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Building.RESTful.API.s.Using.Express.00.56.-.2-.RESTful.Services.mp4"
@@ -3042,7 +3042,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 51018630,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T15:34:28Z",
             "updated_at": "2023-04-08T15:34:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Building.RESTful.API.s.Using.Express.00.56.-.3-.Introducing.Express.mp4"
@@ -3258,7 +3258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 57829213,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T15:59:25Z",
             "updated_at": "2023-04-08T15:59:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Building.RESTful.API.s.Using.Express.00.56.-.6-.Environment.Variables.mp4"
@@ -3690,7 +3690,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 285256521,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:32:06Z",
             "updated_at": "2023-04-08T17:33:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Building.RESTful.API.s.Using.Express.00.56.-.12-.Handling.HTTP.PUT.Requests.mp4"
@@ -4127,7 +4127,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 107074923,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:42:01Z",
             "updated_at": "2023-04-08T17:42:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Express-.Advanced.Topics.00.55.-.3-.Creating.Custom.Middleware.mp4"
@@ -4271,7 +4271,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 122525167,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:52:20Z",
             "updated_at": "2023-04-08T17:52:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Express-.Advanced.Topics.00.55.-.5-.Third-party.Middleware.mp4"
@@ -4343,7 +4343,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 135965594,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:55:01Z",
             "updated_at": "2023-04-08T17:55:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Express-.Advanced.Topics.00.55.-.6-.Environments.mp4"
@@ -4487,7 +4487,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 156649707,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:01:22Z",
             "updated_at": "2023-04-08T18:01:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Express-.Advanced.Topics.00.55.-.8-.Debugging.mp4"
@@ -5284,7 +5284,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 138676861,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:37:24Z",
             "updated_at": "2023-04-08T18:38:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Asynchronous.JavaScript.01.04.-.5-.Named.Functions.to.Rescue.mp4"
@@ -5865,7 +5865,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47987651,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T19:14:51Z",
             "updated_at": "2023-04-08T19:14:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/CRUD.Operations.Using.Mongoose.01.15.-.1-.Introducing.MongoDB.mp4"
@@ -6585,7 +6585,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 68545491,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T19:33:16Z",
             "updated_at": "2023-04-08T19:33:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/CRUD.Operations.Using.Mongoose.01.15.-.11-.Regular.Expressions.mp4"
@@ -8503,7 +8503,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 211688146,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:41:19Z",
             "updated_at": "2023-04-08T20:42:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Mongoose-.Modeling.Relationships.between.Connected.Data.00.51.-.7-.Project-.Build.the.Rentals.API.mp4"
@@ -8575,7 +8575,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 231914915,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:42:55Z",
             "updated_at": "2023-04-08T20:43:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Mongoose-.Modeling.Relationships.between.Connected.Data.00.51.-.8-.Transactions.mp4"
@@ -8647,7 +8647,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92023643,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:44:16Z",
             "updated_at": "2023-04-08T20:44:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Mongoose-.Modeling.Relationships.between.Connected.Data.00.51.-.9-.ObjectID.mp4"
@@ -9444,7 +9444,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 128937523,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:09:58Z",
             "updated_at": "2023-04-08T21:10:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Authentication.and.Authorization.01.13.-.8-.JSON.Web.Tokens.mp4"
@@ -9732,7 +9732,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 269508209,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:30:16Z",
             "updated_at": "2023-04-08T21:31:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Authentication.and.Authorization.01.13.-.12-.Encapsulating.Logic.in.Mongoose.Models.mp4"
@@ -9876,7 +9876,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92630201,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:41:13Z",
             "updated_at": "2023-04-08T21:41:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Authentication.and.Authorization.01.13.-.14-.Protecting.Routes.mp4"
@@ -10529,7 +10529,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 248649386,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T21:54:59Z",
             "updated_at": "2023-04-08T21:56:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Handling.and.Logging.Errors.01.03.-.4-.Removing.Try.Catch.Blocks.mp4"
@@ -10601,7 +10601,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 111423065,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:01:23Z",
             "updated_at": "2023-04-08T22:02:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Handling.and.Logging.Errors.01.03.-.5-.Express.Async.Errors.mp4"
@@ -10961,7 +10961,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72164970,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:18:24Z",
             "updated_at": "2023-04-08T22:18:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Handling.and.Logging.Errors.01.03.-.10-.Error.Handling.Recap.mp4"
@@ -11393,7 +11393,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 45425039,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:29:18Z",
             "updated_at": "2023-04-08T22:29:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Handling.and.Logging.Errors.01.03.-.16-.Showing.Unhandled.Exceptions.on.the.Console.mp4"
@@ -12766,7 +12766,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 185242846,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T22:56:29Z",
             "updated_at": "2023-04-08T22:57:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Unit.Testing.01.15.-.18-.Jest.Mock.Functions.mp4"
@@ -13275,7 +13275,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 104919135,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T23:01:01Z",
             "updated_at": "2023-04-08T23:01:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Integration.Testing.01.09.-.4-.Your.First.Integration.Test.mp4"
@@ -14432,7 +14432,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 39339113,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T23:22:40Z",
             "updated_at": "2023-04-08T23:22:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Test-Driven.Development.00.57.-.3-.Test.Cases.mp4"
@@ -15080,7 +15080,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 148109668,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T23:32:24Z",
             "updated_at": "2023-04-08T23:32:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Test-Driven.Development.00.57.-.12-.Testing.the.RentalFee.mp4"
@@ -15517,7 +15517,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36670991,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T23:46:56Z",
             "updated_at": "2023-04-08T23:47:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Deployment.00.28.-.1-.Introduction.mp4"
@@ -15805,7 +15805,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58432128,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T23:50:09Z",
             "updated_at": "2023-04-08T23:50:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Deployment.00.28.-.5-.Adding.the.Code.to.a.Git.Repository.mp4"
@@ -16595,7 +16595,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 476116017,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:20:19Z",
             "updated_at": "2023-04-08T20:22:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Mongo.-.Data.Validation.00.54.-.7-.Project-.Add.Persistence.to.Genres.API.mp4"
@@ -16737,7 +16737,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 234644282,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:27:07Z",
             "updated_at": "2023-04-08T20:28:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v8c5346cedb83de3a/Mongo.-.Data.Validation.00.54.-.9-.Restructuring.the.Project.mp4"

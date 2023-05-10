@@ -1386,7 +1386,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 147961730,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:03:15Z",
             "updated_at": "2023-04-11T03:03:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.1-.The.Problem.mp4"
@@ -1674,7 +1674,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 235200849,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:12:50Z",
             "updated_at": "2023-04-11T03:13:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/State.Pattern.25m.-.5-.Abusing.the.State.Pattern.mp4"
@@ -1823,7 +1823,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 195417827,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:15:52Z",
             "updated_at": "2023-04-11T03:16:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.1-.The.Problem.mp4"
@@ -3864,7 +3864,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 292598530,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:15:34Z",
             "updated_at": "2023-04-11T07:16:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.3-.Implementation.mp4"
@@ -4229,7 +4229,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50856092,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:41:44Z",
             "updated_at": "2023-04-11T07:41:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.2-.Solution.mp4"
@@ -4742,7 +4742,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 2130778,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T08:07:15Z",
             "updated_at": "2023-04-11T08:07:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Course.Wrap.Up.-.1-.Behavioral.Patterns.Summary.pdf"

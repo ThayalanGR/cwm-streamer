@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58434271,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:17:29Z",
             "updated_at": "2023-04-09T18:17:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Getting.Started.7m.-.1-.Welcome.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124576258,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:22:40Z",
             "updated_at": "2023-04-09T18:22:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Building.RESTful.APIs.with.Django.REST.Framework.70m.-.7-_Creating_API_Views.mp4"
@@ -1088,7 +1088,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 118235594,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:30:23Z",
             "updated_at": "2023-04-09T18:30:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Building.RESTful.APIs.with.Django.REST.Framework.70m.-.12-_Model_Serializers.mp4"
@@ -1813,7 +1813,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 143248130,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:44:02Z",
             "updated_at": "2023-04-09T18:44:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Advanced.API.Concepts.70m.-.5-_Customizing_Generic_Views.mp4"
@@ -1885,7 +1885,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 129705933,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:45:20Z",
             "updated_at": "2023-04-09T18:45:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Advanced.API.Concepts.70m.-.6-_ViewSets.mp4"
@@ -2245,7 +2245,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 155413469,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:03:06Z",
             "updated_at": "2023-04-09T19:03:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Advanced.API.Concepts.70m.-.11-_Generic_Filtering.mp4"
@@ -2317,7 +2317,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 69931632,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:03:39Z",
             "updated_at": "2023-04-09T19:03:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Advanced.API.Concepts.70m.-.12-_Searching.mp4"
@@ -3186,7 +3186,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 24225662,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:23:35Z",
             "updated_at": "2023-04-09T19:23:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Designing.and.Implementing.a.Shopping.Cart.API.50m.-.10-_Deleting_a_Cart_Item.mp4"
@@ -3551,7 +3551,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 162538141,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:27:05Z",
             "updated_at": "2023-04-09T19:27:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Django.Authentication.System.30m.-.5-_Creating_user_Profiles.mp4"
@@ -3988,7 +3988,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 290662363,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:34:40Z",
             "updated_at": "2023-04-09T19:35:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Securing.APIs.65m.-.4-_Registering_Users.mp4"
@@ -4708,7 +4708,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 96635864,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:49:02Z",
             "updated_at": "2023-04-09T19:49:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7dc798465a83f587/Securing.APIs.65m.-.14-_Applying_Custom_Model_Permissions.mp4"

@@ -42,7 +42,7 @@ type TCourse = (typeof courses)[0]["sections"][0];
 const gitUserName = "thayalangr-engineer";
 const gitRepo = "cwm";
 
-const currentBucket = Number(process.argv[2] ?? 0);
+const currentBucket = process.argv[2] ? Number(process.argv[2]) : undefined;
 console.log("Current Bucket", currentBucket);
 
 const buckets = {
@@ -59,7 +59,13 @@ const buckets = {
     6: [...bucket11, ...bucket12],
 };
 
-const courses = buckets[currentBucket as keyof typeof buckets];
+const courses =
+    currentBucket !== undefined
+        ? buckets[currentBucket as keyof typeof buckets]
+        : Object.entries(buckets).reduce((result, current) => {
+              result.push(...current[1]);
+              return result;
+          }, [] as (typeof buckets)["1"][0][]);
 
 const COMPRESSED_VIDEO_FLAG = "_COMPRESSED_";
 

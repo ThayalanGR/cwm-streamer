@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4046563,
-            "download_count": 0,
+            "download_count": 4,
             "created_at": "2023-05-07T01:51:01Z",
             "updated_at": "2023-05-07T01:51:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/_COMPRESSED_.Getting.Started.-.1-.Introduction.mp4"
@@ -224,7 +224,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 49423520,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:26:53Z",
             "updated_at": "2023-04-10T22:26:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Binary.Trees.73m.-.1-.Introduction.mp4"
@@ -258,7 +258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2472302,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-07T01:52:11Z",
             "updated_at": "2023-05-07T01:52:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/_COMPRESSED_.Binary.Trees.73m.-.1-.Introduction.mp4"
@@ -330,7 +330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9706682,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-07T01:54:42Z",
             "updated_at": "2023-05-07T01:54:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/_COMPRESSED_.Binary.Trees.73m.-.2-.What.are.Trees.mp4"
@@ -872,7 +872,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 114430187,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:35:23Z",
             "updated_at": "2023-04-10T22:35:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Binary.Trees.73m.-.10-.Depth.First.Traversals.mp4"
@@ -1520,7 +1520,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50098577,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:43:57Z",
             "updated_at": "2023-04-10T22:44:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Binary.Trees.73m.-.19-.Level.Order.Traversal.mp4"
@@ -2893,7 +2893,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7992052,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:54:29Z",
             "updated_at": "2023-04-10T22:54:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/AVL.Trees.49m.-.17-.Summary.mp4"
@@ -3474,7 +3474,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56657031,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T23:10:24Z",
             "updated_at": "2023-04-10T23:10:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Heaps.53m.-.8-.Heap.Sort.mp4"
@@ -4050,7 +4050,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11173403,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T23:14:46Z",
             "updated_at": "2023-04-10T23:14:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Heaps.53m.-.16-.Summary.mp4"
@@ -4487,7 +4487,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 55585975,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:05:16Z",
             "updated_at": "2023-04-11T01:05:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Tries.46m.-.6-.An.Implementation.with.a.HashTable.mp4"
@@ -4847,7 +4847,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 12986141,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:08:46Z",
             "updated_at": "2023-04-11T01:08:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Tries.46m.-.11-.Exercise-.Removing.a.Word.mp4"
@@ -4919,7 +4919,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 237936990,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:10:17Z",
             "updated_at": "2023-04-11T01:10:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Tries.46m.-.12-.Solution-.Removing.a.Word.mp4"
@@ -5063,7 +5063,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 183673475,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:11:55Z",
             "updated_at": "2023-04-11T01:12:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Tries.46m.-.14-.Solution-.Auto.Completion.mp4"
@@ -6292,7 +6292,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 66685452,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:21:05Z",
             "updated_at": "2023-04-11T01:21:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Graphs.66m.-.15-.Solution-.Breadth-first.Traversal.mp4"
@@ -6364,7 +6364,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 53862936,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:21:35Z",
             "updated_at": "2023-04-11T01:21:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Graphs.66m.-.16-.Exercise-.Topological.Sorting.mp4"
@@ -6580,7 +6580,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 182914242,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:23:59Z",
             "updated_at": "2023-04-11T01:24:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v17d544f8f8e2449f/Graphs.66m.-.19-.Solution-.Cycle.Detection.Directed.Graphs.mp4"

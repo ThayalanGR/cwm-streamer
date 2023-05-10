@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5397601,
-            "download_count": 0,
+            "download_count": 3,
             "created_at": "2023-05-06T16:13:32Z",
             "updated_at": "2023-05-06T16:13:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.1-.What.is.Python.mp4"
@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 59823348,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:32:37Z",
             "updated_at": "2023-04-10T17:32:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.2-.Installing.Python.mp4"
@@ -181,7 +181,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3686804,
-            "download_count": 1,
+            "download_count": 3,
             "created_at": "2023-05-06T16:15:24Z",
             "updated_at": "2023-05-06T16:15:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.2-.Installing.Python.mp4"
@@ -253,7 +253,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2491980,
-            "download_count": 0,
+            "download_count": 3,
             "created_at": "2023-05-06T16:21:24Z",
             "updated_at": "2023-05-06T16:21:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.3-.Python.Interpreter.mp4"
@@ -263,43 +263,47 @@
           "name": "1- Getting Started (32m) -> 4- Code Editors.mp4",
           "originUrl": "https://cdn.fs.teachablecdn.com/69gR6ZnQOe4LC0rVoWig",
           "assetData": {
-            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103060306",
-            "id": 103060306,
-            "node_id": "RA_kwDOJTIOEc4GJJNS",
-            "name": "1-.Getting.Started.32m.-.4-.Code.Editors.mp4",
-            "label": "",
-            "uploader": {
-              "login": "thayalangr-engineer",
-              "id": 129984264,
-              "node_id": "U_kgDOB79nCA",
-              "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-              "gravatar_id": "",
-              "url": "https://api.github.com/users/thayalangr-engineer",
-              "html_url": "https://github.com/thayalangr-engineer",
-              "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-              "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-              "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-              "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-              "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-              "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-              "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-              "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-              "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-              "type": "User",
-              "site_admin": false
-            },
-            "content_type": "video/mp4",
-            "state": "uploaded",
-            "size": 17265961,
-            "download_count": 0,
-            "created_at": "2023-04-10T17:33:51Z",
-            "updated_at": "2023-04-10T17:33:55Z",
-            "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.4-.Code.Editors.mp4"
+            "name": "1- Getting Started (32m) -> 4- Code Editors.mp4",
+            "originUrl": "https://cdn.fs.teachablecdn.com/69gR6ZnQOe4LC0rVoWig",
+            "assetData": {
+              "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/103060306",
+              "id": 103060306,
+              "node_id": "RA_kwDOJTIOEc4GJJNS",
+              "name": "1-.Getting.Started.32m.-.4-.Code.Editors.mp4",
+              "label": "",
+              "uploader": {
+                "login": "thayalangr-engineer",
+                "id": 129984264,
+                "node_id": "U_kgDOB79nCA",
+                "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/thayalangr-engineer",
+                "html_url": "https://github.com/thayalangr-engineer",
+                "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+                "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+                "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+                "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+                "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+                "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+                "type": "User",
+                "site_admin": false
+              },
+              "content_type": "video/mp4",
+              "state": "uploaded",
+              "size": 17265961,
+              "download_count": 1,
+              "created_at": "2023-04-10T17:33:51Z",
+              "updated_at": "2023-04-10T17:33:55Z",
+              "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.4-.Code.Editors.mp4"
+            }
           },
           "compressedAssetData": {
-            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107005978",
-            "id": 107005978,
-            "node_id": "RA_kwDOJTIOEc4GYMga",
+            "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107458443",
+            "id": 107458443,
+            "node_id": "RA_kwDOJTIOEc4GZ6-L",
             "name": "_COMPRESSED_.1-.Getting.Started.32m.-.4-.Code.Editors.mp4",
             "label": "",
             "uploader": {
@@ -324,10 +328,10 @@
             },
             "content_type": "video/mp4",
             "state": "uploaded",
-            "size": 3407920,
+            "size": 1781019,
             "download_count": 0,
-            "created_at": "2023-05-06T16:22:05Z",
-            "updated_at": "2023-05-06T16:22:07Z",
+            "created_at": "2023-05-10T01:52:03Z",
+            "updated_at": "2023-05-10T01:52:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.4-.Code.Editors.mp4"
           }
         },
@@ -363,7 +367,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 66976787,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:36:01Z",
             "updated_at": "2023-04-10T17:36:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.5-.Your.First.Python.Program.mp4"
@@ -397,7 +401,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5083885,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T16:23:55Z",
             "updated_at": "2023-05-06T16:23:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.5-.Your.First.Python.Program.mp4"
@@ -435,7 +439,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62194801,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:36:50Z",
             "updated_at": "2023-04-10T17:37:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.6-.Python.Extension.mp4"
@@ -469,7 +473,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4201576,
-            "download_count": 0,
+            "download_count": 3,
             "created_at": "2023-05-06T16:59:35Z",
             "updated_at": "2023-05-06T16:59:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.6-.Python.Extension.mp4"
@@ -541,7 +545,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5374267,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T17:02:22Z",
             "updated_at": "2023-05-06T17:02:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.7-.Linting.Python.Code.mp4"
@@ -613,7 +617,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5762468,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T17:06:27Z",
             "updated_at": "2023-05-06T17:06:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.8-.Formatting.Python.Code.mp4"
@@ -685,7 +689,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4935538,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-06T17:20:05Z",
             "updated_at": "2023-05-06T17:20:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.1-.Getting.Started.32m.-.9-.Running.Python.Code.mp4"
@@ -867,7 +871,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62183205,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:43:54Z",
             "updated_at": "2023-04-10T17:44:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/1-.Getting.Started.32m.-.12-.Quiz.mp4"
@@ -1232,7 +1236,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28540944,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:47:28Z",
             "updated_at": "2023-04-10T17:47:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/2-.Primitive.Types.34m.-.5-.Formatted.Strings.mp4"
@@ -2389,7 +2393,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 37674112,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:57:36Z",
             "updated_at": "2023-04-10T17:57:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/3-.Control.Flow.37m.-.11-.Iterables.mp4"
@@ -2754,7 +2758,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40561442,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T17:59:20Z",
             "updated_at": "2023-04-10T17:59:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/4-.Functions.41m.-.2-.Arguments.mp4"
@@ -3186,7 +3190,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 70429572,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T18:04:27Z",
             "updated_at": "2023-04-10T18:04:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/4-.Functions.41m.-.8-.Scope.mp4"
@@ -4199,7 +4203,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 52134699,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T18:17:16Z",
             "updated_at": "2023-04-10T18:17:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/5-.Data.Structures.1h20m.-.9-.Map.Function.mp4"
@@ -5716,7 +5720,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 129748698,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T18:38:12Z",
             "updated_at": "2023-04-10T18:38:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/6-.Exceptions.20m.-.7-.Cost.of.Raising.Exceptions.mp4"
@@ -6729,7 +6733,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 81634188,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T18:55:38Z",
             "updated_at": "2023-04-10T18:55:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/7-.Classes.1h25m.-.14-.Method.Overriding.mp4"
@@ -7161,7 +7165,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60247962,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T19:01:37Z",
             "updated_at": "2023-04-10T19:01:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/7-.Classes.1h25m.-.20-.Duck.Typing.mp4"
@@ -7963,7 +7967,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41210105,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T19:06:08Z",
             "updated_at": "2023-04-10T19:06:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/9-.Python.Standard.Library.1h.-.1-.Python.Standard.Library.mp4"
@@ -8107,7 +8111,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 90179656,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T19:07:02Z",
             "updated_at": "2023-04-10T19:07:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/9-.Python.Standard.Library.1h.-.3-.Working.with.Directories.mp4"
@@ -9624,7 +9628,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 75409420,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T19:29:25Z",
             "updated_at": "2023-04-10T19:29:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/10-.Python.Package.Index.48m.-.7-.Managing.Dependencies.mp4"
@@ -9917,7 +9921,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 76208087,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T19:33:34Z",
             "updated_at": "2023-04-10T19:33:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/11-.Popular.Python.Packages.1h30m.-.1-.Introduction.mp4"
@@ -11506,7 +11510,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 251319860,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:13:27Z",
             "updated_at": "2023-04-10T20:13:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/12-.Building.Web.Applications.with.Django.30m.-.11-.Templates.mp4"
@@ -12226,7 +12230,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 256055584,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:33:53Z",
             "updated_at": "2023-04-10T20:34:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/12-.Building.Web.Applications.with.Django.30m.-.21-.Getting.Ready.to.Deploy.mp4"
@@ -12519,7 +12523,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 99268387,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:36:13Z",
             "updated_at": "2023-04-10T20:36:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/Machine.Learning.with.Python.30m.-.3-.Libraries.and.Tools.mp4"
@@ -12985,7 +12989,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9222808,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-06T23:04:28Z",
             "updated_at": "2023-05-06T23:04:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.Machine.Learning.with.Python.30m.-.9-.Calculating.the.Accuracy.mp4"
@@ -13057,7 +13061,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4822028,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T23:09:46Z",
             "updated_at": "2023-05-06T23:09:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v4048782ac2fc7cda/_COMPRESSED_.Machine.Learning.with.Python.30m.-.10-.Persisting.Models.mp4"

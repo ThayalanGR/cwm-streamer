@@ -584,7 +584,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 110233858,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:25:18Z",
             "updated_at": "2023-04-07T21:25:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Introduction.to.Docker.25m.-.4-.Docker.Architecture.mp4"
@@ -949,7 +949,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 49272215,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:35:07Z",
             "updated_at": "2023-04-07T21:35:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/The.Linux.Command.Line.65m.-.1-.Introduction.mp4"
@@ -1381,7 +1381,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 42168239,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:39:03Z",
             "updated_at": "2023-04-07T21:39:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/The.Linux.Command.Line.65m.-.7-.Manipulating.Files.and.Directories.mp4"
@@ -1813,7 +1813,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 220822987,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:47:36Z",
             "updated_at": "2023-04-07T21:48:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/The.Linux.Command.Line.65m.-.13-.Environment.Variables.mp4"
@@ -2826,7 +2826,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 24532475,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:05:28Z",
             "updated_at": "2023-04-07T22:05:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.9-.Setting.Environment.Variables.mp4"
@@ -3695,7 +3695,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 53414922,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:15:31Z",
             "updated_at": "2023-04-07T22:15:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.3-.Viewing.the.Logs.mp4"
@@ -4342,7 +4342,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 42792,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:19:19Z",
             "updated_at": "2023-04-07T22:19:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.12-.Summary.pdf"
@@ -4492,7 +4492,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 39397999,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:19:58Z",
             "updated_at": "2023-04-07T22:20:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.2-.Installing.Docker.Compose.mp4"
@@ -4852,7 +4852,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124203324,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:24:56Z",
             "updated_at": "2023-04-07T22:25:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.7-.Building.Images.mp4"
@@ -5577,7 +5577,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 22292203,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:32:09Z",
             "updated_at": "2023-04-07T22:32:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.3-.Getting.a.Virtual.Private.Server.mp4"
@@ -5649,7 +5649,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 34526876,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:32:20Z",
             "updated_at": "2023-04-07T22:32:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.4-.Installing.Docker.Machine.mp4"
@@ -6081,7 +6081,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 185319879,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:38:43Z",
             "updated_at": "2023-04-07T22:39:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.10-.Troubleshooting.Deployment.Issues.mp4"

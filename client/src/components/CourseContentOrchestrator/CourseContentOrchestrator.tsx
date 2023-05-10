@@ -1,10 +1,12 @@
-import { useCallback, useLayoutEffect, useMemo } from "react";
-import { Link } from "react-router-dom";
+import { useCallback, useEffect, useLayoutEffect, useMemo } from "react";
+import { Link, useNavigate } from "react-router-dom";
 import styles from "./CourseContentOrchestrator.module.css";
 import MasterCourseService from "../../services/MasterCourse.service";
 import mime from "mime-types";
 import { useRef } from "react";
 import cn from "classnames";
+import { NavigationButton } from "./NavigationButton";
+import { useAppStore } from "../App/App";
 
 type CourseContentOrchestratorProps = {
   course: string;
@@ -22,7 +24,9 @@ export default function CourseContentOrchestrator(
   const videoRef = useRef<HTMLVideoElement>(null);
 
   // hooks
+  const navigate = useNavigate();
   const masterCourseService = useMemo(MasterCourseService.getInstance, []);
+  const isAutoPlayEnabled = useAppStore((state) => state.isAutoPlayEnabled);
   const {
     courseIndex,
     sectionIndex,
@@ -32,12 +36,44 @@ export default function CourseContentOrchestrator(
     () => masterCourseService.getContent({ course, section, content }),
     [course, section, content]
   );
+  const navigationLinks = useMemo(
+    () =>
+      masterCourseService.getAssetNavigationLinks({
+        courseIndex,
+        sectionIndex,
+        assetIndex,
+        options: { allowOnlyVideos: true },
+      }),
+    [courseIndex, sectionIndex, assetIndex]
+  );
+
+  // actions
+  const getCourseContentIndex = () => {
+    return `${sectionIndex + 1}.${assetIndex + 1} - `;
+  };
 
   // effects
-  useLayoutEffect(() => {
+  useEffect(() => {
     videoRef?.current?.load();
-    videoRef?.current?.play();
   }, [courseContent]);
+
+  useLayoutEffect(() => {
+    const onVideoEnded = () => {
+      if (isAutoPlayEnabled && navigationLinks?.next !== undefined) {
+        navigate(navigationLinks.next);
+      }
+    };
+
+    if (isAutoPlayEnabled) {
+      // videoRef?.current?.play();
+    }
+
+    videoRef?.current?.addEventListener("ended", onVideoEnded);
+
+    return () => {
+      videoRef?.current?.removeEventListener("ended", onVideoEnded);
+    };
+  }, [courseContent, isAutoPlayEnabled]);
 
   // paint
   const getContentRenderer = useCallback(() => {
@@ -48,7 +84,6 @@ export default function CourseContentOrchestrator(
     const { browser_download_url: assetUrl, content_type: contentType } =
       requiredAssetData;
     const type = mime.extension(contentType);
-    console.log(type);
 
     switch (type) {
       case "mp4":
@@ -57,7 +92,7 @@ export default function CourseContentOrchestrator(
         const requiredUrl =
           masterCourseService.getCachedContentBlobUrl(assetUrl);
         return (
-          <video ref={videoRef} autoPlay controls>
+          <video ref={videoRef} autoPlay={isAutoPlayEnabled} controls>
             <source src={requiredUrl} type={"video/mp4"} />
             <source
               src={masterCourseService.getRequiredUrl(assetUrl)}
@@ -143,6 +178,7 @@ export default function CourseContentOrchestrator(
             assetIndex={assetIndex}
           />
           <div className={styles.contenTitle}>
+            {getCourseContentIndex()}
             {masterCourseService.getAssetDisplayName(courseContent?.name)}
           </div>
         </div>
@@ -152,46 +188,3 @@ export default function CourseContentOrchestrator(
     </div>
   );
 }
-
-const NavigationButton = (props: {
-  courseIndex: number;
-  sectionIndex: number;
-  assetIndex: number;
-}) => {
-  // props
-  const { courseIndex, sectionIndex, assetIndex } = props;
-
-  const { next, previous } = useMemo(
-    () =>
-      MasterCourseService.getInstance().getAssetNavigationLinks(
-        courseIndex,
-        sectionIndex,
-        assetIndex
-      ),
-    [courseIndex, sectionIndex, assetIndex]
-  );
-
-  // actions
-
-  // paint
-  return (
-    <div className={styles.navigationButtonGroup}>
-      <Link
-        className={cn(styles.navigationButton, {
-          [styles.navigationButtonDisabled]: previous === undefined,
-        })}
-        to={previous ?? "#"}
-      >
-        &larr;
-      </Link>
-      <Link
-        className={cn(styles.navigationButton, {
-          [styles.navigationButtonDisabled]: next === undefined,
-        })}
-        to={next ?? "#"}
-      >
-        &rarr;
-      </Link>
-    </div>
-  );
-};

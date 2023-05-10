@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11664372,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T23:12:08Z",
             "updated_at": "2023-05-06T23:12:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.Getting.Started.-.1-.Course.Outline.mp4"
@@ -258,7 +258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 497081,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T23:12:16Z",
             "updated_at": "2023-05-06T23:12:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.The.Big.O.Notation.16.m.-.1-.Introduction.mp4"
@@ -1093,7 +1093,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 64237074,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:54:30Z",
             "updated_at": "2023-04-10T20:54:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.4-.Exercise-.Array.Class.mp4"
@@ -1962,7 +1962,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 142076248,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:04:17Z",
             "updated_at": "2023-04-10T21:04:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.5-.Solution-.addLast.mp4"
@@ -2034,7 +2034,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 48030723,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:04:54Z",
             "updated_at": "2023-04-10T21:05:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.6-.Solution-.addFirst.mp4"
@@ -2322,7 +2322,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 127596560,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:08:02Z",
             "updated_at": "2023-04-10T21:08:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.10-.Solution-.removeLast.mp4"
@@ -2682,7 +2682,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 75328671,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:12:35Z",
             "updated_at": "2023-04-10T21:12:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.15-.Types.of.Linked.Lists.mp4"
@@ -3041,7 +3041,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 641465,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:20:16Z",
             "updated_at": "2023-04-10T21:20:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.20-.Linked.Lists-.Exercises.pdf"
@@ -3551,7 +3551,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40879438,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:28:17Z",
             "updated_at": "2023-04-10T21:28:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.6-.Exercise-.Balanced.Expressions.mp4"
@@ -3839,7 +3839,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 282439641,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:38:41Z",
             "updated_at": "2023-04-10T21:39:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.10-.Solution-.Second.Refactoring.mp4"
@@ -4127,7 +4127,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3771820,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:48:16Z",
             "updated_at": "2023-04-10T21:48:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.14-.Summary.mp4"
@@ -4204,7 +4204,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2331361,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:48:21Z",
             "updated_at": "2023-04-10T21:48:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.1-.Introduction.mp4"
@@ -4348,7 +4348,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 172140944,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:50:51Z",
             "updated_at": "2023-04-10T21:51:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.3-.Queues.in.Java.mp4"
@@ -4564,7 +4564,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27637389,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:52:19Z",
             "updated_at": "2023-04-10T21:52:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.6-.Exercise-.Building.a.Queue.Using.an.Array.mp4"
@@ -5068,7 +5068,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 196229946,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:01:47Z",
             "updated_at": "2023-04-10T22:02:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.13-.Solution-.Building.a.Priority.Queue.mp4"
@@ -5140,7 +5140,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 82775742,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:05:16Z",
             "updated_at": "2023-04-10T22:05:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.14-.Solution-.Refactoring.mp4"
@@ -5211,7 +5211,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 43534,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:05:27Z",
             "updated_at": "2023-04-10T22:05:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.15-.Queues-.Exercises.pdf"
@@ -5865,7 +5865,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 54686069,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:16:59Z",
             "updated_at": "2023-04-10T22:17:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.8-.Solution-.First.Repeated.Character.mp4"
@@ -6009,7 +6009,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5926718,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:18:43Z",
             "updated_at": "2023-04-10T22:18:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.10-.Collisions.mp4"
@@ -6153,7 +6153,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 14088337,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:19:01Z",
             "updated_at": "2023-04-10T22:19:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.12-.Open.Addressing-.Linear.Probing.mp4"

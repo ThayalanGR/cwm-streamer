@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 169504003,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:05:02Z",
             "updated_at": "2023-04-09T20:05:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Getting.Started.6m.-.2-.Setting.Up.the.Project.mp4"
@@ -656,7 +656,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 82267571,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:11:47Z",
             "updated_at": "2023-04-09T20:11:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.7-_Setting_Up_the_Client_App.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 202320470,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:13:23Z",
             "updated_at": "2023-04-09T20:13:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Uploading.Files.37m.-.8-_Enabling_CORS.mp4"
@@ -1674,7 +1674,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 171033976,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:22:30Z",
             "updated_at": "2023-04-09T20:23:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Running.Background.Tasks.25m.-.6-_Setting_Up_Celery.mp4"
@@ -1967,7 +1967,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 16119678,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:25:35Z",
             "updated_at": "2023-04-09T20:25:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.1-_Introduction.mp4"
@@ -2111,7 +2111,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 198574153,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:27:28Z",
             "updated_at": "2023-04-09T20:27:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.3-_Test_Behaviours_Not_Implementations.mp4"
@@ -2327,7 +2327,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 147810086,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:36:00Z",
             "updated_at": "2023-04-09T20:36:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.6-_Running_Tests.mp4"
@@ -2471,7 +2471,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 73375068,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:36:53Z",
             "updated_at": "2023-04-09T20:37:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Automated.Testing.45m.-.8-_Continuous_Testing.mp4"
@@ -5083,7 +5083,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 15130027,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:35:56Z",
             "updated_at": "2023-04-09T21:35:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.1-_Introduction.mp4"
@@ -5227,7 +5227,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 74382531,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:36:15Z",
             "updated_at": "2023-04-09T21:36:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.3-_Adding_Project_to_Git.mp4"
@@ -5515,7 +5515,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 21849009,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:37:14Z",
             "updated_at": "2023-04-09T21:37:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.7-_Creating_a_Procfile.mp4"
@@ -5587,7 +5587,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 148521005,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:37:40Z",
             "updated_at": "2023-04-09T21:37:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v98e3fcefe05944f0/Deployment.37m.-.8-_Provisioning_a_MySQL_Database.mp4"

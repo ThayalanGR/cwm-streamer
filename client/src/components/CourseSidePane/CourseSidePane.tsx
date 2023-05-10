@@ -4,10 +4,7 @@ import cn from "classnames";
 import { Link } from "react-router-dom";
 import { useLayoutEffect, useMemo } from "react";
 import MasterCourseService from "../../services/MasterCourse.service";
-
-type CourseParams = {
-  courseName: string;
-};
+import { useAppStore } from "../App/App";
 
 interface ICourseSidePaneProps {
   courseDetails: ICourse;
@@ -17,14 +14,23 @@ interface ICourseSidePaneProps {
   };
 }
 
+const setSidePanelVisibility = () => {
+  const clientWidth = document.body.clientWidth;
+  const minWidthBreakpoint = 720;
+  if (clientWidth < minWidthBreakpoint) {
+    useAppStore.getState().setIsSidePanelOpen(false);
+  } else {
+    useAppStore.getState().setIsSidePanelOpen(true);
+  }
+};
+
 export default function CourseSidePane(props: ICourseSidePaneProps) {
   // props
   const { courseDetails, currentActiveContent } = props;
 
   // hooks
   const masterCourseService = useMemo(MasterCourseService.getInstance, []);
-
-  // compute
+  const isSidePanelOpen = useAppStore((state) => state.isSidePanelOpen);
 
   // actions
   const checkIsContentActive = (section: string, content: string) => {
@@ -36,7 +42,18 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
     return isActive;
   };
 
+  const onLinkClick = () => setSidePanelVisibility();
+
   // effects
+  useLayoutEffect(() => {
+    setSidePanelVisibility();
+    window.addEventListener("resize", setSidePanelVisibility);
+
+    return () => {
+      window.removeEventListener("resize", setSidePanelVisibility);
+    };
+  }, []);
+
   useLayoutEffect(() => {
     const activeContent = document.getElementsByClassName(
       styles.CourseSectionContentNodeActive
@@ -48,7 +65,11 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
   if (!courseDetails) return <div>Loading side panel...</div>;
 
   return (
-    <div className={styles.wrapper}>
+    <div
+      className={cn(styles.wrapper, {
+        [styles.sidePaneCollapsed]: !isSidePanelOpen,
+      })}
+    >
       <div className={styles.courseTitle}>
         {courseDetails.name}&nbsp;(&nbsp;{courseDetails.sections.length}&nbsp;)
       </div>
@@ -75,6 +96,7 @@ export default function CourseSidePane(props: ICourseSidePaneProps) {
                     section.name,
                     asset.name
                   )}
+                  onClick={onLinkClick}
                 >
                   {contentIndex + 1}.&nbsp;
                   {masterCourseService.getAssetDisplayName(asset.name)}

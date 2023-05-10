@@ -435,7 +435,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 25980539,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:02:15Z",
             "updated_at": "2023-04-08T20:02:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Getting.Started.17m.-.6-.JavaScript.in.Node.mp4"
@@ -1165,7 +1165,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4686520,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:08:59Z",
             "updated_at": "2023-04-08T20:09:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.1-.JavaScript.Operators.mp4"
@@ -1597,7 +1597,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 94537621,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:10:45Z",
             "updated_at": "2023-04-08T20:11:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.7-.Logical.Operators.mp4"
@@ -1962,7 +1962,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 83819125,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:17:59Z",
             "updated_at": "2023-04-08T20:18:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.1.If.else.mp4"
@@ -2178,7 +2178,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 31031408,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:20:21Z",
             "updated_at": "2023-04-08T20:20:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.4-.While.mp4"
@@ -2754,7 +2754,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 143622695,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:26:24Z",
             "updated_at": "2023-04-08T20:26:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.12-.Exercise.3-.FizzBuzz.mp4"
@@ -2970,7 +2970,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 79987698,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:31:19Z",
             "updated_at": "2023-04-08T20:31:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.15-.Exercise.6-.Count.Truthy.mp4"
@@ -3330,7 +3330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 150015429,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:36:22Z",
             "updated_at": "2023-04-08T20:37:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.20-.Exercise-.Prime.Numbers.mp4"

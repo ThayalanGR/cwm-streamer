@@ -98,7 +98,8 @@ export default class MasterCourseService {
       ?.replace(/_/g, " ")
       ?.replace(".mp4", "")
       ?.replace(".pdf", "")
-      ?.replace(".zip", "");
+      ?.replace(".zip", "")
+      ?.replace(".mov", "");
   }
 
   public getContent(props: {
@@ -168,11 +169,15 @@ export default class MasterCourseService {
     return asset?.compressedAssetData ?? asset?.assetData;
   }
 
-  public getAssetNavigationLinks(
-    courseIndex: number,
-    sectionIndex: number,
-    assetIndex: number
-  ): { next: string | undefined; previous: string | undefined } {
+  public getAssetNavigationLinks(props: {
+    courseIndex: number;
+    sectionIndex: number;
+    assetIndex: number;
+    options?: {
+      allowOnlyVideos?: boolean;
+    };
+  }): { next: string | undefined; previous: string | undefined } {
+    const { courseIndex, sectionIndex, assetIndex, options } = props;
     let next: string | undefined;
     let previous: string | undefined;
 
@@ -181,6 +186,7 @@ export default class MasterCourseService {
       sectionIndex,
       assetIndex,
       direction: "forward",
+      options,
     });
     if (nextAsset) {
       next = this.getContentPath(
@@ -195,6 +201,7 @@ export default class MasterCourseService {
       sectionIndex,
       assetIndex,
       direction: "backward",
+      options,
     });
     if (previousAsset) {
       previous = this.getContentPath(
@@ -207,7 +214,7 @@ export default class MasterCourseService {
     return { next, previous };
   }
 
-  private getAsset(props: {
+  public getAsset(props: {
     direction: "forward" | "backward";
     courseIndex: number;
     sectionIndex: number;
