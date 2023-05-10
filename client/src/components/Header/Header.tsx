@@ -26,6 +26,10 @@ function Header() {
     toggleSidePanel(!isSidePanelOpen);
   };
 
+  const onLogoClick = () => {
+    setCourseSearchText("");
+  };
+
   return (
     <div className={styles.wrapper}>
       {hasSidePanel && (
@@ -33,7 +37,7 @@ function Header() {
           &equiv;
         </button>
       )}
-      <Link to="/">
+      <Link to="/" onClick={onLogoClick}>
         <h1 className={styles.logo}>CWM Streamer</h1>
       </Link>
 
