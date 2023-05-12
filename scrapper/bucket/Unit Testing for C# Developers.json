@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 75694817,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:33:12Z",
             "updated_at": "2023-04-09T17:33:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Getting.Started.45m.-.What.is.Automated.Testing.mp4"
@@ -363,7 +363,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 175468531,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:44:57Z",
             "updated_at": "2023-04-09T17:45:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Getting.Started.45m.-.The.Tooling.mp4"
@@ -435,7 +435,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3217392,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:45:22Z",
             "updated_at": "2023-04-09T17:45:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Getting.Started.45m.-.Source.Code.-.Graphics.mp4"
@@ -867,7 +867,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 105342109,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:57:06Z",
             "updated_at": "2023-04-09T17:57:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Getting.Started.45m.-.Course.Structure.mp4"
@@ -1160,7 +1160,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 80422108,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:59:47Z",
             "updated_at": "2023-04-09T17:59:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Fundamentals.of.Unit.Testing.40m.-.What.to.Test.and.What.Not.to.Test.mp4"
@@ -1232,7 +1232,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 71685922,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:01:04Z",
             "updated_at": "2023-04-09T18:01:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Fundamentals.of.Unit.Testing.40m.-.Naming.and.Organizing.Tests.mp4"
@@ -1808,7 +1808,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 269418322,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:11:03Z",
             "updated_at": "2023-04-09T18:12:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Fundamentals.of.Unit.Testing.40m.-.Developers.Who.Don.t.Write.Tests.mp4"
@@ -1957,7 +1957,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6090250,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:12:09Z",
             "updated_at": "2023-04-09T18:12:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Core.Unit.Testing.Techniques.50m.-.Introduction.mp4"
@@ -2173,7 +2173,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 119052998,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:22:04Z",
             "updated_at": "2023-04-09T18:22:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Core.Unit.Testing.Techniques.50m.-.Testing.the.Return.Type.of.Methods.mp4"
@@ -2245,7 +2245,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 139615174,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:23:26Z",
             "updated_at": "2023-04-09T18:23:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Core.Unit.Testing.Techniques.50m.-.Testing.Void.Methods.mp4"
@@ -2461,7 +2461,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 324322420,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:28:11Z",
             "updated_at": "2023-04-09T18:29:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Core.Unit.Testing.Techniques.50m.-.Testing.Private.Methods.mp4"
@@ -2533,7 +2533,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 73138782,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:30:03Z",
             "updated_at": "2023-04-09T18:30:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Core.Unit.Testing.Techniques.50m.-.Code.Coverage.mp4"
@@ -2754,7 +2754,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28038068,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:33:06Z",
             "updated_at": "2023-04-09T18:33:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Exercises.20m.-.Exercise-.FizzBuzz.mp4"
@@ -3407,7 +3407,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 125934129,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:54:26Z",
             "updated_at": "2023-04-09T18:54:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Breaking.the.External.Dependencies.1h.-.Dependency.Injection.via.Method.Parameters.mp4"
@@ -3623,7 +3623,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 89147675,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:57:11Z",
             "updated_at": "2023-04-09T18:57:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Breaking.the.External.Dependencies.1h.-.Dependency.Injection.Frameworks.mp4"
@@ -4055,7 +4055,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 157511669,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:11:28Z",
             "updated_at": "2023-04-09T19:11:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Breaking.the.External.Dependencies.1h.-.An.Example.of.a.Mock.Abuse.mp4"
@@ -4127,7 +4127,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 107085639,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:12:30Z",
             "updated_at": "2023-04-09T19:12:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Breaking.the.External.Dependencies.1h.-.Who.Should.Write.Tests.mp4"
@@ -4348,7 +4348,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 350038685,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:32:21Z",
             "updated_at": "2023-04-09T19:33:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Excercises.45m.-.Testing.VideoService.mp4"
@@ -4636,7 +4636,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92338081,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:37:29Z",
             "updated_at": "2023-04-09T19:37:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Excercises.45m.-.Exercise-.EmployeeController.mp4"
@@ -4780,7 +4780,7 @@
             "content_type": "video/quicktime",
             "state": "uploaded",
             "size": 100755154,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:38:59Z",
             "updated_at": "2023-04-09T19:39:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Excercises.45m.-.Testing.EmployeeController.mov"
@@ -4929,7 +4929,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 113335978,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:40:54Z",
             "updated_at": "2023-04-09T19:41:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Project-.Testing.BookingHelper.-.2-.Test.Cases.-.Final.mp4"
@@ -5438,7 +5438,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 96984542,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:53:43Z",
             "updated_at": "2023-04-09T19:53:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Project.-.HouseKeeperHelper.50m.-.1-.Introduction.mp4"
@@ -5654,7 +5654,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 354026886,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:58:01Z",
             "updated_at": "2023-04-09T19:58:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb6aa804f66d6a1c5/Project.-.HouseKeeperHelper.50m.-.4-.Writing.the.First.Interaction.Test.mp4"

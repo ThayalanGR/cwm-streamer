@@ -99,7 +99,8 @@ export default class MasterCourseService {
       ?.replace(".mp4", "")
       ?.replace(".pdf", "")
       ?.replace(".zip", "")
-      ?.replace(".mov", "");
+      ?.replace(".mov", "")
+      ?.replace(".m4v", "");
   }
 
   public getContent(props: {
@@ -152,14 +153,14 @@ export default class MasterCourseService {
     bufferUrl: string | undefined,
     strict = false
   ) {
-    const requiredUrl = this.getRequiredUrl(bufferUrl ?? "");
+    const requiredUrl = this.getProxiedUrl(bufferUrl ?? "");
     return (
       this.blobBufferUrlMapping.get(requiredUrl) ??
       (strict ? undefined : bufferUrl)
     );
   }
 
-  public getRequiredUrl(sourceUrl: string) {
+  public getProxiedUrl(sourceUrl: string) {
     const nextUrl = "https://api.yoyoironing.com/freecors?url=" + sourceUrl;
 
     return nextUrl;
@@ -256,7 +257,7 @@ export default class MasterCourseService {
             ...props,
             courseIndex,
             sectionIndex: sectionIndex - 1,
-            assetIndex: 1,
+            assetIndex: course.sections[sectionIndex - 1]?.assets?.length ?? 1,
           });
     }
 
@@ -273,12 +274,39 @@ export default class MasterCourseService {
     return { course, section, asset };
   }
 
+  public getBufferedUrl = (
+    downloadUrl: string,
+    type?: string
+  ): Promise<string> => {
+    return new Promise((resolve, reject) => {
+      fetch(downloadUrl)
+        .then((data) => {
+          return data.blob();
+        })
+        .then((blob) => {
+          console.log("Data downloaded successfully!", blob);
+          console.log("Generating blob url...");
+          const blobUrl = URL.createObjectURL(
+            new Blob([blob], type ? { type } : undefined)
+          );
+          console.log("blob url", blobUrl);
+          resolve(blobUrl);
+        })
+        .catch((err) => reject(err));
+    });
+  };
+
   private preFetchAssetInBackground(asset?: ICourseAsset) {
     // maintain only n number of cache content
-    const cacheThreshold = 5;
+    const cacheThreshold = 3;
 
     if (this.blobBufferUrlMapping.size + 1 > cacheThreshold) {
       const itemsToRemove = this.blobBufferUrlMapping.size + 1 - cacheThreshold;
+      for (let index = 0; index < itemsToRemove; index++) {
+        const blobUrl = this.blobBufferUrlMapping.values().next()?.value;
+        console.log("revoking old cached blob", blobUrl);
+        if (blobUrl) URL.revokeObjectURL(blobUrl);
+      }
       this.blobBufferUrlMapping = new Map(
         [...this.blobBufferUrlMapping.entries()].slice(itemsToRemove)
       );
@@ -290,21 +318,12 @@ export default class MasterCourseService {
     const requiredUrl = requiredAssetData.browser_download_url;
     if (this.getCachedContentBlobUrl(requiredUrl, true)) return;
 
-    setTimeout(() => {
+    setTimeout(async () => {
       console.log("pre fetching started", requiredUrl);
-      const nextUrl = this.getRequiredUrl(requiredUrl);
-
-      fetch(nextUrl)
-        .then((data) => {
-          return data.blob();
-        })
-        .then((blob) => {
-          console.log("Data downloaded successfully!", blob);
-          console.log("Generating blob url...");
-          const blobUrl = URL.createObjectURL(blob);
-          console.log("Adding blob to buffer mapping.", blobUrl);
-          this.blobBufferUrlMapping.set(nextUrl, blobUrl);
-        });
+      const nextUrl = this.getProxiedUrl(requiredUrl);
+      const blobUrl = await this.getBufferedUrl(nextUrl);
+      console.log("Adding blob url to buffer mapping", blobUrl);
+      this.blobBufferUrlMapping.set(nextUrl, blobUrl);
     }, 1000);
   }
 

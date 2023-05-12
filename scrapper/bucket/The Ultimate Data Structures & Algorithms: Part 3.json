@@ -224,7 +224,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 42896311,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T01:48:38Z",
             "updated_at": "2023-04-11T01:48:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.1-.Introduction.mp4"
@@ -1016,7 +1016,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 263775880,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:06:35Z",
             "updated_at": "2023-04-11T02:07:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.12-.Quick.Sort-.Implementation.mp4"
@@ -1232,7 +1232,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 25921502,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:08:23Z",
             "updated_at": "2023-04-11T02:08:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Sorting.Algorithms.75m.-.15-.Bucket.Sort.mp4"
@@ -1453,7 +1453,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6258843,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:11:09Z",
             "updated_at": "2023-04-11T02:11:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.2-.Linear.Search.mp4"
@@ -1669,7 +1669,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 105077250,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:12:37Z",
             "updated_at": "2023-04-11T02:12:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/Searching.Algorithms.35m.-.5-.Binary.Search-.Recursive.Implementation.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 148614675,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:28:54Z",
             "updated_at": "2023-04-11T02:29:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.6-.Reverse.Words.mp4"
@@ -2682,7 +2682,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 115949638,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:30:14Z",
             "updated_at": "2023-04-11T02:30:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.7-.Rotations.mp4"
@@ -2754,7 +2754,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 77077840,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:31:02Z",
             "updated_at": "2023-04-11T02:31:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd81c6cfc22649cb0/String.Manipulation.Algorithms.60m.-.8-.Remove.Duplicates.mp4"

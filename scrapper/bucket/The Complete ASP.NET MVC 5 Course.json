@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41002363,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:46:39Z",
             "updated_at": "2023-04-10T02:46:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.1-.Introduction.mp4"
@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 15294258,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:46:51Z",
             "updated_at": "2023-04-10T02:46:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.2-.MVC.Architectural.Pattern.mp4"
@@ -435,7 +435,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18601583,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:48:09Z",
             "updated_at": "2023-04-10T02:48:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Getting.Started.25m.-.6-.Adding.a.Theme.mp4"
@@ -656,7 +656,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 22986473,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:48:37Z",
             "updated_at": "2023-04-10T02:48:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.2-.Action.Results.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 30398145,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:48:50Z",
             "updated_at": "2023-04-10T02:48:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.3-.Action.Parameters.mp4"
@@ -1016,7 +1016,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18492330,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:49:38Z",
             "updated_at": "2023-04-10T02:49:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.7-.View.Models.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 8219868,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:50:20Z",
             "updated_at": "2023-04-10T02:50:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/ASP.NET.MVC.Fundamentals.40m.-.11-.Exercise.mp4"
@@ -1813,7 +1813,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27856339,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:52:03Z",
             "updated_at": "2023-04-10T02:52:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.5-.Changing.the.Model.mp4"
@@ -2173,7 +2173,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4421243,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:52:53Z",
             "updated_at": "2023-04-10T02:52:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.10-.Package.Manager.Console.mp4"
@@ -2461,7 +2461,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4999529,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:53:08Z",
             "updated_at": "2023-04-10T02:53:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Working.with.Data.40m.-.14-.Exercise.3.mp4"
@@ -3114,7 +3114,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50827153,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:55:51Z",
             "updated_at": "2023-04-10T02:55:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.8-.Updating.Data.mp4"
@@ -3185,7 +3185,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 72225,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:55:58Z",
             "updated_at": "2023-04-10T02:55:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.9-.Cheat.Sheet-.Building.Forms.pdf"
@@ -3402,7 +3402,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3494490,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:56:25Z",
             "updated_at": "2023-04-10T02:56:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.Forms.40m.-.12-.Summary.mp4"
@@ -3479,7 +3479,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 23645737,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:56:36Z",
             "updated_at": "2023-04-10T02:56:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Implementing.Validation.35m.-.1-.Introduction.mp4"
@@ -4492,7 +4492,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6786107,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:05:39Z",
             "updated_at": "2023-04-10T07:05:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.2-.What.is.a.Web.API.mp4"
@@ -4564,7 +4564,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3499061,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:05:45Z",
             "updated_at": "2023-04-10T07:05:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.3-.RESTful.Convention.mp4"
@@ -4852,7 +4852,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 54800884,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:08:46Z",
             "updated_at": "2023-04-10T07:08:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.7-.Auto.Mapper.mp4"
@@ -4924,7 +4924,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 13846157,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:09:07Z",
             "updated_at": "2023-04-10T07:09:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Building.RESTful.Services.with.ASP.NET.Web.API.40m.-.8-.Using.Camel.Notation.mp4"
@@ -5505,7 +5505,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7767657,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:12:43Z",
             "updated_at": "2023-04-10T07:12:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.4-.Optimizing.jQuery.Code.mp4"
@@ -5577,7 +5577,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36175784,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:14:14Z",
             "updated_at": "2023-04-10T07:14:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.5-.DataTables.Plug-in.mp4"
@@ -5793,7 +5793,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 12400820,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:17:12Z",
             "updated_at": "2023-04-10T07:17:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Client-side.Development.45m.-.8-.DataTables-.Removing.Records.mp4"
@@ -6374,7 +6374,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11979229,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:21:11Z",
             "updated_at": "2023-04-10T07:21:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Authentication.and.Authorization.45m.-.3-.Authentication.Options.mp4"
@@ -7531,7 +7531,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36441733,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:31:32Z",
             "updated_at": "2023-04-10T07:31:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.6-.Data.Cache.mp4"
@@ -7962,7 +7962,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 71337,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:34:06Z",
             "updated_at": "2023-04-10T07:34:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Performance.Optimization.50m.-.12-.Cheat.Sheet-.Performance.Optimization.pdf"
@@ -9701,7 +9701,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 63902709,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T07:53:15Z",
             "updated_at": "2023-04-10T07:53:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v23253bb0dd3facda/Deployment.50m.-.7-.Custom.Error.Pages.mp4"

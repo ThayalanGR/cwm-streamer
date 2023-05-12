@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 742319,
-            "download_count": 3,
+            "download_count": 4,
             "created_at": "2023-05-08T07:12:10Z",
             "updated_at": "2023-05-08T07:12:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/_COMPRESSED_.Getting.Started.00.25.-.1-.Introduction.mp4"
@@ -181,7 +181,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4652394,
-            "download_count": 3,
+            "download_count": 4,
             "created_at": "2023-05-08T07:14:55Z",
             "updated_at": "2023-05-08T07:14:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/_COMPRESSED_.Getting.Started.00.25.-.2-.What.is.SQL.mp4"
@@ -253,7 +253,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 10582741,
-            "download_count": 3,
+            "download_count": 4,
             "created_at": "2023-05-08T07:20:04Z",
             "updated_at": "2023-05-08T07:20:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/_COMPRESSED_.Getting.Started.00.25.-.3-.Installing.MySQL.on.Mac.mp4"
@@ -291,7 +291,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 210692302,
-            "download_count": 1,
+            "download_count": 2,
             "created_at": "2023-04-07T18:24:04Z",
             "updated_at": "2023-04-07T18:24:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Getting.Started.00.25.-.4-.Installing.MySQL.on.Windows.mp4"
@@ -948,7 +948,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 158773382,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:31:36Z",
             "updated_at": "2023-04-07T19:32:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.a.Single.Table.00.53.-.8-.The.LIKE.Operator.-.Title.mp4"
@@ -1164,7 +1164,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 204359036,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:41:28Z",
             "updated_at": "2023-04-07T19:42:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.a.Single.Table.00.53.-.11-.The.ORDER.BY.Clause.mp4"
@@ -1528,7 +1528,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 142286720,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:49:38Z",
             "updated_at": "2023-04-07T19:50:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.Multiple.Tables.01.02.-.3-.Self.Joins.mp4"
@@ -1672,7 +1672,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 83512437,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:54:55Z",
             "updated_at": "2023-04-07T19:55:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.Multiple.Tables.01.02.-.5-.Compound.Join.Conditions.mp4"
@@ -1960,7 +1960,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50416708,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:00:16Z",
             "updated_at": "2023-04-07T20:01:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.Multiple.Tables.01.02.-.9-.Self.Outer.Joins.mp4"
@@ -2176,7 +2176,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58555583,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:03:54Z",
             "updated_at": "2023-04-07T20:04:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Retrieving.Data.From.Multiple.Tables.01.02.-.12-.Cross.Joins.mp4"
@@ -3090,7 +3090,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 217723892,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:24:32Z",
             "updated_at": "2023-04-07T20:25:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Summarizing.Data.00.33.-.1-.Aggregate.Functions.mp4"
@@ -3743,7 +3743,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 55083134,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:50:11Z",
             "updated_at": "2023-04-07T20:50:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Writing.Complex.Query.00.45.-.6-.The.ANY.Keyword.mp4"
@@ -4180,7 +4180,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72413831,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:56:30Z",
             "updated_at": "2023-04-07T20:56:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Essential.MySQL.Functions.00.33.-.2-.String.Functions.mp4"
@@ -4468,7 +4468,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62122928,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:01:13Z",
             "updated_at": "2023-04-07T21:01:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Essential.MySQL.Functions.00.33.-.6-.The.IFNULL.and.COALESCE.Functions.mp4"
@@ -4689,7 +4689,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 122745113,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:04:06Z",
             "updated_at": "2023-04-07T21:04:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Views.00.18.-.1-.Creating.Views.mp4"
@@ -4761,7 +4761,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 79601951,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:05:12Z",
             "updated_at": "2023-04-07T21:05:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Views.00.18.-.2-.Altering.or.Dropping.Views.mp4"
@@ -4905,7 +4905,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62906112,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:08:40Z",
             "updated_at": "2023-04-07T21:09:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Views.00.18.-.4-.THE.WITH.OPTION.CHECK.Clause.mp4"
@@ -5270,7 +5270,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 42927539,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:14:21Z",
             "updated_at": "2023-04-07T21:14:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Stored.Procedures.00.48.-.4-.Dropping.Stored.Procedures.mp4"
@@ -5558,7 +5558,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97722900,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:21:41Z",
             "updated_at": "2023-04-07T21:22:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Stored.Procedures.00.48.-.8-.Output.Parameters.mp4"
@@ -5702,7 +5702,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 127785410,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:29:14Z",
             "updated_at": "2023-04-07T21:29:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Stored.Procedures.00.48.-.10-.Functions.mp4"
@@ -6507,7 +6507,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 133456924,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:43:21Z",
             "updated_at": "2023-04-07T21:44:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Transactions.and.Concurrency.00.49.-.3-.Concurrency.and.Lockign.mp4"
@@ -6651,7 +6651,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 74800094,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:47:16Z",
             "updated_at": "2023-04-07T21:47:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Transactions.and.Concurrency.00.49.-.5-.Transaction.Isolation.Levels.mp4"
@@ -7011,7 +7011,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 191809520,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:54:58Z",
             "updated_at": "2023-04-07T21:55:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Transactions.and.Concurrency.00.49.-.10-.Deadlocks.mp4"
@@ -7088,7 +7088,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 12854478,
-            "download_count": 4,
+            "download_count": 5,
             "created_at": "2023-04-07T21:56:18Z",
             "updated_at": "2023-04-07T21:56:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Data.Types.00.35.-.1-.Introduction.mp4"
@@ -7304,7 +7304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11480842,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:57:44Z",
             "updated_at": "2023-04-07T21:57:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Data.Types.00.35.-.4-.Fixed-point.and.Floating-point.Types.mp4"
@@ -7520,7 +7520,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4757588,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:58:52Z",
             "updated_at": "2023-04-07T21:58:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Data.Types.00.35.-.7-.Date.and.Time.Types.mp4"
@@ -7592,7 +7592,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9982288,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:58:58Z",
             "updated_at": "2023-04-07T21:59:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Data.Types.00.35.-.8-.Blob.Types.mp4"
@@ -8024,7 +8024,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 120656721,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:12:18Z",
             "updated_at": "2023-04-07T20:13:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Inserting.Updating.and.Deleting.Data.00.42.-.4-.Inserting.Hierarchical.Rows.mp4"
@@ -8308,7 +8308,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 126854447,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:20:42Z",
             "updated_at": "2023-04-07T20:21:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v10b3b91f5684f032/Inserting.Updating.and.Deleting.Data.00.42.-.8-.Using.Subqueries.in.Updates.mp4"

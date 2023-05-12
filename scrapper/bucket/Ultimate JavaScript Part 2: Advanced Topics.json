@@ -368,7 +368,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6185842,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T06:23:40Z",
             "updated_at": "2023-04-09T06:23:43Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.1-.Introduction.mp4"
@@ -1016,7 +1016,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 150776733,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T07:10:00Z",
             "updated_at": "2023-04-09T07:10:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.10-.Abstraction.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 39546222,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T07:55:16Z",
             "updated_at": "2023-04-09T07:55:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.14-.Exercise-.Stopwatch.mp4"
@@ -1376,7 +1376,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 54228193,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T08:05:24Z",
             "updated_at": "2023-04-09T08:05:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Objects.1h15m.-.15-.Solution-.Stopwatch.mp4"
@@ -1669,7 +1669,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 103638765,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T08:51:47Z",
             "updated_at": "2023-04-09T08:52:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.4-.Property.Descriptors.mp4"
@@ -1957,7 +1957,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 30944179,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T09:47:05Z",
             "updated_at": "2023-04-09T09:47:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.8-.Avoid.Extending.the.Built-in.Objects.mp4"
@@ -2101,7 +2101,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36229441,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T09:50:23Z",
             "updated_at": "2023-04-09T09:50:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.10-.Exercise.mp4"
@@ -2173,7 +2173,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 182663292,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:09:15Z",
             "updated_at": "2023-04-09T10:09:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypes.40m.-.11-.Solution.mp4"
@@ -2250,7 +2250,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 132884941,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:22:01Z",
             "updated_at": "2023-04-09T10:22:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.1-.Creating.Your.Own.Prototypical.Inheritance.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 108103869,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T10:57:15Z",
             "updated_at": "2023-04-09T10:57:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.6-.Polymorphism.mp4"
@@ -2970,7 +2970,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 151907832,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:31:40Z",
             "updated_at": "2023-04-09T11:32:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/Prototypical.Inheritance.50m.-.10-.Solution-.Prototypical.Inheritance.mp4"
@@ -3191,7 +3191,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 102595012,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:48:10Z",
             "updated_at": "2023-04-09T11:48:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Classes.55m.-.1-.ES6.Classes.mp4"
@@ -3623,7 +3623,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 64032360,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:06:56Z",
             "updated_at": "2023-04-09T12:07:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Classes.55m.-.7-.Getters.and.Setters.mp4"
@@ -3695,7 +3695,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 91814911,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:12:07Z",
             "updated_at": "2023-04-09T12:12:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Classes.55m.-.8-.Inheritance.mp4"
@@ -3838,7 +3838,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 1325,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:13:55Z",
             "updated_at": "2023-04-09T12:13:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Classes.55m.-.classes.zip"
@@ -4060,7 +4060,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38661720,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:39:51Z",
             "updated_at": "2023-04-09T12:40:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Tooling.30m.-.1-.Modules.mp4"
@@ -4204,7 +4204,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 54981533,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:14:29Z",
             "updated_at": "2023-04-09T14:14:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v62e035d496e9b53c/ES6.Tooling.30m.-.3-.ES6.Modules.mp4"

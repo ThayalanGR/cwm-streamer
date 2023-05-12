@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 11664372,
-            "download_count": 2,
+            "download_count": 5,
             "created_at": "2023-05-06T23:12:08Z",
             "updated_at": "2023-05-06T23:12:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.Getting.Started.-.1-.Course.Outline.mp4"
@@ -146,7 +146,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 100695,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:47:50Z",
             "updated_at": "2023-04-10T20:47:50Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Getting.Started.-.Data.Structures.-.Part.1.zip"
@@ -258,7 +258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 497081,
-            "download_count": 2,
+            "download_count": 7,
             "created_at": "2023-05-06T23:12:16Z",
             "updated_at": "2023-05-06T23:12:17Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.The.Big.O.Notation.16.m.-.1-.Introduction.mp4"
@@ -296,7 +296,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 81583801,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:48:29Z",
             "updated_at": "2023-04-10T20:48:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.2-.What.is.Big.O.mp4"
@@ -330,7 +330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4184169,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-06T23:13:29Z",
             "updated_at": "2023-05-06T23:13:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.The.Big.O.Notation.16.m.-.2-.What.is.Big.O.mp4"
@@ -402,7 +402,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 1817404,
-            "download_count": 0,
+            "download_count": 2,
             "created_at": "2023-05-06T23:14:00Z",
             "updated_at": "2023-05-06T23:14:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.The.Big.O.Notation.16.m.-.3-.O.1.mp4"
@@ -474,7 +474,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5187286,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-06T23:15:16Z",
             "updated_at": "2023-05-06T23:15:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/_COMPRESSED_.The.Big.O.Notation.16.m.-.4-.O.n.mp4"
@@ -799,7 +799,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 20425,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:50:16Z",
             "updated_at": "2023-04-10T20:50:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/The.Big.O.Notation.16.m.-.9-.Cheat.Sheet.pdf"
@@ -1165,7 +1165,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 64145399,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T20:55:01Z",
             "updated_at": "2023-04-10T20:55:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Arrays.30.m.-.5-.Solution-.Creating.the.Class.mp4"
@@ -1746,7 +1746,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26879823,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:02:22Z",
             "updated_at": "2023-04-10T21:02:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.2-.What.are.Linked.Lists.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 77660620,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:12:04Z",
             "updated_at": "2023-04-10T21:12:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.14-.Arrays.vs.Linked.Lists.mp4"
@@ -2754,7 +2754,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32409269,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:12:54Z",
             "updated_at": "2023-04-10T21:12:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Linked.Lists.54.m.-.16-.Exercise-.Reversing.a.Linked.List.mp4"
@@ -3335,7 +3335,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58449833,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:21:35Z",
             "updated_at": "2023-04-10T21:21:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.3-.Working.with.Stacks.mp4"
@@ -3407,7 +3407,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9987655,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:22:02Z",
             "updated_at": "2023-04-10T21:22:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Stacks.42.m.-.4-.Exercise-.Reversing.a.String.mp4"
@@ -4852,7 +4852,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 208383606,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T21:56:42Z",
             "updated_at": "2023-04-10T21:57:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.10-.Solution-.Building.a.Queue.Using.a.Stack.mp4"
@@ -5284,7 +5284,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6600848,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:05:33Z",
             "updated_at": "2023-04-10T22:05:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Queues.53.m.-.16-.Summary.mp4"
@@ -5793,7 +5793,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6580919,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:16:40Z",
             "updated_at": "2023-04-10T22:16:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.7-.Exercise-.First.Repeated.Character.mp4"
@@ -6585,7 +6585,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 63365586,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:23:12Z",
             "updated_at": "2023-04-10T22:23:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.18-.Solution-.remove.mp4"
@@ -6657,7 +6657,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 365669666,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T22:24:37Z",
             "updated_at": "2023-04-10T22:25:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v68ad0380e118455f/Hash.Tables.68.m.-.19-.Solution-.Refactoring.mp4"

@@ -1522,7 +1522,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 217283459,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:05:36Z",
             "updated_at": "2023-04-09T21:06:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Lambda.Expressions.mp4"
@@ -1664,7 +1664,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 141683458,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T21:15:18Z",
             "updated_at": "2023-04-09T21:15:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b079f00fd7af40/Advanced.C.Topics.2h25m.-.Nullable.Types.mp4"

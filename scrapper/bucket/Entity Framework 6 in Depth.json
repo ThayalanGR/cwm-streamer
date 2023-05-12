@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 153135764,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:48:13Z",
             "updated_at": "2023-04-09T11:49:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Introduction.1m.-.1-.About.this.Course.mp4"
@@ -224,7 +224,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4351068,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:50:04Z",
             "updated_at": "2023-04-09T11:50:06Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.What.is.Entity.Framework.mp4"
@@ -296,7 +296,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6051566,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:50:08Z",
             "updated_at": "2023-04-09T11:50:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Workflows.mp4"
@@ -440,7 +440,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 103753339,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T11:56:41Z",
             "updated_at": "2023-04-09T11:57:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Demo-.Code-first.Workflow.mp4"
@@ -733,7 +733,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 13461025,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:06:57Z",
             "updated_at": "2023-04-09T12:07:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Setting.Up.the.Database.mp4"
@@ -805,7 +805,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 86521198,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:12:31Z",
             "updated_at": "2023-04-09T12:12:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.A.Quick.Tour.of.EDMX.Designer.mp4"
@@ -1093,7 +1093,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 75691172,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:28:59Z",
             "updated_at": "2023-04-09T12:29:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Importing.Stored.Procedures.mp4"
@@ -1237,7 +1237,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 67246419,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:32:52Z",
             "updated_at": "2023-04-09T12:33:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Working.with.Enums.mp4"
@@ -1674,7 +1674,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 63401953,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T12:45:49Z",
             "updated_at": "2023-04-09T12:45:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Enabling.Migrations.mp4"
@@ -1962,7 +1962,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 22756591,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:22:23Z",
             "updated_at": "2023-04-09T14:22:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Recovering.from.Mistakes.mp4"
@@ -2177,7 +2177,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 85370,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:51:02Z",
             "updated_at": "2023-04-09T14:51:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Section4.-.Exercise.Description.pdf"
@@ -2471,7 +2471,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38512916,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T14:59:16Z",
             "updated_at": "2023-04-09T14:59:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Data.Annotations.mp4"
@@ -2615,7 +2615,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 25199043,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:03:28Z",
             "updated_at": "2023-04-09T15:03:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Basics.mp4"
@@ -2831,7 +2831,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 84412344,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:17:58Z",
             "updated_at": "2023-04-09T15:18:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Demo.Advanced.mp4"
@@ -3340,7 +3340,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 198820393,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T15:54:39Z",
             "updated_at": "2023-04-09T15:55:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.LINQ.Syntax.mp4"
@@ -3412,7 +3412,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 259157837,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:00:57Z",
             "updated_at": "2023-04-09T16:01:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.LINQ.Extension.Methods.mp4"
@@ -3556,7 +3556,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 118126886,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:05:18Z",
             "updated_at": "2023-04-09T16:05:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Deferred.Execution.mp4"
@@ -3628,7 +3628,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 118717870,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:07:16Z",
             "updated_at": "2023-04-09T16:07:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.IQueryable.mp4"
@@ -3849,7 +3849,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28030308,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:09:48Z",
             "updated_at": "2023-04-09T16:09:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Introduction.mp4"
@@ -4137,7 +4137,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 129997727,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:25:15Z",
             "updated_at": "2023-04-09T16:25:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Explicit.Loading.mp4"
@@ -4281,7 +4281,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 110896560,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:28:28Z",
             "updated_at": "2023-04-09T16:28:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Summary.mp4"
@@ -4358,7 +4358,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72573506,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:30:20Z",
             "updated_at": "2023-04-09T16:30:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Introduction.mp4"
@@ -4430,7 +4430,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7243903,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:30:48Z",
             "updated_at": "2023-04-09T16:30:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Overview.of.Changing.Data.mp4"
@@ -4574,7 +4574,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 36260208,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:34:28Z",
             "updated_at": "2023-04-09T16:34:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Updating.Objects.mp4"
@@ -4646,7 +4646,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 120009936,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:44:49Z",
             "updated_at": "2023-04-09T16:45:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Removing.Objects.mp4"
@@ -5011,7 +5011,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 78485270,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:00:28Z",
             "updated_at": "2023-04-09T17:00:37Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Introduction.mp4"
@@ -5083,7 +5083,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 136279781,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:06:32Z",
             "updated_at": "2023-04-09T17:06:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Repository.Pattern.mp4"

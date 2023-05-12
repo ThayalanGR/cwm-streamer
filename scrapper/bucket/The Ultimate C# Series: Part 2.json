@@ -296,7 +296,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 293147132,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:19:12Z",
             "updated_at": "2023-04-09T20:19:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Classes.1h50m.-.Constructors.mp4"
@@ -1165,7 +1165,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47522215,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:32:36Z",
             "updated_at": "2023-04-09T20:32:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Composition.over.Inheritance.mp4"
@@ -1236,7 +1236,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 49297,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:32:49Z",
             "updated_at": "2023-04-09T20:32:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Association.Between.Classes.25m.-.Summary.-.Association.between.Classes.pdf"
@@ -1601,7 +1601,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 54548,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:38:30Z",
             "updated_at": "2023-04-09T20:38:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Inheritance.Second.Pillar.of.OOP.50m.-.Summary.-.Inheritance.pdf"
@@ -1751,7 +1751,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 284388341,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:40:00Z",
             "updated_at": "2023-04-09T20:40:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Method.Overriding.Voice.Enhanced.mp4"
@@ -2038,7 +2038,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 54788,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:42:14Z",
             "updated_at": "2023-04-09T20:42:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Polymorphism.Third.Pillar.of.OOP.35m.-.Exercises.-.Polymorphism.pdf"
@@ -2188,7 +2188,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 505397365,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:44:01Z",
             "updated_at": "2023-04-09T20:45:05Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Interfaces.1h5m.-.Testability.mp4"
@@ -2625,7 +2625,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 128529162,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:49:36Z",
             "updated_at": "2023-04-09T20:49:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/va831027f91266bef/Students.Code.Reviews.35m.-.StopWatch.mp4"

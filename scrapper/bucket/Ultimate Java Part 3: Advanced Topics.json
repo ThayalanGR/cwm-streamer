@@ -368,7 +368,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 98899260,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T09:37:09Z",
             "updated_at": "2023-04-08T09:37:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Exceptions.43m.-.11-.Custom.Exceptions.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 123621435,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T08:05:10Z",
             "updated_at": "2023-04-08T08:05:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Exceptions.43m.-.6-.Catching.Multiple.Types.of.Exceptions.mp4"
@@ -872,7 +872,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56280012,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T08:13:11Z",
             "updated_at": "2023-04-08T08:13:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Exceptions.43m.-.8-.The.try-with-resources.Statement.mp4"
@@ -1088,7 +1088,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6611861,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T10:44:11Z",
             "updated_at": "2023-04-08T10:44:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Exceptions.43m.-.13-.Summary.mp4"
@@ -1309,7 +1309,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 87193068,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T10:55:19Z",
             "updated_at": "2023-04-08T10:55:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Generics.43m.-.3-.A.Poor.Solution.mp4"
@@ -1381,7 +1381,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92729819,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T11:41:56Z",
             "updated_at": "2023-04-08T11:42:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Generics.43m.-.4-.Generic.Classes.mp4"
@@ -2106,7 +2106,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4510352,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T12:27:49Z",
             "updated_at": "2023-04-08T12:27:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Collections.1h.-.1-.Introduction.mp4"
@@ -2178,7 +2178,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 48458277,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T12:29:12Z",
             "updated_at": "2023-04-08T12:29:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Collections.1h.-.2-.Overview.of.Collections.Framework.mp4"
@@ -2250,7 +2250,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 152264735,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T12:42:01Z",
             "updated_at": "2023-04-08T12:42:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Collections.1h.-.3-.The.Need.for.Iterables.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 104311248,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T13:28:00Z",
             "updated_at": "2023-04-08T13:28:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Collections.1h.-.8-.The.Comparable.Interface.mp4"
@@ -2970,7 +2970,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 165165954,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:02:27Z",
             "updated_at": "2023-04-08T14:03:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Collections.1h.-.13-.The.Map.Interface.mp4"
@@ -3119,7 +3119,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6241773,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:04:36Z",
             "updated_at": "2023-04-08T14:04:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.1-.Introduction.mp4"
@@ -3263,7 +3263,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 34434713,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:13:12Z",
             "updated_at": "2023-04-08T14:13:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.3-.Anonymous.Inner.Classes.mp4"
@@ -3407,7 +3407,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47833946,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:20:04Z",
             "updated_at": "2023-04-08T14:20:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.5-.Variable.Capture.mp4"
@@ -3551,7 +3551,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 38377801,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T14:56:40Z",
             "updated_at": "2023-04-08T14:56:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.7-.Built-in.Functional.Interfaces.mp4"
@@ -3623,7 +3623,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 104550177,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T15:14:56Z",
             "updated_at": "2023-04-08T15:15:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.8-.The.Consumer.Interface.mp4"
@@ -3695,7 +3695,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 134848809,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T15:27:51Z",
             "updated_at": "2023-04-08T15:28:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Lambda.Expressions.and.Functional.Interfaces.44m.-.9-.Chaining.Consumer.mp4"
@@ -4996,7 +4996,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60805479,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:51:11Z",
             "updated_at": "2023-04-08T17:51:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Streams.1h.-.10-.Simple.Reducers.mp4"
@@ -5140,7 +5140,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124994363,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T17:59:44Z",
             "updated_at": "2023-04-08T18:00:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Streams.1h.-.12-.Collectors.mp4"
@@ -5212,7 +5212,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 134014731,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:02:09Z",
             "updated_at": "2023-04-08T18:02:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Streams.1h.-.13-.Grouping.Elements.mp4"
@@ -5284,7 +5284,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58099832,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:03:24Z",
             "updated_at": "2023-04-08T18:03:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Streams.1h.-.14-.Partitioning.Elements.mp4"
@@ -6297,7 +6297,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 127194965,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:16:56Z",
             "updated_at": "2023-04-08T18:17:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Concurrency.and.Multi-threading.1h.-.12-.The.synchronized.Keyword.mp4"
@@ -6369,7 +6369,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 151815656,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:19:07Z",
             "updated_at": "2023-04-08T18:19:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Concurrency.and.Multi-threading.1h.-.13-.The.volatile.Keyword.mp4"
@@ -6441,7 +6441,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 100947893,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:20:56Z",
             "updated_at": "2023-04-08T18:21:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Concurrency.and.Multi-threading.1h.-.14-.Thread.Signalling.with.wait.and.notify.mp4"
@@ -6729,7 +6729,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56065182,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:33:15Z",
             "updated_at": "2023-04-08T18:33:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Concurrency.and.Multi-threading.1h.-.18-.Concurrent.Collections.mp4"
@@ -6801,7 +6801,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 8550355,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:33:51Z",
             "updated_at": "2023-04-08T18:33:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/Concurrency.and.Multi-threading.1h.-.19-.Summary.mp4"
@@ -7310,7 +7310,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97921161,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:45:59Z",
             "updated_at": "2023-04-08T18:46:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/The.Executive.Framework.70m.-.7-.Creating.a.Completable.Future.mp4"
@@ -7382,7 +7382,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 87344602,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T18:47:23Z",
             "updated_at": "2023-04-08T18:47:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdf66db9d7f3f58b0/The.Executive.Framework.70m.-.8-.Implementing.an.Asynchronous.API.mp4"

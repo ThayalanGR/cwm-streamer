@@ -517,7 +517,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62908012,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:26:34Z",
             "updated_at": "2023-04-07T18:26:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Singleton.Pattern.-.1-_The_Problem.mp4"
@@ -882,7 +882,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40010982,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:30:47Z",
             "updated_at": "2023-04-07T18:30:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Factory.Method.Pattern.-.2-_Solution.mp4"
@@ -1396,7 +1396,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 116999156,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:38:15Z",
             "updated_at": "2023-04-07T18:38:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Builder.Pattern.-.1-_The_Problem.mp4"
@@ -1540,7 +1540,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 113858056,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:44:38Z",
             "updated_at": "2023-04-07T18:44:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Builder.Pattern.-.3-_Implementation.mp4"
@@ -1688,7 +1688,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 800166,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:44:59Z",
             "updated_at": "2023-04-07T18:45:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Course.Wrap.Up.-.1-_Summary_of_Creational_Patterns.pdf"

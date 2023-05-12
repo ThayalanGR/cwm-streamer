@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47318310,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:39:09Z",
             "updated_at": "2023-04-07T19:39:23Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Welcome.2m.-.3-_How_to_Take_this_Course.mp4"
@@ -877,7 +877,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 24953411,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:48:31Z",
             "updated_at": "2023-04-07T19:48:52Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Fundamentals.25m.-.2-_Built-in_Types.mp4"
@@ -1020,7 +1020,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 30919,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:49:29Z",
             "updated_at": "2023-04-07T19:49:31Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Fundamentals.25m.-.4-_Strict_Compiler_Option.pdf"
@@ -1524,7 +1524,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 62164,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:55:03Z",
             "updated_at": "2023-04-07T19:55:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Fundamentals.25m.-.3-.Fundamentals.Exercises.pdf"
@@ -1818,7 +1818,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 28193236,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:58:02Z",
             "updated_at": "2023-04-07T19:58:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Advanced.Types.26m.-.4-_Intersection_Types.mp4"
@@ -2322,7 +2322,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47840878,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:02:06Z",
             "updated_at": "2023-04-07T20:02:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Advanced.Types.26m.-.11-_The_never_Type.mp4"
@@ -3980,7 +3980,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17674607,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:28:27Z",
             "updated_at": "2023-04-07T20:28:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Generics.29m.-.1-_Introduction.mp4"
@@ -4052,7 +4052,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32790615,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:28:38Z",
             "updated_at": "2023-04-07T20:28:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Generics.29m.-.2-_Understanding_the_Problem.mp4"
@@ -4196,7 +4196,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26861818,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:29:09Z",
             "updated_at": "2023-04-07T20:29:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Generics.29m.-.4-_Generic_Functions.mp4"
@@ -4627,7 +4627,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 97143,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:43:19Z",
             "updated_at": "2023-04-07T20:43:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Generics.29m.-.6-.Generics.pdf"
@@ -5424,7 +5424,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 95706,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:51:19Z",
             "updated_at": "2023-04-07T20:51:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Decorators.29m.-.7-.Decorators.pdf"
@@ -5718,7 +5718,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 73186676,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:53:27Z",
             "updated_at": "2023-04-07T20:53:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Modules.16m.-.3-_Module_Formats.mp4"
@@ -5790,7 +5790,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 60397363,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:53:54Z",
             "updated_at": "2023-04-07T20:54:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Modules.16m.-.4-_Default_Exports.mp4"
@@ -5934,7 +5934,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 48557744,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:54:33Z",
             "updated_at": "2023-04-07T20:54:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Modules.16m.-.6-_Re-exporting.mp4"
@@ -6155,7 +6155,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41275699,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:55:24Z",
             "updated_at": "2023-04-07T20:55:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Integration.with.JavaScript.12m.-.2-_Including_JS_Code_in_TS_Projects.mp4"
@@ -6227,7 +6227,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 34702367,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:55:59Z",
             "updated_at": "2023-04-07T20:56:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Integration.with.JavaScript.12m.-.3-_Type_Checking_JS_Code.mp4"
@@ -6371,7 +6371,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 32283683,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:57:51Z",
             "updated_at": "2023-04-07T20:57:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Integration.with.JavaScript.12m.-.5-_Creating_Declaration_Files.mp4"
@@ -6514,7 +6514,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 53681,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:58:23Z",
             "updated_at": "2023-04-07T20:58:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Integration.with.JavaScript.12m.-.9-.Integration.with.JavaScript.pdf"
@@ -6592,7 +6592,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 12805141,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:58:26Z",
             "updated_at": "2023-04-07T20:58:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/React.with.TypeScript.30m.-.1-_Introduction.mp4"
@@ -6664,7 +6664,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18745287,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:58:34Z",
             "updated_at": "2023-04-07T20:58:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/React.with.TypeScript.30m.-.2-_Creating_a_React_App_with_TypeScript.mp4"
@@ -7168,7 +7168,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 77634268,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:07:57Z",
             "updated_at": "2023-04-07T21:08:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/React.with.TypeScript.30m.-.9-_Building_a_Form.mp4"
@@ -8472,7 +8472,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 70416033,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:23:16Z",
             "updated_at": "2023-04-07T20:23:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.15-_Abstract_Classes_and_Methods.mp4"
@@ -8938,7 +8938,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 39143062,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:07:56Z",
             "updated_at": "2023-04-07T20:08:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vc3223852a1aa02dc/Classes.Interfaces.and.Object-oriented.Programming.55m.-.5-_Read-only_and_Optional_Properties.mp4"

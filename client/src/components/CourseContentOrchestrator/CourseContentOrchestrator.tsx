@@ -7,6 +7,7 @@ import { useRef } from "react";
 import cn from "classnames";
 import { NavigationButton } from "./NavigationButton";
 import { useAppStore } from "../App/App";
+import BufferedPdfViewer from "./BufferedPdfViewer";
 
 type CourseContentOrchestratorProps = {
   course: string;
@@ -42,7 +43,6 @@ export default function CourseContentOrchestrator(
         courseIndex,
         sectionIndex,
         assetIndex,
-        options: { allowOnlyVideos: true },
       }),
     [courseIndex, sectionIndex, assetIndex]
   );
@@ -64,10 +64,6 @@ export default function CourseContentOrchestrator(
       }
     };
 
-    if (isAutoPlayEnabled) {
-      // videoRef?.current?.play();
-    }
-
     videoRef?.current?.addEventListener("ended", onVideoEnded);
 
     return () => {
@@ -76,6 +72,28 @@ export default function CourseContentOrchestrator(
   }, [courseContent, isAutoPlayEnabled]);
 
   // paint
+  const getNoRendererFoundElement = (
+    contentUrl: string,
+    contentType: string
+  ) => {
+    return (
+      <div className={styles.noContentRenderer}>
+        <div>
+          No Specific Renderer found for this file type,
+          <br />
+          kindly download manually! <br />
+        </div>
+        <Link
+          className={cn(styles.contentNoRendererDownloadButton)}
+          to={contentUrl}
+          target="_blank"
+        >
+          Download ({contentType})
+        </Link>
+      </div>
+    );
+  };
+
   const getContentRenderer = useCallback(() => {
     if (!courseContent) return null;
 
@@ -84,34 +102,40 @@ export default function CourseContentOrchestrator(
     const { browser_download_url: assetUrl, content_type: contentType } =
       requiredAssetData;
     const type = mime.extension(contentType);
+    const isVideo = contentType?.includes("video");
+
+    if (isVideo) {
+      const requiredUrl = masterCourseService.getCachedContentBlobUrl(assetUrl);
+      return (
+        <video ref={videoRef} autoPlay={isAutoPlayEnabled} controls>
+          <source src={requiredUrl} type={"video/mp4"} />
+          <source
+            src={masterCourseService.getProxiedUrl(assetUrl)}
+            type={"video/mp4"}
+          />
+          <source
+            src={masterCourseService.getProxiedUrl(originUrl)}
+            type={"video/mp4"}
+          />
+        </video>
+      );
+    }
 
     switch (type) {
-      case "mp4":
-      case "qt":
-      case "mov":
-        const requiredUrl =
-          masterCourseService.getCachedContentBlobUrl(assetUrl);
-        return (
-          <video ref={videoRef} autoPlay={isAutoPlayEnabled} controls>
-            <source src={requiredUrl} type={"video/mp4"} />
-            <source
-              src={masterCourseService.getRequiredUrl(assetUrl)}
-              type={"video/mp4"}
-            />
-            <source
-              src={masterCourseService.getRequiredUrl(originUrl)}
-              type={"video/mp4"}
-            />
-          </video>
-        );
       case "pdf":
-      case "zip":
-      default:
         return (
-          <div>
-            No Specific Renderer found for this file type, kindly download
-            manually! <br />
-          </div>
+          <BufferedPdfViewer
+            assetUrl={courseContent.assetData.browser_download_url}
+            noContentRenderer={getNoRendererFoundElement(
+              courseContent.assetData.browser_download_url,
+              courseContent.assetData.content_type
+            )}
+          />
+        );
+      default:
+        return getNoRendererFoundElement(
+          courseContent.assetData.browser_download_url,
+          courseContent.assetData.content_type
         );
     }
   }, [courseContent]);
@@ -158,7 +182,7 @@ export default function CourseContentOrchestrator(
           className={styles.downloadLink}
           to={requiredContent?.browser_download_url}
         >
-          Download HD ({requiredContent.content_type})
+          Download ({requiredContent.content_type})
         </Link>
       );
     }

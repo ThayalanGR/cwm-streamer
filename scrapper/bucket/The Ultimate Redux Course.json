@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 155377848,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:43:30Z",
             "updated_at": "2023-04-07T22:44:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Getting.Started.7m.-.4-.Is.Redux.for.You.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 65827188,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:48:45Z",
             "updated_at": "2023-04-07T22:48:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Functional.Programming.in.JavaScript.42m.-.5-.Function.Composition.mp4"
@@ -944,7 +944,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27360244,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:52:27Z",
             "updated_at": "2023-04-07T22:52:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Functional.Programming.in.JavaScript.42m.-.8-.Pure.Functions.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58666926,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T22:54:27Z",
             "updated_at": "2023-04-07T22:54:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Functional.Programming.in.JavaScript.42m.-.13-.Immutable.js.mp4"
@@ -2245,7 +2245,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 96108904,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:03:29Z",
             "updated_at": "2023-04-07T23:03:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Redux.Fundamentals.37m.-.10-.Action.Types.mp4"
@@ -2682,7 +2682,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72335112,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:06:42Z",
             "updated_at": "2023-04-07T23:06:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Building.Redux.from.Scratch.12m.-.3-.Private.Properties.mp4"
@@ -3191,7 +3191,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 117745489,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:09:57Z",
             "updated_at": "2023-04-07T23:10:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Debugging.Redux.Applications.15m.-.5-.Tracing.mp4"
@@ -3340,7 +3340,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2167570,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:10:38Z",
             "updated_at": "2023-04-07T23:10:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Writing.Clean.Redux.Code.34m.-.1-.Introduction.mp4"
@@ -3556,7 +3556,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 23048324,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:18:42Z",
             "updated_at": "2023-04-07T23:18:47Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Writing.Clean.Redux.Code.34m.-.4-.Redux.Toolkit.mp4"
@@ -4065,7 +4065,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 2119099,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:31:47Z",
             "updated_at": "2023-04-07T23:31:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Designing.the.Store.30m.-.1-.Introduction.mp4"
@@ -4137,7 +4137,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 37928404,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:31:55Z",
             "updated_at": "2023-04-07T23:32:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Designing.the.Store.30m.-.2-.Redux.State.vs.Local.State.mp4"
@@ -4353,7 +4353,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 15195649,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:36:09Z",
             "updated_at": "2023-04-07T23:36:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Designing.the.Store.30m.-.5-.Normalization.mp4"
@@ -4569,7 +4569,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4608330,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:38:58Z",
             "updated_at": "2023-04-07T23:39:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Designing.the.Store.30m.-.8-.Exercise.mp4"
@@ -5371,7 +5371,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3759061,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T00:14:20Z",
             "updated_at": "2023-04-08T00:14:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Consuming.APIs.1h.-.11-.Exercise.mp4"
@@ -5659,7 +5659,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 21297486,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T23:56:54Z",
             "updated_at": "2023-04-07T23:56:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Consuming.APIs.1h.-.2-.Setting.Up.the.Backend.mp4"
@@ -6019,7 +6019,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 196812094,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T00:09:07Z",
             "updated_at": "2023-04-08T00:09:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v9601804380c55263/Consuming.APIs.1h.-.7-.Getting.Data.from.the.Server.mp4"

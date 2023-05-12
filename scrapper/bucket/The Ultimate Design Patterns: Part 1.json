@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97333109,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:51:29Z",
             "updated_at": "2023-04-11T02:51:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.3-.How.to.Take.This.Course.mp4"
@@ -290,7 +290,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 492924,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:51:42Z",
             "updated_at": "2023-04-11T02:51:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Getting.Started.5m.-.Design.Patterns.-.Part.1.zip"
@@ -368,7 +368,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7280098,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:51:46Z",
             "updated_at": "2023-04-11T02:51:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.1-.Introduction.mp4"
@@ -584,7 +584,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 70283573,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:53:14Z",
             "updated_at": "2023-04-11T02:53:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.4-.Coupling.mp4"
@@ -944,7 +944,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 62794673,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T02:59:05Z",
             "updated_at": "2023-04-11T02:59:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/The.Essentials.33m.-.9-.Polymorphism.mp4"
@@ -1308,7 +1308,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 56200,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:01:40Z",
             "updated_at": "2023-04-11T03:01:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Memento.Pattern.13m.-.4-.Exercise.pdf"
@@ -2039,7 +2039,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 117674690,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:21:41Z",
             "updated_at": "2023-04-11T03:21:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Iterator.Pattern.21m.-.4-.Benefits.mp4"
@@ -2553,7 +2553,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 150882105,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:27:12Z",
             "updated_at": "2023-04-11T03:27:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Template.Method.Pattern.13m.-.3-.Implementation.mp4"
@@ -2990,7 +2990,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 33766819,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T03:31:41Z",
             "updated_at": "2023-04-11T03:31:46Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Command.Pattern.28m.-.5-.Undoable.Commands.mp4"
@@ -3499,7 +3499,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 39697217,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:02:30Z",
             "updated_at": "2023-04-11T07:02:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.5-.The.Push.Style.mp4"
@@ -3571,7 +3571,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 59354996,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:03:39Z",
             "updated_at": "2023-04-11T07:03:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Observer.Pattern.18m.-.6-.The.Pull.Style.mp4"
@@ -3720,7 +3720,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 89187708,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:07:20Z",
             "updated_at": "2023-04-11T07:07:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.1-.The.Problem.mp4"
@@ -3792,7 +3792,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 51432632,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:08:59Z",
             "updated_at": "2023-04-11T07:09:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.2-.Solution.mp4"
@@ -3936,7 +3936,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17657402,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:17:34Z",
             "updated_at": "2023-04-11T07:17:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.4-.Using.the.Observer.Pattern.mp4"
@@ -4079,7 +4079,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 40664,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:27:59Z",
             "updated_at": "2023-04-11T07:28:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Mediator.Pattern.30m.-.6-.Exercise.pdf"
@@ -4157,7 +4157,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 140042671,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T07:37:43Z",
             "updated_at": "2023-04-11T07:38:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Chain.of.Responsibility.20m.-.1-.The.Problem.mp4"
@@ -4815,7 +4815,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 16820756,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-11T08:07:38Z",
             "updated_at": "2023-04-11T08:07:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1f6e429656676cc1/Course.Wrap.Up.-.2-.What.s.Next.mp4"

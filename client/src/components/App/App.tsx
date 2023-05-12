@@ -40,6 +40,10 @@ function App() {
           <Route index element={<Courses />} />
           <Route path="courses" element={<Courses />} />
           <Route path="course/:courseName" element={<Course />} />
+          <Route
+            path="*"
+            element={<div>Content your are looking for is not found!</div>}
+          />
         </Route>
       </Routes>
     </div>

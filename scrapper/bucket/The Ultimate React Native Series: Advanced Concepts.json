@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41153440,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:28:14Z",
             "updated_at": "2023-04-09T16:28:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Getting.Started.-.1-.Introduction.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 111427254,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T16:52:52Z",
             "updated_at": "2023-04-09T16:53:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Native.Features.54m.-.6-.Accessing.the.Library.mp4"
@@ -1304,7 +1304,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 156146089,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:45:41Z",
             "updated_at": "2023-04-09T17:45:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Native.Features.54m.-.14-.Getting.the.User.s.Location.mp4"
@@ -1525,7 +1525,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 57186719,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T17:49:01Z",
             "updated_at": "2023-04-09T17:49:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Navigation.50m.-.2-.Installing.React.Navigation.mp4"
@@ -2245,7 +2245,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 129369262,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:03:24Z",
             "updated_at": "2023-04-09T18:03:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Navigation.50m.-.12-.Building.AuthNavigator.mp4"
@@ -2317,7 +2317,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 43217029,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:04:10Z",
             "updated_at": "2023-04-09T18:04:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Navigation.50m.-.13-.Navigation.Theme.mp4"
@@ -2677,7 +2677,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 45309462,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:13:48Z",
             "updated_at": "2023-04-09T18:13:59Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Navigation.50m.-.18-.Refactoring.Routes.mp4"
@@ -3186,7 +3186,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124820904,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:19:36Z",
             "updated_at": "2023-04-09T18:19:49Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Networking.1h.-.7-.Handling.Errors.mp4"
@@ -3330,7 +3330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 79815052,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:20:52Z",
             "updated_at": "2023-04-09T18:21:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Networking.1h.-.9-.Showing.an.Activity.Indicator.mp4"
@@ -3474,7 +3474,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 217736747,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:35:43Z",
             "updated_at": "2023-04-09T18:36:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Networking.1h.-.11-.Creating.a.Reusable.Hook.mp4"
@@ -4050,7 +4050,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 152769484,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:59:16Z",
             "updated_at": "2023-04-09T18:59:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Networking.1h.-.19-.Resetting.the.Form.mp4"
@@ -4199,7 +4199,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 10586927,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T18:59:40Z",
             "updated_at": "2023-04-09T18:59:42Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Offline.Support.43m.-.2-.Strategies.for.Building.Offline.Capable.Apps.mp4"
@@ -4415,7 +4415,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 79763389,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:00:25Z",
             "updated_at": "2023-04-09T19:00:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Offline.Support.43m.-.5-.AsyncStorage.mp4"
@@ -4919,7 +4919,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 53573930,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:07:22Z",
             "updated_at": "2023-04-09T19:07:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Offline.Support.43m.-.12-.Storing.User.Actions.When.Offline.mp4"
@@ -4990,7 +4990,7 @@
             "content_type": "application/pdf",
             "state": "uploaded",
             "size": 647001,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:07:30Z",
             "updated_at": "2023-04-09T19:07:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Offline.Support.43m.-.Offline.Support-.Exercises.pdf"
@@ -5140,7 +5140,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6804322,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:18:38Z",
             "updated_at": "2023-04-09T19:18:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.1-.Introduction.mp4"
@@ -5356,7 +5356,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 50019005,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:19:26Z",
             "updated_at": "2023-04-09T19:19:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.4-.Authentication.API.mp4"
@@ -5644,7 +5644,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 34092538,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:30:22Z",
             "updated_at": "2023-04-09T19:30:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.8-.Getting.the.Current.User.mp4"
@@ -5860,7 +5860,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 149958984,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:35:27Z",
             "updated_at": "2023-04-09T19:36:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.11-.Controlling.the.Splash.Screen.mp4"
@@ -6076,7 +6076,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 134350661,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:47:51Z",
             "updated_at": "2023-04-09T19:48:36Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.14-.Calling.Protected.APIs.mp4"
@@ -6292,7 +6292,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 178143098,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T19:51:40Z",
             "updated_at": "2023-04-09T19:52:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Authentication.and.Authorization.1h.-.17-.Showing.an.Activity.Indicator.mp4"
@@ -6513,7 +6513,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17429286,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:01:21Z",
             "updated_at": "2023-04-09T20:01:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Notifications.25m.-.2-.Push.Notification.Services.mp4"
@@ -7017,7 +7017,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 198363629,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:06:02Z",
             "updated_at": "2023-04-09T20:06:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Notifications.25m.-.9-.Navigation.Upon.Receiving.a.Notification.mp4"
@@ -7305,7 +7305,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56750785,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:08:27Z",
             "updated_at": "2023-04-09T20:08:34Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Notifications.25m.-.13-.Building.the.Contact.Form.mp4"
@@ -7382,7 +7382,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 12797722,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:08:44Z",
             "updated_at": "2023-04-09T20:08:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Distribution.35m.-.1-.Introduction.mp4"
@@ -7814,7 +7814,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 44153670,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:11:38Z",
             "updated_at": "2023-04-09T20:11:54Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Distribution.35m.-.7-.Publishing.mp4"
@@ -8102,7 +8102,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 119277533,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:13:30Z",
             "updated_at": "2023-04-09T20:13:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Distribution.35m.-.11-.Building.the.Android.App.mp4"
@@ -8246,7 +8246,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 51958700,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-09T20:14:03Z",
             "updated_at": "2023-04-09T20:14:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5836e0995726d598/Distribution.35m.-.15-.Course.Wrap.Up.mp4"

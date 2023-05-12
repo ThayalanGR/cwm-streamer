@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 210093208,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:19:00Z",
             "updated_at": "2023-04-07T20:20:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Getting.Started.8.min.-.2-.Programming.Paradigms.mp4"
@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 135611832,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:21:27Z",
             "updated_at": "2023-04-07T20:22:19Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Getting.Started.8.min.-.3-.Benefits.of.Object-oriented.Programming.mp4"
@@ -362,7 +362,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 109087,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:24:15Z",
             "updated_at": "2023-04-07T20:24:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Getting.Started.8.min.-.5-.Ultimate.Java.-.Part.2.zip"
@@ -1376,7 +1376,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 105312297,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:07:01Z",
             "updated_at": "2023-04-07T21:07:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.14-.Constructor.Overloading.mp4"
@@ -1592,7 +1592,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 5509742,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:17:24Z",
             "updated_at": "2023-04-07T21:17:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.17-.Summary.mp4"
@@ -1889,7 +1889,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 142635039,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:26:17Z",
             "updated_at": "2023-04-07T21:26:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Refactoring.Towards.an.Object-oriented.Design.41.min.-.4-.Extracting.the.Console.Class.mp4"
@@ -2105,7 +2105,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 319822656,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:35:12Z",
             "updated_at": "2023-04-07T21:36:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Refactoring.Towards.an.Object-oriented.Design.41.min.-.7-.Extracting.the.MortgageCalculator.Class.mp4"
@@ -2177,7 +2177,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 300676872,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:39:11Z",
             "updated_at": "2023-04-07T21:41:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Refactoring.Towards.an.Object-oriented.Design.41.min.-.8-.Moving.Away.from.Static.Members.mp4"
@@ -3045,7 +3045,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 160863390,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T21:59:08Z",
             "updated_at": "2023-04-07T21:59:56Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Inheritance.50.min.-.7-.Upcasting.and.Downcasting.mp4"

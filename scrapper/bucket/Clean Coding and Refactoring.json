@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 9729818,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:55:28Z",
             "updated_at": "2023-04-10T01:55:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Introduction.3m.-.About.the.Course.mp4"
@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 1669266,
-            "download_count": 0,
+            "download_count": 8,
             "created_at": "2023-05-08T05:45:24Z",
             "updated_at": "2023-05-08T05:45:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/_COMPRESSED_.Introduction.3m.-.About.the.Course.mp4"
@@ -146,7 +146,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 10939987,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:55:31Z",
             "updated_at": "2023-04-10T01:55:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Introduction.3m.-.CleanCode.zip"
@@ -224,7 +224,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 80206968,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:55:58Z",
             "updated_at": "2023-04-10T01:56:09Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Common.Code.Smells.1h.45m.-.Poor.Names.mp4"
@@ -258,7 +258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6643579,
-            "download_count": 0,
+            "download_count": 3,
             "created_at": "2023-05-08T05:49:36Z",
             "updated_at": "2023-05-08T05:49:39Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/_COMPRESSED_.Common.Code.Smells.1h.45m.-.Poor.Names.mp4"
@@ -330,7 +330,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 1870706,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-08T05:50:51Z",
             "updated_at": "2023-05-08T05:50:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/_COMPRESSED_.Common.Code.Smells.1h.45m.-.Poor.Naming.Convention.mp4"
@@ -368,7 +368,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 247248303,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:07:07Z",
             "updated_at": "2023-04-10T02:07:45Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Common.Code.Smells.1h.45m.-.Poor.Method.Signatures.mp4"
@@ -440,7 +440,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 279917583,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:09:18Z",
             "updated_at": "2023-04-10T02:10:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Common.Code.Smells.1h.45m.-.Long.Parameter.List.mp4"
@@ -512,7 +512,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 196390868,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:11:23Z",
             "updated_at": "2023-04-10T02:11:48Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Common.Code.Smells.1h.45m.-.Ouput.Parameters.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 381731973,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:15:05Z",
             "updated_at": "2023-04-10T02:15:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Common.Code.Smells.1h.45m.-.Nested.Conditionals.mp4"
@@ -1127,7 +1127,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 22450748,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-08T07:57:34Z",
             "updated_at": "2023-05-08T07:57:40Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/_COMPRESSED_.Complete.Refactoring.Examples.35m.-.Example.1-1.mp4"
@@ -1165,7 +1165,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 349913014,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:45:46Z",
             "updated_at": "2023-04-10T02:46:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/Complete.Refactoring.Examples.35m.-.Example.1-2.mp4"
@@ -1199,7 +1199,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 20360864,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-05-08T08:15:25Z",
             "updated_at": "2023-05-08T08:15:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfc281a8eccd61509/_COMPRESSED_.Complete.Refactoring.Examples.35m.-.Example.1-2.mp4"

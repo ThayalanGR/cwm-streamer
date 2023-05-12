@@ -75,7 +75,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27632215,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T19:53:38Z",
             "updated_at": "2023-04-08T19:53:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Getting.Started.17m.-.1-.Welcome.mp4"
@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 78187275,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T19:54:02Z",
             "updated_at": "2023-04-08T19:54:15Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Getting.Started.17m.-.2-.What.is.JavaScript.mp4"
@@ -506,7 +506,7 @@
             "content_type": "application/zip",
             "state": "uploaded",
             "size": 30433,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:02:29Z",
             "updated_at": "2023-04-08T20:02:29Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Getting.Started.17m.-.js-basics.zip"
@@ -584,7 +584,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92970475,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:03:29Z",
             "updated_at": "2023-04-08T20:03:57Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Basics.40m.-.1-.Variables.mp4"
@@ -728,7 +728,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 33321892,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:04:52Z",
             "updated_at": "2023-04-08T20:05:11Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Basics.40m.-.3-.Primitive.Types.-.Title.mp4"
@@ -800,7 +800,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 41183777,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:05:40Z",
             "updated_at": "2023-04-08T20:06:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Basics.40m.-.4-.Dynamic.Typing.mp4"
@@ -1088,7 +1088,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 57244527,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:08:46Z",
             "updated_at": "2023-04-08T20:08:58Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Basics.40m.-.8-.Types.of.Functions.mp4"
@@ -1237,7 +1237,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 58428020,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:09:08Z",
             "updated_at": "2023-04-08T20:09:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.2-.Arithmetic.Operators.mp4"
@@ -1309,7 +1309,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 17402028,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:09:28Z",
             "updated_at": "2023-04-08T20:09:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.3-.Assignment.Operators.mp4"
@@ -1453,7 +1453,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 46015253,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:09:52Z",
             "updated_at": "2023-04-08T20:10:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.5-.Equality.Operators.mp4"
@@ -1525,7 +1525,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 31153602,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:10:08Z",
             "updated_at": "2023-04-08T20:10:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.6-.Ternary.Operator.mp4"
@@ -1741,7 +1741,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 124833425,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:15:02Z",
             "updated_at": "2023-04-08T20:15:44Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.9-.Bitwise.Operators.mp4"
@@ -1885,7 +1885,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 27533129,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:16:47Z",
             "updated_at": "2023-04-08T20:16:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Operators.35m.-.12-.Exercise.-.Swapping.Variables.mp4"
@@ -2322,7 +2322,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 40686314,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:22:07Z",
             "updated_at": "2023-04-08T20:22:21Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.6-.Infinite.Loops.mp4"
@@ -2394,7 +2394,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 80713817,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:22:50Z",
             "updated_at": "2023-04-08T20:23:12Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.7-.For.in.mp4"
@@ -3042,7 +3042,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 47711472,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-08T20:31:58Z",
             "updated_at": "2023-04-08T20:32:14Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v677deb063e907a3d/Control.Flow.1h25m.-.16-.Exercise.7-.String.Properties.mp4"

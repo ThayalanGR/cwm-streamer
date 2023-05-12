@@ -656,7 +656,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97234237,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:32:01Z",
             "updated_at": "2023-04-10T01:32:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Web.Development.Fundamentals.36m.-.6-_CSS_Basics.mp4"
@@ -1021,7 +1021,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 26787224,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:36:27Z",
             "updated_at": "2023-04-10T01:36:32Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.1-_Introduction.mp4"
@@ -1669,7 +1669,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 112341529,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:56:08Z",
             "updated_at": "2023-04-10T01:56:22Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.10-_Containers.mp4"
@@ -1813,7 +1813,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 65586630,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T01:58:30Z",
             "updated_at": "2023-04-10T01:58:38Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.12-_Structuring_a_Web_Page.mp4"
@@ -2538,7 +2538,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 42986125,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:11:07Z",
             "updated_at": "2023-04-10T02:11:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.9-_Inheritance.mp4"
@@ -2610,7 +2610,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 132596060,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-10T02:11:58Z",
             "updated_at": "2023-04-10T02:12:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.10-_Colors.mp4"

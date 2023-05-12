@@ -109,7 +109,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 4793294,
-            "download_count": 4,
+            "download_count": 5,
             "created_at": "2023-05-07T03:12:28Z",
             "updated_at": "2023-05-07T03:12:30Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.2-.Setting.Up.the.Development.Environment.mp4"
@@ -147,7 +147,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 98533422,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:11:02Z",
             "updated_at": "2023-04-07T18:11:25Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Getting.Started.-.3-.Anatomy.of.a.Java.Program.mp4"
@@ -181,7 +181,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 7237038,
-            "download_count": 2,
+            "download_count": 3,
             "created_at": "2023-05-07T03:14:53Z",
             "updated_at": "2023-05-07T03:14:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.3-.Anatomy.of.a.Java.Program.mp4"
@@ -219,7 +219,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 146036298,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:13:21Z",
             "updated_at": "2023-04-07T18:13:51Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Getting.Started.-.4-.Your.First.Java.Program.mp4"
@@ -253,7 +253,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 10470979,
-            "download_count": 3,
+            "download_count": 4,
             "created_at": "2023-05-07T03:20:16Z",
             "updated_at": "2023-05-07T03:20:20Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.4-.Your.First.Java.Program.mp4"
@@ -291,7 +291,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 92605521,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:15:41Z",
             "updated_at": "2023-04-07T18:16:07Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Getting.Started.-.5-.How.Java.Code.Gets.Executed.mp4"
@@ -325,7 +325,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 6693378,
-            "download_count": 2,
+            "download_count": 3,
             "created_at": "2023-05-07T03:27:08Z",
             "updated_at": "2023-05-07T03:27:10Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.5-.How.Java.Code.Gets.Executed.mp4"
@@ -397,7 +397,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 8664734,
-            "download_count": 4,
+            "download_count": 5,
             "created_at": "2023-05-07T03:29:21Z",
             "updated_at": "2023-05-07T03:29:24Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.6-.5.Interesting.Facts.about.Java.mp4"
@@ -469,7 +469,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 3593582,
-            "download_count": 1,
+            "download_count": 2,
             "created_at": "2023-05-07T03:31:01Z",
             "updated_at": "2023-05-07T03:31:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/_COMPRESSED_.Getting.Started.-.7-.Course.Structure.mp4"
@@ -656,7 +656,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 56694814,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:25:13Z",
             "updated_at": "2023-04-07T18:25:26Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.2-.Variables.mp4"
@@ -800,7 +800,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 104377936,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:32:09Z",
             "updated_at": "2023-04-07T18:32:33Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.4-.Reference.Types.mp4"
@@ -872,7 +872,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 72703941,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:33:45Z",
             "updated_at": "2023-04-07T18:34:03Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.5-.Primitive.vs.Reference.Types.mp4"
@@ -944,7 +944,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 135075350,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:36:36Z",
             "updated_at": "2023-04-07T18:37:04Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.6-.Strings.mp4"
@@ -1088,7 +1088,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 113898324,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:43:38Z",
             "updated_at": "2023-04-07T18:44:02Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.8-.Arrays.mp4"
@@ -1376,7 +1376,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 18151374,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:53:05Z",
             "updated_at": "2023-04-07T18:53:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.12-.Order.of.Operations.mp4"
@@ -1520,7 +1520,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 98549217,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T18:58:13Z",
             "updated_at": "2023-04-07T18:58:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.14-.The.Math.Class.mp4"
@@ -1664,7 +1664,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 141479767,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:02:47Z",
             "updated_at": "2023-04-07T19:03:08Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.16-.Reading.Input.mp4"
@@ -2173,7 +2173,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 104498920,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:13:04Z",
             "updated_at": "2023-04-07T19:13:18Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.4-.If.Statements.mp4"
@@ -2245,7 +2245,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 76651276,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:14:16Z",
             "updated_at": "2023-04-07T19:14:28Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.5-.Simplifying.If.Statements.mp4"
@@ -2605,7 +2605,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 97364394,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:23:52Z",
             "updated_at": "2023-04-07T19:24:13Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.10-.While.Loops.mp4"
@@ -2821,7 +2821,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 64413084,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:30:28Z",
             "updated_at": "2023-04-07T19:30:41Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.13-.For-Each.Loop.mp4"
@@ -3186,7 +3186,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 74112123,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:37:19Z",
             "updated_at": "2023-04-07T19:37:35Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.2-.Clean.Coding.mp4"
@@ -3258,7 +3258,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 96572842,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:43:30Z",
             "updated_at": "2023-04-07T19:43:53Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.3-.Creating.Methods.mp4"
@@ -3474,7 +3474,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 280347113,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T19:53:02Z",
             "updated_at": "2023-04-07T19:54:27Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.6-.Refactoring.Repetitive.Patterns.mp4"
@@ -3690,7 +3690,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 161693737,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:03:25Z",
             "updated_at": "2023-04-07T20:04:00Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.9-.Refactoring.the.Code.mp4"
@@ -3911,7 +3911,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 30357737,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:06:28Z",
             "updated_at": "2023-04-07T20:06:55Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Debugging.and.Deploying.Applications.-.2-.Types.of.Errors.mp4"
@@ -3983,7 +3983,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 49534698,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:08:00Z",
             "updated_at": "2023-04-07T20:08:16Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Debugging.and.Deploying.Applications.-.3-.Common.Syntax.Errors.mp4"
@@ -4199,7 +4199,7 @@
             "content_type": "video/mp4",
             "state": "uploaded",
             "size": 23322083,
-            "download_count": 0,
+            "download_count": 1,
             "created_at": "2023-04-07T20:14:50Z",
             "updated_at": "2023-04-07T20:15:01Z",
             "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Debugging.and.Deploying.Applications.-.6-.Course.Wrap.Up.mp4"
