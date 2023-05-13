@@ -363,7 +363,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 181067385,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:49:39Z",
                         "updated_at": "2023-04-10T08:50:02Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.6-_Setting_Up_the_Project.mp4"
@@ -579,7 +579,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 81095054,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T09:04:45Z",
                         "updated_at": "2023-04-10T09:04:54Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.9-_Color_Palette.mp4"
@@ -867,7 +867,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 165675087,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T09:33:43Z",
                         "updated_at": "2023-04-10T09:34:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.13-_Lists.mp4"
@@ -1011,7 +1011,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 276469493,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T09:43:47Z",
                         "updated_at": "2023-04-10T09:44:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.15-_Buttons.mp4"
@@ -1371,7 +1371,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 123500353,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T10:03:12Z",
                         "updated_at": "2023-04-10T10:03:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.20-_Popular_Badge.mp4"
@@ -1515,7 +1515,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 273414781,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T10:23:31Z",
                         "updated_at": "2023-04-10T10:24:01Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.22-_Quotes.mp4"
@@ -2235,7 +2235,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 313796213,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T11:20:07Z",
                         "updated_at": "2023-04-10T11:20:37Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.32-_Plans_Block.mp4"
@@ -2595,7 +2595,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 108302526,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T12:24:48Z",
                         "updated_at": "2023-04-10T12:24:59Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.37-_Putting_it_All_Together.mp4"
@@ -3171,7 +3171,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 317833756,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T13:33:35Z",
                         "updated_at": "2023-04-10T13:34:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb115bed865b33cc7/Content.-.45-_Measuring_the_Sites_Performance.mp4"

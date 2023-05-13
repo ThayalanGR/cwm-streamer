@@ -146,7 +146,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 38510,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:45:22Z",
                         "updated_at": "2023-04-09T17:45:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Getting.Started.1m.-.2-_Using_a_Modern_C_Compiler.pdf"
@@ -512,7 +512,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 93038056,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:52:05Z",
                         "updated_at": "2023-04-09T17:52:24Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Classes.70m.-.5-_Access_Modifiers.mp4"
@@ -1088,7 +1088,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 43068465,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:02:43Z",
                         "updated_at": "2023-04-09T18:03:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Classes.70m.-.13-_The_Destructor.mp4"
@@ -1669,7 +1669,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 75153950,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:15:18Z",
                         "updated_at": "2023-04-09T18:15:27Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Operator.Overloading.56m.-.3-_Overloading_the_Comparison_Operators.mp4"
@@ -2898,7 +2898,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 168192188,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:34:35Z",
                         "updated_at": "2023-04-09T18:34:56Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Inheritance.and.Polymorphism.50m.-.4-_Constructors_and_Inheritance.mp4"
@@ -2970,7 +2970,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 58024341,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:35:26Z",
                         "updated_at": "2023-04-09T18:35:44Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Inheritance.and.Polymorphism.50m.-.5-_Destructors_and_Inheritance.mp4"
@@ -3042,7 +3042,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 67562855,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:36:15Z",
                         "updated_at": "2023-04-09T18:36:27Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Inheritance.and.Polymorphism.50m.-.6-_Conversion_between_Base_and_Derived_Classes.mp4"
@@ -3474,7 +3474,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 47695940,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:40:25Z",
                         "updated_at": "2023-04-09T18:40:34Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Inheritance.and.Polymorphism.50m.-.12-_Final_Classes_and_Methods.mp4"
@@ -4199,7 +4199,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 36570513,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:52:39Z",
                         "updated_at": "2023-04-09T18:52:51Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Exceptions.23m.-.7-_Rethrowing_an_Exception.mp4"
@@ -4271,7 +4271,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 95085943,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:53:18Z",
                         "updated_at": "2023-04-09T18:53:28Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Exceptions.23m.-.8-_Creating_Custom_Exceptions.mp4"
@@ -4636,7 +4636,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 43061181,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:55:17Z",
                         "updated_at": "2023-04-09T18:55:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.4-_Templates_with_Multiple_Parameters.mp4"
@@ -4708,7 +4708,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 87198758,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:55:44Z",
                         "updated_at": "2023-04-09T18:56:05Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.5-_Defining_a_Class_Template.mp4"
@@ -4851,7 +4851,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 158644,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T19:01:49Z",
                         "updated_at": "2023-04-09T19:01:49Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.5-_Templates.pdf"
@@ -4996,7 +4996,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 72512858,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T19:02:01Z",
                         "updated_at": "2023-04-09T19:02:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vf8b745f21ad1f963/Templates.20m.-.9-_Whats_Next.mp4"

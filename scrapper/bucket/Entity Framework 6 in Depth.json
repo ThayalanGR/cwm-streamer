@@ -368,7 +368,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 130975821,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T11:51:41Z",
                         "updated_at": "2023-04-09T11:52:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Demo-.Database-first.Workflow.mp4"
@@ -584,7 +584,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 56649190,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:03:26Z",
                         "updated_at": "2023-04-09T12:03:43Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Getting.Started.35m.-.Summary.mp4"
@@ -661,7 +661,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 89170987,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:06:13Z",
                         "updated_at": "2023-04-09T12:06:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Introduction.mp4"
@@ -877,7 +877,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 79173487,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:15:31Z",
                         "updated_at": "2023-04-09T12:15:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Uncovering.the.EDMX.mp4"
@@ -1458,7 +1458,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 50741690,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:36:18Z",
                         "updated_at": "2023-04-09T12:36:28Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Introduction.mp4"
@@ -2327,7 +2327,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 57868557,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:56:32Z",
                         "updated_at": "2023-04-09T14:56:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Introduction.mp4"
@@ -2399,7 +2399,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 103344417,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:58:28Z",
                         "updated_at": "2023-04-09T14:58:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Overriding.Conventions.mp4"
@@ -2687,7 +2687,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 51460480,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:04:28Z",
                         "updated_at": "2023-04-09T15:04:37Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Fluent.API-.Relationships.mp4"
@@ -2759,7 +2759,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 273180093,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:10:06Z",
                         "updated_at": "2023-04-09T15:10:35Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Demo-.Fluent.API.mp4"
@@ -3699,7 +3699,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 78224,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:07:29Z",
                         "updated_at": "2023-04-09T16:07:29Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Section6.-.Exercise.Description.pdf"
@@ -3921,7 +3921,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 111345230,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:12:34Z",
                         "updated_at": "2023-04-09T16:12:45Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Lazy.Loading.mp4"
@@ -3993,7 +3993,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 71797813,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:16:33Z",
                         "updated_at": "2023-04-09T16:16:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.N%2B1.Problem.mp4"
@@ -4790,7 +4790,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 124387442,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:57:44Z",
                         "updated_at": "2023-04-09T16:57:56Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.LINQPad.mp4"
@@ -4861,7 +4861,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 79210,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:57:57Z",
                         "updated_at": "2023-04-09T16:57:57Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Section8.-.Exercise.Description.pdf"
@@ -5155,7 +5155,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 162051026,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:10:22Z",
                         "updated_at": "2023-04-09T17:10:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.Implementing.Repository.mp4"
@@ -5299,7 +5299,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 146700089,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:14:44Z",
                         "updated_at": "2023-04-09T17:15:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Using.Entity.Framework.in.Your.Applications.35m.-.ASP.NET.MVC.Example.mp4"
@@ -5481,258 +5481,6 @@
                         "created_at": "2023-05-07T07:55:38Z",
                         "updated_at": "2023-05-07T07:55:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/_COMPRESSED_.Using.Entity.Framework.in.Your.Applications.35m.-.Summary.mp4"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Building a Model Using Code-first Workflow 40m - Section4",
-            "assets": [
-                {
-                    "name": "Building a Model Using Code-first Workflow 40m - Section4 - Exercise Description pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102928193",
-                        "id": 102928193,
-                        "node_id": "RA_kwDOJTIOEc4GIo9B",
-                        "name": "Building.a.Model.Using.Code-first.Workflow.40m.-.Section4.-.Exercise.Description.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 85370,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T14:51:02Z",
-                        "updated_at": "2023-04-09T14:51:03Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Code-first.Workflow.40m.-.Section4.-.Exercise.Description.pdf"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Building a Model Using Data-base First Workflow 40m - Db First",
-            "assets": [
-                {
-                    "name": "Building a Model Using Data-base First Workflow 40m - Db First - Exercises pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102917848",
-                        "id": 102917848,
-                        "node_id": "RA_kwDOJTIOEc4GImbY",
-                        "name": "Building.a.Model.Using.Data-base.First.Workflow.40m.-.Db.First.-.Exercises.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 72934,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T12:33:15Z",
-                        "updated_at": "2023-04-09T12:33:16Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Building.a.Model.Using.Data-base.First.Workflow.40m.-.Db.First.-.Exercises.pdf"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Changing Data 30m - Section8",
-            "assets": [
-                {
-                    "name": "Changing Data 30m - Section8 - Exercise Description pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102938351",
-                        "id": 102938351,
-                        "node_id": "RA_kwDOJTIOEc4GIrbv",
-                        "name": "Changing.Data.30m.-.Section8.-.Exercise.Description.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 79210,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T16:57:57Z",
-                        "updated_at": "2023-04-09T16:57:57Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Changing.Data.30m.-.Section8.-.Exercise.Description.pdf"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Loading Related Objects 20m - Section7",
-            "assets": [
-                {
-                    "name": "Loading Related Objects 20m - Section7 - Exercise Description pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102936412",
-                        "id": 102936412,
-                        "node_id": "RA_kwDOJTIOEc4GIq9c",
-                        "name": "Loading.Related.Objects.20m.-.Section7.-.Exercise.Description.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 65478,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T16:25:29Z",
-                        "updated_at": "2023-04-09T16:25:30Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Loading.Related.Objects.20m.-.Section7.-.Exercise.Description.pdf"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Overriding Code-First Conventions 1h10m - Section5",
-            "assets": [
-                {
-                    "name": "Overriding Code-First Conventions 1h10m - Section5 - Exercise Description pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102931823",
-                        "id": 102931823,
-                        "node_id": "RA_kwDOJTIOEc4GIp1v",
-                        "name": "Overriding.Code-First.Conventions.1h10m.-.Section5.-.Exercise.Description.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 87217,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T15:22:11Z",
-                        "updated_at": "2023-04-09T15:22:12Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Overriding.Code-First.Conventions.1h10m.-.Section5.-.Exercise.Description.pdf"
-                    }
-                }
-            ]
-        },
-        {
-            "name": "Querying Data 35m - Section6",
-            "assets": [
-                {
-                    "name": "Querying Data 35m - Section6 - Exercise Description pdf",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102935285",
-                        "id": 102935285,
-                        "node_id": "RA_kwDOJTIOEc4GIqr1",
-                        "name": "Querying.Data.35m.-.Section6.-.Exercise.Description.pdf",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "application/pdf",
-                        "state": "uploaded",
-                        "size": 78224,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T16:07:29Z",
-                        "updated_at": "2023-04-09T16:07:29Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v5c0d21472ad90371/Querying.Data.35m.-.Section6.-.Exercise.Description.pdf"
                     }
                 }
             ]

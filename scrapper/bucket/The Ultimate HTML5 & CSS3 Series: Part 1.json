@@ -512,7 +512,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 145687162,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:30:22Z",
                         "updated_at": "2023-04-10T01:30:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Web.Development.Fundamentals.36m.-.4-_Inspecting_HTTP_Requests_and_Responses.mp4"
@@ -728,7 +728,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 58796041,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:32:32Z",
                         "updated_at": "2023-04-10T01:32:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/Web.Development.Fundamentals.36m.-.7-_Formatting_Code.mp4"
@@ -1165,7 +1165,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 113735334,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:39:08Z",
                         "updated_at": "2023-04-10T01:39:20Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.3-_Text.mp4"
@@ -1309,7 +1309,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 325521935,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:41:56Z",
                         "updated_at": "2023-04-10T01:42:26Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.5-_Hyperlinks.mp4"
@@ -1597,7 +1597,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 156640078,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:54:31Z",
                         "updated_at": "2023-04-10T01:54:46Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.9-_Tables.mp4"
@@ -1741,7 +1741,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 167731520,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:57:07Z",
                         "updated_at": "2023-04-10T01:57:24Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/HTML.Basics.64m.-.11-_Semantic_Elements.mp4"
@@ -2322,7 +2322,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 163685880,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T02:08:39Z",
                         "updated_at": "2023-04-10T02:08:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.6-_Pseudo-class_Selectors.mp4"
@@ -2466,7 +2466,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 163182492,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T02:10:42Z",
                         "updated_at": "2023-04-10T02:11:01Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v13fc05e5036b77cf/CSS.Basics.69m.-.8-_Selectors_Specificty.mp4"

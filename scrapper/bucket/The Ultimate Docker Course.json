@@ -147,7 +147,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 10836154,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:18:54Z",
                         "updated_at": "2023-04-07T21:19:04Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Getting.Started.3m.-.2-.Prerequisites.mp4"
@@ -219,7 +219,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 48275652,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:19:30Z",
                         "updated_at": "2023-04-07T21:19:46Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Getting.Started.3m.-.3-.How.to.Take.this.Course.mp4"
@@ -440,7 +440,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 197040268,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:22:21Z",
                         "updated_at": "2023-04-07T21:23:12Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Introduction.to.Docker.25m.-.2-.What.is.Docker.mp4"
@@ -1093,7 +1093,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 91306352,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:36:44Z",
                         "updated_at": "2023-04-07T21:37:05Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/The.Linux.Command.Line.65m.-.3-.Running.Linux.mp4"
@@ -2101,7 +2101,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 107424923,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:59:21Z",
                         "updated_at": "2023-04-07T22:00:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/The.Linux.Command.Line.65m.-.17-.File.Permissions.mp4"
@@ -2538,7 +2538,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 180422284,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:02:53Z",
                         "updated_at": "2023-04-07T22:03:27Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.5-.Choosing.the.Right.Base.Image.mp4"
@@ -2610,7 +2610,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 94520975,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:03:43Z",
                         "updated_at": "2023-04-07T22:04:01Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.6-.Copying.Files.and.Directories.mp4"
@@ -2970,7 +2970,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 136495831,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:06:44Z",
                         "updated_at": "2023-04-07T22:07:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.11-.Setting.the.User.mp4"
@@ -3042,7 +3042,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 122255467,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:07:47Z",
                         "updated_at": "2023-04-07T22:08:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.12-.Defining.Entrypoints.mp4"
@@ -3114,7 +3114,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 262574742,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:08:58Z",
                         "updated_at": "2023-04-07T22:09:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.13-.Speeding.Up.Builds.mp4"
@@ -3186,7 +3186,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 125369511,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:10:17Z",
                         "updated_at": "2023-04-07T22:10:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Building.Images.65m.-.14-.Removing.Images.mp4"
@@ -3551,7 +3551,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 23545084,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:14:44Z",
                         "updated_at": "2023-04-07T22:14:49Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.1-.Introduction.mp4"
@@ -3911,7 +3911,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 18263867,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:16:14Z",
                         "updated_at": "2023-04-07T22:16:18Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.6-.Stopping.and.Starting.Containers.mp4"
@@ -3983,7 +3983,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 44812883,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:16:25Z",
                         "updated_at": "2023-04-07T22:16:35Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.7-.Removing.Containers.mp4"
@@ -4055,7 +4055,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 45409247,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:16:48Z",
                         "updated_at": "2023-04-07T22:16:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.8-.Containers.File.System.mp4"
@@ -4271,7 +4271,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 115304014,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:18:55Z",
                         "updated_at": "2023-04-07T22:19:17Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Working.with.Containers.30m.-.11-.Sharing.the.Source.Code.with.a.Container.mp4"
@@ -4564,7 +4564,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 93680050,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:21:03Z",
                         "updated_at": "2023-04-07T22:21:21Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.3-.Cleaning.Up.our.Workspace.mp4"
@@ -4636,7 +4636,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 59175865,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:21:47Z",
                         "updated_at": "2023-04-07T22:21:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.4-.The.Sample.Web.Application.mp4"
@@ -4708,7 +4708,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 73943358,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:22:48Z",
                         "updated_at": "2023-04-07T22:23:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.5-.JSON.and.YAML.Formats.mp4"
@@ -5212,7 +5212,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 211704333,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:29:50Z",
                         "updated_at": "2023-04-07T22:30:32Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Running.Multi-container.Applications.50m.-.12-.Migrating.the.Database.mp4"
@@ -5793,7 +5793,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 34346014,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:33:22Z",
                         "updated_at": "2023-04-07T22:33:29Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.6-.Connecting.to.the.Host.mp4"
@@ -5937,7 +5937,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 207817377,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:35:50Z",
                         "updated_at": "2023-04-07T22:36:30Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.8-.Reducing.the.Image.Size.mp4"
@@ -6153,7 +6153,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 84488799,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T22:39:34Z",
                         "updated_at": "2023-04-07T22:39:52Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb026e5cb7e0adef4/Deploying.Applications.30m.-.11-.Publishing.Changes.mp4"

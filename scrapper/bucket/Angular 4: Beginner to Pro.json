@@ -75,7 +75,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 109050638,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:14:22Z",
                         "updated_at": "2023-04-09T20:14:42Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Getting.Started.30m.-.Welcome.720.mp4"
@@ -291,7 +291,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 12799571,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:15:04Z",
                         "updated_at": "2023-04-09T20:15:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Getting.Started.30m.-.Setting.Up.the.Development.Environment-final.mov"
@@ -507,7 +507,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 56520593,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:16:06Z",
                         "updated_at": "2023-04-09T20:16:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Getting.Started.30m.-.Webpack-final.mov"
@@ -723,7 +723,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 35815992,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:16:54Z",
                         "updated_at": "2023-04-09T20:17:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Getting.Started.30m.-.Promise.mp4"
@@ -944,7 +944,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 10200447,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:17:20Z",
                         "updated_at": "2023-04-09T20:17:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/TypeScript.and.Object-oriented.Programming.Fundamentals.1h.-.3-.Your.First.TypeScript.Program.mov"
@@ -1304,7 +1304,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 22832139,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:18:14Z",
                         "updated_at": "2023-04-09T20:18:17Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/TypeScript.and.Object-oriented.Programming.Fundamentals.1h.-.8-.Interfaces.mp4"
@@ -1592,7 +1592,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 15866881,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:20:37Z",
                         "updated_at": "2023-04-09T20:20:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/TypeScript.and.Object-oriented.Programming.Fundamentals.1h.-.12-.Access.Modifiers.mov"
@@ -2317,7 +2317,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 25592358,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:26:21Z",
                         "updated_at": "2023-04-09T20:26:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Fundamentals.45m.-.6-.Directives.mov"
@@ -3330,7 +3330,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 12939635,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:29:55Z",
                         "updated_at": "2023-04-09T20:29:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Displaying.Data.and.Handling.Events.1h5m.-.9-.Template.Variables.mov"
@@ -3474,7 +3474,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 60215501,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:30:32Z",
                         "updated_at": "2023-04-09T20:30:39Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Displaying.Data.and.Handling.Events.1h5m.-.11-.Pipes.mov"
@@ -3546,7 +3546,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 55301672,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:30:43Z",
                         "updated_at": "2023-04-09T20:30:50Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Displaying.Data.and.Handling.Events.1h5m.-.12-.Custom.Pipes.mov"
@@ -3618,7 +3618,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31294976,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:30:58Z",
                         "updated_at": "2023-04-09T20:31:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Displaying.Data.and.Handling.Events.1h5m.-.13-.Exercise-.Favorite.Component.mp4"
@@ -3762,7 +3762,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 7024033,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:31:19Z",
                         "updated_at": "2023-04-09T20:31:21Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Displaying.Data.and.Handling.Events.1h5m.-.15-.Exercise-.TitleCase.mov"
@@ -4127,7 +4127,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 42224330,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:33:18Z",
                         "updated_at": "2023-04-09T20:33:25Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Re-usable.Components.1h.-.4-.Aliasing.Input.Properties.mov"
@@ -4199,7 +4199,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 33396211,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:33:29Z",
                         "updated_at": "2023-04-09T20:33:33Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Re-usable.Components.1h.-.5-.Output.Properties.mov"
@@ -4343,7 +4343,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 17268615,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:33:51Z",
                         "updated_at": "2023-04-09T20:33:54Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Re-usable.Components.1h.-.7-.Aliasing.Output.Properties.mov"
@@ -4847,7 +4847,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 61774301,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:36:31Z",
                         "updated_at": "2023-04-09T20:36:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Re-usable.Components.1h.-.14-.Solution-.LikeComponent.mp4"
@@ -6081,7 +6081,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 20099679,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:43:05Z",
                         "updated_at": "2023-04-09T20:43:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.3-.Types.of.Forms.mp4"
@@ -6225,7 +6225,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 40175428,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:44:23Z",
                         "updated_at": "2023-04-09T20:44:32Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.5-.Adding.Validation.mov"
@@ -6369,7 +6369,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 18067317,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:45:13Z",
                         "updated_at": "2023-04-09T20:45:15Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.7-.Styling.Invalid.Input.Fields.mov"
@@ -6513,7 +6513,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 52979999,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:45:46Z",
                         "updated_at": "2023-04-09T20:45:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.9-.ngForm.mov"
@@ -6801,7 +6801,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 21018301,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:48:19Z",
                         "updated_at": "2023-04-09T20:48:24Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.13-.Working.with.Check.Boxes.mov"
@@ -6873,7 +6873,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 67791421,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:48:37Z",
                         "updated_at": "2023-04-09T20:48:44Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Template-driven.Forms.1h.-.14-.Working.with.Drop-down.Lists.mov"
@@ -7166,7 +7166,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 7458586,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:59:16Z",
                         "updated_at": "2023-04-09T20:59:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.1-.Introduction.mp4"
@@ -7310,7 +7310,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 74392574,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:59:41Z",
                         "updated_at": "2023-04-09T20:59:49Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.3-.Creating.Controls.Programatically.mov"
@@ -7382,7 +7382,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 89353931,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T20:59:56Z",
                         "updated_at": "2023-04-09T21:00:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.4-.Adding.Validation.mov"
@@ -7526,7 +7526,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 83549487,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:00:24Z",
                         "updated_at": "2023-04-09T21:00:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.6-.Implementing.Custom.Validation.mov"
@@ -7670,7 +7670,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 86613353,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:00:54Z",
                         "updated_at": "2023-04-09T21:01:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.8-.Async.Validators.mov"
@@ -8030,7 +8030,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 51981507,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:02:29Z",
                         "updated_at": "2023-04-09T21:02:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Reactive.Forms.1h15m.-.13-.FormBuilder.mov"
@@ -9043,7 +9043,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 35336419,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:09:14Z",
                         "updated_at": "2023-04-09T21:09:26Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Consuming.HTTP.Services.1h50m.-.11-.Handling.Unexpected.Errors.mov"
@@ -9475,7 +9475,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 53785740,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:12:48Z",
                         "updated_at": "2023-04-09T21:13:06Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Consuming.HTTP.Services.1h50m.-.17-.Extracting.a.Reusable.Error.Handling.Method.mov"
@@ -10272,7 +10272,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 51004145,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:24:20Z",
                         "updated_at": "2023-04-09T21:24:29Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Routing.and.Navigation.1h5m.-.RouterLink-final.mov"
@@ -10704,7 +10704,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 66625138,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:28:02Z",
                         "updated_at": "2023-04-09T21:28:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Routing.and.Navigation.1h5m.-.Subscribing.to.Multiple.Observables-final.mov"
@@ -10992,7 +10992,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 132467936,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:29:10Z",
                         "updated_at": "2023-04-09T21:29:24Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Routing.and.Navigation.1h5m.-.Solution-Final.mp4"
@@ -11069,7 +11069,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 5429960,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:29:33Z",
                         "updated_at": "2023-04-09T21:29:35Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Authentication.and.Authorization.1h.-.1-.Introduction.mp4"
@@ -11429,7 +11429,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 64022438,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:38:09Z",
                         "updated_at": "2023-04-09T21:38:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Authentication.and.Authorization.1h.-.6-.Implementing.the.Login.mov"
@@ -12077,7 +12077,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 5506441,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:47:20Z",
                         "updated_at": "2023-04-09T21:47:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Authentication.and.Authorization.1h.-.15-.Quick.Recap.mov"
@@ -12514,7 +12514,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 43270109,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:49:15Z",
                         "updated_at": "2023-04-09T21:49:20Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Deployment.1h12m.-.Environments-final.mov"
@@ -13747,7 +13747,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 8269151,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T21:55:29Z",
                         "updated_at": "2023-04-09T21:55:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Real-time.Apps.with.Firebase.56m.-.7-.A.Real-time.Database.mov"
@@ -14434,77 +14434,6 @@
                         "updated_at": "2023-05-06T21:27:59Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/_COMPRESSED_.Building.Real-time.Apps.with.Firebase.56m.-.16-.Additional.Resources.mov"
                     }
-                },
-                {
-                    "name": "Building Real-time Apps with Firebase 56m - 2- What is Firebase mp4",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102962173",
-                        "id": 102962173,
-                        "node_id": "RA_kwDOJTIOEc4GIxP9",
-                        "name": "Building.Real-time.Apps.with.Firebase.56m.-.2-.What.is.Firebase.mp4",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "video/mp4",
-                        "state": "uploaded",
-                        "size": 10915055,
-                        "download_count": 0,
-                        "created_at": "2023-04-09T21:53:43Z",
-                        "updated_at": "2023-04-09T21:53:45Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Building.Real-time.Apps.with.Firebase.56m.-.2-.What.is.Firebase.mp4"
-                    },
-                    "compressedAssetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107026721",
-                        "id": 107026721,
-                        "node_id": "RA_kwDOJTIOEc4GYRkh",
-                        "name": "_COMPRESSED_.Building.Real-time.Apps.with.Firebase.56m.-.2-.What.is.Firebase.mp4",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "video/mp4",
-                        "state": "uploaded",
-                        "size": 2636150,
-                        "download_count": 0,
-                        "created_at": "2023-05-06T21:18:26Z",
-                        "updated_at": "2023-05-06T21:18:27Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/_COMPRESSED_.Building.Real-time.Apps.with.Firebase.56m.-.2-.What.is.Firebase.mp4"
-                    }
                 }
             ]
         },
@@ -14615,7 +14544,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 42966661,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:00:01Z",
                         "updated_at": "2023-04-09T22:00:07Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Animations.1h30m.-.2-.Examples.of.Animations.mp4"
@@ -15191,7 +15120,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 22636300,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:03:19Z",
                         "updated_at": "2023-04-09T22:03:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Animations.1h30m.-.10-.Creating.Re-usable.Triggers.mov"
@@ -15623,7 +15552,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 98476614,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:06:01Z",
                         "updated_at": "2023-04-09T22:06:12Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Animations.1h30m.-.16-.Parameterizing.Re-usable.Animations.mov"
@@ -15767,7 +15696,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 64255980,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:06:45Z",
                         "updated_at": "2023-04-09T22:06:54Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Animations.1h30m.-.18-.Querying.Child.Elements.mov"
@@ -16276,7 +16205,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 4491783,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:11:48Z",
                         "updated_at": "2023-04-09T22:11:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.1-.Introduction.mp4"
@@ -16348,7 +16277,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 46028184,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:11:58Z",
                         "updated_at": "2023-04-09T22:12:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.2-.What.is.Angular.Material.mov"
@@ -16564,7 +16493,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 69030045,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:15:18Z",
                         "updated_at": "2023-04-09T22:15:25Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.5-.RadioButtons.mov"
@@ -17140,7 +17069,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 65944805,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:17:54Z",
                         "updated_at": "2023-04-09T22:18:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.14-.Progress.Spinner.mov"
@@ -17500,7 +17429,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 87492821,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:21:49Z",
                         "updated_at": "2023-04-09T22:22:00Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.19-.Creating.a.Reusable.Module.mov"
@@ -17788,7 +17717,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 41824784,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:23:41Z",
                         "updated_at": "2023-04-09T22:23:46Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.23-.Using.Angular.Material.s.Typography.mov"
@@ -17860,7 +17789,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 104412411,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:24:11Z",
                         "updated_at": "2023-04-09T22:24:25Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Angular.Material.2h30m.-.24-.Customizing.Typography.mov"
@@ -18441,7 +18370,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 38054812,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:28:25Z",
                         "updated_at": "2023-04-09T22:28:33Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Redux.1h19m.-.08-.Avoiding.Object.Mutations.mp4"
@@ -18873,7 +18802,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 97332703,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:32:02Z",
                         "updated_at": "2023-04-09T22:32:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Redux.1h19m.-.14-.Dealing.with.Complex.Domains.mp4"
@@ -19166,7 +19095,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 61429186,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:33:12Z",
                         "updated_at": "2023-04-09T22:33:29Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Unit.Testing.1h.-.04-.Unit.Testing.Fundamentals.mp4"
@@ -19382,7 +19311,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 33126524,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:34:29Z",
                         "updated_at": "2023-04-09T22:34:34Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Unit.Testing.1h.-.07-.Working.with.Forms.mp4"
@@ -19814,7 +19743,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31075213,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:35:57Z",
                         "updated_at": "2023-04-09T22:36:01Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Unit.Testing.1h.-.13-.Code.Coverage.mp4"
@@ -20251,7 +20180,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 36039126,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:38:04Z",
                         "updated_at": "2023-04-09T22:38:09Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Integration.Testing.1h20m.-.06-.Providing.Dependencies.mp4"
@@ -20323,7 +20252,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 58746953,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:38:51Z",
                         "updated_at": "2023-04-09T22:38:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Integration.Testing.1h20m.-.07-.Getting.the.Dependencies.mp4"
@@ -20539,7 +20468,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 78909800,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:40:32Z",
                         "updated_at": "2023-04-09T22:40:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Integration.Testing.1h20m.-.10-.Dealing.with.Route.Params.mp4"
@@ -20611,7 +20540,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 71335054,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:43:26Z",
                         "updated_at": "2023-04-09T22:43:35Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Integration.Testing.1h20m.-.11-.Testing.RouterOutlet.Components.mp4"
@@ -21048,7 +20977,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 247537191,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:48:16Z",
                         "updated_at": "2023-04-09T22:48:44Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Set.Up.1h5m.-.Challenge-final.mov"
@@ -21917,7 +21846,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 73696324,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:57:30Z",
                         "updated_at": "2023-04-09T22:57:37Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Authentication.and.Authorization.1h7m.-.Displaying.the.Current.User-Final.mp4"
@@ -21989,7 +21918,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 154018150,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:58:23Z",
                         "updated_at": "2023-04-09T22:58:39Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Authentication.and.Authorization.1h7m.-.Using.the.Async.Pipe-Final.mp4"
@@ -22133,7 +22062,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 201484906,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T22:59:45Z",
                         "updated_at": "2023-04-09T23:00:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Authentication.and.Authorization.1h7m.-.Protecting.Routes-Final.mp4"
@@ -22642,7 +22571,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 48892116,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T23:15:28Z",
                         "updated_at": "2023-04-09T23:15:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Management.1h35m.-.Introduction-Final.mp4"
@@ -22786,7 +22715,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 191712983,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T23:17:28Z",
                         "updated_at": "2023-04-09T23:17:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Management.1h35m.-.Populating.Categories.Drop-down.List-Final.mp4"
@@ -23074,7 +23003,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 290226826,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T23:28:32Z",
                         "updated_at": "2023-04-09T23:28:59Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Management.1h35m.-.Adding.a.Bootstrap.Card-Final.mp4"
@@ -23434,7 +23363,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 288332969,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T23:43:16Z",
                         "updated_at": "2023-04-09T23:43:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Management.1h35m.-.Searching.for.Products-Final.mp4"
@@ -24015,7 +23944,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 68972815,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T23:48:43Z",
                         "updated_at": "2023-04-09T23:48:51Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Catalog.50m.-.Introduction-Final.mp4"
@@ -24303,7 +24232,7 @@
                         "content_type": "video/quicktime",
                         "state": "uploaded",
                         "size": 124600564,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T00:01:45Z",
                         "updated_at": "2023-04-10T00:01:57Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Catalog.50m.-.Dealing.with.Multiple.Asynchronous.Operations-final.mov"
@@ -24447,7 +24376,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 294326227,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T00:04:35Z",
                         "updated_at": "2023-04-10T00:05:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Catalog.50m.-.Refactoring-.Extracting.ProductCardComponent-Final.mp4"
@@ -24663,7 +24592,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 27251037,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T00:09:51Z",
                         "updated_at": "2023-04-10T00:09:56Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Product.Catalog.50m.-.Wrap.Up-Final.mp4"
@@ -25460,7 +25389,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 134667218,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T00:25:28Z",
                         "updated_at": "2023-04-10T00:25:43Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Shopping.Cart.2h.-.Building.a.Simple.Shopping.Cart.Page-Final.mp4"
@@ -25642,6 +25571,150 @@
                         "created_at": "2023-05-07T02:14:05Z",
                         "updated_at": "2023-05-07T02:14:07Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/_COMPRESSED_.Project.Shopping.Cart.2h.-.Displaying.the.Total.Price-Final.mp4"
+                    }
+                },
+                {
+                    "name": "Project: Shopping Cart (2h) -> Refactoring-Final.mp4",
+                    "originUrl": "https://cdn.fs.teachablecdn.com/CeqopVNTuPIlE2QXLDgI",
+                    "assetData": {
+                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102972579",
+                        "id": 102972579,
+                        "node_id": "RA_kwDOJTIOEc4GIzyj",
+                        "name": "Project.Shopping.Cart.2h.-.Refactoring-Final.mp4",
+                        "label": "",
+                        "uploader": {
+                            "login": "thayalangr-engineer",
+                            "id": 129984264,
+                            "node_id": "U_kgDOB79nCA",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/thayalangr-engineer",
+                            "html_url": "https://github.com/thayalangr-engineer",
+                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "content_type": "video/mp4",
+                        "state": "uploaded",
+                        "size": 339465254,
+                        "download_count": 0,
+                        "created_at": "2023-04-10T00:24:34Z",
+                        "updated_at": "2023-04-10T00:25:02Z",
+                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Shopping.Cart.2h.-.Refactoring-Final.mp4"
+                    },
+                    "compressedAssetData": {
+                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107047845",
+                        "id": 107047845,
+                        "node_id": "RA_kwDOJTIOEc4GYWul",
+                        "name": "_COMPRESSED_.Project.Shopping.Cart.2h.-.Refactoring-Final.mp4",
+                        "label": "",
+                        "uploader": {
+                            "login": "thayalangr-engineer",
+                            "id": 129984264,
+                            "node_id": "U_kgDOB79nCA",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/thayalangr-engineer",
+                            "html_url": "https://github.com/thayalangr-engineer",
+                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "content_type": "video/mp4",
+                        "state": "uploaded",
+                        "size": 14297889,
+                        "download_count": 0,
+                        "created_at": "2023-05-07T02:06:03Z",
+                        "updated_at": "2023-05-07T02:06:07Z",
+                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/_COMPRESSED_.Project.Shopping.Cart.2h.-.Refactoring-Final.mp4"
+                    }
+                },
+                {
+                    "name": "Project: Shopping Cart (2h) -> Discovering a Design Issue-Final.mp4",
+                    "originUrl": "https://cdn.fs.teachablecdn.com/1uqidGeXSMye4da4BCWv",
+                    "assetData": {
+                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102972782",
+                        "id": 102972782,
+                        "node_id": "RA_kwDOJTIOEc4GIz1u",
+                        "name": "Project.Shopping.Cart.2h.-.Discovering.a.Design.Issue-Final.mp4",
+                        "label": "",
+                        "uploader": {
+                            "login": "thayalangr-engineer",
+                            "id": 129984264,
+                            "node_id": "U_kgDOB79nCA",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/thayalangr-engineer",
+                            "html_url": "https://github.com/thayalangr-engineer",
+                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "content_type": "video/mp4",
+                        "state": "uploaded",
+                        "size": 166285501,
+                        "download_count": 0,
+                        "created_at": "2023-04-10T00:27:43Z",
+                        "updated_at": "2023-04-10T00:28:00Z",
+                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Shopping.Cart.2h.-.Discovering.a.Design.Issue-Final.mp4"
+                    },
+                    "compressedAssetData": {
+                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107048765",
+                        "id": 107048765,
+                        "node_id": "RA_kwDOJTIOEc4GYW89",
+                        "name": "_COMPRESSED_.Project.Shopping.Cart.2h.-.Discovering.a.Design.Issue-Final.mp4",
+                        "label": "",
+                        "uploader": {
+                            "login": "thayalangr-engineer",
+                            "id": 129984264,
+                            "node_id": "U_kgDOB79nCA",
+                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
+                            "gravatar_id": "",
+                            "url": "https://api.github.com/users/thayalangr-engineer",
+                            "html_url": "https://github.com/thayalangr-engineer",
+                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
+                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
+                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
+                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
+                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
+                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
+                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
+                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
+                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
+                            "type": "User",
+                            "site_admin": false
+                        },
+                        "content_type": "video/mp4",
+                        "state": "uploaded",
+                        "size": 9114395,
+                        "download_count": 0,
+                        "created_at": "2023-05-07T02:18:47Z",
+                        "updated_at": "2023-05-07T02:18:49Z",
+                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/_COMPRESSED_.Project.Shopping.Cart.2h.-.Discovering.a.Design.Issue-Final.mp4"
                     }
                 },
                 {
@@ -27270,7 +27343,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 130779952,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:03:58Z",
                         "updated_at": "2023-04-10T01:04:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Modularization.and.Final.Improvements.1h.-.Essential.TypeScript.Plugins-Final.mp4"
@@ -27774,7 +27847,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 96129311,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T01:20:35Z",
                         "updated_at": "2023-04-10T01:20:44Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v26c4fa9a5084e144/Project.Modularization.and.Final.Improvements.1h.-.Adding.Icons-Final.mp4"

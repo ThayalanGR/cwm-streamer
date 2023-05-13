@@ -75,7 +75,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 59896662,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:43:48Z",
                         "updated_at": "2023-04-09T14:44:00Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.1-_Introduction.mp4"
@@ -290,7 +290,7 @@
                         "content_type": "application/zip",
                         "state": "uploaded",
                         "size": 1701351,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:48:18Z",
                         "updated_at": "2023-04-09T14:48:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Getting.Started.3m.-.Django-.Resources.zip"
@@ -584,7 +584,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 50951945,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:58:41Z",
                         "updated_at": "2023-04-09T14:58:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.4-_Setting_Up_the_Development_Enviornment.mp4"
@@ -656,7 +656,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 106716973,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:00:17Z",
                         "updated_at": "2023-04-09T15:00:45Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.Fundamentals.45m.-.5-_Creating_Your_First_Django_Project.mp4"
@@ -1309,7 +1309,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 63026886,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:18:37Z",
                         "updated_at": "2023-04-09T15:18:49Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.2-_Introduction_to_Data_Modeling.mp4"
@@ -1381,7 +1381,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 44364447,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:20:10Z",
                         "updated_at": "2023-04-09T15:20:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.3-_Building_an_E-commerce_Data_Model.mp4"
@@ -1597,7 +1597,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 129638515,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:29:58Z",
                         "updated_at": "2023-04-09T15:30:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Building.a.Data.Model.45m.-.6-_Choice_Fields.mp4"
@@ -2178,7 +2178,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 229603215,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:56:44Z",
                         "updated_at": "2023-04-09T15:57:09Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.3-_Creating_Migrations.mp4"
@@ -2250,7 +2250,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 100879515,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:06:59Z",
                         "updated_at": "2023-04-09T16:07:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.4-_Running_Migrations.mp4"
@@ -2610,7 +2610,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 107216141,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:26:17Z",
                         "updated_at": "2023-04-09T16:26:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.9-_Using_MySQL_in_Django.mp4"
@@ -2754,7 +2754,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 82411938,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:30:23Z",
                         "updated_at": "2023-04-09T16:30:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Setting.Up.the.Database.40m.-.11-_Generating_Dummy_Data.mp4"
@@ -2831,7 +2831,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 29796951,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:31:17Z",
                         "updated_at": "2023-04-09T16:31:21Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.1_-_Introduction.mp4"
@@ -2903,7 +2903,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 167473267,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:35:14Z",
                         "updated_at": "2023-04-09T16:35:32Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.2-_Django_ORM.mp4"
@@ -3119,7 +3119,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 91162969,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:47:01Z",
                         "updated_at": "2023-04-09T16:47:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.5-_Retrieving_Objects.mp4"
@@ -3551,7 +3551,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 141766782,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:06:44Z",
                         "updated_at": "2023-04-09T17:07:07Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.11-_Selecting_Fields_to_Query.mp4"
@@ -3911,7 +3911,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 102692620,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:35:19Z",
                         "updated_at": "2023-04-09T17:35:33Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.16-_Calling_Database_Functions.mp4"
@@ -4127,7 +4127,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 138324068,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:44:13Z",
                         "updated_at": "2023-04-09T17:44:26Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/Django.ORM.100m.-.19-_Querying_Generic_Relationships.mp4"
@@ -4852,7 +4852,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 69522506,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:56:25Z",
                         "updated_at": "2023-04-09T17:56:41Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.3-_Registering_Models.mp4"
@@ -4924,7 +4924,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 90168207,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:58:20Z",
                         "updated_at": "2023-04-09T17:58:44Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.4-_Customizing_the_List_Page.mp4"
@@ -5068,7 +5068,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 94010181,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:00:20Z",
                         "updated_at": "2023-04-09T18:00:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.6-_Selecting_Related_Objects.mp4"
@@ -5428,7 +5428,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 95381067,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:05:28Z",
                         "updated_at": "2023-04-09T18:05:54Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.11-.Creating.Custom.Actions.mp4"
@@ -5572,7 +5572,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 101405352,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:08:19Z",
                         "updated_at": "2023-04-09T18:08:33Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.13-.Adding.Data.Validation.mp4"
@@ -5788,7 +5788,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 122199215,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T18:16:42Z",
                         "updated_at": "2023-04-09T18:16:59Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vfe68ed379d63482b/The.Admin.Site.1h.-.16-.Extending.Pluggable.Apps.mp4"

@@ -3631,7 +3631,7 @@
                         "content_type": "application/zip",
                         "state": "uploaded",
                         "size": 1531,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T19:37:16Z",
                         "updated_at": "2023-04-09T19:37:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v1b97faee115b25b2/Arrays.and.Lists.30m.-.Arrays-And-Lists-Solutions.zip"

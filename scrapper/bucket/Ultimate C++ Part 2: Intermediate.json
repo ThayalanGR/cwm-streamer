@@ -584,7 +584,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 52082864,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T15:51:30Z",
                         "updated_at": "2023-04-09T15:51:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Arrays.34m.-.7-_Understanding_size_t.mp4"
@@ -1381,7 +1381,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 51049771,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:11:01Z",
                         "updated_at": "2023-04-09T16:11:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Pointers.48m.-.6-_The_Relationship_Between_Arrays_and_Pointers.mp4"
@@ -2322,7 +2322,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 74552992,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:33:49Z",
                         "updated_at": "2023-04-09T16:33:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Strings.41m.-.5-_Searching_Strings.mp4"
@@ -3047,7 +3047,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31780726,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:42:58Z",
                         "updated_at": "2023-04-09T16:43:06Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Structures.and.Enumerations.47m.-.4-_Unpacking_Structures.mp4"
@@ -3119,7 +3119,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 56967409,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T16:46:46Z",
                         "updated_at": "2023-04-09T16:46:53Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Structures.and.Enumerations.47m.-.5-_Array_of_Structures.mp4"
@@ -3407,7 +3407,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 255378434,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:01:50Z",
                         "updated_at": "2023-04-09T17:02:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Structures.and.Enumerations.47m.-.9-_Operator_Overloading.mp4"
@@ -3551,7 +3551,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31011959,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:04:58Z",
                         "updated_at": "2023-04-09T17:05:02Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Structures.and.Enumerations.47m.-.11-_Pointers_to_Structures.mp4"
@@ -3623,7 +3623,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 56325447,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:08:28Z",
                         "updated_at": "2023-04-09T17:08:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Structures.and.Enumerations.47m.-.12-_Defining_Enumerations.mp4"
@@ -4060,7 +4060,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 56065935,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:24:06Z",
                         "updated_at": "2023-04-09T17:24:15Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Streams.and.Files.50m.-.4-_Reading_from_Streams.mp4"
@@ -4348,7 +4348,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 116469224,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:30:27Z",
                         "updated_at": "2023-04-09T17:30:51Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Streams.and.Files.50m.-.8-_Reading_from_Text_Files.mp4"
@@ -4851,7 +4851,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 388991,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T17:42:53Z",
                         "updated_at": "2023-04-09T17:42:54Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vad7e33d3ed3c1315/Streams.and.Files.50m.-.5-.Streams.pdf"

@@ -75,7 +75,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 67874558,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T11:44:22Z",
                         "updated_at": "2023-04-09T11:44:53Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Welcome.57s.-.1-_Welcome.mp4"
@@ -661,7 +661,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 29008917,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:02:20Z",
                         "updated_at": "2023-04-09T12:02:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/The.Basics.40m.-.1-_Introduction.mp4"
@@ -1530,7 +1530,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 27784064,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T12:39:11Z",
                         "updated_at": "2023-04-09T12:39:30Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Fundamental.Data.Types.54m.-.2-_Fundamental_Data_Types.mp4"
@@ -1818,7 +1818,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 109364369,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:13:10Z",
                         "updated_at": "2023-04-09T14:13:29Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Fundamental.Data.Types.54m.-.6-_Generating_Random_Numbers.mp4"
@@ -2321,7 +2321,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 221751,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:22:02Z",
                         "updated_at": "2023-04-09T14:22:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Fundamental.Data.Types.54m.-.3-.Fundamental.Data.Types.pdf"
@@ -3340,7 +3340,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31800367,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-09T14:51:12Z",
                         "updated_at": "2023-04-09T14:51:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vdc143416eb039dbc/Loops.35m.-.5-_Do-while_Loops.mp4"

@@ -803,14 +803,16 @@ async function sortCourseOrder() {
             // sort and fill
             sections.forEach(({ name: originalSectionName, assets }) => {
                 const sectionName = getSanitizedString(
-                    originalSectionName,
+                    getSanitizedString(originalSectionName),
                     true
                 );
                 // find section from old and fill on new upload asset tracer
                 const oldSection = uploadedAssetsTrackerOld.sections.find(
                     ({ name: currentSectionName }) =>
-                        getSanitizedString(currentSectionName, true) ===
-                        sectionName
+                        getSanitizedString(
+                            getSanitizedString(currentSectionName),
+                            true
+                        ) === sectionName
                 ) as ICourseSection;
 
                 if (!oldSection)
@@ -826,14 +828,18 @@ async function sortCourseOrder() {
                 };
                 assets.forEach(({ name: assetName, type }) => {
                     const fileDetailedName = getSanitizedString(
-                        getFileDetailedName(sectionName, assetName, type),
+                        getSanitizedString(
+                            getFileDetailedName(sectionName, assetName, type)
+                        ),
                         true
                     );
 
                     const oldAsset = oldSection.assets.find(
                         (asset) =>
-                            getSanitizedString(asset.name, true) ===
-                            fileDetailedName
+                            getSanitizedString(
+                                getSanitizedString(asset.name),
+                                true
+                            ) === fileDetailedName
                     );
 
                     if (!oldAsset)

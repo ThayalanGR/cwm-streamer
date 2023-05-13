@@ -219,7 +219,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 26257948,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T07:55:13Z",
                         "updated_at": "2023-04-10T07:55:17Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Getting.Started.40m.-.Creating.an.App.Using.Visual.Studio.mp4"
@@ -291,7 +291,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 10952864,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T07:55:29Z",
                         "updated_at": "2023-04-10T07:55:32Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Getting.Started.40m.-.Creating.a.Project.Using.Xamarin.Studio.mp4"
@@ -507,7 +507,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 10530882,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T07:57:44Z",
                         "updated_at": "2023-04-10T07:57:46Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Getting.Started.40m.-.Layout.mp4"
@@ -1525,7 +1525,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 9226188,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:08:58Z",
                         "updated_at": "2023-04-10T08:09:01Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.StackLayout.in.Code.mp4"
@@ -1812,7 +1812,7 @@
                         "content_type": "application/zip",
                         "state": "uploaded",
                         "size": 157065,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:11:49Z",
                         "updated_at": "2023-04-10T08:11:50Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.Grid.Exercise.-.Solutions.zip"
@@ -2101,7 +2101,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 26116930,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:13:02Z",
                         "updated_at": "2023-04-10T08:13:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Layouts.1h.-.Relative.mp4"
@@ -2466,7 +2466,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 20806347,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:15:36Z",
                         "updated_at": "2023-04-10T08:15:40Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Images.40m.-.Downloaded.Images.mp4"
@@ -3042,7 +3042,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 4399667,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:21:06Z",
                         "updated_at": "2023-04-10T08:21:08Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Images.40m.-.Dealing.with.Sizes.mp4"
@@ -3335,7 +3335,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 4798534,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:21:24Z",
                         "updated_at": "2023-04-10T08:21:26Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Lists.35m.-.Populating.a.Basic.List.mp4"
@@ -3839,7 +3839,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 29303354,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:24:42Z",
                         "updated_at": "2023-04-10T08:24:46Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Lists.35m.-.SearchBar.mp4"
@@ -5001,7 +5001,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 11793377,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:28:28Z",
                         "updated_at": "2023-04-10T08:28:30Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.Slider.mp4"
@@ -5145,7 +5145,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 15065844,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:28:48Z",
                         "updated_at": "2023-04-10T08:28:51Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.Entry.and.Editor.mp4"
@@ -5361,7 +5361,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 23303567,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:30:19Z",
                         "updated_at": "2023-04-10T08:30:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.TableView.mp4"
@@ -5505,7 +5505,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 52223268,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:31:16Z",
                         "updated_at": "2023-04-10T08:31:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.Reusable.Custom.Cells.mp4"
@@ -5721,7 +5721,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 5802218,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:31:29Z",
                         "updated_at": "2023-04-10T08:31:32Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Forms.and.Setting.Pages.55m.-.Forms.and.Settings.Pages.Exercise.mp4"
@@ -5942,7 +5942,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 31515364,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:32:10Z",
                         "updated_at": "2023-04-10T08:32:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Data.Access.-.Application.Properties.mp4"
@@ -6229,7 +6229,7 @@
                         "content_type": "application/zip",
                         "state": "uploaded",
                         "size": 3742,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:33:18Z",
                         "updated_at": "2023-04-10T08:33:18Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Data.Access.-.Setting.Up.SQLite.-.Resources.zip"
@@ -6517,7 +6517,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 103353,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:34:46Z",
                         "updated_at": "2023-04-10T08:34:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Data.Access.-.Data.Access.Cheat.Sheet.pdf"
@@ -6739,7 +6739,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 1400613,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:35:02Z",
                         "updated_at": "2023-04-10T08:35:04Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/MVVM.Architectural.Pattern.1h5m.-.MVVM.Intro.mp4"
@@ -6955,7 +6955,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 54506237,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:36:25Z",
                         "updated_at": "2023-04-10T08:36:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/MVVM.Architectural.Pattern.1h5m.-.Extracting.a.ViewModel.mp4"
@@ -7608,7 +7608,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 7029975,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-10T08:45:13Z",
                         "updated_at": "2023-04-10T08:45:14Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vb95c5bd4f97ba7f2/Beyond.the.Basics.25m.-.Beyond.the.Basics.Introduction.mp4"
