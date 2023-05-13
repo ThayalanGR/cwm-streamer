@@ -102,6 +102,8 @@ async function main(type: TMainType) {
             isAllUploadCompleted = true;
         }
     }
+
+    sortCourseOrder();
 }
 
 // layer - 2
@@ -622,12 +624,10 @@ async function createRelease(
                     foundSection.assets.push({
                         name: getSanitizedString(assetName, true),
                         originUrl: "",
-                        assetData: (isCompressedAsset
-                            ? null
-                            : asset) as unknown as ICourseAsset["assetData"],
-                        compressedAssetData: (isCompressedAsset
-                            ? asset
-                            : null) as unknown as ICourseAsset["assetData"],
+                        assetData:
+                            asset as unknown as ICourseAsset["assetData"],
+                        compressedAssetData:
+                            asset as unknown as ICourseAsset["assetData"],
                     });
                 } else {
                     if (isCompressedAsset) {
@@ -770,6 +770,7 @@ async function compressVideo(
 }
 
 async function sortCourseOrder() {
+    console.log("Sorting Course Order...");
     // read buckets one by one
     // prefill asset tracker for the current course
     // iterate over current course sections
@@ -867,8 +868,6 @@ async function sortCourseOrder() {
     }
 }
 
-sortCourseOrder();
-
 // compressVideo("./src/sample_err_2.mov", false);
 
-// main("remote");
+main("remote");

@@ -49,13 +49,12 @@ h1 {
 }
 
 button {
-  border-radius: 8px;
   border: 1px solid var(--tertiary-color);
   padding: 0.6em 1.2em;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: var(--secondary-color-shade-2);
+  background-color: var(--secondary-color);
   color: var(--primary-color);
   cursor: pointer;
   transition: all 0.2s;

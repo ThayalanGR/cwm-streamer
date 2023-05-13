@@ -20,6 +20,7 @@ export default function BufferedPdfViewer(props: {
   // effects
   useLayoutEffect(() => {
     (async () => {
+      setBufferedUrl("");
       const processedUrl = await masterCourseService.getBufferedUrl(
         masterCourseService.getProxiedUrl(assetUrl),
         "application/pdf"
