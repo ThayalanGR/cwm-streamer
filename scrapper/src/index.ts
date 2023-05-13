@@ -10,6 +10,7 @@ import { Readable } from "stream";
 import {
     IAssetData,
     ICourseAsset,
+    ICourseSection,
     ICourse as IUploadAssetTracker,
 } from "../../client/src/typings/typings";
 
@@ -333,6 +334,17 @@ async function uploadLocalAssets(
     }
 }
 
+function getFileDetailedName(
+    sectionName: string,
+    assetName: string,
+    type: string
+) {
+    const fileName = [assetName, type].join(".");
+    const fileDetailedName = [sectionName, fileName].join(" -> ");
+
+    return fileDetailedName;
+}
+
 async function uploadRemoteAssets(
     uploadedAssetsTracker: IUploadAssetTracker,
     sections: TCourse[]
@@ -353,9 +365,14 @@ async function uploadRemoteAssets(
         // console.log("******************", sectionName);
         for (let j = 0; j < sectionContents.length; j++) {
             const { name: assetName, url, type } = sectionContents[j];
-            const fileName = [assetName, type].join(".");
+
+            const fileDetailedName = getFileDetailedName(
+                sectionName,
+                assetName,
+                type
+            );
+
             const contentType = mime.lookup(type);
-            const fileDetailedName = [sectionName, fileName].join(" -> ");
 
             const { previousAsset, previousAssetIndex, skip } =
                 checkIsAssetAlreadyUploaded(assets, fileDetailedName, url);
@@ -752,6 +769,99 @@ async function compressVideo(
     });
 }
 
+async function sortCourseOrder() {
+    // read buckets one by one
+    // prefill asset tracker for the current course
+    // iterate over current course sections
+    // find the asset from old asset tracker and
+    // form the new uploadAssetTracker and persist
+    for (let courseIndex = 0; courseIndex < courses.length; courseIndex++) {
+        const { name: courseName, sections } = courses[courseIndex];
+        try {
+            const uploadedAssetsTrackerOld: IUploadAssetTracker = {
+                name: courseName,
+                releaseDetails: <IUploadAssetTracker["releaseDetails"]>(
+                    (<unknown>null)
+                ),
+                sections: [],
+            };
+
+            // prefill asset tracker
+            prefillAssetTracker(uploadedAssetsTrackerOld);
+
+            uploadedAssetsTrackerOld.releaseDetails = await createRelease(
+                courseName,
+                uploadedAssetsTrackerOld
+            );
+
+            const uploadedAssetsTrackerNew: IUploadAssetTracker = {
+                name: courseName,
+                releaseDetails: uploadedAssetsTrackerOld.releaseDetails,
+                sections: [],
+            };
+
+            // sort and fill
+            sections.forEach(({ name: originalSectionName, assets }) => {
+                const sectionName = getSanitizedString(
+                    originalSectionName,
+                    true
+                );
+                // find section from old and fill on new upload asset tracer
+                const oldSection = uploadedAssetsTrackerOld.sections.find(
+                    ({ name: currentSectionName }) =>
+                        currentSectionName === sectionName
+                ) as ICourseSection;
+
+                if (!oldSection)
+                    throw new Error(
+                        ["SECTION NOT FOUND", courseName, sectionName].join(
+                            "~~~~"
+                        )
+                    );
+
+                const newSection: ICourseSection = {
+                    ...oldSection,
+                    assets: [],
+                };
+                assets.forEach(({ name: assetName, type }) => {
+                    const fileDetailedName = getSanitizedString(
+                        getFileDetailedName(sectionName, assetName, type),
+                        true
+                    );
+
+                    const oldAsset = oldSection.assets.find(
+                        (asset) =>
+                            getSanitizedString(asset.name, true) ===
+                            fileDetailedName
+                    );
+
+                    if (!oldAsset)
+                        throw new Error(
+                            [
+                                "ASSET NOT FOUND",
+                                courseName,
+                                sectionName,
+                                assetName,
+                                fileDetailedName,
+                                oldSection.assets.length,
+                            ].join("~~~~")
+                        );
+                    newSection.assets.push(oldAsset);
+                });
+
+                uploadedAssetsTrackerNew.sections.push(newSection);
+            });
+
+            persistUploadedAssetsData(uploadedAssetsTrackerNew);
+        } catch (error) {
+            console.error("Something went wrong!", error);
+            break;
+        }
+    }
+}
+
+sortCourseOrder();
+
 // compressVideo("./src/sample_err_2.mov", false);
 
-main("remote");
+// main("remote");
