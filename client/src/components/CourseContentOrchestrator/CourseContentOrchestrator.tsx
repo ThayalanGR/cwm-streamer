@@ -27,6 +27,8 @@ export default function CourseContentOrchestrator(
   // hooks
   const navigate = useNavigate();
   const masterCourseService = useMemo(MasterCourseService.getInstance, []);
+  const volume = useAppStore((state) => state.volume);
+  const setVolume = useAppStore((state) => state.setVolume);
   const isAutoPlayEnabled = useAppStore((state) => state.isAutoPlayEnabled);
   const {
     courseIndex,
@@ -53,6 +55,11 @@ export default function CourseContentOrchestrator(
   };
 
   // effects
+
+  useEffect(() => {
+    if (videoRef?.current) videoRef.current.volume = volume;
+  }, [videoRef, volume]);
+
   useEffect(() => {
     videoRef?.current?.load();
   }, [courseContent]);
@@ -64,12 +71,18 @@ export default function CourseContentOrchestrator(
       }
     };
 
+    const onVolumeChange = () => {
+      setVolume(videoRef?.current?.volume ?? 0.5);
+    };
+
     videoRef?.current?.addEventListener("ended", onVideoEnded);
+    videoRef?.current?.addEventListener("volumechange", onVolumeChange);
 
     return () => {
       videoRef?.current?.removeEventListener("ended", onVideoEnded);
+      videoRef?.current?.addEventListener("volumechange", onVolumeChange);
     };
-  }, [courseContent, isAutoPlayEnabled]);
+  }, [videoRef, courseContent, isAutoPlayEnabled, setVolume]);
 
   // paint
   const getNoRendererFoundElement = (

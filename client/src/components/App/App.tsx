@@ -10,22 +10,29 @@ export const useAppStore = create<{
   isSidePanelOpen: boolean;
   isAutoPlayEnabled: boolean;
   courseSearchText: string;
+  volume: number;
   setCourseSearchText: (value: string) => void;
   setIsSidePanelOpen: (isSidePanelOpen: boolean) => void;
   setIsAutoPlayEnabled: (autoPlay: boolean) => void;
+  setVolume: (volume: number) => void;
 }>((set) => ({
   isSidePanelOpen: ls.get("isSidePanelOpen") ?? true,
   isAutoPlayEnabled: ls.get("isAutoPlayEnabled") ?? true,
   courseSearchText: ls.get("courseSearchText") ?? "",
-  setIsSidePanelOpen: (isSidePanelOpen: boolean) => {
+  volume: ls.get("volume") ?? 1,
+  setVolume: (volume) => {
+    ls.set("volume", volume);
+    set({ volume });
+  },
+  setIsSidePanelOpen: (isSidePanelOpen) => {
     ls.set("isSidePanelOpen", isSidePanelOpen);
     set({ isSidePanelOpen });
   },
-  setIsAutoPlayEnabled: (autoPlay: boolean) => {
+  setIsAutoPlayEnabled: (autoPlay) => {
     ls.set("isAutoPlayEnabled", autoPlay);
     set({ isAutoPlayEnabled: autoPlay });
   },
-  setCourseSearchText: (courseSearchText: string) => {
+  setCourseSearchText: (courseSearchText) => {
     ls.set("courseSearchText", courseSearchText);
     set({ courseSearchText });
   },
