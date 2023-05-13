@@ -1,98 +1,98 @@
 .wrapper {
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
 
-    /* padding: 0 20px 20px; */
-    display: grid;
-    grid-template-rows: auto 1fr;
+  /* padding: 0 20px 20px; */
+  display: grid;
+  grid-template-rows: auto 1fr;
 }
 
-pre{
-    white-space: pre-wrap;
+pre {
+  white-space: pre-wrap;
 }
 
-.contentWrapper{
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    display: grid;
-    place-items: center;
-    text-align: center;
+.contentWrapper {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  text-align: center;
 }
 
-.descriptionWrapper{
-    padding: 15px 10px;
-    width: 100%;
-    white-space: nowrap;
-    overflow-y: hidden;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: space-between;
-    gap: 20px;
+.descriptionWrapper {
+  padding: 15px 10px;
+  width: 100%;
+  white-space: nowrap;
+  overflow-y: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
 }
 
 .descriptionWrapper::-webkit-scrollbar {
-    display: none;
-    height: 0;
+  display: none;
+  height: 0;
 }
 
-.contenTitleWrapper{
-    display: flex;
-    gap: 10px;
-    flex-direction: row;
+.contenTitleWrapper {
+  display: flex;
+  gap: 10px;
+  flex-direction: row;
 }
 
-.contenTitle{
-    font-size: 20px;
-    font-weight: bold;
+.contenTitle {
+  font-size: 20px;
+  font-weight: bold;
 }
 
-.downloadLink{
-    font-size: 14px;
+.downloadLink {
+  font-size: 14px;
 }
 
 object,
 embed,
 iframe,
 video {
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    border: none;
-    background: black;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  border: none;
+  background: black;
 }
 
 .noContentRenderer {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
 }
 
 .navigationButtonGroup {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
 
 .contentNoRendererDownloadButton,
 .navigationButton {
-    height: 100%;
-    padding: 0 10px;
-    border: 1px solid var(--tertiary-color);
-    font-weight: bold;
-    cursor: pointer;
+  height: 100%;
+  padding: 0 10px;
+  border: 1px solid var(--tertiary-color);
+  font-weight: bold;
+  cursor: pointer;
 }
 
 .contentNoRendererDownloadButton {
-    margin-top: 10px;
-    padding: 6px 10px;
-    height: min-content;
+  margin-top: 10px;
+  padding: 6px 10px;
+  height: min-content;
 }
 
 .navigationButtonDisabled {
-    pointer-events: none;
-    user-select: none;
-    opacity: 0.5;
+  pointer-events: none;
+  user-select: none;
+  opacity: 0.5;
 }

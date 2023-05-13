@@ -1,64 +1,63 @@
 .wrapper {
-    width: 300px;
-    height: 100%;
-    max-height: 100%;
-    overflow: hidden;
-    display: grid;
-    grid-template-rows: auto 1fr;
-    border-right: 1px solid lightslategray;
-    transition: width 0.1s;
+  width: 300px;
+  height: 100%;
+  max-height: 100%;
+  overflow: hidden;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  border-right: 1px solid lightslategray;
+  transition: width 0.1s;
 }
 
 .sidePaneCollapsed {
-    width: 0;
-    visibility: hidden;
+  width: 0;
+  visibility: hidden;
 }
 
-.courseTitle{
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px 20px;
-    border-bottom: 1px solid lightslategrey;
+.courseTitle {
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 20px;
+  border-bottom: 1px solid lightslategrey;
 }
 
-.courseSectionWrapper{
-    height: 100%;
-    overflow-y: scroll;
-    overflow-x: hidden;
-    padding: 0 15px;
-    scroll-behavior: smooth;
-
+.courseSectionWrapper {
+  height: 100%;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  padding: 0 15px;
+  scroll-behavior: smooth;
 }
 
-.courseSection{
-    display: flex;
-    flex-direction: column;
-    gap: 5px;
-    padding: 10px 0;
+.courseSection {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  padding: 10px 0;
 }
 
-.couseSecionTitle{
-    font-size: 16px;
-    font-weight: 600;
+.couseSecionTitle {
+  font-size: 16px;
+  font-weight: 600;
 }
 
-.CourseSectionContent{
-    display: flex;
-    flex-direction: column;
+.CourseSectionContent {
+  display: flex;
+  flex-direction: column;
 }
 
-.CourseSectionContentNode{
-    padding: 10px;
+.CourseSectionContentNode {
+  padding: 10px;
 }
 
-.CourseSectionContentNodeActive{
-    outline: 1px solid ;
+.CourseSectionContentNodeActive {
+  outline: 1px solid;
 }
 
 a:hover {
-    transform: scale(1.01);
+  transform: scale(1.01);
 }
 
 a:active {
-    transform: scale(0.9);
+  transform: scale(0.9);
 }

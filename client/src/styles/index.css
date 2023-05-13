@@ -18,9 +18,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   -webkit-text-size-adjust: 100%;
-
 }
-
 
 * {
   margin: 0;
@@ -45,7 +43,6 @@ a:hover {
   color: var(--tertiary-color-shade-2);
 }
 
-
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
@@ -63,12 +60,11 @@ button {
   cursor: pointer;
   transition: all 0.2s;
   scale: 1;
-
 }
 button:hover {
   border-color: var(--tertiary-color);
 }
-button:active{
+button:active {
   scale: 0.9;
 }
 
@@ -76,11 +72,11 @@ button:active{
 ::-webkit-scrollbar {
   width: 0.6em;
 }
- 
+
 /* ::-webkit-scrollbar-track {
   box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
 } */
- 
+
 ::-webkit-scrollbar-thumb {
   background-color: rgba(255, 255, 255, 0.57);
 }
