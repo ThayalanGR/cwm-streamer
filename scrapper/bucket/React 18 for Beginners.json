@@ -7676,7 +7676,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 222039742,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T21:49:18Z",
                         "updated_at": "2023-04-08T21:50:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vd7613e90c6370dd2/Project.Building.a.Video.Game.Discovery.App.3h.-.18-_Creating_a_Generic_Data_Fetching_Hook.mp4"

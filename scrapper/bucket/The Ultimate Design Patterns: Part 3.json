@@ -296,7 +296,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 25955160,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:24:43Z",
                         "updated_at": "2023-04-07T18:24:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Prototype.Pattern.-.2-_Solution.mp4"
@@ -439,7 +439,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 41091,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:25:31Z",
                         "updated_at": "2023-04-07T18:25:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Prototype.Pattern.-.Exercise-_Prototype_Pattern.pdf"
@@ -954,7 +954,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 87360675,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:32:29Z",
                         "updated_at": "2023-04-07T18:32:59Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Factory.Method.Pattern.-.3-_Implementation.mp4"
@@ -1318,7 +1318,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 42720,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:36:21Z",
                         "updated_at": "2023-04-07T18:36:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7cc1402333e33920/Abstract.Factory.Pattern.-.Exercise-_Abstract_Factory_Pattern.pdf"

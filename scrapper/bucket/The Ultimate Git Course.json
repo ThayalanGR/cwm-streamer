@@ -147,7 +147,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 53248684,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T13:49:34Z",
                         "updated_at": "2023-04-08T13:49:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Getting.Started.15m.-.2-.How.to.Take.This.Course.mp4"
@@ -507,7 +507,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 37548747,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T14:17:11Z",
                         "updated_at": "2023-04-08T14:17:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Getting.Started.15m.-.7-.Getting.Help.mp4"
@@ -579,7 +579,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 29612354,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T14:18:59Z",
                         "updated_at": "2023-04-08T14:19:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Getting.Started.15m.-.8-.Cheat.Sheet.mp4"
@@ -656,7 +656,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 12105392,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T14:21:33Z",
                         "updated_at": "2023-04-08T14:21:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.1-.Introduction.mp4"
@@ -728,7 +728,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 34594629,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T14:30:58Z",
                         "updated_at": "2023-04-08T14:31:06Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.2-.Initializing.a.Repository.mp4"
@@ -944,7 +944,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 34187238,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T15:04:38Z",
                         "updated_at": "2023-04-08T15:04:50Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.5-.Committing.Changes.mp4"
@@ -1664,7 +1664,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 98730390,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T16:33:58Z",
                         "updated_at": "2023-04-08T16:34:15Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.15-.Viewing.a.Commit.mp4"
@@ -1736,7 +1736,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 40545860,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T16:35:04Z",
                         "updated_at": "2023-04-08T16:35:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.16-.Unstaging.Files.mp4"
@@ -1808,7 +1808,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 36718887,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T16:35:50Z",
                         "updated_at": "2023-04-08T16:35:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.17-.Discarding.Local.Changes.mp4"
@@ -1880,7 +1880,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 63146421,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T16:36:54Z",
                         "updated_at": "2023-04-08T16:37:03Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.18-.Restoring.a.File.to.an.Earlier.Version.mp4"
@@ -2024,7 +2024,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 66631180,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T17:04:04Z",
                         "updated_at": "2023-04-08T17:04:16Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Creating.Snapshots.60m.-.20-.Creating.Snapshots.with.GitKraken.mp4"
@@ -2533,7 +2533,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 132060077,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T17:37:24Z",
                         "updated_at": "2023-04-08T17:37:55Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Browsing.History.44m.-.5-.Formatting.the.Log.Output.mp4"
@@ -3037,7 +3037,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 33108507,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:03:56Z",
                         "updated_at": "2023-04-08T18:04:02Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Browsing.History.44m.-.12-.Viewing.the.History.of.a.File.mp4"
@@ -3325,7 +3325,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 79169107,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:12:35Z",
                         "updated_at": "2023-04-08T18:12:47Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Browsing.History.44m.-.16-.Browsing.History.Using.VSCode.mp4"
@@ -3690,7 +3690,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 53151253,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:20:43Z",
                         "updated_at": "2023-04-08T18:20:56Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.2-.What.are.Branches.mp4"
@@ -3906,7 +3906,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 34174133,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:24:50Z",
                         "updated_at": "2023-04-08T18:24:58Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.5-.Comparing.Branches.mp4"
@@ -4050,7 +4050,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 34544987,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:27:12Z",
                         "updated_at": "2023-04-08T18:27:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.7-.Merging.mp4"
@@ -4338,7 +4338,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 131324373,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:34:54Z",
                         "updated_at": "2023-04-08T18:35:23Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.11-.Merge.Conflicts.mp4"
@@ -4410,7 +4410,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 123016244,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:41:22Z",
                         "updated_at": "2023-04-08T18:41:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.12.-.Graphical.Merge.Tools.mp4"
@@ -4842,7 +4842,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 28151645,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:50:24Z",
                         "updated_at": "2023-04-08T18:50:30Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.18-.Picking.a.File.from.Another.Branch.mp4"
@@ -4986,7 +4986,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 136710463,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T18:57:32Z",
                         "updated_at": "2023-04-08T18:57:53Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Branching.76m.-.20-.Branching.in.GitKraken.mp4"
@@ -5423,7 +5423,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 24718041,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:03:37Z",
                         "updated_at": "2023-04-08T19:03:42Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.4-.Adding.Collaborators.mp4"
@@ -5495,7 +5495,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 57747306,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:04:13Z",
                         "updated_at": "2023-04-08T19:04:25Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.5-.Cloning.a.Repository.mp4"
@@ -5639,7 +5639,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 82402551,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:07:40Z",
                         "updated_at": "2023-04-08T19:08:06Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.7-.Pulling.mp4"
@@ -5999,7 +5999,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 81890346,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:11:51Z",
                         "updated_at": "2023-04-08T19:12:10Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.12-.Sharing.Branches.mp4"
@@ -6431,7 +6431,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 39005474,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:19:09Z",
                         "updated_at": "2023-04-08T19:19:15Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.18-.Milestones.mp4"
@@ -6503,7 +6503,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 136318265,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:20:07Z",
                         "updated_at": "2023-04-08T19:20:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.19-.Contributing.to.Open-source.Projects.mp4"
@@ -6575,7 +6575,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 137046372,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:21:53Z",
                         "updated_at": "2023-04-08T19:22:12Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.20-.Keeping.a.Forked.Repository.Up.to.Date.mp4"
@@ -6862,7 +6862,7 @@
                         "content_type": "application/pdf",
                         "state": "uploaded",
                         "size": 70975,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:24:25Z",
                         "updated_at": "2023-04-08T19:24:25Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Collaboration.70m.-.Section.5-.Exercises.pdf"
@@ -7660,7 +7660,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 58691524,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:38:03Z",
                         "updated_at": "2023-04-08T19:38:13Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Rewriting.History.56m.-.11-.Rewording.Commit.Messages.mp4"
@@ -7804,7 +7804,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 137705336,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:40:09Z",
                         "updated_at": "2023-04-08T19:40:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Rewriting.History.56m.-.13-.Squashing.Commits.mp4"
@@ -7948,7 +7948,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 61411984,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-08T19:42:37Z",
                         "updated_at": "2023-04-08T19:42:48Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v7c3fb1a9b2ac2790/Rewriting.History.56m.-.15-.Rewriting.History.Using.GitKraken.mp4"

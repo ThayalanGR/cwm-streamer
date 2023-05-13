@@ -440,7 +440,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 4508825,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T20:24:18Z",
                         "updated_at": "2023-04-07T20:24:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.1-.Introduction.mp4"
@@ -512,7 +512,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 40764592,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T20:25:00Z",
                         "updated_at": "2023-04-07T20:25:19Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.2-.Classes.and.Objects.mp4"
@@ -728,7 +728,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 91613489,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T20:32:11Z",
                         "updated_at": "2023-04-07T20:32:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.5-.Memory.Allocation.mp4"
@@ -944,7 +944,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 254764125,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T20:39:31Z",
                         "updated_at": "2023-04-07T20:40:42Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.8-.Getters.and.Setters.-.Title.mp4"
@@ -1304,7 +1304,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 98334152,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:05:39Z",
                         "updated_at": "2023-04-07T21:06:04Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Classes.1h.4.min.-.13-.Method.Overloading.mp4"
@@ -1741,7 +1741,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 117895985,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:19:54Z",
                         "updated_at": "2023-04-07T21:20:55Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Refactoring.Towards.an.Object-oriented.Design.41.min.-.2-.The.Problem.mp4"
@@ -2504,77 +2504,6 @@
                         "updated_at": "2023-05-07T11:16:57Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/_COMPRESSED_.Refactoring.Towards.an.Object-oriented.Design.41.min.-.12-.One.Last.Touch.mp4"
                     }
-                },
-                {
-                    "name": "Refactoring Towards an Object-oriented Design 41 min - 3- What Classes Do We Need mp4",
-                    "assetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/102748411",
-                        "id": 102748411,
-                        "node_id": "RA_kwDOJTIOEc4GH9D7",
-                        "name": "Refactoring.Towards.an.Object-oriented.Design.41.min.-.3-.What.Classes.Do.We.Need.mp4",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "video/mp4",
-                        "state": "uploaded",
-                        "size": 231943096,
-                        "download_count": 1,
-                        "created_at": "2023-04-07T21:23:53Z",
-                        "updated_at": "2023-04-07T21:25:01Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Refactoring.Towards.an.Object-oriented.Design.41.min.-.3-.What.Classes.Do.We.Need.mp4"
-                    },
-                    "compressedAssetData": {
-                        "url": "https://api.github.com/repos/thayalangr-engineer/cwm/releases/assets/107077999",
-                        "id": 107077999,
-                        "node_id": "RA_kwDOJTIOEc4GYeFv",
-                        "name": "_COMPRESSED_.Refactoring.Towards.an.Object-oriented.Design.41.min.-.3-.What.Classes.Do.We.Need.mp4",
-                        "label": "",
-                        "uploader": {
-                            "login": "thayalangr-engineer",
-                            "id": 129984264,
-                            "node_id": "U_kgDOB79nCA",
-                            "avatar_url": "https://avatars.githubusercontent.com/u/129984264?v=4",
-                            "gravatar_id": "",
-                            "url": "https://api.github.com/users/thayalangr-engineer",
-                            "html_url": "https://github.com/thayalangr-engineer",
-                            "followers_url": "https://api.github.com/users/thayalangr-engineer/followers",
-                            "following_url": "https://api.github.com/users/thayalangr-engineer/following{/other_user}",
-                            "gists_url": "https://api.github.com/users/thayalangr-engineer/gists{/gist_id}",
-                            "starred_url": "https://api.github.com/users/thayalangr-engineer/starred{/owner}{/repo}",
-                            "subscriptions_url": "https://api.github.com/users/thayalangr-engineer/subscriptions",
-                            "organizations_url": "https://api.github.com/users/thayalangr-engineer/orgs",
-                            "repos_url": "https://api.github.com/users/thayalangr-engineer/repos",
-                            "events_url": "https://api.github.com/users/thayalangr-engineer/events{/privacy}",
-                            "received_events_url": "https://api.github.com/users/thayalangr-engineer/received_events",
-                            "type": "User",
-                            "site_admin": false
-                        },
-                        "content_type": "video/mp4",
-                        "state": "uploaded",
-                        "size": 8708054,
-                        "download_count": 0,
-                        "created_at": "2023-05-07T09:43:51Z",
-                        "updated_at": "2023-05-07T09:43:53Z",
-                        "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/_COMPRESSED_.Refactoring.Towards.an.Object-oriented.Design.41.min.-.3-.What.Classes.Do.We.Need.mp4"
-                    }
                 }
             ]
         },
@@ -2685,7 +2614,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 89203100,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:52:52Z",
                         "updated_at": "2023-04-07T21:53:24Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Inheritance.50.min.-.2-.Inheritance.mp4"
@@ -2757,7 +2686,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 104092771,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:54:31Z",
                         "updated_at": "2023-04-07T21:54:55Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Inheritance.50.min.-.3-.The.Object.Class.mp4"
@@ -2829,7 +2758,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 67532381,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:55:27Z",
                         "updated_at": "2023-04-07T21:55:52Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Inheritance.50.min.-.4-.Constructors.and.Inheritance.mp4"
@@ -2901,7 +2830,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 97551992,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T21:56:43Z",
                         "updated_at": "2023-04-07T21:57:02Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/v38e61f5c0a344be9/Inheritance.50.min.-.5-.Access.Modifiers.mp4"

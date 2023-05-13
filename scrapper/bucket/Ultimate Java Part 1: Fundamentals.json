@@ -506,7 +506,7 @@
                         "content_type": "application/zip",
                         "state": "uploaded",
                         "size": 26574,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:23:38Z",
                         "updated_at": "2023-04-07T18:23:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Getting.Started.-.Ultimate.Java.-.Part.1.zip"
@@ -1016,7 +1016,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 44415236,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T18:37:50Z",
                         "updated_at": "2023-04-07T18:38:11Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.7-.Escape.Sequences.mp4"
@@ -1592,7 +1592,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 137497772,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:00:29Z",
                         "updated_at": "2023-04-07T19:00:49Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.15-.Formatting.Numbers.mp4"
@@ -1880,7 +1880,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 7152323,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:09:29Z",
                         "updated_at": "2023-04-07T19:09:31Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Types.-.19-.Summary.mp4"
@@ -1957,7 +1957,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 10075644,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:09:36Z",
                         "updated_at": "2023-04-07T19:09:38Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.1-.Introduction.mp4"
@@ -2101,7 +2101,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 114927832,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:11:07Z",
                         "updated_at": "2023-04-07T19:11:22Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.3-.Logical.Operators.mp4"
@@ -3037,7 +3037,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 7570255,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:35:55Z",
                         "updated_at": "2023-04-07T19:35:57Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Control.Flow.-.16-.Summary.mp4"
@@ -3330,7 +3330,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 97381316,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:44:31Z",
                         "updated_at": "2023-04-07T19:44:53Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.4-.Refactoring.mp4"
@@ -3402,7 +3402,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 293547699,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T19:48:02Z",
                         "updated_at": "2023-04-07T19:49:09Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Clean.Coding.-.5-.Extracting.Methods.mp4"
@@ -4127,7 +4127,7 @@
                         "content_type": "video/mp4",
                         "state": "uploaded",
                         "size": 90554217,
-                        "download_count": 0,
+                        "download_count": 1,
                         "created_at": "2023-04-07T20:14:11Z",
                         "updated_at": "2023-04-07T20:14:36Z",
                         "browser_download_url": "https://github.com/thayalangr-engineer/cwm/releases/download/vcc1d3be82cdab291/Debugging.and.Deploying.Applications.-.5-.Packaging.Java.Applications.mp4"

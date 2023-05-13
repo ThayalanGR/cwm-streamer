@@ -665,7 +665,7 @@ function persistUploadedAssetsData(uploadedAssetsTracker: IUploadAssetTracker) {
     } catch (error) {}
     fs.writeFileSync(
         [bucketPath, uploadedAssetsTracker.name].join("/").concat(".json"),
-        JSON.stringify(uploadedAssetsTracker, null, 2)
+        JSON.stringify(uploadedAssetsTracker, null, 4)
     );
 }
 
@@ -809,7 +809,8 @@ async function sortCourseOrder() {
                 // find section from old and fill on new upload asset tracer
                 const oldSection = uploadedAssetsTrackerOld.sections.find(
                     ({ name: currentSectionName }) =>
-                        currentSectionName === sectionName
+                        getSanitizedString(currentSectionName, true) ===
+                        sectionName
                 ) as ICourseSection;
 
                 if (!oldSection)
