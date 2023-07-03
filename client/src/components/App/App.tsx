@@ -93,6 +93,7 @@ function App() {
                 masterCourseService.checkIsValidContent(currentActiveContent);
             if (lastKnownRoute !== newLastKnownRoute && isValidContent)
                 setLastKnownRoute(newLastKnownRoute);
+            else if (!isValidContent) setLastKnownRoute("");
         }
     }, [currentActiveContent]);
 
