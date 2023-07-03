@@ -5,6 +5,7 @@ import {
     ICourseSection,
 } from "../typings/typings";
 import masterCourses from "../assets/masterCourses.json";
+import { ICourseActiveContent } from "../components/Course/Course";
 
 export default class MasterCourseService {
     static instance: MasterCourseService;
@@ -33,6 +34,20 @@ export default class MasterCourseService {
     public getCourse(name: string): ICourse | undefined {
         const courseName = this.getEncodedString(name, true);
         return this.courses.find((course) => course.name === courseName);
+    }
+
+    public checkIsValidContent({
+        courseName,
+        content,
+        section,
+    }: ICourseActiveContent) {
+        const contentDetails = this.getContent({
+            course: courseName,
+            section,
+            content,
+            preFetch: false,
+        });
+        return contentDetails.asset !== undefined;
     }
 
     public getEncodedString(
@@ -109,12 +124,14 @@ export default class MasterCourseService {
         course: string;
         section: string;
         content: string;
+        preFetch?: boolean;
     }): {
         courseIndex: number;
         sectionIndex: number;
         assetIndex: number;
         asset: ICourseAsset | undefined;
     } {
+        const { preFetch = true } = props;
         try {
             const [course, section, content] = [
                 this.getEncodedString(props.course, true),
@@ -145,8 +162,8 @@ export default class MasterCourseService {
                     allowOnlyVideos: true,
                 },
             });
-            this.preFetchAssetInBackground(nextAsset?.asset);
 
+            if (preFetch) this.preFetchAssetInBackground(nextAsset?.asset);
             return {
                 courseIndex,
                 sectionIndex,
@@ -154,7 +171,13 @@ export default class MasterCourseService {
                 asset: currentAsset,
             };
         } catch (error) {
-            console.error(error);
+            // console.error("caught error", error);
+            return {
+                courseIndex: -1,
+                sectionIndex: -1,
+                assetIndex: -1,
+                asset: undefined,
+            };
         }
 
         return {
@@ -308,7 +331,7 @@ export default class MasterCourseService {
                     const blobUrl = URL.createObjectURL(
                         new Blob([blob], type ? { type } : undefined)
                     );
-                    console.log("blob url", blobUrl);
+                    console.log("Generated blob url", blobUrl);
                     resolve(blobUrl);
                 })
                 .catch((err) => reject(err));

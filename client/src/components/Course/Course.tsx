@@ -1,36 +1,52 @@
-import React, { useMemo } from "react";
+import React, { useEffect, useLayoutEffect, useMemo } from "react";
 import { useParams, useSearchParams, Navigate } from "react-router-dom";
 import styles from "./Course.module.css";
 import MasterCourseService from "../../services/MasterCourse.service";
 import CourseSidePane from "../CourseSidePane/CourseSidePane";
 import CourseContentOrchestrator from "../CourseContentOrchestrator/CourseContentOrchestrator";
+import { ICourse } from "../../typings/typings";
+import { useAppStore } from "../App/App";
 
-type CourseParams = {
+export type TCourseParams = {
     courseName: string;
 };
 
+export interface ICourseActiveContent {
+    courseName: string;
+    section: string;
+    content: string;
+}
+
 export default function Course() {
     // hooks
-    const params = useParams<CourseParams>();
+    const params = useParams<TCourseParams>();
     const [searchParams] = useSearchParams();
     const masterCourseService = useMemo(MasterCourseService.getInstance, []);
-    const courseDetails = useMemo(
-        () => masterCourseService.getCourse(params.courseName as string),
-        [params]
-    );
-    const currentActiveContent = useMemo<{
-        section: string;
-        content: string;
-    }>(() => {
+    const currentActiveContent = useMemo<ICourseActiveContent>(() => {
         const section = searchParams.get("section") ?? "";
         const content = searchParams.get("content") ?? "";
-        return { section, content };
-    }, [searchParams]);
+        const courseName = params.courseName ?? "";
+        return { section, content, courseName };
+    }, [params, searchParams]);
+    const courseDetails = useMemo(
+        () =>
+            masterCourseService.getCourse(
+                currentActiveContent.courseName as string
+            ),
+        [currentActiveContent]
+    );
+    const isValidContent = useMemo(
+        () => masterCourseService.checkIsValidContent(currentActiveContent),
+        [currentActiveContent]
+    );
 
     // compute
     const course = courseDetails?.name;
     const hasContent =
-        course && currentActiveContent.section && currentActiveContent.content;
+        course &&
+        currentActiveContent.section &&
+        currentActiveContent.content &&
+        isValidContent;
     const defaultContentPath =
         masterCourseService.getDefaultContentPath(courseDetails);
 
