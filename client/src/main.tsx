@@ -8,7 +8,7 @@ import { BrowserRouter } from "react-router-dom";
 MasterCourseService.getInstance();
 
 ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
-  <BrowserRouter>
-    <App />
-  </BrowserRouter>
+    <BrowserRouter>
+        <App />
+    </BrowserRouter>
 );

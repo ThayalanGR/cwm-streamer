@@ -5,44 +5,44 @@ import styles from "./CourseContentOrchestrator.module.css";
 import cn from "classnames";
 
 export const NavigationButton = (props: {
-  courseIndex: number;
-  sectionIndex: number;
-  assetIndex: number;
+    courseIndex: number;
+    sectionIndex: number;
+    assetIndex: number;
 }) => {
-  // props
-  const { courseIndex, sectionIndex, assetIndex } = props;
+    // props
+    const { courseIndex, sectionIndex, assetIndex } = props;
 
-  const { next, previous } = useMemo(
-    () =>
-      MasterCourseService.getInstance().getAssetNavigationLinks({
-        courseIndex,
-        sectionIndex,
-        assetIndex,
-      }),
-    [courseIndex, sectionIndex, assetIndex]
-  );
+    const { next, previous } = useMemo(
+        () =>
+            MasterCourseService.getInstance().getAssetNavigationLinks({
+                courseIndex,
+                sectionIndex,
+                assetIndex,
+            }),
+        [courseIndex, sectionIndex, assetIndex]
+    );
 
-  // actions
+    // actions
 
-  // paint
-  return (
-    <div className={styles.navigationButtonGroup}>
-      <Link
-        className={cn(styles.navigationButton, {
-          [styles.navigationButtonDisabled]: previous === undefined,
-        })}
-        to={previous ?? "#"}
-      >
-        &larr;
-      </Link>
-      <Link
-        className={cn(styles.navigationButton, {
-          [styles.navigationButtonDisabled]: next === undefined,
-        })}
-        to={next ?? "#"}
-      >
-        &rarr;
-      </Link>
-    </div>
-  );
+    // paint
+    return (
+        <div className={styles.navigationButtonGroup}>
+            <Link
+                className={cn(styles.navigationButton, {
+                    [styles.navigationButtonDisabled]: previous === undefined,
+                })}
+                to={previous ?? "#"}
+            >
+                &larr;
+            </Link>
+            <Link
+                className={cn(styles.navigationButton, {
+                    [styles.navigationButtonDisabled]: next === undefined,
+                })}
+                to={next ?? "#"}
+            >
+                &rarr;
+            </Link>
+        </div>
+    );
 };

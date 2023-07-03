@@ -10,218 +10,227 @@ import { useAppStore } from "../App/App";
 import BufferedPdfViewer from "./BufferedPdfViewer";
 
 type CourseContentOrchestratorProps = {
-  course: string;
-  section: string;
-  content: string;
+    course: string;
+    section: string;
+    content: string;
 };
 
 export default function CourseContentOrchestrator(
-  props: CourseContentOrchestratorProps
+    props: CourseContentOrchestratorProps
 ) {
-  // props
-  const { course, section, content } = props;
+    // props
+    const { course, section, content } = props;
 
-  // refs
-  const videoRef = useRef<HTMLVideoElement>(null);
+    // refs
+    const videoRef = useRef<HTMLVideoElement>(null);
 
-  // hooks
-  const navigate = useNavigate();
-  const masterCourseService = useMemo(MasterCourseService.getInstance, []);
-  const volume = useAppStore((state) => state.volume);
-  const setVolume = useAppStore((state) => state.setVolume);
-  const isAutoPlayEnabled = useAppStore((state) => state.isAutoPlayEnabled);
-  const {
-    courseIndex,
-    sectionIndex,
-    assetIndex,
-    asset: courseContent,
-  } = useMemo(
-    () => masterCourseService.getContent({ course, section, content }),
-    [course, section, content]
-  );
-  const navigationLinks = useMemo(
-    () =>
-      masterCourseService.getAssetNavigationLinks({
+    // hooks
+    const navigate = useNavigate();
+    const masterCourseService = useMemo(MasterCourseService.getInstance, []);
+    const volume = useAppStore((state) => state.volume);
+    const setVolume = useAppStore((state) => state.setVolume);
+    const isAutoPlayEnabled = useAppStore((state) => state.isAutoPlayEnabled);
+    const {
         courseIndex,
         sectionIndex,
         assetIndex,
-      }),
-    [courseIndex, sectionIndex, assetIndex]
-  );
-
-  // actions
-  const getCourseContentIndex = () => {
-    return `${sectionIndex + 1}.${assetIndex + 1} - `;
-  };
-
-  // effects
-
-  useEffect(() => {
-    if (videoRef?.current) videoRef.current.volume = volume;
-  }, [videoRef, volume]);
-
-  useEffect(() => {
-    videoRef?.current?.load();
-  }, [courseContent]);
-
-  useLayoutEffect(() => {
-    const onVideoEnded = () => {
-      if (isAutoPlayEnabled && navigationLinks?.next !== undefined) {
-        navigate(navigationLinks.next);
-      }
-    };
-
-    const onVolumeChange = () => {
-      setVolume(videoRef?.current?.volume ?? 0.5);
-    };
-
-    videoRef?.current?.addEventListener("ended", onVideoEnded);
-    videoRef?.current?.addEventListener("volumechange", onVolumeChange);
-
-    return () => {
-      videoRef?.current?.removeEventListener("ended", onVideoEnded);
-      videoRef?.current?.addEventListener("volumechange", onVolumeChange);
-    };
-  }, [videoRef, courseContent, isAutoPlayEnabled, setVolume]);
-
-  // paint
-  const getNoRendererFoundElement = (
-    contentUrl: string,
-    contentType: string
-  ) => {
-    return (
-      <div className={styles.noContentRenderer}>
-        <div>
-          No Specific Renderer found for this file type,
-          <br />
-          kindly download manually! <br />
-        </div>
-        <Link
-          className={cn(styles.contentNoRendererDownloadButton)}
-          to={contentUrl}
-          target="_blank"
-        >
-          Download ({contentType})
-        </Link>
-      </div>
+        asset: courseContent,
+    } = useMemo(
+        () => masterCourseService.getContent({ course, section, content }),
+        [course, section, content]
     );
-  };
+    const navigationLinks = useMemo(
+        () =>
+            masterCourseService.getAssetNavigationLinks({
+                courseIndex,
+                sectionIndex,
+                assetIndex,
+            }),
+        [courseIndex, sectionIndex, assetIndex]
+    );
 
-  const getContentRenderer = useCallback(() => {
-    if (!courseContent) return null;
+    // actions
+    const getCourseContentIndex = () => {
+        return `${sectionIndex + 1}.${assetIndex + 1} - `;
+    };
 
-    const { assetData, compressedAssetData, originUrl } = courseContent;
-    const requiredAssetData = compressedAssetData ?? assetData;
-    const { browser_download_url: assetUrl, content_type: contentType } =
-      requiredAssetData;
-    const type = mime.extension(contentType);
-    const isVideo = contentType?.includes("video");
+    // effects
 
-    if (isVideo) {
-      const requiredUrl = masterCourseService.getCachedContentBlobUrl(assetUrl);
-      return (
-        <video ref={videoRef} autoPlay={isAutoPlayEnabled} controls>
-          <source src={requiredUrl} type={"video/mp4"} />
-          <source
-            src={masterCourseService.getProxiedUrl(assetUrl)}
-            type={"video/mp4"}
-          />
-          <source
-            src={masterCourseService.getProxiedUrl(originUrl)}
-            type={"video/mp4"}
-          />
-        </video>
-      );
-    }
+    useEffect(() => {
+        if (videoRef?.current) videoRef.current.volume = volume;
+    }, [videoRef, volume]);
 
-    switch (type) {
-      case "pdf":
+    useEffect(() => {
+        videoRef?.current?.load();
+    }, [courseContent]);
+
+    useLayoutEffect(() => {
+        const onVideoEnded = () => {
+            if (isAutoPlayEnabled && navigationLinks?.next !== undefined) {
+                navigate(navigationLinks.next);
+            }
+        };
+
+        const onVolumeChange = () => {
+            setVolume(videoRef?.current?.volume ?? 0.5);
+        };
+
+        videoRef?.current?.addEventListener("ended", onVideoEnded);
+        videoRef?.current?.addEventListener("volumechange", onVolumeChange);
+
+        return () => {
+            videoRef?.current?.removeEventListener("ended", onVideoEnded);
+            videoRef?.current?.addEventListener("volumechange", onVolumeChange);
+        };
+    }, [videoRef, courseContent, isAutoPlayEnabled, setVolume]);
+
+    // paint
+    const getNoRendererFoundElement = (
+        contentUrl: string,
+        contentType: string
+    ) => {
         return (
-          <BufferedPdfViewer
-            assetUrl={courseContent.assetData.browser_download_url}
-            noContentRenderer={getNoRendererFoundElement(
-              courseContent.assetData.browser_download_url,
-              courseContent.assetData.content_type
-            )}
-          />
+            <div className={styles.noContentRenderer}>
+                <div>
+                    No Specific Renderer found for this file type,
+                    <br />
+                    kindly download manually! <br />
+                </div>
+                <Link
+                    className={cn(styles.contentNoRendererDownloadButton)}
+                    to={contentUrl}
+                    target="_blank"
+                >
+                    Download ({contentType})
+                </Link>
+            </div>
         );
-      default:
-        return getNoRendererFoundElement(
-          courseContent.assetData.browser_download_url,
-          courseContent.assetData.content_type
-        );
-    }
-  }, [courseContent]);
+    };
 
-  const getDownloadLink = () => {
-    const requiredContent =
-      masterCourseService.getRequiredAssetData(courseContent);
-    const isVideoContent = requiredContent?.content_type?.includes("video");
+    const getContentRenderer = useCallback(() => {
+        if (!courseContent) return null;
 
-    if (isVideoContent) {
-      return (
-        <div>
-          Download&nbsp;
-          {courseContent?.assetData?.browser_download_url && (
-            <Link
-              target="_blank"
-              className={styles.downloadLink}
-              to={courseContent?.assetData?.browser_download_url}
-            >
-              HD ({courseContent.assetData.content_type})
-            </Link>
-          )}
-          {courseContent?.compressedAssetData?.browser_download_url && (
-            <>
-              {" "}
-              |{" "}
-              <Link
-                target="_blank"
-                className={styles.downloadLink}
-                to={courseContent?.compressedAssetData?.browser_download_url}
-              >
-                SD ({courseContent.compressedAssetData.content_type})
-              </Link>
-            </>
-          )}
+        const { assetData, compressedAssetData, originUrl } = courseContent;
+        const requiredAssetData = compressedAssetData ?? assetData;
+        const { browser_download_url: assetUrl, content_type: contentType } =
+            requiredAssetData;
+        const type = mime.extension(contentType);
+        const isVideo = contentType?.includes("video");
+
+        if (isVideo) {
+            const requiredUrl =
+                masterCourseService.getCachedContentBlobUrl(assetUrl);
+            return (
+                <video ref={videoRef} autoPlay={isAutoPlayEnabled} controls>
+                    <source src={requiredUrl} type={"video/mp4"} />
+                    <source
+                        src={masterCourseService.getProxiedUrl(assetUrl)}
+                        type={"video/mp4"}
+                    />
+                    <source
+                        src={masterCourseService.getProxiedUrl(originUrl)}
+                        type={"video/mp4"}
+                    />
+                </video>
+            );
+        }
+
+        switch (type) {
+            case "pdf":
+                return (
+                    <BufferedPdfViewer
+                        assetUrl={courseContent.assetData.browser_download_url}
+                        noContentRenderer={getNoRendererFoundElement(
+                            courseContent.assetData.browser_download_url,
+                            courseContent.assetData.content_type
+                        )}
+                    />
+                );
+            default:
+                return getNoRendererFoundElement(
+                    courseContent.assetData.browser_download_url,
+                    courseContent.assetData.content_type
+                );
+        }
+    }, [courseContent]);
+
+    const getDownloadLink = () => {
+        const requiredContent =
+            masterCourseService.getRequiredAssetData(courseContent);
+        const isVideoContent = requiredContent?.content_type?.includes("video");
+
+        if (isVideoContent) {
+            return (
+                <div>
+                    Download&nbsp;
+                    {courseContent?.assetData?.browser_download_url && (
+                        <Link
+                            target="_blank"
+                            className={styles.downloadLink}
+                            to={courseContent?.assetData?.browser_download_url}
+                        >
+                            HD ({courseContent.assetData.content_type})
+                        </Link>
+                    )}
+                    {courseContent?.compressedAssetData
+                        ?.browser_download_url && (
+                        <>
+                            {" "}
+                            |{" "}
+                            <Link
+                                target="_blank"
+                                className={styles.downloadLink}
+                                to={
+                                    courseContent?.compressedAssetData
+                                        ?.browser_download_url
+                                }
+                            >
+                                SD (
+                                {courseContent.compressedAssetData.content_type}
+                                )
+                            </Link>
+                        </>
+                    )}
+                </div>
+            );
+        }
+
+        if (requiredContent?.browser_download_url) {
+            return (
+                <Link
+                    target="_blank"
+                    className={styles.downloadLink}
+                    to={requiredContent?.browser_download_url}
+                >
+                    Download ({requiredContent.content_type})
+                </Link>
+            );
+        }
+
+        return null;
+    };
+
+    if (!courseContent) return <div>Loading Content...</div>;
+
+    return (
+        <div className={styles.wrapper}>
+            <div className={styles.descriptionWrapper}>
+                <div className={styles.contenTitleWrapper}>
+                    <NavigationButton
+                        courseIndex={courseIndex}
+                        sectionIndex={sectionIndex}
+                        assetIndex={assetIndex}
+                    />
+                    <div className={styles.contenTitle}>
+                        {getCourseContentIndex()}
+                        {masterCourseService.getAssetDisplayName(
+                            courseContent?.name
+                        )}
+                    </div>
+                </div>
+                {getDownloadLink()}
+            </div>
+            <div className={styles.contentWrapper}>{getContentRenderer()}</div>
         </div>
-      );
-    }
-
-    if (requiredContent?.browser_download_url) {
-      return (
-        <Link
-          target="_blank"
-          className={styles.downloadLink}
-          to={requiredContent?.browser_download_url}
-        >
-          Download ({requiredContent.content_type})
-        </Link>
-      );
-    }
-
-    return null;
-  };
-
-  if (!courseContent) return <div>Loading Content...</div>;
-
-  return (
-    <div className={styles.wrapper}>
-      <div className={styles.descriptionWrapper}>
-        <div className={styles.contenTitleWrapper}>
-          <NavigationButton
-            courseIndex={courseIndex}
-            sectionIndex={sectionIndex}
-            assetIndex={assetIndex}
-          />
-          <div className={styles.contenTitle}>
-            {getCourseContentIndex()}
-            {masterCourseService.getAssetDisplayName(courseContent?.name)}
-          </div>
-        </div>
-        {getDownloadLink()}
-      </div>
-      <div className={styles.contentWrapper}>{getContentRenderer()}</div>
-    </div>
-  );
+    );
 }
