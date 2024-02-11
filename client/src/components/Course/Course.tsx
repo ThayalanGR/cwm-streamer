@@ -28,11 +28,13 @@ export default function Course() {
         const courseName = params.courseName ?? "";
         return { section, content, courseName };
     }, [params, searchParams]);
-    const courseDetails = useMemo(
-        () =>
-            masterCourseService.getCourse(
+    const { courseDetails = undefined, isResolved = false } = useMemo(
+        () => ({
+            courseDetails: masterCourseService.getCourse(
                 currentActiveContent.courseName as string
             ),
+            isResolved: true,
+        }),
         [currentActiveContent]
     );
     const isValidContent = useMemo(
@@ -51,7 +53,8 @@ export default function Course() {
         masterCourseService.getDefaultContentPath(courseDetails);
 
     // paint
-    if (!courseDetails) return <div>Loading...</div>;
+    if (!isResolved && !courseDetails)
+        return <div className={styles.courseLoadingBanner}>Loading...</div>;
 
     if (!hasContent) return <Navigate to={defaultContentPath} />;
 

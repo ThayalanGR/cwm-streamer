@@ -56,7 +56,7 @@ export default class MasterCourseService {
     ) {
         try {
             if (!inputString) return "";
-            return decode ? decodeURI(inputString) : encodeURI(inputString);
+            return decode ? decodeURIComponent(inputString) : encodeURIComponent(inputString);
         } catch (error) {
             console.error("Malformed URI", error, inputString);
             return inputString;
@@ -150,7 +150,7 @@ export default class MasterCourseService {
 
             const currentAsset =
                 this.courses[courseIndex].sections[sectionIndex].assets[
-                    assetIndex
+                assetIndex
                 ];
 
             const nextAsset = this.getAsset({
@@ -288,19 +288,19 @@ export default class MasterCourseService {
 
             return direction === "forward"
                 ? this.getAsset({
-                      ...props,
-                      courseIndex,
-                      sectionIndex: sectionIndex + 1,
-                      assetIndex: -1,
-                  })
+                    ...props,
+                    courseIndex,
+                    sectionIndex: sectionIndex + 1,
+                    assetIndex: -1,
+                })
                 : this.getAsset({
-                      ...props,
-                      courseIndex,
-                      sectionIndex: sectionIndex - 1,
-                      assetIndex:
-                          course.sections[sectionIndex - 1]?.assets?.length ??
-                          1,
-                  });
+                    ...props,
+                    courseIndex,
+                    sectionIndex: sectionIndex - 1,
+                    assetIndex:
+                        course.sections[sectionIndex - 1]?.assets?.length ??
+                        1,
+                });
         }
 
         if (
