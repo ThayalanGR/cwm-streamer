@@ -1,4 +1,4 @@
-import { Link, useLocation } from "react-router-dom";
+import { Link, useLocation, useNavigate, Outlet } from "react-router-dom";
 import styles from "./Header.module.css";
 import { useMemo } from "react";
 import { useAppStore } from "../App/App";
@@ -22,6 +22,7 @@ function Header() {
     const setIsAutoPlayEnabled = useAppStore(
         (state) => state.setIsAutoPlayEnabled
     );
+    const navigate = useNavigate();
 
     // actions
     const onSidePanelToggle = () => {
@@ -32,43 +33,56 @@ function Header() {
         setCourseSearchText("");
     };
 
-    return (
-        <div className={styles.wrapper}>
-            {hasSidePanel && (
-                <button
-                    className={styles.hamburger}
-                    onClick={onSidePanelToggle}
-                >
-                    &equiv;
-                </button>
-            )}
-            <Link to="/" onClick={onLogoClick}>
-                <h1 className={styles.logo}>CWM Streamer</h1>
-            </Link>
+    const handleLogout = () => {
+        localStorage.removeItem('isLoggedIn');
+        navigate('/login');
+    };
 
-            {hasSidePanel ? (
-                <div className={styles.autoPlayWrapper}>
-                    <div>Autoplay</div>
-                    <ToggleButton
-                        value={isAutoPlayEnabled}
-                        onToggle={(value) => setIsAutoPlayEnabled(!value)}
-                        colors={{
-                            active: {
-                                base: "#646cff",
-                            },
-                        }}
+    return (
+        <div className={styles.pageWrapper}>
+            <header className={styles.header}>
+                {hasSidePanel && (
+                    <button
+                        className={styles.hamburger}
+                        onClick={onSidePanelToggle}
+                    >
+                        &equiv;
+                    </button>
+                )}
+                <Link to="/" onClick={onLogoClick}>
+                    <h1 className={styles.logo}>CWM Streamer</h1>
+                </Link>
+
+                {hasSidePanel ? (
+                    <div className={styles.autoPlayWrapper}>
+                        <div>Autoplay</div>
+                        <ToggleButton
+                            value={isAutoPlayEnabled}
+                            onToggle={(value) => setIsAutoPlayEnabled(!value)}
+                            colors={{
+                                active: {
+                                    base: "#646cff",
+                                },
+                            }}
+                        />
+                    </div>
+                ) : (
+                    <input
+                        className={styles.searchInput}
+                        type="text"
+                        autoFocus
+                        value={courseSearchText}
+                        onChange={(e) => setCourseSearchText(e.target.value)}
+                        placeholder="Search for Courses"
                     />
-                </div>
-            ) : (
-                <input
-                    className={styles.searchInput}
-                    type="text"
-                    autoFocus
-                    value={courseSearchText}
-                    onChange={(e) => setCourseSearchText(e.target.value)}
-                    placeholder="Search for Courses"
-                />
-            )}
+                )}
+                <button className={styles.logoutButton} onClick={handleLogout}>
+                    Logout
+                </button>
+            </header>
+            <main className={styles.mainContent}>
+                <Outlet />
+            </main>
         </div>
     );
 }

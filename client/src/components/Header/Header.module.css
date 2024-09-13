@@ -48,3 +48,35 @@
     padding: 0 15px;
     font-size: 18px;
 }
+
+.logoutButton {
+    margin-left: auto;
+    background-color: transparent;
+    border: 1px solid var(--tertiary-color);
+    color: var(--primary-color);
+    padding: 5px 10px;
+    cursor: pointer;
+}
+
+.logoutButton:hover {
+    background-color: var(--tertiary-color);
+    color: white;
+}
+
+.pageWrapper {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1rem; 
+    /* Add any other existing styles for the header */
+}
+
+.mainContent {
+    flex: 1;
+    overflow-y: auto;
+}

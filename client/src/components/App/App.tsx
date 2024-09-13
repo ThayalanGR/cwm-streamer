@@ -16,6 +16,8 @@ import * as ls from "local-storage";
 import { create } from "zustand";
 import { useEffect, useLayoutEffect, useMemo } from "react";
 import MasterCourseService from "../../services/MasterCourse.service";
+import Login from "../Login/Login";
+import ProtectedRoute from "./ProtectedRoute";
 
 export const useAppStore = create<{
     isSidePanelOpen: boolean;
@@ -80,9 +82,9 @@ function App() {
 
     // effects
     useEffect(() => {
-        const currentRoute = location.pathname + location.search;
-        if (lastKnownRoute !== currentRoute) {
-            navigate(lastKnownRoute);
+        const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+        if (!isLoggedIn && location.pathname !== '/login') {
+            navigate('/login');
         }
     }, []);
 
@@ -100,20 +102,22 @@ function App() {
     // paint
     return (
         <div className={styles.coreWrapper}>
-            <Header />
             <Routes>
-                <Route path="/">
-                    <Route index element={<Courses />} />
-                    <Route path="courses" element={<Courses />} />
-                    <Route path="course/:courseName" element={<Course />} />
-                    <Route
-                        path="*"
-                        element={
-                            <div>
-                                Content your are looking for is not found!
-                            </div>
-                        }
-                    />
+                <Route path="/login" element={<Login />} />
+                <Route element={<ProtectedRoute />}>
+                    <Route element={<Header />}>
+                        <Route index element={<Courses />} />
+                        <Route path="courses" element={<Courses />} />
+                        <Route path="course/:courseName" element={<Course />} />
+                        <Route
+                            path="*"
+                            element={
+                                <div>
+                                    Content you are looking for is not found!
+                                </div>
+                            }
+                        />
+                    </Route>
                 </Route>
             </Routes>
         </div>
