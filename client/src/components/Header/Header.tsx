@@ -3,6 +3,7 @@ import styles from "./Header.module.css";
 import { useMemo } from "react";
 import { useAppStore } from "../App/App";
 import ToggleButton from "react-toggle-button";
+import { useMsal } from "@azure/msal-react";
 
 function Header() {
     // hooks
@@ -23,6 +24,7 @@ function Header() {
         (state) => state.setIsAutoPlayEnabled
     );
     const navigate = useNavigate();
+    const { instance } = useMsal();
 
     // actions
     const onSidePanelToggle = () => {
@@ -34,8 +36,9 @@ function Header() {
     };
 
     const handleLogout = () => {
-        localStorage.removeItem('isLoggedIn');
-        navigate('/login');
+        instance.logoutRedirect().catch(e => {
+            console.error(e);
+        });
     };
 
     return (

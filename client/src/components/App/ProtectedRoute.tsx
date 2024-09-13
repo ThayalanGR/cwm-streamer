@@ -1,15 +1,14 @@
-import React from 'react';
-import { Navigate, Outlet, useNavigate } from 'react-router-dom';
+import { Navigate, Outlet } from 'react-router-dom';
+import { useIsAuthenticated } from "@azure/msal-react";
 
-const ProtectedRoute: React.FC = () => {
-    const navigate = useNavigate();
-    const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
+const ProtectedRoute = () => {
+  const isAuthenticated = useIsAuthenticated();
 
-    if (!isLoggedIn) {
-        return <Navigate to="/login" replace />;
-    }
+  if (!isAuthenticated) {
+    return <Navigate to="/login" replace />;
+  }
 
-    return <Outlet />;
+  return <Outlet />;
 };
 
 export default ProtectedRoute;
