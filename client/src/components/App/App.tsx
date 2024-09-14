@@ -87,10 +87,10 @@ function App() {
 
     // effects
     useEffect(() => {
-        const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
-        if (!isLoggedIn && location.pathname !== "/login") {
-            navigate("/login");
-        }
+        // const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
+        // if (!isLoggedIn && location.pathname !== "/login") {
+        //     navigate("/login");
+        // }
     }, []);
 
     useEffect(() => {
