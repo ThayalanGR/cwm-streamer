@@ -13,6 +13,8 @@
         "size-info": "node scripts/sizeInfo.js"
     },
     "dependencies": {
+        "@azure/msal-browser": "^3.23.0",
+        "@azure/msal-react": "^2.0.22",
         "classnames": "^2.3.2",
         "local-storage": "^2.0.0",
         "mime-types": "^2.1.35",
