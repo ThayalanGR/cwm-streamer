@@ -87,9 +87,9 @@ function App() {
 
     // effects
     useEffect(() => {
-        const isLoggedIn = localStorage.getItem('isLoggedIn') === 'true';
-        if (!isLoggedIn && location.pathname !== '/login') {
-            navigate('/login');
+        const isLoggedIn = localStorage.getItem("isLoggedIn") === "true";
+        if (!isLoggedIn && location.pathname !== "/login") {
+            navigate("/login");
         }
     }, []);
 
@@ -106,28 +106,26 @@ function App() {
 
     // paint
     return (
-        <MsalProvider instance={msalInstance}>
-            <div className={styles.coreWrapper}>
-                <Routes>
-                    <Route path="/login" element={<Login />} />
-                    <Route element={<ProtectedRoute />}>
-                        <Route element={<Header />}>
-                            <Route index element={<Courses />} />
-                            <Route path="courses" element={<Courses />} />
-                            <Route path="course/:courseName" element={<Course />} />
-                            <Route
-                                path="*"
-                                element={
-                                    <div>
-                                        Content you are looking for is not found!
-                                    </div>
-                                }
-                            />
-                        </Route>
-                    </Route>
-                </Routes>
-            </div>
-        </MsalProvider>
+        // <MsalProvider instance={msalInstance}>
+        <div className={styles.coreWrapper}>
+            <Routes>
+                {/* <Route path="/login" element={<Login />} /> */}
+                {/* <Route element={<ProtectedRoute />}> */}
+                <Route element={<Header />}>
+                    <Route index element={<Courses />} />
+                    <Route path="courses" element={<Courses />} />
+                    <Route path="course/:courseName" element={<Course />} />
+                    <Route
+                        path="*"
+                        element={
+                            <div>Content you are looking for is not found!</div>
+                        }
+                    />
+                </Route>
+                {/* </Route> */}
+            </Routes>
+        </div>
+        // </MsalProvider>
     );
 }
 
